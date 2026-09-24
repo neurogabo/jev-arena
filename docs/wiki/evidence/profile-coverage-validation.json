@@ -1,0 +1,124 @@
+{
+  "prepared_at_utc": "2026-09-19T20:12:03.338744+00:00",
+  "wiki_version": "0.5",
+  "status": "passed",
+  "counts": {
+    "profiles": 382,
+    "selectable": 293,
+    "battle_forms": 89,
+    "with_sourced_builds": 184,
+    "mechanics_baselines": 198,
+    "source_build_records": 399,
+    "derived_form_records": 27,
+    "source_player_teams": 51,
+    "wiki_pages": 1746,
+    "graph_edges": 34259
+  },
+  "checks": [
+    {
+      "check": "Exactly one profile for every admitted Pokemon/form",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Selectable/battle-form coverage matches the catalogue",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All profiles have model cards, index rows, and human pages",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Every Pokemon has a has_profile graph edge",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Every graph endpoint and model identity resolves",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "No regulation history, source URLs, or percentages in profile payloads",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Profile completeness explicitly distinguishes sourced builds from baselines",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Baselines contain no fabricated movesets or stat allocations",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All selected builds match exact starting or battle forms",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All 426 full sets, alternate recommendations, and 293 witnesses pass pinned validation",
+      "passed": true,
+      "detail": {
+        "builds": 426,
+        "independent_stat_vectors": 852,
+        "selectable_witnesses": 293,
+        "failures": []
+      }
+    },
+    {
+      "check": "852 stat vectors independently recomputed",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "51 unique complete player teams passed validation",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "399 source records and 27 derived records remain distinguishable",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Equivalent form transfers preserve battle-relevant identity",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Rotom appliance forms retain their own starting identity and signature move",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All admitted forms have an intrinsic ability and Aura Guard uncertainty is retained",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Human profile bodies equal their model payloads",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All profile examples match exact model payloads",
+      "passed": true,
+      "detail": null
+    }
+  ],
+  "not_executed": [
+    "Jev calls",
+    "Retrieval recall or latency tests",
+    "Battle outcome evaluations",
+    "Current usage probability estimation",
+    "Retail game conformance tests"
+  ],
+  "superseded_for_current_structure_by": "unified-profile-validation.json",
+  "scope_note": "Historical validation snapshot. Original checks and counts describe the edition validated at that time; see unified-profile-validation.json for current IDs and profile structure.",
+  "superseded_for_current_context_text_by": "context-cleanup-validation.json"
+}

@@ -1,0 +1,24 @@
+# Pluck
+
+`move:pluck` · User steals and eats the target's Berry.
+
+## Definition
+
+If this move is successful and the user has not fainted, it steals the target's held Berry if it is holding one and eats it immediately, gaining its effects even if the user's item is being ignored. Items lost to this move cannot be regained with Recycle or the Harvest Ability.
+
+| Property | Resolved value |
+| --- | --- |
+| Type | Flying |
+| Category | Physical |
+| Listed base power | 60 |
+| Accuracy | 100% before applicable modifiers |
+| Base priority | 0 |
+| Target | any — One other Pokémon, with move-specific restrictions. |
+| PP in Champions | 20 |
+| Flags | contact, distance, metronome, mirror, protect |
+
+## Related mechanics
+
+[Action order](../articles/action-order.md), [Move execution and failure](../articles/move-execution.md), [Targets and field positions](../articles/targets-and-positions.md), [Move properties](../articles/move-properties.md), [Complete ordinary type matchups](../articles/type-matchups.md), [Other type-based immunities](../articles/type-immunities.md), [Ordinary damage](../articles/ordinary-damage.md), [Damage, contact, and secondary effects](../articles/damage-contact-secondary.md), [Protect, Detect, and related personal protection](../articles/personal-protection.md). Load those relevant to the current state.
+
+[Wiki home](../README.md) · [Directory](../directory.md)

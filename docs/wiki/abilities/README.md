@@ -1,0 +1,221 @@
+# Abilities
+
+[Wiki home](../README.md). 216 pages, pinned Champions M-C snapshot.
+
+- [Adaptability](adaptability.md) — This Pokemon's same-type attack bonus (STAB) is 2 instead of 1.5.
+- [Aerilate](aerilate.md) — This Pokemon's Normal-type moves become Flying type and have 1.2× power.
+- [Aftermath](aftermath.md) — If this Pokemon is KOed with a contact move, that move's user loses 1/4 its max HP.
+- [Analytic](analytic.md) — This Pokemon's attacks have 1.3× power if it is the last to move in a turn.
+- [Anger Point](angerpoint.md) — If this Pokemon (not its substitute) takes a critical hit, its Attack is raised 12 stages.
+- [Anticipation](anticipation.md) — On switch-in, this Pokemon shudders if any foe has a supereffective or OHKO move.
+- [Armor Tail](armortail.md) — This Pokemon and its allies are protected from opposing priority moves.
+- [Aroma Veil](aromaveil.md) — Protects user/allies from Attract, Disable, Encore, Heal Block, Taunt, and Torment.
+- [Battle Armor](battlearmor.md) — This Pokemon cannot be struck by a critical hit.
+- [Battle Bond](battlebond.md) — After KOing a Pokemon: raises Attack, Sp. Atk, Speed by 1 stage. Once per battle.
+- [Berserk](berserk.md) — This Pokemon's Sp. Atk is raised by 1 when it reaches 1/2 or less of its max HP.
+- [Big Pecks](bigpecks.md) — Prevents other Pokemon from lowering this Pokemon's Defense stat stage.
+- [Blaze](blaze.md) — At 1/3 or less of its max HP, this Pokemon's offensive stat is 1.5× with Fire attacks.
+- [Bulletproof](bulletproof.md) — This Pokemon is immune to bullet moves.
+- [Cheek Pouch](cheekpouch.md) — If this Pokemon eats a Berry, it restores 1/3 of its max HP after the Berry's effect.
+- [Chlorophyll](chlorophyll.md) — If Sun is active, this Pokemon's Speed is doubled.
+- [Clear Body](clearbody.md) — Prevents other Pokemon from lowering this Pokemon's stat stages.
+- [Cloud Nine](cloudnine.md) — While this Pokemon is active, the effects of weather conditions are disabled.
+- [Competitive](competitive.md) — This Pokemon's Sp. Atk is raised by 2 for each of its stats that is lowered by a foe.
+- [Compound Eyes](compoundeyes.md) — This Pokemon's moves have their accuracy multiplied by 1.3.
+- [Contrary](contrary.md) — If this Pokemon has a stat stage raised it is lowered instead, and vice versa.
+- [Corrosion](corrosion.md) — This Pokemon can poison or badly poison a Pokemon regardless of its typing.
+- [Cud Chew](cudchew.md) — If this Pokemon eats a Berry, it will eat that Berry again at the end of the next turn.
+- [Curious Medicine](curiousmedicine.md) — On switch-in, this Pokemon's allies have their stat stages reset to 0.
+- [Cursed Body](cursedbody.md) — If this Pokemon is hit by an attack, there is a 30% chance that move gets disabled.
+- [Cute Charm](cutecharm.md) — 30% chance of infatuating Pokemon of the opposite gender if they make contact.
+- [Damp](damp.md) — Prevents Explosion/Mind Blown/Misty Explosion/Self-Destruct/Aftermath while active.
+- [Defiant](defiant.md) — This Pokemon's Attack is raised by 2 for each of its stats that is lowered by a foe.
+- [Disguise](disguise.md) — (Mimikyu only) The first hit it takes is blocked, and it takes 1/8 HP damage instead.
+- [Dragonize](dragonize.md) — This Pokemon's Normal-type moves become Dragon type and have 1.2× power.
+- [Drizzle](drizzle.md) — On switch-in, this Pokemon summons Rain.
+- [Drought](drought.md) — On switch-in, this Pokemon summons Sun.
+- [Dry Skin](dryskin.md) — This Pokemon is healed 1/4 by Water, 1/8 by Rain; is hurt 1.25× by Fire, 1/8 by Sun.
+- [Early Bird](earlybird.md) — This Pokemon's sleep counter drops by 2 instead of 1.
+- [Earth Eater](eartheater.md) — This Pokemon heals 1/4 of its max HP when hit by Ground moves; Ground immunity.
+- [Eelevate](eelevate.md) — This Pokemon is immune to Ground; +1 to highest stat if it KOes another Pokemon.
+- [Effect Spore](effectspore.md) — 30% chance of poison/paralysis/sleep on others making contact with this Pokemon.
+- [Electric Surge](electricsurge.md) — On switch-in, this Pokemon summons Electric Terrain.
+- [Electromorphosis](electromorphosis.md) — This Pokemon gains the Charge effect when it takes a hit from an attack.
+- [Emergency Exit](emergencyexit.md) — This Pokemon switches out when it reaches 1/2 or less of its maximum HP.
+- [Fairy Aura](fairyaura.md) — While this Pokemon is active, a Fairy move used by any Pokemon has 1.33× power.
+- [Filter](filter.md) — This Pokemon receives 3/4 damage from supereffective attacks.
+- [Fire Mane](firemane.md) — This Pokemon's offensive stat is multiplied by 1.5 while using a Fire-type attack.
+- [Flame Body](flamebody.md) — 30% chance a Pokemon making contact with this Pokemon will be burned.
+- [Flash Fire](flashfire.md) — This Pokemon's Fire attacks do 1.5× damage if hit by one Fire move; Fire immunity.
+- [Flower Veil](flowerveil.md) — This side's Grass types can't have stats lowered or status inflicted by other Pokemon.
+- [Fluffy](fluffy.md) — This Pokemon takes 1/2 damage from contact moves, 2× damage from Fire moves.
+- [Forecast](forecast.md) — Castform's type changes to the current weather condition's type, except Sandstorm.
+- [Forewarn](forewarn.md) — On switch-in, this Pokemon is alerted to the foes' move with the highest power.
+- [Friend Guard](friendguard.md) — This Pokemon's allies receive 3/4 damage from other Pokemon's attacks.
+- [Frisk](frisk.md) — On switch-in, this Pokemon identifies the held items of all opposing Pokemon.
+- [Fur Coat](furcoat.md) — This Pokemon's Defense is doubled.
+- [Gale Wings](galewings.md) — If this Pokemon is at full HP, its Flying-type moves have their priority increased by 1.
+- [Gluttony](gluttony.md) — This Pokemon eats Berries at 1/2 max HP or less instead of their usual 1/4 max HP.
+- [Good as Gold](goodasgold.md) — This Pokemon is immune to Status moves.
+- [Gooey](gooey.md) — Pokemon making contact with this Pokemon have their Speed lowered by 1 stage.
+- [Grass Pelt](grasspelt.md) — If Grassy Terrain is active, this Pokemon's Defense is multiplied by 1.5.
+- [Grassy Surge](grassysurge.md) — On switch-in, this Pokemon summons Grassy Terrain.
+- [Guard Dog](guarddog.md) — Immune to Intimidate. Intimidated: +1 Attack. Cannot be forced to switch out.
+- [Guts](guts.md) — If this Pokemon is statused, its Attack is 1.5×; ignores burn halving physical damage.
+- [Harvest](harvest.md) — If last item used is a Berry, 50% chance to restore it each end of turn. 100% in Sun.
+- [Healer](healer.md) — 50% chance this Pokemon's ally has its status cured at the end of each turn.
+- [Heatproof](heatproof.md) — Fire damage against this Pokemon is dealt with 1/2 offensive stat; 1/2 burn damage.
+- [Heavy Metal](heavymetal.md) — This Pokemon's weight is doubled.
+- [Hospitality](hospitality.md) — On switch-in, this Pokemon restores 1/4 of its ally's maximum HP, rounded down.
+- [Huge Power](hugepower.md) — This Pokemon's Attack is doubled.
+- [Hunger Switch](hungerswitch.md) — If Morpeko, it changes between Full Belly and Hangry Mode at the end of each turn.
+- [Hustle](hustle.md) — This Pokemon's Attack is 1.5× and accuracy of its physical attacks is 0.8×.
+- [Hydration](hydration.md) — This Pokemon has its status cured at the end of each turn if Rain is active.
+- [Hyper Cutter](hypercutter.md) — Prevents other Pokemon from lowering this Pokemon's Attack stat stage.
+- [Ice Body](icebody.md) — If Snow is active, this Pokemon heals 1/16 of its max HP each turn.
+- [Illuminate](illuminate.md) — This Pokemon's accuracy can't be lowered by others; ignores their evasiveness stat.
+- [Illusion](illusion.md) — This Pokemon appears as the last Pokemon in the party until it takes direct damage.
+- [Immunity](immunity.md) — This Pokemon cannot be poisoned. Gaining this Ability while poisoned cures it.
+- [Imposter](imposter.md) — On switch-in, this Pokemon Transforms into the opposing Pokemon that is facing it.
+- [Infiltrator](infiltrator.md) — Moves ignore substitutes and foe's Reflect/Light Screen/Safeguard/Mist/Aurora Veil.
+- [Innards Out](innardsout.md) — If this Pokemon is KOed with a move, that move's user loses an equal amount of HP.
+- [Inner Focus](innerfocus.md) — This Pokemon cannot be made to flinch. Immune to Intimidate.
+- [Insomnia](insomnia.md) — This Pokemon cannot fall asleep. Gaining this Ability while asleep cures it.
+- [Intimidate](intimidate.md) — On switch-in, this Pokemon lowers the Attack of opponents by 1 stage.
+- [Iron Fist](ironfist.md) — This Pokemon's punch-based attacks have 1.2× power. Sucker Punch is not boosted.
+- [Justified](justified.md) — This Pokemon's Attack is raised by 1 stage after it is damaged by a Dark-type move.
+- [Keen Eye](keeneye.md) — This Pokemon's accuracy can't be lowered by others; ignores their evasiveness stat.
+- [Klutz](klutz.md) — This Pokemon's held item has no effect, except Macho Brace. Fling cannot be used.
+- [Leaf Guard](leafguard.md) — If Sun is active, this Pokemon cannot be statused and Rest will fail for it.
+- [Levitate](levitate.md) — This Pokemon is immune to Ground; Gravity/Ingrain/Smack Down/Iron Ball nullify it.
+- [Libero](libero.md) — This Pokemon's type changes to the type of the move it is using. Once per switch-in.
+- [Light Metal](lightmetal.md) — This Pokemon's weight is halved.
+- [Lightning Rod](lightningrod.md) — This Pokemon draws Electric moves to itself to raise Sp. Atk by 1; Electric immunity.
+- [Limber](limber.md) — This Pokemon cannot be paralyzed. Gaining this Ability while paralyzed cures it.
+- [Liquid Ooze](liquidooze.md) — This Pokemon damages those draining HP from it for as much as they would heal.
+- [Liquid Voice](liquidvoice.md) — This Pokemon's sound-based moves become Water type.
+- [Long Reach](longreach.md) — This Pokemon's attacks do not make contact with the target.
+- [Magic Bounce](magicbounce.md) — This Pokemon blocks certain Status moves and bounces them back to the user.
+- [Magic Guard](magicguard.md) — This Pokemon can only be damaged by direct attacks.
+- [Magician](magician.md) — If this Pokemon has no item, it steals the item off a Pokemon it hits with an attack.
+- [Magma Armor](magmaarmor.md) — This Pokemon cannot be frozen. Gaining this Ability while frozen cures it.
+- [Marvel Scale](marvelscale.md) — If this Pokemon has a non-volatile status condition, its Defense is multiplied by 1.5.
+- [Mega Launcher](megalauncher.md) — This Pokemon's pulse moves have 1.5× power. Heal Pulse heals 3/4 target's max HP.
+- [Mega Sol](megasol.md) — This Pokemon's moves are used as if the effects of Sun were active.
+- [Merciless](merciless.md) — This Pokemon's attacks are critical hits if the target is poisoned.
+- [Mimicry](mimicry.md) — This Pokemon's types change to match the Terrain. Type reverts when Terrain ends.
+- [Minus](minus.md) — If an active ally has this Ability or the Plus Ability, this Pokemon's Sp. Atk is 1.5×.
+- [Mirror Armor](mirrorarmor.md) — If this Pokemon's stat stages would be lowered, the attacker's are lowered instead.
+- [Mold Breaker](moldbreaker.md) — This Pokemon's moves and their effects ignore the Abilities of other Pokemon.
+- [Moody](moody.md) — Boosts a random stat (except accuracy/evasion) +2 and another stat -1 every turn.
+- [Motor Drive](motordrive.md) — This Pokemon's Speed is raised 1 stage if hit by an Electric move; Electric immunity.
+- [Moxie](moxie.md) — This Pokemon's Attack is raised by 1 stage if it attacks and KOes another Pokemon.
+- [Multiscale](multiscale.md) — If this Pokemon is at full HP, damage taken from attacks is halved.
+- [Mummy](mummy.md) — Pokemon making contact with this Pokemon have their Ability changed to Mummy.
+- [Natural Cure](naturalcure.md) — This Pokemon has its non-volatile status condition cured when it switches out.
+- [No Guard](noguard.md) — Every move used by or against this Pokemon will always hit.
+- [Oblivious](oblivious.md) — This Pokemon cannot be infatuated or taunted. Immune to Intimidate.
+- [Opportunist](opportunist.md) — When an opposing Pokemon has a stat stage raised, this Pokemon copies the effect.
+- [Overcoat](overcoat.md) — This Pokemon is immune to powder moves, Sandstorm damage, and Effect Spore.
+- [Overgrow](overgrow.md) — At 1/3 or less of its max HP, this Pokemon's offensive stat is 1.5× with Grass attacks.
+- [Own Tempo](owntempo.md) — This Pokemon cannot be confused. Immune to Intimidate.
+- [Parental Bond](parentalbond.md) — This Pokemon's damaging moves hit twice. The second hit has its damage quartered.
+- [Pickpocket](pickpocket.md) — If this Pokemon has no item and is hit by a contact move, it steals the attacker's item.
+- [Pickup](pickup.md) — If this Pokemon has no item, it finds one used by an adjacent Pokemon this turn.
+- [Piercing Drill](piercingdrill.md) — This Pokemon's contact moves ignore a target's protection and deal 1/4 the usual damage.
+- [Pixilate](pixilate.md) — This Pokemon's Normal-type moves become Fairy type and have 1.2× power.
+- [Plus](plus.md) — If an active ally has this Ability or the Minus Ability, this Pokemon's Sp. Atk is 1.5×.
+- [Poison Heal](poisonheal.md) — This Pokemon is healed by 1/8 of its max HP each turn when poisoned; no HP loss.
+- [Poison Point](poisonpoint.md) — 30% chance a Pokemon making contact with this Pokemon will be poisoned.
+- [Poison Touch](poisontouch.md) — This Pokemon's contact moves have a 30% chance of poisoning.
+- [Prankster](prankster.md) — This Pokemon's Status moves have priority raised by 1, but Dark types are immune.
+- [Pressure](pressure.md) — If this Pokemon is the target of a foe's move, that move loses one additional PP.
+- [Protean](protean.md) — This Pokemon's type changes to the type of the move it is using. Once per switch-in.
+- [Psychic Surge](psychicsurge.md) — On switch-in, this Pokemon summons Psychic Terrain.
+- [Punk Rock](punkrock.md) — This Pokemon receives 1/2 damage from sound moves. Its own have 1.3× power.
+- [Pure Power](purepower.md) — This Pokemon's Attack is doubled.
+- [Purifying Salt](purifyingsalt.md) — Ghost damage to this Pokemon dealt with a halved offensive stat; can't be statused.
+- [Queenly Majesty](queenlymajesty.md) — This Pokemon and its allies are protected from opposing priority moves.
+- [Quick Draw](quickdraw.md) — This Pokemon has a 30% chance to move first in its priority bracket with attacking moves.
+- [Quick Feet](quickfeet.md) — If this Pokemon is statused, its Speed is 1.5×; ignores Speed drop from paralysis.
+- [Rain Dish](raindish.md) — If Rain is active, this Pokemon heals 1/16 of its max HP each turn.
+- [Rattled](rattled.md) — Speed is raised 1 stage if hit by a Bug-, Dark-, or Ghost-type attack, or Intimidated.
+- [Receiver](receiver.md) — This Pokemon copies the Ability of an ally that faints.
+- [Reckless](reckless.md) — This Pokemon's attacks with recoil or crash damage have 1.2× power; not Struggle.
+- [Refrigerate](refrigerate.md) — This Pokemon's Normal-type moves become Ice type and have 1.2× power.
+- [Regenerator](regenerator.md) — This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out.
+- [Ripen](ripen.md) — When this Pokemon eats certain Berries, the effects are doubled.
+- [Rivalry](rivalry.md) — This Pokemon's attacks do 1.25× on same gender targets; 0.75× on opposite gender.
+- [Rock Head](rockhead.md) — This Pokemon does not take recoil damage besides Struggle/Life Orb/crash damage.
+- [Rough Skin](roughskin.md) — Pokemon making contact with this Pokemon lose 1/8 of their max HP.
+- [Run Away](runaway.md) — Clears ordinary trapping restrictions in Champions.
+- [Sand Force](sandforce.md) — This Pokemon's Ground/Rock/Steel attacks do 1.3× in Sandstorm; immunity to it.
+- [Sand Rush](sandrush.md) — If Sandstorm is active, this Pokemon's Speed is doubled; immunity to Sandstorm.
+- [Sand Spit](sandspit.md) — When this Pokemon is hit by an attack, the effect of Sandstorm begins.
+- [Sand Stream](sandstream.md) — On switch-in, this Pokemon summons Sandstorm.
+- [Sand Veil](sandveil.md) — If Sandstorm is active, this Pokemon's evasiveness is 1.25×; immunity to Sandstorm.
+- [Sap Sipper](sapsipper.md) — This Pokemon's Attack is raised 1 stage if hit by a Grass move; Grass immunity.
+- [Scrappy](scrappy.md) — Fighting, Normal moves hit Ghost. Immune to Intimidate.
+- [Screen Cleaner](screencleaner.md) — On switch-in, the effects of Aurora Veil, Light Screen, and Reflect end for both sides.
+- [Seed Sower](seedsower.md) — When this Pokemon is hit by an attack, the effect of Grassy Terrain begins.
+- [Shadow Tag](shadowtag.md) — Prevents foes from choosing to switch unless they also have this Ability.
+- [Sharpness](sharpness.md) — This Pokemon's slicing moves have their power multiplied by 1.5.
+- [Shed Skin](shedskin.md) — This Pokemon has a 33% chance to have its status cured at the end of each turn.
+- [Sheer Force](sheerforce.md) — This Pokemon's attacks with secondary effects have 1.3× power; nullifies the effects.
+- [Shell Armor](shellarmor.md) — This Pokemon cannot be struck by a critical hit.
+- [Shield Dust](shielddust.md) — This Pokemon is not affected by the secondary effect of another Pokemon's attack.
+- [Skill Link](skilllink.md) — This Pokemon's multi-hit attacks always hit the maximum number of times.
+- [Slush Rush](slushrush.md) — If Snow is active, this Pokemon's Speed is doubled.
+- [Sniper](sniper.md) — If this Pokemon strikes with a critical hit, the damage is multiplied by 1.5.
+- [Snow Cloak](snowcloak.md) — If Snow is active, this Pokemon's evasiveness is 1.25×.
+- [Snow Warning](snowwarning.md) — On switch-in, this Pokemon summons Snow.
+- [Solar Power](solarpower.md) — If Sun is active, this Pokemon's Sp. Atk is 1.5×; loses 1/8 max HP per turn.
+- [Solid Rock](solidrock.md) — This Pokemon receives 3/4 damage from supereffective attacks.
+- [Soundproof](soundproof.md) — This Pokemon is immune to sound-based moves, unless it used the move.
+- [Speed Boost](speedboost.md) — This Pokemon's Speed is raised 1 stage at the end of each full turn on the field.
+- [Spicy Spray](spicyspray.md) — If this Pokemon is hit by an attack, the attacker becomes burned.
+- [Stakeout](stakeout.md) — This Pokemon's offensive stat is doubled against a target that switched in this turn.
+- [Stall](stall.md) — This Pokemon moves last among Pokemon using the same or greater priority moves.
+- [Stalwart](stalwart.md) — This Pokemon's moves cannot be redirected to a different target by any effect.
+- [Stamina](stamina.md) — This Pokemon's Defense is raised by 1 stage after it is damaged by a move.
+- [Stance Change](stancechange.md) — If Aegislash, changes Forme to Blade before attacks and Shield before King's Shield.
+- [Static](static.md) — 30% chance a Pokemon making contact with this Pokemon will be paralyzed.
+- [Steadfast](steadfast.md) — If this Pokemon flinches, its Speed is raised by 1 stage.
+- [Steely Spirit](steelyspirit.md) — This Pokemon and its allies' Steel-type moves have their power multiplied by 1.5.
+- [Stench](stench.md) — This Pokemon's attacks without a chance to flinch gain a 10% chance to flinch.
+- [Sticky Hold](stickyhold.md) — This Pokemon cannot lose its held item due to another Pokemon's Ability or attack.
+- [Strong Jaw](strongjaw.md) — This Pokemon's bite-based attacks have 1.5× power. Bug Bite is not boosted.
+- [Sturdy](sturdy.md) — If this Pokemon is at full HP, it survives one hit with at least 1 HP. Immune to OHKO.
+- [Suction Cups](suctioncups.md) — This Pokemon cannot be forced to switch out by another Pokemon's attack or item.
+- [Super Luck](superluck.md) — This Pokemon's critical hit ratio is raised by 1 stage.
+- [Supersweet Syrup](supersweetsyrup.md) — On switch-in, this Pokemon lowers the evasiveness of opponents 1 stage. Once per battle.
+- [Supreme Overlord](supremeoverlord.md) — This Pokemon's moves have 10% more power for each fainted ally, up to 5 allies.
+- [Surge Surfer](surgesurfer.md) — If Electric Terrain is active, this Pokemon's Speed is doubled.
+- [Swarm](swarm.md) — At 1/3 or less of its max HP, this Pokemon's offensive stat is 1.5× with Bug attacks.
+- [Sweet Veil](sweetveil.md) — This Pokemon and its allies cannot fall asleep; those already asleep do not wake up.
+- [Swift Swim](swiftswim.md) — If Rain is active, this Pokemon's Speed is doubled.
+- [Symbiosis](symbiosis.md) — If an ally uses its item, this Pokemon gives its item to that ally immediately.
+- [Synchronize](synchronize.md) — If another Pokemon burns/poisons/paralyzes this Pokemon, it also gets that status.
+- [Tangled Feet](tangledfeet.md) — This Pokemon's evasiveness is doubled as long as it is confused.
+- [Technician](technician.md) — This Pokemon's moves of 60 power or less have 1.5× power, including Struggle.
+- [Telepathy](telepathy.md) — This Pokemon does not take damage from attacks made by its allies.
+- [Thermal Exchange](thermalexchange.md) — This Pokemon's Attack is raised by 1 when damaged by Fire moves; can't be burned.
+- [Thick Fat](thickfat.md) — Fire-/Ice-type moves against this Pokemon deal damage with a halved offensive stat.
+- [Torrent](torrent.md) — At 1/3 or less of its max HP, this Pokemon's offensive stat is 1.5× with Water attacks.
+- [Tough Claws](toughclaws.md) — This Pokemon's contact moves have their power multiplied by 1.3.
+- [Toxic Debris](toxicdebris.md) — If this Pokemon is hit by a physical attack, Toxic Spikes are set on the opposing side.
+- [Trace](trace.md) — On switch-in, or when it can, this Pokemon copies a random adjacent foe's Ability.
+- [Unaware](unaware.md) — This Pokemon ignores other Pokemon's stat stages when taking or doing damage.
+- [Unburden](unburden.md) — Speed is doubled on held item loss; boost is lost if it switches, gets new item/Ability.
+- [Unnerve](unnerve.md) — While this Pokemon is active, it prevents opposing Pokemon from using their Berries.
+- [Unseen Fist](unseenfist.md) — This Pokemon's contact moves ignore a target's protection and deal 1/4 the usual damage.
+- [Vital Spirit](vitalspirit.md) — This Pokemon cannot fall asleep. Gaining this Ability while asleep cures it.
+- [Volt Absorb](voltabsorb.md) — This Pokemon heals 1/4 of its max HP when hit by Electric moves; Electric immunity.
+- [Wandering Spirit](wanderingspirit.md) — Pokemon making contact with this Pokemon have their Ability swapped with this one.
+- [Water Absorb](waterabsorb.md) — This Pokemon heals 1/4 of its max HP when hit by Water moves; Water immunity.
+- [Water Bubble](waterbubble.md) — This Pokemon's Water power is 2×; it can't be burned; Fire power against it is halved.
+- [Weak Armor](weakarmor.md) — If a physical attack hits this Pokemon, Defense is lowered by 1, Speed is raised by 2.
+- [White Smoke](whitesmoke.md) — Prevents other Pokemon from lowering this Pokemon's stat stages.
+- [Zero to Hero](zerotohero.md) — If this Pokemon is a Palafin in Zero Form, switching out has it change to Hero Form.
+
+- [Aura Guard](auraguard.md) — Halves damage received from contact moves; bypass behavior remains unverified.

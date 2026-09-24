@@ -1,0 +1,116 @@
+{
+  "prepared_at_utc": "2026-09-19T19:57:40.440024+00:00",
+  "status": "passed",
+  "checks": [
+    {
+      "check": "Unique IDs and source/model mappings",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Every catalogue file and graph endpoint exists",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All 1263 stat rows satisfy Champions point limits",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "No unsupported nature/point joins",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Imported percentages match source rows without renormalization",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "No current M-C spread claim",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Archived priors retain regulation, collection timestamp and source hash",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Historical provenance stays offline rather than in model profiles",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "No audit footers, source URLs, or commit hashes in Jev cards",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Mechanics uncertainty survived source-footer removal",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Nature marginals are not promoted to joint source rows",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Model data has no Unicode replacement characters",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent recomputation matches every joint-row stat vector",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "Mega Aerodactyl leading row exact result",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Pinned validator executed for each admitted stat row",
+      "passed": true,
+      "detail": "resolve_stats.cjs called TeamValidator.validateSet for all 1263 rows using source nature when supplied; no rows were rejected."
+    }
+  ],
+  "counts": {
+    "profiles_updated": 47,
+    "profiles_with_stat_priors": 41,
+    "new_form_profiles": [
+      "aerodactylmega",
+      "blastoisemega",
+      "charizardmegay",
+      "delphoxmega",
+      "floettemega",
+      "froslassmega",
+      "gardevoirmega",
+      "gengarmega",
+      "glimmoramega"
+    ],
+    "pages": 1410,
+    "edges": 30652,
+    "model_cards": 1410,
+    "original_characters": 3772943,
+    "model_card_characters": 2006596,
+    "character_reduction_percent": 46.82
+  },
+  "source_responses": 108,
+  "species_format_records_with_spreads": 49,
+  "stat_rows": 1263,
+  "character_reduction_is_not_a_token_measurement": true,
+  "not_executed": [
+    "Jev calls",
+    "Retrieval recall evaluation",
+    "Battle outcomes or damage simulation",
+    "Current M-C stat distribution estimation"
+  ],
+  "scope_note": "Historical validation snapshot. Original checks and counts describe the edition validated at that time; see unified-profile-validation.json for current IDs and profile structure.",
+  "superseded_for_profile_coverage_by": "profile-coverage-validation.json",
+  "superseded_for_current_structure_by": "unified-profile-validation.json",
+  "superseded_for_current_context_text_by": "context-cleanup-validation.json"
+}

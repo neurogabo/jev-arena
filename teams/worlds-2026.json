@@ -1,0 +1,304 @@
+{
+  "formatId": "gen9championsvgc2026regmc",
+  "statPoints": "Champions stat points, not standard EVs; all published values retained.",
+  "normalization": [
+    "Mega species labels in the human paste become base species while preserving Torrent/Blaze and held Mega Stones.",
+    "All levels are 50; the source Charizard omits level, which is fixed by the Champions format."
+  ],
+  "human": {
+    "label": "Vikram Thiagarajan — Mundial 2026 Seniors",
+    "sourceUrl": "https://pokepast.es/9e3702044f976001",
+    "sourceFile": "vikram-source.json",
+    "sourceFormat": "gen9championsvgc2026regmb",
+    "reconstructedDistributions": false,
+    "sets": [
+      {
+        "name": "Biceps",
+        "species": "Swampert",
+        "ability": "Torrent",
+        "item": "Swampertite",
+        "nature": "Adamant",
+        "moves": [
+          "Wave Crash",
+          "Earthquake",
+          "Ice Punch",
+          "Protect"
+        ],
+        "evs": {
+          "hp": 14,
+          "atk": 20,
+          "def": 0,
+          "spa": 0,
+          "spd": 3,
+          "spe": 29
+        },
+        "level": 50,
+        "shiny": true
+      },
+      {
+        "name": "Royal Mail",
+        "species": "Pelipper",
+        "ability": "Drizzle",
+        "item": "Sitrus Berry",
+        "nature": "Bold",
+        "moves": [
+          "Weather Ball",
+          "Hurricane",
+          "Tailwind",
+          "Wide Guard"
+        ],
+        "evs": {
+          "hp": 31,
+          "atk": 0,
+          "def": 0,
+          "spa": 0,
+          "spd": 25,
+          "spe": 10
+        },
+        "level": 50,
+        "shiny": true
+      },
+      {
+        "name": "Golden Gate",
+        "species": "Archaludon",
+        "ability": "Stamina",
+        "item": "Leftovers",
+        "nature": "Calm",
+        "moves": [
+          "Electro Shot",
+          "Dragon Pulse",
+          "Flash Cannon",
+          "Protect"
+        ],
+        "evs": {
+          "hp": 27,
+          "atk": 0,
+          "def": 5,
+          "spa": 1,
+          "spd": 25,
+          "spe": 8
+        },
+        "level": 50,
+        "shiny": true
+      },
+      {
+        "name": "Danklin",
+        "species": "Grimmsnarl",
+        "ability": "Prankster",
+        "item": "Light Clay",
+        "nature": "Sassy",
+        "moves": [
+          "Light Screen",
+          "Reflect",
+          "Parting Shot",
+          "Spirit Break"
+        ],
+        "evs": {
+          "hp": 32,
+          "atk": 0,
+          "def": 9,
+          "spa": 0,
+          "spd": 25,
+          "spe": 0
+        },
+        "level": 50,
+        "shiny": true
+      },
+      {
+        "name": "Winged King",
+        "species": "Charizard",
+        "ability": "Blaze",
+        "item": "Charizardite Y",
+        "nature": "Modest",
+        "moves": [
+          "Weather Ball",
+          "Heat Wave",
+          "Hurricane",
+          "Protect"
+        ],
+        "evs": {
+          "hp": 20,
+          "atk": 0,
+          "def": 3,
+          "spa": 21,
+          "spd": 0,
+          "spe": 22
+        },
+        "level": 50,
+        "shiny": true
+      },
+      {
+        "name": "Plant Life",
+        "species": "Venusaur",
+        "ability": "Chlorophyll",
+        "item": "Focus Sash",
+        "nature": "Modest",
+        "moves": [
+          "Leaf Storm",
+          "Sleep Powder",
+          "Sludge Bomb",
+          "Protect"
+        ],
+        "evs": {
+          "hp": 2,
+          "atk": 0,
+          "def": 0,
+          "spa": 32,
+          "spd": 0,
+          "spe": 32
+        },
+        "level": 50,
+        "shiny": true
+      }
+    ],
+    "packed": "Biceps|Swampert|Swampertite|Torrent|WaveCrash,Earthquake,IcePunch,Protect|Adamant|14,20,,,3,29|||S|50|]Royal Mail|Pelipper|SitrusBerry|Drizzle|WeatherBall,Hurricane,Tailwind,WideGuard|Bold|31,,,,25,10|||S|50|]Golden Gate|Archaludon|Leftovers|Stamina|ElectroShot,DragonPulse,FlashCannon,Protect|Calm|27,,5,1,25,8|||S|50|]Danklin|Grimmsnarl|LightClay|Prankster|LightScreen,Reflect,PartingShot,SpiritBreak|Sassy|32,,9,,25,|||S|50|]Winged King|Charizard|CharizarditeY|Blaze|WeatherBall,HeatWave,Hurricane,Protect|Modest|20,,3,21,,22|||S|50|]Plant Life|Venusaur|FocusSash|Chlorophyll|LeafStorm,SleepPowder,SludgeBomb,Protect|Modest|2,,,32,,32|||S|50|"
+  },
+  "jev": {
+    "label": "Takuma Yamazaki — Mundial 2026 Masters",
+    "sourceUrl": "https://pokepast.es/bcbcfdf55cb17952",
+    "sourceFile": "takuma-source.json",
+    "sourceFormat": "gen9championsvgc2026regmb",
+    "reconstructedDistributions": false,
+    "sets": [
+      {
+        "name": "Dragonite",
+        "species": "Dragonite",
+        "ability": "Multiscale",
+        "item": "Dragoninite",
+        "nature": "Modest",
+        "moves": [
+          "Dragon Pulse",
+          "Heat Wave",
+          "Extreme Speed",
+          "Protect"
+        ],
+        "evs": {
+          "hp": 2,
+          "atk": 0,
+          "def": 0,
+          "spa": 32,
+          "spd": 0,
+          "spe": 32
+        },
+        "level": 50,
+        "gender": "F"
+      },
+      {
+        "name": "Sneasler",
+        "species": "Sneasler",
+        "ability": "Poison Touch",
+        "item": "Focus Sash",
+        "nature": "Jolly",
+        "moves": [
+          "Close Combat",
+          "Dire Claw",
+          "Fake Out",
+          "Feint"
+        ],
+        "evs": {
+          "hp": 2,
+          "atk": 32,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 32
+        },
+        "level": 50,
+        "gender": "M"
+      },
+      {
+        "name": "Basculegion",
+        "species": "Basculegion",
+        "ability": "Adaptability",
+        "item": "Life Orb",
+        "nature": "Adamant",
+        "moves": [
+          "Wave Crash",
+          "Last Respects",
+          "Aqua Jet",
+          "Protect"
+        ],
+        "evs": {
+          "hp": 4,
+          "atk": 18,
+          "def": 4,
+          "spa": 0,
+          "spd": 15,
+          "spe": 25
+        },
+        "level": 50,
+        "gender": "M"
+      },
+      {
+        "name": "Kingambit",
+        "species": "Kingambit",
+        "ability": "Defiant",
+        "item": "Chople Berry",
+        "nature": "Adamant",
+        "moves": [
+          "Sucker Punch",
+          "Kowtow Cleave",
+          "Low Kick",
+          "Iron Head"
+        ],
+        "evs": {
+          "hp": 32,
+          "atk": 15,
+          "def": 0,
+          "spa": 0,
+          "spd": 19,
+          "spe": 0
+        },
+        "level": 50,
+        "gender": "M"
+      },
+      {
+        "name": "Garchomp",
+        "species": "Garchomp",
+        "ability": "Rough Skin",
+        "item": "Choice Scarf",
+        "nature": "Adamant",
+        "moves": [
+          "Dragon Claw",
+          "Stomping Tantrum",
+          "Earthquake",
+          "Rock Slide"
+        ],
+        "evs": {
+          "hp": 10,
+          "atk": 20,
+          "def": 9,
+          "spa": 0,
+          "spd": 0,
+          "spe": 27
+        },
+        "level": 50,
+        "gender": "F"
+      },
+      {
+        "name": "Floette-Eternal",
+        "species": "Floette-Eternal",
+        "ability": "Flower Veil",
+        "item": "Floettite",
+        "nature": "Timid",
+        "moves": [
+          "Moonblast",
+          "Dazzling Gleam",
+          "Light of Ruin",
+          "Protect"
+        ],
+        "evs": {
+          "hp": 4,
+          "atk": 0,
+          "def": 8,
+          "spa": 32,
+          "spd": 0,
+          "spe": 22
+        },
+        "level": 50,
+        "gender": "F"
+      }
+    ],
+    "packed": "Dragonite||Dragoninite|Multiscale|DragonPulse,HeatWave,ExtremeSpeed,Protect|Modest|2,,,32,,32|F|||50|]Sneasler||FocusSash|PoisonTouch|CloseCombat,DireClaw,FakeOut,Feint|Jolly|2,32,,,,32|M|||50|]Basculegion||LifeOrb|Adaptability|WaveCrash,LastRespects,AquaJet,Protect|Adamant|4,18,4,,15,25|M|||50|]Kingambit||ChopleBerry|Defiant|SuckerPunch,KowtowCleave,LowKick,IronHead|Adamant|32,15,,,19,|M|||50|]Garchomp||ChoiceScarf|RoughSkin|DragonClaw,StompingTantrum,Earthquake,RockSlide|Adamant|10,20,9,,,27|F|||50|]Floette-Eternal||Floettite|FlowerVeil|Moonblast,DazzlingGleam,LightofRuin,Protect|Timid|4,,8,32,,22|F|||50|"
+  }
+}

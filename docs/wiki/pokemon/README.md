@@ -1,0 +1,391 @@
+# Pokemon profiles
+
+382 unified profiles: 293 selectable entries and 89 reachable battle forms. Each combines identity, base stats, competitive build candidates, and tactical context. 184 have complete build candidates; 198 have unspecified builds and calculated stat bounds.
+
+## With complete build candidates
+
+- [Abomasnow](abomasnow.md) — Grass/Ice. Stat profile favors mixed offense; base Speed 60. Includes complete build candidates.
+- [Abomasnow-Mega](abomasnowmega.md) — Grass/Ice. Stat profile favors mixed offense; base Speed 30. Includes complete build candidates.
+- [Absol](absol.md) — Dark. Stat profile favors physical offense; base Speed 75. Includes complete build candidates.
+- [Absol-Mega-Z](absolmegaz.md) — Dark/Ghost. Stat profile favors physical offense; base Speed 151. Includes complete build candidates.
+- [Aegislash](aegislash.md) — Steel/Ghost. Stat profile favors mixed offense; base Speed 60. Candidate plans include spread protection. Includes complete build candidates.
+- [Aegislash-Blade](aegislashblade.md) — Steel/Ghost. Stat profile favors mixed offense; base Speed 60. Candidate plans include spread protection. Includes complete build candidates.
+- [Aerodactyl](aerodactyl.md) — Rock/Flying. Fast Tailwind support and physical Rock/Flying pressure. Includes complete build candidates.
+- [Aerodactyl-Mega](aerodactylmega.md) — Rock/Flying. Fast Tailwind support and physical Rock/Flying pressure. Includes complete build candidates.
+- [Aggron](aggron.md) — Steel/Rock. Stat profile favors physical offense; base Speed 50. Includes complete build candidates.
+- [Alakazam](alakazam.md) — Psychic. Stat profile favors special offense; base Speed 120. Includes complete build candidates.
+- [Alakazam-Mega](alakazammega.md) — Psychic. Stat profile favors special offense; base Speed 150. Includes complete build candidates.
+- [Annihilape](annihilape.md) — Fighting/Ghost. Physical attacker; Defiant can punish opposing stat reductions. Includes complete build candidates.
+- [Arcanine](arcanine.md) — Fire. Stat profile favors mixed offense; base Speed 95. Includes complete build candidates.
+- [Arcanine-Hisui](arcaninehisui.md) — Fire/Rock. Physical Fire/Rock attacker with Extreme Speed finishing pressure. Includes complete build candidates.
+- [Archaludon](archaludon.md) — Steel/Dragon. Bulky special attacker; rain enables immediate Electro Shot and Stamina supports Body Press. Includes complete build candidates.
+- [Armarouge](armarouge.md) — Fire/Psychic. Psychic/Fire attacker with Trick Room and spread-pressure options. Includes complete build candidates.
+- [Basculegion](basculegion.md) — Water/Ghost. Physical Water/Ghost attacker whose Last Respects strengthens as allies faint. Includes complete build candidates.
+- [Basculegion-F](basculegionf.md) — Water/Ghost. Stat profile favors mixed offense; base Speed 78. Includes complete build candidates.
+- [Baxcalibur](baxcalibur.md) — Dragon/Ice. Physical Dragon/Ice attacker with Dragon Dance setup. Includes complete build candidates.
+- [Baxcalibur-Mega](baxcaliburmega.md) — Dragon/Ice. Physical Dragon/Ice attacker with Dragon Dance setup. Includes complete build candidates.
+- [Bellibolt](bellibolt.md) — Electric. Stat profile favors special offense; base Speed 45. Includes complete build candidates.
+- [Blastoise](blastoise.md) — Water. Special Water attacker with Shell Smash setup and HP-sensitive Water Spout. Includes complete build candidates.
+- [Blastoise-Mega](blastoisemega.md) — Water. Special Water attacker with Shell Smash setup and HP-sensitive Water Spout. Includes complete build candidates.
+- [Blaziken](blaziken.md) — Fire/Fighting. Stat profile favors mixed offense; base Speed 80. Includes complete build candidates.
+- [Blaziken-Mega](blazikenmega.md) — Fire/Fighting. Stat profile favors physical offense; base Speed 100. Includes complete build candidates.
+- [Camerupt](camerupt.md) — Fire/Ground. Stat profile favors mixed offense; base Speed 40. Includes complete build candidates.
+- [Camerupt-Mega](cameruptmega.md) — Fire/Ground. Stat profile favors special offense; base Speed 20. Includes complete build candidates.
+- [Ceruledge](ceruledge.md) — Fire/Ghost. Stat profile favors physical offense; base Speed 85. Includes complete build candidates.
+- [Chandelure](chandelure.md) — Ghost/Fire. Stat profile favors special offense; base Speed 80. Candidate plans include Trick Room control. Includes complete build candidates.
+- [Charizard](charizard.md) — Fire/Flying. Builds include physical setup with Mega Charizard X and special sun offense with Mega Charizard Y; condition on the Mega Stone. Includes complete build candidates.
+- [Charizard-Mega-X](charizardmegax.md) — Fire/Dragon. Physical Fire/Dragon attacker with Tough Claws; the selected build uses Belly Drum and Flame Charge for setup. Includes complete build candidates.
+- [Charizard-Mega-Y](charizardmegay.md) — Fire/Flying. Special sun attacker; Mega Charizard Y supplies Drought. Includes complete build candidates.
+- [Chimecho](chimecho.md) — Psychic. Stat profile favors special offense; base Speed 65. Candidate plans include Trick Room control. Includes complete build candidates.
+- [Chimecho-Mega](chimechomega.md) — Psychic/Steel. Stat profile favors special offense; base Speed 65. Candidate plans include Trick Room control. Includes complete build candidates.
+- [Cinderace](cinderace.md) — Fire. Stat profile favors physical offense; base Speed 119. Includes complete build candidates.
+- [Clawitzer](clawitzer.md) — Water. Stat profile favors special offense; base Speed 59. Includes complete build candidates.
+- [Clefable](clefable.md) — Fairy. Stat profile favors special offense; base Speed 60. Candidate plans include redirection. Includes complete build candidates.
+- [Corviknight](corviknight.md) — Flying/Steel. Stat profile favors physical offense; base Speed 67. Candidate plans include Tailwind support. Includes complete build candidates.
+- [Crabominable](crabominable.md) — Fighting/Ice. Stat profile favors physical offense; base Speed 43. Includes complete build candidates.
+- [Crabominable-Mega](crabominablemega.md) — Fighting/Ice. Stat profile favors physical offense; base Speed 33. Includes complete build candidates.
+- [Delphox](delphox.md) — Fire/Psychic. Fast special Fire/Psychic pressure. Includes complete build candidates.
+- [Delphox-Mega](delphoxmega.md) — Fire/Psychic. Fast special Fire/Psychic pressure. Includes complete build candidates.
+- [Dragalge](dragalge.md) — Poison/Dragon. Stat profile favors special offense; base Speed 44. Includes complete build candidates.
+- [Dragalge-Mega](dragalgemega.md) — Poison/Dragon. Stat profile favors special offense; base Speed 44. Includes complete build candidates.
+- [Dragapult](dragapult.md) — Dragon/Ghost. Stat profile favors physical offense; base Speed 142. Includes complete build candidates.
+- [Dragonite](dragonite.md) — Dragon/Flying. Different physical and special builds; condition on its item and transformation. Includes complete build candidates.
+- [Dragonite-Mega](dragonitemega.md) — Dragon/Flying. Different physical and special builds; condition on its item and transformation. Includes complete build candidates.
+- [Empoleon](empoleon.md) — Water/Steel. Stat profile favors special offense; base Speed 60. Includes complete build candidates.
+- [Excadrill](excadrill.md) — Ground/Steel. Stat profile favors physical offense; base Speed 88. Includes complete build candidates.
+- [Farigiraf](farigiraf.md) — Normal/Psychic. Trick Room support; Armor Tail protects its side against opposing priority attacks. Includes complete build candidates.
+- [Floette-Eternal](floetteeternal.md) — Fairy. Special Fairy pressure with offensive and Calm Mind builds. Includes complete build candidates.
+- [Floette-Mega](floettemega.md) — Fairy. Special Fairy pressure with offensive and Calm Mind builds. Includes complete build candidates.
+- [Froslass](froslass.md) — Ice/Ghost. Snow-based special pressure with a Mega Evolution option. Includes complete build candidates.
+- [Froslass-Mega](froslassmega.md) — Ice/Ghost. Snow-based special pressure with a Mega Evolution option. Includes complete build candidates.
+- [Gallade](gallade.md) — Psychic/Fighting. Stat profile favors physical offense; base Speed 80. Candidate plans include Trick Room control, spread protection. Includes complete build candidates.
+- [Garchomp](garchomp.md) — Dragon/Ground. Builds include physical Dragon/Ground offense and fast special offense after evolving into Mega Garchomp Z; condition on the item and transformation. Includes complete build candidates.
+- [Garchomp-Mega-Z](garchompmegaz.md) — Dragon. Fast special Dragon attacker with Levitate; selected builds use Draco Meteor with Fire and Rock coverage. Includes complete build candidates.
+- [Gardevoir](gardevoir.md) — Psychic/Fairy. Special Fairy/Psychic attacker; Mega Gardevoir uses Pixilate Hyper Voice. Includes complete build candidates.
+- [Gardevoir-Mega](gardevoirmega.md) — Psychic/Fairy. Special Fairy/Psychic attacker; Mega Gardevoir uses Pixilate Hyper Voice. Includes complete build candidates.
+- [Gengar](gengar.md) — Ghost/Poison. Mega Shadow Tag pressure with offensive and Perish Song plans. Includes complete build candidates.
+- [Gengar-Mega](gengarmega.md) — Ghost/Poison. Mega Shadow Tag pressure with offensive and Perish Song plans. Includes complete build candidates.
+- [Gholdengo](gholdengo.md) — Steel/Ghost. Special spread attacker with Make It Rain and setup options. Includes complete build candidates.
+- [Glalie](glalie.md) — Ice. Stat profile favors mixed offense; base Speed 80. Includes complete build candidates.
+- [Glalie-Mega](glaliemega.md) — Ice. Stat profile favors mixed offense; base Speed 100. Includes complete build candidates.
+- [Glimmora](glimmora.md) — Rock/Poison. Rock/Poison special attacker; Toxic Debris responds to physical damage. Includes complete build candidates.
+- [Glimmora-Mega](glimmoramega.md) — Rock/Poison. Special Rock/Poison attacker with Adaptability; Toxic Debris belongs to its starting form. Includes complete build candidates.
+- [Gogoat](gogoat.md) — Grass. Stat profile favors mixed offense; base Speed 68. Includes complete build candidates.
+- [Golisopod](golisopod.md) — Bug/Water. Physical Water/Bug attacker with a Mega Evolution option. Includes complete build candidates.
+- [Golisopod-Mega](golisopodmega.md) — Bug/Steel. Bulky physical Bug/Steel attacker with Tough Claws; selected builds use setup or priority attacks. Includes complete build candidates.
+- [Grapploct](grapploct.md) — Fighting. Stat profile favors physical offense; base Speed 42. Includes complete build candidates.
+- [Grimmsnarl](grimmsnarl.md) — Dark/Fairy. Stat profile favors physical offense; base Speed 60. Candidate plans include Fake Out disruption, pivoting, screens. Includes complete build candidates.
+- [Gyarados](gyarados.md) — Water/Flying. Stat profile favors physical offense; base Speed 81. Includes complete build candidates.
+- [Hatterene](hatterene.md) — Psychic/Fairy. Stat profile favors special offense; base Speed 29. Candidate plans include Trick Room control. Includes complete build candidates.
+- [Hawlucha](hawlucha.md) — Fighting/Flying. Stat profile favors physical offense; base Speed 118. Includes complete build candidates.
+- [Hawlucha-Mega](hawluchamega.md) — Fighting/Flying. Stat profile favors physical offense; base Speed 118. Includes complete build candidates.
+- [Hippowdon](hippowdon.md) — Ground. Stat profile favors physical offense; base Speed 47. Includes complete build candidates.
+- [Houndstone](houndstone.md) — Ghost. Stat profile favors physical offense; base Speed 68. Includes complete build candidates.
+- [Hydreigon](hydreigon.md) — Dark/Dragon. Stat profile favors special offense; base Speed 98. Includes complete build candidates.
+- [Incineroar](incineroar.md) — Fire/Dark. Intimidate pivot with Fake Out disruption and Parting Shot repositioning. Includes complete build candidates.
+- [Indeedee](indeedee.md) — Psychic/Normal. Psychic Terrain setter and special Psychic attacker. Includes complete build candidates.
+- [Indeedee-F](indeedeef.md) — Psychic/Normal. Psychic Terrain and Follow Me support, with Trick Room control. Includes complete build candidates.
+- [Kingambit](kingambit.md) — Dark/Steel. Slow physical Dark/Steel attacker; Sucker Punch gives conditional priority. Includes complete build candidates.
+- [Klefki](klefki.md) — Steel/Fairy. Stat profile favors mixed offense; base Speed 75. Candidate plans include Trick Room control, screens. Includes complete build candidates.
+- [Kommo-o](kommoo.md) — Dragon/Fighting. Stat profile favors mixed offense; base Speed 85. Includes complete build candidates.
+- [Lucario](lucario.md) — Fighting/Steel. Stat profile favors mixed offense; base Speed 90. Includes complete build candidates.
+- [Lucario-Mega-Z](lucariomegaz.md) — Fighting/Steel. Stat profile favors special offense; base Speed 151. Includes complete build candidates.
+- [Lycanroc-Dusk](lycanrocdusk.md) — Rock. Stat profile favors physical offense; base Speed 110. Includes complete build candidates.
+- [Malamar](malamar.md) — Dark/Psychic. Stat profile favors physical offense; base Speed 73. Candidate plans include Trick Room control. Includes complete build candidates.
+- [Mamoswine](mamoswine.md) — Ice/Ground. Stat profile favors physical offense; base Speed 80. Includes complete build candidates.
+- [Manectric](manectric.md) — Electric. Stat profile favors special offense; base Speed 105. Includes complete build candidates.
+- [Manectric-Mega](manectricmega.md) — Electric. Stat profile favors special offense; base Speed 135. Includes complete build candidates.
+- [Maushold](maushold.md) — Normal. Stat profile favors mixed offense; base Speed 111. Candidate plans include redirection. Includes complete build candidates.
+- [Maushold-Four](mausholdfour.md) — Normal. Stat profile favors mixed offense; base Speed 111. Candidate plans include redirection. Includes complete build candidates.
+- [Mawile](mawile.md) — Steel/Fairy. Stat profile favors physical offense; base Speed 50. Includes complete build candidates.
+- [Mawile-Mega](mawilemega.md) — Steel/Fairy. Stat profile favors physical offense; base Speed 50. Includes complete build candidates.
+- [Medicham](medicham.md) — Fighting/Psychic. Stat profile favors mixed offense; base Speed 80. Candidate plans include Fake Out disruption. Includes complete build candidates.
+- [Meowstic-F](meowsticf.md) — Psychic. Stat profile favors special offense; base Speed 104. Candidate plans include Fake Out disruption. Includes complete build candidates.
+- [Meowstic-F-Mega](meowsticfmega.md) — Psychic. Stat profile favors special offense; base Speed 124. Candidate plans include Fake Out disruption. Includes complete build candidates.
+- [Metagross](metagross.md) — Steel/Psychic. Physical Steel/Psychic attacker with a Mega Evolution option. Includes complete build candidates.
+- [Metagross-Mega](metagrossmega.md) — Steel/Psychic. Physical Steel/Psychic attacker with a Mega Evolution option. Includes complete build candidates.
+- [Milotic](milotic.md) — Water. Bulky Water attacker with recovery, Coil, and disruption options. Includes complete build candidates.
+- [Mimikyu](mimikyu.md) — Ghost/Fairy. Stat profile favors physical offense; base Speed 96. Candidate plans include Trick Room control. Includes complete build candidates.
+- [Mimikyu-Busted](mimikyubusted.md) — Ghost/Fairy. Stat profile favors physical offense; base Speed 96. Candidate plans include Trick Room control. Includes complete build candidates.
+- [Mudsdale](mudsdale.md) — Ground. Stat profile favors physical offense; base Speed 35. Includes complete build candidates.
+- [Ninetales-Alola](ninetalesalola.md) — Ice/Fairy. Snow support with Blizzard, disruption, and Aurora Veil options. Includes complete build candidates.
+- [Noivern](noivern.md) — Flying/Dragon. Stat profile favors special offense; base Speed 123. Candidate plans include Tailwind support. Includes complete build candidates.
+- [Overqwil](overqwil.md) — Dark/Poison. Stat profile favors physical offense; base Speed 85. Includes complete build candidates.
+- [Pawmot](pawmot.md) — Electric/Fighting. Stat profile favors physical offense; base Speed 105. Includes complete build candidates.
+- [Pelipper](pelipper.md) — Water/Flying. Rain setter with special Water/Flying attacks and Wide Guard support. Includes complete build candidates.
+- [Perrserker](perrserker.md) — Steel. Stat profile favors physical offense; base Speed 50. Candidate plans include Fake Out disruption. Includes complete build candidates.
+- [Persian-Alola](persianalola.md) — Dark. Stat profile favors mixed offense; base Speed 115. Candidate plans include Fake Out disruption, pivoting. Includes complete build candidates.
+- [Pincurchin](pincurchin.md) — Electric. Stat profile favors mixed offense; base Speed 15. Includes complete build candidates.
+- [Politoed](politoed.md) — Water. Stat profile favors mixed offense; base Speed 70. Includes complete build candidates.
+- [Primarina](primarina.md) — Water/Fairy. Stat profile favors special offense; base Speed 60. Includes complete build candidates.
+- [Pyroar](pyroar.md) — Fire/Normal. Stat profile favors special offense; base Speed 106. Includes complete build candidates.
+- [Pyroar-Mega](pyroarmega.md) — Fire/Normal. Stat profile favors special offense; base Speed 126. Includes complete build candidates.
+- [Raichu](raichu.md) — Electric. Electric attacker/support; condition on its ability and Mega Evolution plan. Includes complete build candidates.
+- [Raichu-Alola](raichualola.md) — Electric/Psychic. Stat profile favors mixed offense; base Speed 110. Includes complete build candidates.
+- [Raichu-Mega-Y](raichumegay.md) — Electric. Electric attacker/support; condition on its ability and Mega Evolution plan. Includes complete build candidates.
+- [Rillaboom](rillaboom.md) — Grass. Grassy Terrain setter with Fake Out, priority Grassy Glide, and physical pressure. Includes complete build candidates.
+- [Rotom-Heat](rotomheat.md) — Electric/Fire. Stat profile favors special offense; base Speed 86. Includes complete build candidates.
+- [Rotom-Mow](rotommow.md) — Electric/Grass. Stat profile favors special offense; base Speed 86. Includes complete build candidates.
+- [Rotom-Wash](rotomwash.md) — Electric/Water. Stat profile favors special offense; base Speed 86. Includes complete build candidates.
+- [Sableye](sableye.md) — Dark/Ghost. Stat profile favors mixed offense; base Speed 50. Candidate plans include screens. Includes complete build candidates.
+- [Salamence](salamence.md) — Dragon/Flying. Intimidate before Mega Evolution; Mega special offense often uses Aerilate Hyper Voice. Includes complete build candidates.
+- [Salamence-Mega](salamencemega.md) — Dragon/Flying. Intimidate before Mega Evolution; Mega special offense often uses Aerilate Hyper Voice. Includes complete build candidates.
+- [Salazzle](salazzle.md) — Poison/Fire. Stat profile favors special offense; base Speed 117. Candidate plans include Fake Out disruption. Includes complete build candidates.
+- [Scizor](scizor.md) — Bug/Steel. Stat profile favors physical offense; base Speed 65. Includes complete build candidates.
+- [Scizor-Mega](scizormega.md) — Bug/Steel. Stat profile favors physical offense; base Speed 75. Includes complete build candidates.
+- [Scovillain](scovillain.md) — Grass/Fire. Stat profile favors mixed offense; base Speed 75. Candidate plans include redirection. Includes complete build candidates.
+- [Scovillain-Mega](scovillainmega.md) — Grass/Fire. Stat profile favors mixed offense; base Speed 75. Candidate plans include redirection. Includes complete build candidates.
+- [Scrafty](scrafty.md) — Dark/Fighting. Bulky physical attacker and disruption support. Includes complete build candidates.
+- [Scrafty-Mega](scraftymega.md) — Dark/Fighting. Bulky physical attacker and disruption support. Includes complete build candidates.
+- [Sinistcha](sinistcha.md) — Grass/Ghost. Stat profile favors special offense; base Speed 70. Candidate plans include Trick Room control, redirection. Includes complete build candidates.
+- [Sinistcha-Masterpiece](sinistchamasterpiece.md) — Grass/Ghost. Stat profile favors special offense; base Speed 70. Candidate plans include Trick Room control, redirection. Includes complete build candidates.
+- [Sirfetch’d](sirfetchd.md) — Fighting. Stat profile favors physical offense; base Speed 65. Includes complete build candidates.
+- [Skeledirge](skeledirge.md) — Fire/Ghost. Stat profile favors special offense; base Speed 66. Includes complete build candidates.
+- [Sneasler](sneasler.md) — Fighting/Poison. Fast Fighting/Poison attacker with Fake Out or Unburden plans. Includes complete build candidates.
+- [Snorlax](snorlax.md) — Normal. Slow bulky Normal-type support and physical pressure. Includes complete build candidates.
+- [Staraptor](staraptor.md) — Normal/Flying. Stat profile favors physical offense; base Speed 100. Includes complete build candidates.
+- [Staraptor-Mega](staraptormega.md) — Fighting/Flying. Stat profile favors physical offense; base Speed 110. Includes complete build candidates.
+- [Swampert](swampert.md) — Water/Ground. Stat profile favors physical offense; base Speed 60. Includes complete build candidates.
+- [Swampert-Mega](swampertmega.md) — Water/Ground. Stat profile favors physical offense; base Speed 70. Includes complete build candidates.
+- [Sylveon](sylveon.md) — Fairy. Special Fairy spread pressure through Pixilate Hyper Voice. Includes complete build candidates.
+- [Talonflame](talonflame.md) — Fire/Flying. Stat profile favors mixed offense; base Speed 126. Candidate plans include Tailwind support. Includes complete build candidates.
+- [Thievul](thievul.md) — Dark. Stat profile favors special offense; base Speed 90. Includes complete build candidates.
+- [Tinkaton](tinkaton.md) — Fairy/Steel. Stat profile favors mixed offense; base Speed 94. Candidate plans include Fake Out disruption. Includes complete build candidates.
+- [Torkoal](torkoal.md) — Fire. Slow sun attacker suited to Trick Room; Eruption depends on remaining HP. Includes complete build candidates.
+- [Torterra](torterra.md) — Grass/Ground. Stat profile favors physical offense; base Speed 56. Candidate plans include spread protection. Includes complete build candidates.
+- [Toxapex](toxapex.md) — Poison/Water. Defensive support using chip damage, Wide Guard, and Regenerator cycling. Includes complete build candidates.
+- [Toxtricity](toxtricity.md) — Electric/Poison. Stat profile favors special offense; base Speed 75. Includes complete build candidates.
+- [Tsareena](tsareena.md) — Grass. Stat profile favors physical offense; base Speed 72. Includes complete build candidates.
+- [Typhlosion](typhlosion.md) — Fire. Stat profile favors special offense; base Speed 100. Includes complete build candidates.
+- [Typhlosion-Hisui](typhlosionhisui.md) — Fire/Ghost. Stat profile favors special offense; base Speed 95. Includes complete build candidates.
+- [Tyranitar](tyranitar.md) — Rock/Dark. Stat profile favors physical offense; base Speed 61. Includes complete build candidates.
+- [Tyranitar-Mega](tyranitarmega.md) — Rock/Dark. Stat profile favors physical offense; base Speed 71. Includes complete build candidates.
+- [Vanilluxe](vanilluxe.md) — Ice. Stat profile favors mixed offense; base Speed 79. Includes complete build candidates.
+- [Venusaur](venusaur.md) — Grass/Poison. Stat profile favors special offense; base Speed 80. Includes complete build candidates.
+- [Venusaur-Mega](venusaurmega.md) — Grass/Poison. Stat profile favors special offense; base Speed 80. Includes complete build candidates.
+- [Vivillon](vivillon.md) — Bug/Flying. Stat profile favors special offense; base Speed 89. Candidate plans include redirection. Includes complete build candidates.
+- [Vivillon-Archipelago](vivillonarchipelago.md) — Bug/Flying. Stat profile favors special offense; base Speed 89. Candidate plans include redirection. Includes complete build candidates.
+- [Vivillon-Continental](vivilloncontinental.md) — Bug/Flying. Stat profile favors special offense; base Speed 89. Candidate plans include redirection. Includes complete build candidates.
+- [Vivillon-Elegant](vivillonelegant.md) — Bug/Flying. Stat profile favors special offense; base Speed 89. Candidate plans include redirection. Includes complete build candidates.
+- [Vivillon-Fancy](vivillonfancy.md) — Bug/Flying. Stat profile favors special offense; base Speed 89. Candidate plans include redirection. Includes complete build candidates.
+- [Vivillon-Garden](vivillongarden.md) — Bug/Flying. Stat profile favors special offense; base Speed 89. Candidate plans include redirection. Includes complete build candidates.
+- [Vivillon-High Plains](vivillonhighplains.md) — Bug/Flying. Stat profile favors special offense; base Speed 89. Candidate plans include redirection. Includes complete build candidates.
+- [Vivillon-Icy Snow](vivillonicysnow.md) — Bug/Flying. Stat profile favors special offense; base Speed 89. Candidate plans include redirection. Includes complete build candidates.
+- [Vivillon-Jungle](vivillonjungle.md) — Bug/Flying. Stat profile favors special offense; base Speed 89. Candidate plans include redirection. Includes complete build candidates.
+- [Vivillon-Marine](vivillonmarine.md) — Bug/Flying. Stat profile favors special offense; base Speed 89. Candidate plans include redirection. Includes complete build candidates.
+- [Vivillon-Modern](vivillonmodern.md) — Bug/Flying. Stat profile favors special offense; base Speed 89. Candidate plans include redirection. Includes complete build candidates.
+- [Vivillon-Monsoon](vivillonmonsoon.md) — Bug/Flying. Stat profile favors special offense; base Speed 89. Candidate plans include redirection. Includes complete build candidates.
+- [Vivillon-Ocean](vivillonocean.md) — Bug/Flying. Stat profile favors special offense; base Speed 89. Candidate plans include redirection. Includes complete build candidates.
+- [Vivillon-Pokeball](vivillonpokeball.md) — Bug/Flying. Stat profile favors special offense; base Speed 89. Candidate plans include redirection. Includes complete build candidates.
+- [Vivillon-Polar](vivillonpolar.md) — Bug/Flying. Stat profile favors special offense; base Speed 89. Candidate plans include redirection. Includes complete build candidates.
+- [Vivillon-River](vivillonriver.md) — Bug/Flying. Stat profile favors special offense; base Speed 89. Candidate plans include redirection. Includes complete build candidates.
+- [Vivillon-Sandstorm](vivillonsandstorm.md) — Bug/Flying. Stat profile favors special offense; base Speed 89. Candidate plans include redirection. Includes complete build candidates.
+- [Vivillon-Savanna](vivillonsavanna.md) — Bug/Flying. Stat profile favors special offense; base Speed 89. Candidate plans include redirection. Includes complete build candidates.
+- [Vivillon-Sun](vivillonsun.md) — Bug/Flying. Stat profile favors special offense; base Speed 89. Candidate plans include redirection. Includes complete build candidates.
+- [Vivillon-Tundra](vivillontundra.md) — Bug/Flying. Stat profile favors special offense; base Speed 89. Candidate plans include redirection. Includes complete build candidates.
+- [Volcarona](volcarona.md) — Bug/Fire. Fire/Bug special attacker or Rage Powder support; its moves distinguish the role. Includes complete build candidates.
+- [Weavile](weavile.md) — Dark/Ice. Stat profile favors physical offense; base Speed 125. Candidate plans include Fake Out disruption. Includes complete build candidates.
+- [Whimsicott](whimsicott.md) — Grass/Fairy. Stat profile favors mixed offense; base Speed 116. Candidate plans include Tailwind support, screens. Includes complete build candidates.
+- [Zoroark](zoroark.md) — Dark. Stat profile favors mixed offense; base Speed 105. Includes complete build candidates.
+- [Zoroark-Hisui](zoroarkhisui.md) — Normal/Ghost. Stat profile favors special offense; base Speed 110. Includes complete build candidates.
+
+## Build unspecified
+
+- [Absol-Mega](absolmega.md) — Dark. Stat profile favors physical offense; base Speed 115. Build unspecified; calculated stat bounds available.
+- [Aggron-Mega](aggronmega.md) — Steel. Stat profile favors physical offense; base Speed 50. Build unspecified; calculated stat bounds available.
+- [Alcremie](alcremie.md) — Fairy. Stat profile favors special offense; base Speed 64. Build unspecified; calculated stat bounds available.
+- [Alcremie-Caramel-Swirl](alcremiecaramelswirl.md) — Fairy. Stat profile favors special offense; base Speed 64. Build unspecified; calculated stat bounds available.
+- [Alcremie-Lemon-Cream](alcremielemoncream.md) — Fairy. Stat profile favors special offense; base Speed 64. Build unspecified; calculated stat bounds available.
+- [Alcremie-Matcha-Cream](alcremiematchacream.md) — Fairy. Stat profile favors special offense; base Speed 64. Build unspecified; calculated stat bounds available.
+- [Alcremie-Mint-Cream](alcremiemintcream.md) — Fairy. Stat profile favors special offense; base Speed 64. Build unspecified; calculated stat bounds available.
+- [Alcremie-Rainbow-Swirl](alcremierainbowswirl.md) — Fairy. Stat profile favors special offense; base Speed 64. Build unspecified; calculated stat bounds available.
+- [Alcremie-Ruby-Cream](alcremierubycream.md) — Fairy. Stat profile favors special offense; base Speed 64. Build unspecified; calculated stat bounds available.
+- [Alcremie-Ruby-Swirl](alcremierubyswirl.md) — Fairy. Stat profile favors special offense; base Speed 64. Build unspecified; calculated stat bounds available.
+- [Altaria](altaria.md) — Dragon/Flying. Stat profile favors mixed offense; base Speed 80. Build unspecified; calculated stat bounds available.
+- [Altaria-Mega](altariamega.md) — Dragon/Fairy. Stat profile favors mixed offense; base Speed 80. Build unspecified; calculated stat bounds available.
+- [Ampharos](ampharos.md) — Electric. Stat profile favors special offense; base Speed 55. Build unspecified; calculated stat bounds available.
+- [Ampharos-Mega](ampharosmega.md) — Electric/Dragon. Stat profile favors special offense; base Speed 45. Build unspecified; calculated stat bounds available.
+- [Appletun](appletun.md) — Grass/Dragon. Stat profile favors mixed offense; base Speed 30. Build unspecified; calculated stat bounds available.
+- [Araquanid](araquanid.md) — Water/Bug. Stat profile favors physical offense; base Speed 42. Build unspecified; calculated stat bounds available.
+- [Arbok](arbok.md) — Poison. Stat profile favors physical offense; base Speed 80. Build unspecified; calculated stat bounds available.
+- [Arboliva](arboliva.md) — Grass/Normal. Stat profile favors special offense; base Speed 39. Build unspecified; calculated stat bounds available.
+- [Ariados](ariados.md) — Bug/Poison. Stat profile favors physical offense; base Speed 40. Build unspecified; calculated stat bounds available.
+- [Aromatisse](aromatisse.md) — Fairy. Stat profile favors special offense; base Speed 29. Build unspecified; calculated stat bounds available.
+- [Audino](audino.md) — Normal. Stat profile favors mixed offense; base Speed 50. Build unspecified; calculated stat bounds available.
+- [Audino-Mega](audinomega.md) — Normal/Fairy. Stat profile favors special offense; base Speed 50. Build unspecified; calculated stat bounds available.
+- [Aurorus](aurorus.md) — Rock/Ice. Stat profile favors special offense; base Speed 58. Build unspecified; calculated stat bounds available.
+- [Avalugg](avalugg.md) — Ice. Stat profile favors physical offense; base Speed 28. Build unspecified; calculated stat bounds available.
+- [Avalugg-Hisui](avalugghisui.md) — Ice/Rock. Stat profile favors physical offense; base Speed 38. Build unspecified; calculated stat bounds available.
+- [Azumarill](azumarill.md) — Water/Fairy. Stat profile favors mixed offense; base Speed 50. Build unspecified; calculated stat bounds available.
+- [Banette](banette.md) — Ghost. Stat profile favors physical offense; base Speed 65. Build unspecified; calculated stat bounds available.
+- [Banette-Mega](banettemega.md) — Ghost. Stat profile favors physical offense; base Speed 75. Build unspecified; calculated stat bounds available.
+- [Barbaracle](barbaracle.md) — Rock/Water. Stat profile favors physical offense; base Speed 68. Build unspecified; calculated stat bounds available.
+- [Barbaracle-Mega](barbaraclemega.md) — Rock/Fighting. Stat profile favors physical offense; base Speed 88. Build unspecified; calculated stat bounds available.
+- [Bastiodon](bastiodon.md) — Rock/Steel. Stat profile favors mixed offense; base Speed 30. Build unspecified; calculated stat bounds available.
+- [Beartic](beartic.md) — Ice. Stat profile favors physical offense; base Speed 50. Build unspecified; calculated stat bounds available.
+- [Beedrill](beedrill.md) — Bug/Poison. Stat profile favors physical offense; base Speed 75. Build unspecified; calculated stat bounds available.
+- [Beedrill-Mega](beedrillmega.md) — Bug/Poison. Stat profile favors physical offense; base Speed 145. Build unspecified; calculated stat bounds available.
+- [Castform](castform.md) — Normal. Stat profile favors mixed offense; base Speed 70. Build unspecified; calculated stat bounds available.
+- [Castform-Rainy](castformrainy.md) — Water. Stat profile favors mixed offense; base Speed 70. Build unspecified; calculated stat bounds available.
+- [Castform-Snowy](castformsnowy.md) — Ice. Stat profile favors mixed offense; base Speed 70. Build unspecified; calculated stat bounds available.
+- [Castform-Sunny](castformsunny.md) — Fire. Stat profile favors mixed offense; base Speed 70. Build unspecified; calculated stat bounds available.
+- [Chandelure-Mega](chandeluremega.md) — Ghost/Fire. Stat profile favors special offense; base Speed 90. Build unspecified; calculated stat bounds available.
+- [Chesnaught](chesnaught.md) — Grass/Fighting. Stat profile favors physical offense; base Speed 64. Build unspecified; calculated stat bounds available.
+- [Chesnaught-Mega](chesnaughtmega.md) — Grass/Fighting. Stat profile favors physical offense; base Speed 44. Build unspecified; calculated stat bounds available.
+- [Clefable-Mega](clefablemega.md) — Fairy/Flying. Stat profile favors special offense; base Speed 70. Build unspecified; calculated stat bounds available.
+- [Cofagrigus](cofagrigus.md) — Ghost. Stat profile favors special offense; base Speed 30. Build unspecified; calculated stat bounds available.
+- [Conkeldurr](conkeldurr.md) — Fighting. Stat profile favors physical offense; base Speed 45. Build unspecified; calculated stat bounds available.
+- [Decidueye](decidueye.md) — Grass/Ghost. Stat profile favors mixed offense; base Speed 70. Build unspecified; calculated stat bounds available.
+- [Decidueye-Hisui](decidueyehisui.md) — Grass/Fighting. Stat profile favors physical offense; base Speed 60. Build unspecified; calculated stat bounds available.
+- [Dedenne](dedenne.md) — Electric/Fairy. Stat profile favors special offense; base Speed 101. Build unspecified; calculated stat bounds available.
+- [Diggersby](diggersby.md) — Normal/Ground. Stat profile favors mixed offense; base Speed 78. Build unspecified; calculated stat bounds available.
+- [Ditto](ditto.md) — Normal. Transformation-based copying; its own stats do not describe the combat profile after Transform. Build unspecified; calculated stat bounds available.
+- [Drampa](drampa.md) — Normal/Dragon. Stat profile favors special offense; base Speed 36. Build unspecified; calculated stat bounds available.
+- [Drampa-Mega](drampamega.md) — Normal/Dragon. Stat profile favors special offense; base Speed 36. Build unspecified; calculated stat bounds available.
+- [Eelektross](eelektross.md) — Electric. Stat profile favors mixed offense; base Speed 50. Build unspecified; calculated stat bounds available.
+- [Eelektross-Mega](eelektrossmega.md) — Electric. Stat profile favors mixed offense; base Speed 80. Build unspecified; calculated stat bounds available.
+- [Emboar](emboar.md) — Fire/Fighting. Stat profile favors physical offense; base Speed 65. Build unspecified; calculated stat bounds available.
+- [Emboar-Mega](emboarmega.md) — Fire/Fighting. Stat profile favors physical offense; base Speed 75. Build unspecified; calculated stat bounds available.
+- [Emolga](emolga.md) — Electric/Flying. Stat profile favors mixed offense; base Speed 103. Build unspecified; calculated stat bounds available.
+- [Espathra](espathra.md) — Psychic. Stat profile favors special offense; base Speed 105. Build unspecified; calculated stat bounds available.
+- [Espeon](espeon.md) — Psychic. Stat profile favors special offense; base Speed 110. Build unspecified; calculated stat bounds available.
+- [Excadrill-Mega](excadrillmega.md) — Ground/Steel. Stat profile favors physical offense; base Speed 103. Build unspecified; calculated stat bounds available.
+- [Falinks](falinks.md) — Fighting. Stat profile favors physical offense; base Speed 75. Build unspecified; calculated stat bounds available.
+- [Falinks-Mega](falinksmega.md) — Fighting. Stat profile favors physical offense; base Speed 100. Build unspecified; calculated stat bounds available.
+- [Farfetch’d](farfetchd.md) — Normal/Flying. Stat profile favors physical offense; base Speed 60. Build unspecified; calculated stat bounds available.
+- [Feraligatr](feraligatr.md) — Water. Stat profile favors physical offense; base Speed 78. Build unspecified; calculated stat bounds available.
+- [Feraligatr-Mega](feraligatrmega.md) — Water/Dragon. Stat profile favors physical offense; base Speed 78. Build unspecified; calculated stat bounds available.
+- [Flapple](flapple.md) — Grass/Dragon. Stat profile favors mixed offense; base Speed 70. Build unspecified; calculated stat bounds available.
+- [Flareon](flareon.md) — Fire. Stat profile favors physical offense; base Speed 65. Build unspecified; calculated stat bounds available.
+- [Florges](florges.md) — Fairy. Stat profile favors special offense; base Speed 75. Build unspecified; calculated stat bounds available.
+- [Forretress](forretress.md) — Bug/Steel. Stat profile favors physical offense; base Speed 40. Build unspecified; calculated stat bounds available.
+- [Furfrou](furfrou.md) — Normal. Stat profile favors mixed offense; base Speed 102. Build unspecified; calculated stat bounds available.
+- [Gallade-Mega](gallademega.md) — Psychic/Fighting. Stat profile favors physical offense; base Speed 110. Build unspecified; calculated stat bounds available.
+- [Garbodor](garbodor.md) — Poison. Stat profile favors physical offense; base Speed 75. Build unspecified; calculated stat bounds available.
+- [Garchomp-Mega](garchompmega.md) — Dragon/Ground. Stat profile favors physical offense; base Speed 92. Build unspecified; calculated stat bounds available.
+- [Garganacl](garganacl.md) — Rock. Stat profile favors physical offense; base Speed 35. Build unspecified; calculated stat bounds available.
+- [Glaceon](glaceon.md) — Ice. Stat profile favors special offense; base Speed 65. Build unspecified; calculated stat bounds available.
+- [Gliscor](gliscor.md) — Ground/Flying. Stat profile favors physical offense; base Speed 95. Build unspecified; calculated stat bounds available.
+- [Golurk](golurk.md) — Ground/Ghost. Stat profile favors physical offense; base Speed 55. Build unspecified; calculated stat bounds available.
+- [Golurk-Mega](golurkmega.md) — Ground/Ghost. Stat profile favors physical offense; base Speed 55. Build unspecified; calculated stat bounds available.
+- [Goodra](goodra.md) — Dragon. Stat profile favors mixed offense; base Speed 80. Build unspecified; calculated stat bounds available.
+- [Goodra-Hisui](goodrahisui.md) — Steel/Dragon. Stat profile favors mixed offense; base Speed 60. Build unspecified; calculated stat bounds available.
+- [Gourgeist](gourgeist.md) — Ghost/Grass. Stat profile favors physical offense; base Speed 84. Build unspecified; calculated stat bounds available.
+- [Gourgeist-Large](gourgeistlarge.md) — Ghost/Grass. Stat profile favors physical offense; base Speed 69. Build unspecified; calculated stat bounds available.
+- [Gourgeist-Small](gourgeistsmall.md) — Ghost/Grass. Stat profile favors physical offense; base Speed 99. Build unspecified; calculated stat bounds available.
+- [Gourgeist-Super](gourgeistsuper.md) — Ghost/Grass. Stat profile favors physical offense; base Speed 54. Build unspecified; calculated stat bounds available.
+- [Greninja](greninja.md) — Water/Dark. Stat profile favors mixed offense; base Speed 122. Build unspecified; calculated stat bounds available.
+- [Greninja-Mega](greninjamega.md) — Water/Dark. Stat profile favors mixed offense; base Speed 142. Build unspecified; calculated stat bounds available.
+- [Gyarados-Mega](gyaradosmega.md) — Water/Dark. Stat profile favors physical offense; base Speed 81. Build unspecified; calculated stat bounds available.
+- [Heliolisk](heliolisk.md) — Electric/Normal. Stat profile favors special offense; base Speed 109. Build unspecified; calculated stat bounds available.
+- [Heracross](heracross.md) — Bug/Fighting. Stat profile favors physical offense; base Speed 85. Build unspecified; calculated stat bounds available.
+- [Heracross-Mega](heracrossmega.md) — Bug/Fighting. Stat profile favors physical offense; base Speed 75. Build unspecified; calculated stat bounds available.
+- [Houndoom](houndoom.md) — Dark/Fire. Stat profile favors special offense; base Speed 95. Build unspecified; calculated stat bounds available.
+- [Houndoom-Mega](houndoommega.md) — Dark/Fire. Stat profile favors special offense; base Speed 115. Build unspecified; calculated stat bounds available.
+- [Hydrapple](hydrapple.md) — Grass/Dragon. Stat profile favors special offense; base Speed 44. Build unspecified; calculated stat bounds available.
+- [Infernape](infernape.md) — Fire/Fighting. Stat profile favors mixed offense; base Speed 108. Build unspecified; calculated stat bounds available.
+- [Inteleon](inteleon.md) — Water. Stat profile favors special offense; base Speed 120. Build unspecified; calculated stat bounds available.
+- [Jolteon](jolteon.md) — Electric. Stat profile favors special offense; base Speed 130. Build unspecified; calculated stat bounds available.
+- [Kangaskhan](kangaskhan.md) — Normal. Stat profile favors physical offense; base Speed 90. Build unspecified; calculated stat bounds available.
+- [Kangaskhan-Mega](kangaskhanmega.md) — Normal. Stat profile favors physical offense; base Speed 100. Build unspecified; calculated stat bounds available.
+- [Kleavor](kleavor.md) — Bug/Rock. Stat profile favors physical offense; base Speed 85. Build unspecified; calculated stat bounds available.
+- [Krookodile](krookodile.md) — Ground/Dark. Stat profile favors physical offense; base Speed 92. Build unspecified; calculated stat bounds available.
+- [Leafeon](leafeon.md) — Grass. Stat profile favors physical offense; base Speed 95. Build unspecified; calculated stat bounds available.
+- [Liepard](liepard.md) — Dark. Stat profile favors mixed offense; base Speed 106. Build unspecified; calculated stat bounds available.
+- [Lopunny](lopunny.md) — Normal. Stat profile favors physical offense; base Speed 105. Build unspecified; calculated stat bounds available.
+- [Lopunny-Mega](lopunnymega.md) — Normal/Fighting. Stat profile favors physical offense; base Speed 135. Build unspecified; calculated stat bounds available.
+- [Lucario-Mega](lucariomega.md) — Fighting/Steel. Stat profile favors mixed offense; base Speed 112. Build unspecified; calculated stat bounds available.
+- [Luxray](luxray.md) — Electric. Stat profile favors physical offense; base Speed 70. Build unspecified; calculated stat bounds available.
+- [Lycanroc](lycanroc.md) — Rock. Stat profile favors physical offense; base Speed 112. Build unspecified; calculated stat bounds available.
+- [Lycanroc-Midnight](lycanrocmidnight.md) — Rock. Stat profile favors physical offense; base Speed 82. Build unspecified; calculated stat bounds available.
+- [Mabosstiff](mabosstiff.md) — Dark. Stat profile favors physical offense; base Speed 85. Build unspecified; calculated stat bounds available.
+- [Machamp](machamp.md) — Fighting. Stat profile favors physical offense; base Speed 55. Build unspecified; calculated stat bounds available.
+- [Malamar-Mega](malamarmega.md) — Dark/Psychic. Stat profile favors mixed offense; base Speed 88. Build unspecified; calculated stat bounds available.
+- [Medicham-Mega](medichammega.md) — Fighting/Psychic. Stat profile favors physical offense; base Speed 100. Build unspecified; calculated stat bounds available.
+- [Meganium](meganium.md) — Grass. Stat profile favors mixed offense; base Speed 80. Build unspecified; calculated stat bounds available.
+- [Meganium-Mega](meganiummega.md) — Grass/Fairy. Stat profile favors special offense; base Speed 80. Build unspecified; calculated stat bounds available.
+- [Meowscarada](meowscarada.md) — Grass/Dark. Stat profile favors physical offense; base Speed 123. Build unspecified; calculated stat bounds available.
+- [Meowstic](meowstic.md) — Psychic. Stat profile favors special offense; base Speed 104. Build unspecified; calculated stat bounds available.
+- [Meowstic-M-Mega](meowsticmmega.md) — Psychic. Stat profile favors special offense; base Speed 124. Build unspecified; calculated stat bounds available.
+- [Morpeko](morpeko.md) — Electric/Dark. Stat profile favors physical offense; base Speed 97. Build unspecified; calculated stat bounds available.
+- [Morpeko-Hangry](morpekohangry.md) — Electric/Dark. Stat profile favors physical offense; base Speed 97. Build unspecified; calculated stat bounds available.
+- [Mr. Mime](mrmime.md) — Psychic/Fairy. Stat profile favors special offense; base Speed 90. Build unspecified; calculated stat bounds available.
+- [Mr. Rime](mrrime.md) — Ice/Psychic. Stat profile favors special offense; base Speed 70. Build unspecified; calculated stat bounds available.
+- [Musharna](musharna.md) — Psychic. Stat profile favors special offense; base Speed 29. Build unspecified; calculated stat bounds available.
+- [Ninetales](ninetales.md) — Fire. Stat profile favors mixed offense; base Speed 100. Build unspecified; calculated stat bounds available.
+- [Oranguru](oranguru.md) — Normal/Psychic. Stat profile favors special offense; base Speed 60. Build unspecified; calculated stat bounds available.
+- [Orthworm](orthworm.md) — Steel. Stat profile favors physical offense; base Speed 65. Build unspecified; calculated stat bounds available.
+- [Palafin](palafin.md) — Water. Stat profile favors physical offense; base Speed 100. Build unspecified; calculated stat bounds available.
+- [Palafin-Hero](palafinhero.md) — Water. Stat profile favors physical offense; base Speed 100. Build unspecified; calculated stat bounds available.
+- [Pangoro](pangoro.md) — Fighting/Dark. Stat profile favors physical offense; base Speed 58. Build unspecified; calculated stat bounds available.
+- [Passimian](passimian.md) — Fighting. Stat profile favors physical offense; base Speed 80. Build unspecified; calculated stat bounds available.
+- [Persian](persian.md) — Normal. Stat profile favors mixed offense; base Speed 115. Build unspecified; calculated stat bounds available.
+- [Pidgeot](pidgeot.md) — Normal/Flying. Stat profile favors mixed offense; base Speed 101. Build unspecified; calculated stat bounds available.
+- [Pidgeot-Mega](pidgeotmega.md) — Normal/Flying. Stat profile favors special offense; base Speed 121. Build unspecified; calculated stat bounds available.
+- [Pikachu](pikachu.md) — Electric. Stat profile favors mixed offense; base Speed 90. Build unspecified; calculated stat bounds available.
+- [Pinsir](pinsir.md) — Bug. Stat profile favors physical offense; base Speed 85. Build unspecified; calculated stat bounds available.
+- [Pinsir-Mega](pinsirmega.md) — Bug/Flying. Stat profile favors physical offense; base Speed 105. Build unspecified; calculated stat bounds available.
+- [Polteageist](polteageist.md) — Ghost. Stat profile favors special offense; base Speed 70. Build unspecified; calculated stat bounds available.
+- [Polteageist-Antique](polteageistantique.md) — Ghost. Stat profile favors special offense; base Speed 70. Build unspecified; calculated stat bounds available.
+- [Quaquaval](quaquaval.md) — Water/Fighting. Stat profile favors physical offense; base Speed 85. Build unspecified; calculated stat bounds available.
+- [Qwilfish](qwilfish.md) — Water/Poison. Stat profile favors physical offense; base Speed 85. Build unspecified; calculated stat bounds available.
+- [Raichu-Mega-X](raichumegax.md) — Electric. Stat profile favors physical offense; base Speed 110. Build unspecified; calculated stat bounds available.
+- [Rampardos](rampardos.md) — Rock. Stat profile favors physical offense; base Speed 58. Build unspecified; calculated stat bounds available.
+- [Reuniclus](reuniclus.md) — Psychic. Stat profile favors special offense; base Speed 30. Build unspecified; calculated stat bounds available.
+- [Rhyperior](rhyperior.md) — Ground/Rock. Stat profile favors physical offense; base Speed 40. Build unspecified; calculated stat bounds available.
+- [Roserade](roserade.md) — Grass/Poison. Stat profile favors special offense; base Speed 90. Build unspecified; calculated stat bounds available.
+- [Rotom](rotom.md) — Electric/Ghost. Stat profile favors special offense; base Speed 91. Build unspecified; calculated stat bounds available.
+- [Rotom-Fan](rotomfan.md) — Electric/Flying. Stat profile favors special offense; base Speed 86. Build unspecified; calculated stat bounds available.
+- [Rotom-Frost](rotomfrost.md) — Electric/Ice. Stat profile favors special offense; base Speed 86. Build unspecified; calculated stat bounds available.
+- [Runerigus](runerigus.md) — Ground/Ghost. Stat profile favors physical offense; base Speed 30. Build unspecified; calculated stat bounds available.
+- [Sableye-Mega](sableyemega.md) — Dark/Ghost. Stat profile favors mixed offense; base Speed 20. Build unspecified; calculated stat bounds available.
+- [Samurott](samurott.md) — Water. Stat profile favors mixed offense; base Speed 70. Build unspecified; calculated stat bounds available.
+- [Samurott-Hisui](samurotthisui.md) — Water/Dark. Stat profile favors mixed offense; base Speed 85. Build unspecified; calculated stat bounds available.
+- [Sandaconda](sandaconda.md) — Ground. Stat profile favors physical offense; base Speed 71. Build unspecified; calculated stat bounds available.
+- [Sceptile](sceptile.md) — Grass. Stat profile favors special offense; base Speed 120. Build unspecified; calculated stat bounds available.
+- [Sceptile-Mega](sceptilemega.md) — Grass/Dragon. Stat profile favors special offense; base Speed 145. Build unspecified; calculated stat bounds available.
+- [Scolipede](scolipede.md) — Bug/Poison. Stat profile favors physical offense; base Speed 112. Build unspecified; calculated stat bounds available.
+- [Scolipede-Mega](scolipedemega.md) — Bug/Poison. Stat profile favors physical offense; base Speed 62. Build unspecified; calculated stat bounds available.
+- [Serperior](serperior.md) — Grass. Stat profile favors mixed offense; base Speed 113. Build unspecified; calculated stat bounds available.
+- [Sharpedo](sharpedo.md) — Water/Dark. Stat profile favors physical offense; base Speed 95. Build unspecified; calculated stat bounds available.
+- [Sharpedo-Mega](sharpedomega.md) — Water/Dark. Stat profile favors physical offense; base Speed 105. Build unspecified; calculated stat bounds available.
+- [Simipour](simipour.md) — Water. Stat profile favors mixed offense; base Speed 101. Build unspecified; calculated stat bounds available.
+- [Simisage](simisage.md) — Grass. Stat profile favors mixed offense; base Speed 101. Build unspecified; calculated stat bounds available.
+- [Simisear](simisear.md) — Fire. Stat profile favors mixed offense; base Speed 101. Build unspecified; calculated stat bounds available.
+- [Skarmory](skarmory.md) — Steel/Flying. Stat profile favors physical offense; base Speed 70. Build unspecified; calculated stat bounds available.
+- [Skarmory-Mega](skarmorymega.md) — Steel/Flying. Stat profile favors physical offense; base Speed 110. Build unspecified; calculated stat bounds available.
+- [Slowbro](slowbro.md) — Water/Psychic. Stat profile favors special offense; base Speed 30. Build unspecified; calculated stat bounds available.
+- [Slowbro-Galar](slowbrogalar.md) — Poison/Psychic. Stat profile favors mixed offense; base Speed 30. Build unspecified; calculated stat bounds available.
+- [Slowbro-Mega](slowbromega.md) — Water/Psychic. Stat profile favors special offense; base Speed 30. Build unspecified; calculated stat bounds available.
+- [Slowking](slowking.md) — Water/Psychic. Stat profile favors special offense; base Speed 30. Build unspecified; calculated stat bounds available.
+- [Slowking-Galar](slowkinggalar.md) — Poison/Psychic. Stat profile favors special offense; base Speed 30. Build unspecified; calculated stat bounds available.
+- [Slurpuff](slurpuff.md) — Fairy. Stat profile favors mixed offense; base Speed 72. Build unspecified; calculated stat bounds available.
+- [Spiritomb](spiritomb.md) — Ghost/Dark. Stat profile favors mixed offense; base Speed 35. Build unspecified; calculated stat bounds available.
+- [Squawkabilly](squawkabilly.md) — Normal/Flying. Stat profile favors physical offense; base Speed 92. Build unspecified; calculated stat bounds available.
+- [Squawkabilly-Blue](squawkabillyblue.md) — Normal/Flying. Stat profile favors physical offense; base Speed 92. Build unspecified; calculated stat bounds available.
+- [Squawkabilly-White](squawkabillywhite.md) — Normal/Flying. Stat profile favors physical offense; base Speed 92. Build unspecified; calculated stat bounds available.
+- [Squawkabilly-Yellow](squawkabillyyellow.md) — Normal/Flying. Stat profile favors physical offense; base Speed 92. Build unspecified; calculated stat bounds available.
+- [Starmie](starmie.md) — Water/Psychic. Stat profile favors special offense; base Speed 115. Build unspecified; calculated stat bounds available.
+- [Starmie-Mega](starmiemega.md) — Water/Psychic. Water/Psychic attacker with Huge Power, which doubles its Attack; base Speed 120. No complete build is specified. Build unspecified; calculated stat bounds available.
+- [Steelix](steelix.md) — Steel/Ground. Stat profile favors physical offense; base Speed 30. Build unspecified; calculated stat bounds available.
+- [Steelix-Mega](steelixmega.md) — Steel/Ground. Stat profile favors physical offense; base Speed 30. Build unspecified; calculated stat bounds available.
+- [Stunfisk](stunfisk.md) — Ground/Electric. Stat profile favors mixed offense; base Speed 32. Build unspecified; calculated stat bounds available.
+- [Stunfisk-Galar](stunfiskgalar.md) — Ground/Steel. Stat profile favors mixed offense; base Speed 32. Build unspecified; calculated stat bounds available.
+- [Swalot](swalot.md) — Poison. Stat profile favors mixed offense; base Speed 55. Build unspecified; calculated stat bounds available.
+- [Tauros](tauros.md) — Normal. Stat profile favors physical offense; base Speed 110. Build unspecified; calculated stat bounds available.
+- [Tauros-Paldea-Aqua](taurospaldeaaqua.md) — Fighting/Water. Stat profile favors physical offense; base Speed 100. Build unspecified; calculated stat bounds available.
+- [Tauros-Paldea-Blaze](taurospaldeablaze.md) — Fighting/Fire. Stat profile favors physical offense; base Speed 100. Build unspecified; calculated stat bounds available.
+- [Tauros-Paldea-Combat](taurospaldeacombat.md) — Fighting. Stat profile favors physical offense; base Speed 100. Build unspecified; calculated stat bounds available.
+- [Toucannon](toucannon.md) — Normal/Flying. Stat profile favors physical offense; base Speed 60. Build unspecified; calculated stat bounds available.
+- [Toxicroak](toxicroak.md) — Poison/Fighting. Stat profile favors physical offense; base Speed 85. Build unspecified; calculated stat bounds available.
+- [Toxtricity-Low-Key](toxtricitylowkey.md) — Electric/Poison. Stat profile favors special offense; base Speed 75. Build unspecified; calculated stat bounds available.
+- [Trevenant](trevenant.md) — Ghost/Grass. Stat profile favors physical offense; base Speed 56. Build unspecified; calculated stat bounds available.
+- [Tyrantrum](tyrantrum.md) — Rock/Dragon. Stat profile favors physical offense; base Speed 71. Build unspecified; calculated stat bounds available.
+- [Umbreon](umbreon.md) — Dark. Stat profile favors mixed offense; base Speed 65. Build unspecified; calculated stat bounds available.
+- [Vaporeon](vaporeon.md) — Water. Stat profile favors special offense; base Speed 65. Build unspecified; calculated stat bounds available.
+- [Victreebel](victreebel.md) — Grass/Poison. Stat profile favors mixed offense; base Speed 70. Build unspecified; calculated stat bounds available.
+- [Victreebel-Mega](victreebelmega.md) — Grass/Poison. Stat profile favors mixed offense; base Speed 70. Build unspecified; calculated stat bounds available.
+- [Vileplume](vileplume.md) — Grass/Poison. Stat profile favors special offense; base Speed 50. Build unspecified; calculated stat bounds available.
+- [Watchog](watchog.md) — Normal. Stat profile favors physical offense; base Speed 77. Build unspecified; calculated stat bounds available.
+- [Wigglytuff](wigglytuff.md) — Normal/Fairy. Stat profile favors mixed offense; base Speed 45. Build unspecified; calculated stat bounds available.
+- [Wyrdeer](wyrdeer.md) — Normal/Psychic. Stat profile favors mixed offense; base Speed 65. Build unspecified; calculated stat bounds available.

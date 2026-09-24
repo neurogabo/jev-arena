@@ -1,0 +1,15 @@
+{
+  "formatId": "gen9championsvgc2026regmc",
+  "server": {
+    "repository": "https://github.com/smogon/pokemon-showdown",
+    "revision": "2ddfa0476f8207e12e204b1c69f7c7683b17633c",
+    "archiveUrl": "https://codeload.github.com/smogon/pokemon-showdown/zip/2ddfa0476f8207e12e204b1c69f7c7683b17633c",
+    "sha256": "35335829def7b507da85574322c55e9ea6acec153ad4ec78919a78b98c08ab65"
+  },
+  "client": {
+    "repository": "https://github.com/smogon/pokemon-showdown-client",
+    "revision": "f2faebd6892b314d785a0038f77309afed36970c",
+    "archiveUrl": "https://codeload.github.com/smogon/pokemon-showdown-client/zip/f2faebd6892b314d785a0038f77309afed36970c",
+    "sha256": "0750173bf9aa5b8d144e0426bca9a14cd00b2bcaa33276486fdb456afba709fb"
+  }
+}

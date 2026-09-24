@@ -1,0 +1,29 @@
+{
+  "name": "jev-arena",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A local Pokémon battle arena powered by Jev and Pokémon Showdown",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=24.16.0"
+  },
+  "scripts": {
+    "setup": "node scripts/init-env.mjs && npm run setup-showdown",
+    "setup-showdown": "tsx scripts/setup-showdown.ts",
+    "start": "node --env-file-if-exists=.env --import tsx src/public/main.ts",
+    "start:offline": "node --env-file-if-exists=.env --import tsx src/public/main.ts --offline",
+    "typecheck": "tsc --noEmit",
+    "verify-data": "tsx scripts/verify-data.ts",
+    "check-public": "node scripts/check-public.mjs"
+  },
+  "dependencies": {
+    "@typesafe-ai/sdk": "0.6.0",
+    "zod": "4.6.5"
+  },
+  "devDependencies": {
+    "@types/node": "26.6.2",
+    "tsx": "4.23.13",
+    "typescript": "7.0.2"
+  }
+}

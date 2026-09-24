@@ -1,0 +1,3860 @@
+{
+  "prepared": "2026-09-19",
+  "environment": {
+    "game": "Pokemon Champions",
+    "format_id": "gen9championsvgc2026regmc",
+    "showdown_commit": "2ddfa0476f8207e12e204b1c69f7c7683b17633c",
+    "snapshot_date": "2026-09-19"
+  },
+  "counts": {
+    "profiles": 382,
+    "selectable": 293,
+    "battle_forms": 89,
+    "with_sourced_builds": 184,
+    "mechanics_baselines": 198,
+    "source_build_records": 399,
+    "derived_form_records": 27,
+    "source_player_teams": 51,
+    "wiki_pages": 1364,
+    "graph_edges": 33495
+  },
+  "profiles": [
+    {
+      "species": "venusaur",
+      "profile": "pokemon:venusaur",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:199",
+        "build:104",
+        "build:332",
+        "build:103"
+      ]
+    },
+    {
+      "species": "venusaurmega",
+      "profile": "pokemon:venusaurmega",
+      "availability": "battle-only",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:103"
+      ]
+    },
+    {
+      "species": "charizard",
+      "profile": "pokemon:charizard",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:168",
+        "build:016",
+        "build:285",
+        "build:015"
+      ]
+    },
+    {
+      "species": "charizardmegax",
+      "profile": "pokemon:charizardmegax",
+      "availability": "battle-only",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:168"
+      ]
+    },
+    {
+      "species": "charizardmegay",
+      "profile": "pokemon:charizardmegay",
+      "availability": "battle-only",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:285",
+        "build:016",
+        "build:329",
+        "build:015"
+      ]
+    },
+    {
+      "species": "blastoise",
+      "profile": "pokemon:blastoise",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:370",
+        "build:014",
+        "build:013"
+      ]
+    },
+    {
+      "species": "blastoisemega",
+      "profile": "pokemon:blastoisemega",
+      "availability": "battle-only",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:370",
+        "build:014",
+        "build:013"
+      ]
+    },
+    {
+      "species": "beedrill",
+      "profile": "pokemon:beedrill",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "beedrillmega",
+      "profile": "pokemon:beedrillmega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "pidgeot",
+      "profile": "pokemon:pidgeot",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "pidgeotmega",
+      "profile": "pokemon:pidgeotmega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "arbok",
+      "profile": "pokemon:arbok",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "pikachu",
+      "profile": "pokemon:pikachu",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "raichu",
+      "profile": "pokemon:raichu",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:214",
+        "build:049",
+        "build:296"
+      ]
+    },
+    {
+      "species": "raichualola",
+      "profile": "pokemon:raichualola",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:249"
+      ]
+    },
+    {
+      "species": "raichumegax",
+      "profile": "pokemon:raichumegax",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "raichumegay",
+      "profile": "pokemon:raichumegay",
+      "availability": "battle-only",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:214",
+        "build:049",
+        "build:296"
+      ]
+    },
+    {
+      "species": "clefable",
+      "profile": "pokemon:clefable",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:281"
+      ]
+    },
+    {
+      "species": "clefablemega",
+      "profile": "pokemon:clefablemega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "ninetales",
+      "profile": "pokemon:ninetales",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "ninetalesalola",
+      "profile": "pokemon:ninetalesalola",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:257",
+        "build:046",
+        "build:339",
+        "build:047"
+      ]
+    },
+    {
+      "species": "wigglytuff",
+      "profile": "pokemon:wigglytuff",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "vileplume",
+      "profile": "pokemon:vileplume",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "persian",
+      "profile": "pokemon:persian",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "persianalola",
+      "profile": "pokemon:persianalola",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:272"
+      ]
+    },
+    {
+      "species": "arcanine",
+      "profile": "pokemon:arcanine",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:391"
+      ]
+    },
+    {
+      "species": "arcaninehisui",
+      "profile": "pokemon:arcaninehisui",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:097",
+        "build:005",
+        "build:247"
+      ]
+    },
+    {
+      "species": "alakazam",
+      "profile": "pokemon:alakazam",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:198"
+      ]
+    },
+    {
+      "species": "alakazammega",
+      "profile": "pokemon:alakazammega",
+      "availability": "battle-only",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:198"
+      ]
+    },
+    {
+      "species": "machamp",
+      "profile": "pokemon:machamp",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "victreebel",
+      "profile": "pokemon:victreebel",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "victreebelmega",
+      "profile": "pokemon:victreebelmega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "slowbro",
+      "profile": "pokemon:slowbro",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "slowbromega",
+      "profile": "pokemon:slowbromega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "slowbrogalar",
+      "profile": "pokemon:slowbrogalar",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "farfetchd",
+      "profile": "pokemon:farfetchd",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "gengar",
+      "profile": "pokemon:gengar",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:154",
+        "build:034",
+        "build:313",
+        "build:033"
+      ]
+    },
+    {
+      "species": "gengarmega",
+      "profile": "pokemon:gengarmega",
+      "availability": "battle-only",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:154",
+        "build:034",
+        "build:313",
+        "build:033"
+      ]
+    },
+    {
+      "species": "kangaskhan",
+      "profile": "pokemon:kangaskhan",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "kangaskhanmega",
+      "profile": "pokemon:kangaskhanmega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "starmie",
+      "profile": "pokemon:starmie",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "starmiemega",
+      "profile": "pokemon:starmiemega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "mrmime",
+      "profile": "pokemon:mrmime",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "pinsir",
+      "profile": "pokemon:pinsir",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "pinsirmega",
+      "profile": "pokemon:pinsirmega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "tauros",
+      "profile": "pokemon:tauros",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "taurospaldeacombat",
+      "profile": "pokemon:taurospaldeacombat",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "taurospaldeablaze",
+      "profile": "pokemon:taurospaldeablaze",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "taurospaldeaaqua",
+      "profile": "pokemon:taurospaldeaaqua",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "gyarados",
+      "profile": "pokemon:gyarados",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:260"
+      ]
+    },
+    {
+      "species": "gyaradosmega",
+      "profile": "pokemon:gyaradosmega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "ditto",
+      "profile": "pokemon:ditto",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "vaporeon",
+      "profile": "pokemon:vaporeon",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "jolteon",
+      "profile": "pokemon:jolteon",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "flareon",
+      "profile": "pokemon:flareon",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "aerodactyl",
+      "profile": "pokemon:aerodactyl",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:092",
+        "build:003",
+        "build:001"
+      ]
+    },
+    {
+      "species": "aerodactylmega",
+      "profile": "pokemon:aerodactylmega",
+      "availability": "battle-only",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:003",
+        "build:002"
+      ]
+    },
+    {
+      "species": "snorlax",
+      "profile": "pokemon:snorlax",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:372",
+        "build:053"
+      ]
+    },
+    {
+      "species": "dragonite",
+      "profile": "pokemon:dragonite",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:077",
+        "build:020",
+        "build:297",
+        "build:021"
+      ]
+    },
+    {
+      "species": "dragonitemega",
+      "profile": "pokemon:dragonitemega",
+      "availability": "battle-only",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:077",
+        "build:021",
+        "build:019"
+      ]
+    },
+    {
+      "species": "meganium",
+      "profile": "pokemon:meganium",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "meganiummega",
+      "profile": "pokemon:meganiummega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "typhlosion",
+      "profile": "pokemon:typhlosion",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:174"
+      ]
+    },
+    {
+      "species": "typhlosionhisui",
+      "profile": "pokemon:typhlosionhisui",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:267"
+      ]
+    },
+    {
+      "species": "feraligatr",
+      "profile": "pokemon:feraligatr",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "feraligatrmega",
+      "profile": "pokemon:feraligatrmega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "ariados",
+      "profile": "pokemon:ariados",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "ampharos",
+      "profile": "pokemon:ampharos",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "ampharosmega",
+      "profile": "pokemon:ampharosmega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "azumarill",
+      "profile": "pokemon:azumarill",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "politoed",
+      "profile": "pokemon:politoed",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:158",
+        "build:107",
+        "build:361"
+      ]
+    },
+    {
+      "species": "espeon",
+      "profile": "pokemon:espeon",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "umbreon",
+      "profile": "pokemon:umbreon",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "slowking",
+      "profile": "pokemon:slowking",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "slowkinggalar",
+      "profile": "pokemon:slowkinggalar",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "forretress",
+      "profile": "pokemon:forretress",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "steelix",
+      "profile": "pokemon:steelix",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "steelixmega",
+      "profile": "pokemon:steelixmega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "qwilfish",
+      "profile": "pokemon:qwilfish",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "scizor",
+      "profile": "pokemon:scizor",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:341",
+        "build:366"
+      ]
+    },
+    {
+      "species": "scizormega",
+      "profile": "pokemon:scizormega",
+      "availability": "battle-only",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:341"
+      ]
+    },
+    {
+      "species": "heracross",
+      "profile": "pokemon:heracross",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "heracrossmega",
+      "profile": "pokemon:heracrossmega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "skarmory",
+      "profile": "pokemon:skarmory",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "skarmorymega",
+      "profile": "pokemon:skarmorymega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "houndoom",
+      "profile": "pokemon:houndoom",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "houndoommega",
+      "profile": "pokemon:houndoommega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "tyranitar",
+      "profile": "pokemon:tyranitar",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:099",
+        "build:109",
+        "build:175",
+        "build:108"
+      ]
+    },
+    {
+      "species": "tyranitarmega",
+      "profile": "pokemon:tyranitarmega",
+      "availability": "battle-only",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:099",
+        "build:109",
+        "build:175",
+        "build:108"
+      ]
+    },
+    {
+      "species": "sceptile",
+      "profile": "pokemon:sceptile",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "sceptilemega",
+      "profile": "pokemon:sceptilemega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "blaziken",
+      "profile": "pokemon:blaziken",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:273",
+        "build:110",
+        "build:293"
+      ]
+    },
+    {
+      "species": "blazikenmega",
+      "profile": "pokemon:blazikenmega",
+      "availability": "battle-only",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:273",
+        "build:110"
+      ]
+    },
+    {
+      "species": "swampert",
+      "profile": "pokemon:swampert",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:159",
+        "build:111"
+      ]
+    },
+    {
+      "species": "swampertmega",
+      "profile": "pokemon:swampertmega",
+      "availability": "battle-only",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:159",
+        "build:111"
+      ]
+    },
+    {
+      "species": "pelipper",
+      "profile": "pokemon:pelipper",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:072",
+        "build:048",
+        "build:080"
+      ]
+    },
+    {
+      "species": "gardevoir",
+      "profile": "pokemon:gardevoir",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:298",
+        "build:032",
+        "build:365"
+      ]
+    },
+    {
+      "species": "gardevoirmega",
+      "profile": "pokemon:gardevoirmega",
+      "availability": "battle-only",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:298",
+        "build:032",
+        "build:365"
+      ]
+    },
+    {
+      "species": "sableye",
+      "profile": "pokemon:sableye",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:167",
+        "build:112"
+      ]
+    },
+    {
+      "species": "sableyemega",
+      "profile": "pokemon:sableyemega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "mawile",
+      "profile": "pokemon:mawile",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:200",
+        "build:113",
+        "build:262"
+      ]
+    },
+    {
+      "species": "mawilemega",
+      "profile": "pokemon:mawilemega",
+      "availability": "battle-only",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:200",
+        "build:113",
+        "build:262"
+      ]
+    },
+    {
+      "species": "aggron",
+      "profile": "pokemon:aggron",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:190"
+      ]
+    },
+    {
+      "species": "aggronmega",
+      "profile": "pokemon:aggronmega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "medicham",
+      "profile": "pokemon:medicham",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:143"
+      ]
+    },
+    {
+      "species": "medichammega",
+      "profile": "pokemon:medichammega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "manectric",
+      "profile": "pokemon:manectric",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:073"
+      ]
+    },
+    {
+      "species": "manectricmega",
+      "profile": "pokemon:manectricmega",
+      "availability": "battle-only",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:073"
+      ]
+    },
+    {
+      "species": "swalot",
+      "profile": "pokemon:swalot",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "sharpedo",
+      "profile": "pokemon:sharpedo",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "sharpedomega",
+      "profile": "pokemon:sharpedomega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "camerupt",
+      "profile": "pokemon:camerupt",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:137"
+      ]
+    },
+    {
+      "species": "cameruptmega",
+      "profile": "pokemon:cameruptmega",
+      "availability": "battle-only",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:137"
+      ]
+    },
+    {
+      "species": "torkoal",
+      "profile": "pokemon:torkoal",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:201",
+        "build:056"
+      ]
+    },
+    {
+      "species": "altaria",
+      "profile": "pokemon:altaria",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "altariamega",
+      "profile": "pokemon:altariamega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "milotic",
+      "profile": "pokemon:milotic",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:064",
+        "build:044",
+        "build:095"
+      ]
+    },
+    {
+      "species": "castform",
+      "profile": "pokemon:castform",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "castformsunny",
+      "profile": "pokemon:castformsunny",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "castformrainy",
+      "profile": "pokemon:castformrainy",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "castformsnowy",
+      "profile": "pokemon:castformsnowy",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "banette",
+      "profile": "pokemon:banette",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "banettemega",
+      "profile": "pokemon:banettemega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "chimecho",
+      "profile": "pokemon:chimecho",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:192"
+      ]
+    },
+    {
+      "species": "chimechomega",
+      "profile": "pokemon:chimechomega",
+      "availability": "battle-only",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:192"
+      ]
+    },
+    {
+      "species": "absol",
+      "profile": "pokemon:absol",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:088",
+        "build:202"
+      ]
+    },
+    {
+      "species": "absolmega",
+      "profile": "pokemon:absolmega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "absolmegaz",
+      "profile": "pokemon:absolmegaz",
+      "availability": "battle-only",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:088",
+        "build:202"
+      ]
+    },
+    {
+      "species": "glalie",
+      "profile": "pokemon:glalie",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:142"
+      ]
+    },
+    {
+      "species": "glaliemega",
+      "profile": "pokemon:glaliemega",
+      "availability": "battle-only",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:142"
+      ]
+    },
+    {
+      "species": "salamence",
+      "profile": "pokemon:salamence",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:087",
+        "build:184"
+      ]
+    },
+    {
+      "species": "salamencemega",
+      "profile": "pokemon:salamencemega",
+      "availability": "battle-only",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:087",
+        "build:184"
+      ]
+    },
+    {
+      "species": "metagross",
+      "profile": "pokemon:metagross",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:076",
+        "build:043",
+        "build:292"
+      ]
+    },
+    {
+      "species": "metagrossmega",
+      "profile": "pokemon:metagrossmega",
+      "availability": "battle-only",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:076",
+        "build:043",
+        "build:292"
+      ]
+    },
+    {
+      "species": "torterra",
+      "profile": "pokemon:torterra",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:276"
+      ]
+    },
+    {
+      "species": "infernape",
+      "profile": "pokemon:infernape",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "empoleon",
+      "profile": "pokemon:empoleon",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:206",
+        "build:324"
+      ]
+    },
+    {
+      "species": "staraptor",
+      "profile": "pokemon:staraptor",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:149",
+        "build:114",
+        "build:359"
+      ]
+    },
+    {
+      "species": "staraptormega",
+      "profile": "pokemon:staraptormega",
+      "availability": "battle-only",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:149",
+        "build:114"
+      ]
+    },
+    {
+      "species": "luxray",
+      "profile": "pokemon:luxray",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "roserade",
+      "profile": "pokemon:roserade",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "rampardos",
+      "profile": "pokemon:rampardos",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "bastiodon",
+      "profile": "pokemon:bastiodon",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "lopunny",
+      "profile": "pokemon:lopunny",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "lopunnymega",
+      "profile": "pokemon:lopunnymega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "spiritomb",
+      "profile": "pokemon:spiritomb",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "garchomp",
+      "profile": "pokemon:garchomp",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:067",
+        "build:030",
+        "build:160",
+        "build:031"
+      ]
+    },
+    {
+      "species": "garchompmega",
+      "profile": "pokemon:garchompmega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "garchompmegaz",
+      "profile": "pokemon:garchompmegaz",
+      "availability": "battle-only",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:067",
+        "build:160"
+      ]
+    },
+    {
+      "species": "lucario",
+      "profile": "pokemon:lucario",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:089",
+        "build:280"
+      ]
+    },
+    {
+      "species": "lucariomega",
+      "profile": "pokemon:lucariomega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "lucariomegaz",
+      "profile": "pokemon:lucariomegaz",
+      "availability": "battle-only",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:089",
+        "build:280"
+      ]
+    },
+    {
+      "species": "hippowdon",
+      "profile": "pokemon:hippowdon",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:231"
+      ]
+    },
+    {
+      "species": "toxicroak",
+      "profile": "pokemon:toxicroak",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "abomasnow",
+      "profile": "pokemon:abomasnow",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:189"
+      ]
+    },
+    {
+      "species": "abomasnowmega",
+      "profile": "pokemon:abomasnowmega",
+      "availability": "battle-only",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:189"
+      ]
+    },
+    {
+      "species": "weavile",
+      "profile": "pokemon:weavile",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:312"
+      ]
+    },
+    {
+      "species": "rhyperior",
+      "profile": "pokemon:rhyperior",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "leafeon",
+      "profile": "pokemon:leafeon",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "glaceon",
+      "profile": "pokemon:glaceon",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "gliscor",
+      "profile": "pokemon:gliscor",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "mamoswine",
+      "profile": "pokemon:mamoswine",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:115"
+      ]
+    },
+    {
+      "species": "gallade",
+      "profile": "pokemon:gallade",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:141",
+        "build:170"
+      ]
+    },
+    {
+      "species": "gallademega",
+      "profile": "pokemon:gallademega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "froslass",
+      "profile": "pokemon:froslass",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:058",
+        "build:027",
+        "build:026"
+      ]
+    },
+    {
+      "species": "froslassmega",
+      "profile": "pokemon:froslassmega",
+      "availability": "battle-only",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:058",
+        "build:027",
+        "build:026"
+      ]
+    },
+    {
+      "species": "rotom",
+      "profile": "pokemon:rotom",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "rotomheat",
+      "profile": "pokemon:rotomheat",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:278"
+      ]
+    },
+    {
+      "species": "rotomwash",
+      "profile": "pokemon:rotomwash",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:116",
+        "build:117"
+      ]
+    },
+    {
+      "species": "rotomfrost",
+      "profile": "pokemon:rotomfrost",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "rotomfan",
+      "profile": "pokemon:rotomfan",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "rotommow",
+      "profile": "pokemon:rotommow",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:204"
+      ]
+    },
+    {
+      "species": "serperior",
+      "profile": "pokemon:serperior",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "emboar",
+      "profile": "pokemon:emboar",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "emboarmega",
+      "profile": "pokemon:emboarmega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "samurott",
+      "profile": "pokemon:samurott",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "samurotthisui",
+      "profile": "pokemon:samurotthisui",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "watchog",
+      "profile": "pokemon:watchog",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "liepard",
+      "profile": "pokemon:liepard",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "simisage",
+      "profile": "pokemon:simisage",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "simisear",
+      "profile": "pokemon:simisear",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "simipour",
+      "profile": "pokemon:simipour",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "musharna",
+      "profile": "pokemon:musharna",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "excadrill",
+      "profile": "pokemon:excadrill",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:098",
+        "build:119",
+        "build:369",
+        "build:118"
+      ]
+    },
+    {
+      "species": "excadrillmega",
+      "profile": "pokemon:excadrillmega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "audino",
+      "profile": "pokemon:audino",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "audinomega",
+      "profile": "pokemon:audinomega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "conkeldurr",
+      "profile": "pokemon:conkeldurr",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "scolipede",
+      "profile": "pokemon:scolipede",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "scolipedemega",
+      "profile": "pokemon:scolipedemega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "whimsicott",
+      "profile": "pokemon:whimsicott",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:150",
+        "build:121",
+        "build:120"
+      ]
+    },
+    {
+      "species": "krookodile",
+      "profile": "pokemon:krookodile",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "scrafty",
+      "profile": "pokemon:scrafty",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:265",
+        "build:308"
+      ]
+    },
+    {
+      "species": "scraftymega",
+      "profile": "pokemon:scraftymega",
+      "availability": "battle-only",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:265"
+      ]
+    },
+    {
+      "species": "cofagrigus",
+      "profile": "pokemon:cofagrigus",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "garbodor",
+      "profile": "pokemon:garbodor",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "zoroark",
+      "profile": "pokemon:zoroark",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:183"
+      ]
+    },
+    {
+      "species": "zoroarkhisui",
+      "profile": "pokemon:zoroarkhisui",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:148",
+        "build:353"
+      ]
+    },
+    {
+      "species": "reuniclus",
+      "profile": "pokemon:reuniclus",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "vanilluxe",
+      "profile": "pokemon:vanilluxe",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:237"
+      ]
+    },
+    {
+      "species": "emolga",
+      "profile": "pokemon:emolga",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "eelektross",
+      "profile": "pokemon:eelektross",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "eelektrossmega",
+      "profile": "pokemon:eelektrossmega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "chandelure",
+      "profile": "pokemon:chandelure",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:351"
+      ]
+    },
+    {
+      "species": "chandeluremega",
+      "profile": "pokemon:chandeluremega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "beartic",
+      "profile": "pokemon:beartic",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "stunfisk",
+      "profile": "pokemon:stunfisk",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "stunfiskgalar",
+      "profile": "pokemon:stunfiskgalar",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "golurk",
+      "profile": "pokemon:golurk",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "golurkmega",
+      "profile": "pokemon:golurkmega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "hydreigon",
+      "profile": "pokemon:hydreigon",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:210",
+        "build:122",
+        "build:398"
+      ]
+    },
+    {
+      "species": "volcarona",
+      "profile": "pokemon:volcarona",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:227"
+      ]
+    },
+    {
+      "species": "chesnaught",
+      "profile": "pokemon:chesnaught",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "chesnaughtmega",
+      "profile": "pokemon:chesnaughtmega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "delphox",
+      "profile": "pokemon:delphox",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:018"
+      ]
+    },
+    {
+      "species": "delphoxmega",
+      "profile": "pokemon:delphoxmega",
+      "availability": "battle-only",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:018"
+      ]
+    },
+    {
+      "species": "greninja",
+      "profile": "pokemon:greninja",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "greninjamega",
+      "profile": "pokemon:greninjamega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "diggersby",
+      "profile": "pokemon:diggersby",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "talonflame",
+      "profile": "pokemon:talonflame",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:164",
+        "build:123"
+      ]
+    },
+    {
+      "species": "vivillon",
+      "profile": "pokemon:vivillon",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:124"
+      ]
+    },
+    {
+      "species": "vivillonicysnow",
+      "profile": "pokemon:vivillonicysnow",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "derived:001"
+      ]
+    },
+    {
+      "species": "vivillonpolar",
+      "profile": "pokemon:vivillonpolar",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "derived:002"
+      ]
+    },
+    {
+      "species": "vivillontundra",
+      "profile": "pokemon:vivillontundra",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "derived:003"
+      ]
+    },
+    {
+      "species": "vivilloncontinental",
+      "profile": "pokemon:vivilloncontinental",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "derived:004"
+      ]
+    },
+    {
+      "species": "vivillongarden",
+      "profile": "pokemon:vivillongarden",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "derived:005"
+      ]
+    },
+    {
+      "species": "vivillonelegant",
+      "profile": "pokemon:vivillonelegant",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "derived:006"
+      ]
+    },
+    {
+      "species": "vivillonmodern",
+      "profile": "pokemon:vivillonmodern",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "derived:007"
+      ]
+    },
+    {
+      "species": "vivillonmarine",
+      "profile": "pokemon:vivillonmarine",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "derived:008"
+      ]
+    },
+    {
+      "species": "vivillonarchipelago",
+      "profile": "pokemon:vivillonarchipelago",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "derived:009"
+      ]
+    },
+    {
+      "species": "vivillonhighplains",
+      "profile": "pokemon:vivillonhighplains",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "derived:010"
+      ]
+    },
+    {
+      "species": "vivillonsandstorm",
+      "profile": "pokemon:vivillonsandstorm",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "derived:011"
+      ]
+    },
+    {
+      "species": "vivillonriver",
+      "profile": "pokemon:vivillonriver",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "derived:012"
+      ]
+    },
+    {
+      "species": "vivillonmonsoon",
+      "profile": "pokemon:vivillonmonsoon",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "derived:013"
+      ]
+    },
+    {
+      "species": "vivillonsavanna",
+      "profile": "pokemon:vivillonsavanna",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "derived:014"
+      ]
+    },
+    {
+      "species": "vivillonsun",
+      "profile": "pokemon:vivillonsun",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "derived:015"
+      ]
+    },
+    {
+      "species": "vivillonocean",
+      "profile": "pokemon:vivillonocean",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "derived:016"
+      ]
+    },
+    {
+      "species": "vivillonjungle",
+      "profile": "pokemon:vivillonjungle",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "derived:017"
+      ]
+    },
+    {
+      "species": "vivillonfancy",
+      "profile": "pokemon:vivillonfancy",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "derived:018"
+      ]
+    },
+    {
+      "species": "vivillonpokeball",
+      "profile": "pokemon:vivillonpokeball",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "derived:019"
+      ]
+    },
+    {
+      "species": "pyroar",
+      "profile": "pokemon:pyroar",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:208",
+        "build:125"
+      ]
+    },
+    {
+      "species": "pyroarmega",
+      "profile": "pokemon:pyroarmega",
+      "availability": "battle-only",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:208",
+        "build:125"
+      ]
+    },
+    {
+      "species": "floetteeternal",
+      "profile": "pokemon:floetteeternal",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:086",
+        "build:025",
+        "build:153",
+        "build:024"
+      ]
+    },
+    {
+      "species": "floettemega",
+      "profile": "pokemon:floettemega",
+      "availability": "battle-only",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:086",
+        "build:025",
+        "build:153",
+        "build:024"
+      ]
+    },
+    {
+      "species": "florges",
+      "profile": "pokemon:florges",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "gogoat",
+      "profile": "pokemon:gogoat",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:250"
+      ]
+    },
+    {
+      "species": "pangoro",
+      "profile": "pokemon:pangoro",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "furfrou",
+      "profile": "pokemon:furfrou",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "meowstic",
+      "profile": "pokemon:meowstic",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "meowsticf",
+      "profile": "pokemon:meowsticf",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:178"
+      ]
+    },
+    {
+      "species": "meowsticmmega",
+      "profile": "pokemon:meowsticmmega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "meowsticfmega",
+      "profile": "pokemon:meowsticfmega",
+      "availability": "battle-only",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:178"
+      ]
+    },
+    {
+      "species": "aegislash",
+      "profile": "pokemon:aegislash",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:165",
+        "build:126",
+        "build:333",
+        "derived:020"
+      ]
+    },
+    {
+      "species": "aegislashblade",
+      "profile": "pokemon:aegislashblade",
+      "availability": "battle-only",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "derived:021",
+        "derived:020",
+        "derived:022"
+      ]
+    },
+    {
+      "species": "aromatisse",
+      "profile": "pokemon:aromatisse",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "slurpuff",
+      "profile": "pokemon:slurpuff",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "malamar",
+      "profile": "pokemon:malamar",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:330"
+      ]
+    },
+    {
+      "species": "malamarmega",
+      "profile": "pokemon:malamarmega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "barbaracle",
+      "profile": "pokemon:barbaracle",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "barbaraclemega",
+      "profile": "pokemon:barbaraclemega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "dragalge",
+      "profile": "pokemon:dragalge",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:323"
+      ]
+    },
+    {
+      "species": "dragalgemega",
+      "profile": "pokemon:dragalgemega",
+      "availability": "battle-only",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:323"
+      ]
+    },
+    {
+      "species": "clawitzer",
+      "profile": "pokemon:clawitzer",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:356"
+      ]
+    },
+    {
+      "species": "heliolisk",
+      "profile": "pokemon:heliolisk",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "tyrantrum",
+      "profile": "pokemon:tyrantrum",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "aurorus",
+      "profile": "pokemon:aurorus",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "sylveon",
+      "profile": "pokemon:sylveon",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:091",
+        "build:055",
+        "build:162",
+        "build:054"
+      ]
+    },
+    {
+      "species": "hawlucha",
+      "profile": "pokemon:hawlucha",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:371"
+      ]
+    },
+    {
+      "species": "hawluchamega",
+      "profile": "pokemon:hawluchamega",
+      "availability": "battle-only",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:371"
+      ]
+    },
+    {
+      "species": "dedenne",
+      "profile": "pokemon:dedenne",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "goodra",
+      "profile": "pokemon:goodra",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "goodrahisui",
+      "profile": "pokemon:goodrahisui",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "klefki",
+      "profile": "pokemon:klefki",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:191",
+        "build:291"
+      ]
+    },
+    {
+      "species": "trevenant",
+      "profile": "pokemon:trevenant",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "gourgeist",
+      "profile": "pokemon:gourgeist",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "gourgeistsmall",
+      "profile": "pokemon:gourgeistsmall",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "gourgeistlarge",
+      "profile": "pokemon:gourgeistlarge",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "gourgeistsuper",
+      "profile": "pokemon:gourgeistsuper",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "avalugg",
+      "profile": "pokemon:avalugg",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "avalugghisui",
+      "profile": "pokemon:avalugghisui",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "noivern",
+      "profile": "pokemon:noivern",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:144"
+      ]
+    },
+    {
+      "species": "decidueye",
+      "profile": "pokemon:decidueye",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "decidueyehisui",
+      "profile": "pokemon:decidueyehisui",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "incineroar",
+      "profile": "pokemon:incineroar",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:085",
+        "build:039",
+        "build:152",
+        "build:038"
+      ]
+    },
+    {
+      "species": "primarina",
+      "profile": "pokemon:primarina",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:316"
+      ]
+    },
+    {
+      "species": "toucannon",
+      "profile": "pokemon:toucannon",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "crabominable",
+      "profile": "pokemon:crabominable",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:136"
+      ]
+    },
+    {
+      "species": "crabominablemega",
+      "profile": "pokemon:crabominablemega",
+      "availability": "battle-only",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:136"
+      ]
+    },
+    {
+      "species": "lycanroc",
+      "profile": "pokemon:lycanroc",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "lycanrocmidnight",
+      "profile": "pokemon:lycanrocmidnight",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "lycanrocdusk",
+      "profile": "pokemon:lycanrocdusk",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:059",
+        "build:127"
+      ]
+    },
+    {
+      "species": "toxapex",
+      "profile": "pokemon:toxapex",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:057",
+        "build:102"
+      ]
+    },
+    {
+      "species": "mudsdale",
+      "profile": "pokemon:mudsdale",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:188"
+      ]
+    },
+    {
+      "species": "araquanid",
+      "profile": "pokemon:araquanid",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "salazzle",
+      "profile": "pokemon:salazzle",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:396"
+      ]
+    },
+    {
+      "species": "tsareena",
+      "profile": "pokemon:tsareena",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:093"
+      ]
+    },
+    {
+      "species": "oranguru",
+      "profile": "pokemon:oranguru",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "passimian",
+      "profile": "pokemon:passimian",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "golisopod",
+      "profile": "pokemon:golisopod",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:069",
+        "build:070"
+      ]
+    },
+    {
+      "species": "golisopodmega",
+      "profile": "pokemon:golisopodmega",
+      "availability": "battle-only",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:069",
+        "build:070"
+      ]
+    },
+    {
+      "species": "mimikyu",
+      "profile": "pokemon:mimikyu",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:185",
+        "derived:023"
+      ]
+    },
+    {
+      "species": "mimikyubusted",
+      "profile": "pokemon:mimikyubusted",
+      "availability": "battle-only",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "derived:023"
+      ]
+    },
+    {
+      "species": "drampa",
+      "profile": "pokemon:drampa",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "drampamega",
+      "profile": "pokemon:drampamega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "kommoo",
+      "profile": "pokemon:kommoo",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:157",
+        "build:128"
+      ]
+    },
+    {
+      "species": "rillaboom",
+      "profile": "pokemon:rillaboom",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:050",
+        "build:075",
+        "build:082"
+      ]
+    },
+    {
+      "species": "cinderace",
+      "profile": "pokemon:cinderace",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:182"
+      ]
+    },
+    {
+      "species": "inteleon",
+      "profile": "pokemon:inteleon",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "corviknight",
+      "profile": "pokemon:corviknight",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:176",
+        "build:129"
+      ]
+    },
+    {
+      "species": "thievul",
+      "profile": "pokemon:thievul",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:303"
+      ]
+    },
+    {
+      "species": "flapple",
+      "profile": "pokemon:flapple",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "appletun",
+      "profile": "pokemon:appletun",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "sandaconda",
+      "profile": "pokemon:sandaconda",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "toxtricity",
+      "profile": "pokemon:toxtricity",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:161",
+        "build:271"
+      ]
+    },
+    {
+      "species": "toxtricitylowkey",
+      "profile": "pokemon:toxtricitylowkey",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "grapploct",
+      "profile": "pokemon:grapploct",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:221"
+      ]
+    },
+    {
+      "species": "polteageist",
+      "profile": "pokemon:polteageist",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "polteageistantique",
+      "profile": "pokemon:polteageistantique",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "hatterene",
+      "profile": "pokemon:hatterene",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:139",
+        "build:224"
+      ]
+    },
+    {
+      "species": "grimmsnarl",
+      "profile": "pokemon:grimmsnarl",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:065",
+        "build:130",
+        "build:240"
+      ]
+    },
+    {
+      "species": "perrserker",
+      "profile": "pokemon:perrserker",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:225"
+      ]
+    },
+    {
+      "species": "sirfetchd",
+      "profile": "pokemon:sirfetchd",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:217"
+      ]
+    },
+    {
+      "species": "mrrime",
+      "profile": "pokemon:mrrime",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "runerigus",
+      "profile": "pokemon:runerigus",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "alcremie",
+      "profile": "pokemon:alcremie",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "alcremierubycream",
+      "profile": "pokemon:alcremierubycream",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "alcremiematchacream",
+      "profile": "pokemon:alcremiematchacream",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "alcremiemintcream",
+      "profile": "pokemon:alcremiemintcream",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "alcremielemoncream",
+      "profile": "pokemon:alcremielemoncream",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "alcremierubyswirl",
+      "profile": "pokemon:alcremierubyswirl",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "alcremiecaramelswirl",
+      "profile": "pokemon:alcremiecaramelswirl",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "alcremierainbowswirl",
+      "profile": "pokemon:alcremierainbowswirl",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "falinks",
+      "profile": "pokemon:falinks",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "falinksmega",
+      "profile": "pokemon:falinksmega",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "pincurchin",
+      "profile": "pokemon:pincurchin",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:245"
+      ]
+    },
+    {
+      "species": "indeedee",
+      "profile": "pokemon:indeedee",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:172",
+        "build:246"
+      ]
+    },
+    {
+      "species": "indeedeef",
+      "profile": "pokemon:indeedeef",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:040",
+        "build:081",
+        "build:138"
+      ]
+    },
+    {
+      "species": "morpeko",
+      "profile": "pokemon:morpeko",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "morpekohangry",
+      "profile": "pokemon:morpekohangry",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "dragapult",
+      "profile": "pokemon:dragapult",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:218"
+      ]
+    },
+    {
+      "species": "wyrdeer",
+      "profile": "pokemon:wyrdeer",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "kleavor",
+      "profile": "pokemon:kleavor",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "basculegion",
+      "profile": "pokemon:basculegion",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:062",
+        "build:011",
+        "build:078",
+        "build:012"
+      ]
+    },
+    {
+      "species": "basculegionf",
+      "profile": "pokemon:basculegionf",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:384"
+      ]
+    },
+    {
+      "species": "sneasler",
+      "profile": "pokemon:sneasler",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:063",
+        "build:052",
+        "build:100",
+        "build:083"
+      ]
+    },
+    {
+      "species": "overqwil",
+      "profile": "pokemon:overqwil",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:286"
+      ]
+    },
+    {
+      "species": "meowscarada",
+      "profile": "pokemon:meowscarada",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "skeledirge",
+      "profile": "pokemon:skeledirge",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:259"
+      ]
+    },
+    {
+      "species": "quaquaval",
+      "profile": "pokemon:quaquaval",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "pawmot",
+      "profile": "pokemon:pawmot",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:145",
+        "build:338"
+      ]
+    },
+    {
+      "species": "maushold",
+      "profile": "pokemon:maushold",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:131"
+      ]
+    },
+    {
+      "species": "mausholdfour",
+      "profile": "pokemon:mausholdfour",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:242"
+      ]
+    },
+    {
+      "species": "arboliva",
+      "profile": "pokemon:arboliva",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "squawkabilly",
+      "profile": "pokemon:squawkabilly",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "squawkabillyblue",
+      "profile": "pokemon:squawkabillyblue",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "squawkabillyyellow",
+      "profile": "pokemon:squawkabillyyellow",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "squawkabillywhite",
+      "profile": "pokemon:squawkabillywhite",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "garganacl",
+      "profile": "pokemon:garganacl",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "armarouge",
+      "profile": "pokemon:armarouge",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:140",
+        "build:181"
+      ]
+    },
+    {
+      "species": "ceruledge",
+      "profile": "pokemon:ceruledge",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:252",
+        "build:132"
+      ]
+    },
+    {
+      "species": "bellibolt",
+      "profile": "pokemon:bellibolt",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:379"
+      ]
+    },
+    {
+      "species": "mabosstiff",
+      "profile": "pokemon:mabosstiff",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "scovillain",
+      "profile": "pokemon:scovillain",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:060",
+        "build:133"
+      ]
+    },
+    {
+      "species": "scovillainmega",
+      "profile": "pokemon:scovillainmega",
+      "availability": "battle-only",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:060",
+        "build:133"
+      ]
+    },
+    {
+      "species": "espathra",
+      "profile": "pokemon:espathra",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "tinkaton",
+      "profile": "pokemon:tinkaton",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:337"
+      ]
+    },
+    {
+      "species": "palafin",
+      "profile": "pokemon:palafin",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "palafinhero",
+      "profile": "pokemon:palafinhero",
+      "availability": "battle-only",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "orthworm",
+      "profile": "pokemon:orthworm",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    },
+    {
+      "species": "glimmora",
+      "profile": "pokemon:glimmora",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:230",
+        "build:037",
+        "build:036"
+      ]
+    },
+    {
+      "species": "glimmoramega",
+      "profile": "pokemon:glimmoramega",
+      "availability": "battle-only",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:230",
+        "build:037"
+      ]
+    },
+    {
+      "species": "houndstone",
+      "profile": "pokemon:houndstone",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:239"
+      ]
+    },
+    {
+      "species": "annihilape",
+      "profile": "pokemon:annihilape",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:315",
+        "build:004"
+      ]
+    },
+    {
+      "species": "farigiraf",
+      "profile": "pokemon:farigiraf",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:068",
+        "build:023",
+        "build:071",
+        "build:022"
+      ]
+    },
+    {
+      "species": "kingambit",
+      "profile": "pokemon:kingambit",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:061",
+        "build:042",
+        "build:195",
+        "build:041"
+      ]
+    },
+    {
+      "species": "baxcalibur",
+      "profile": "pokemon:baxcalibur",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:094",
+        "build:253"
+      ]
+    },
+    {
+      "species": "baxcaliburmega",
+      "profile": "pokemon:baxcaliburmega",
+      "availability": "battle-only",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:094",
+        "build:253"
+      ]
+    },
+    {
+      "species": "gholdengo",
+      "profile": "pokemon:gholdengo",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:066",
+        "build:035",
+        "build:084"
+      ]
+    },
+    {
+      "species": "sinistcha",
+      "profile": "pokemon:sinistcha",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:236",
+        "build:135",
+        "build:134",
+        "derived:024"
+      ]
+    },
+    {
+      "species": "sinistchamasterpiece",
+      "profile": "pokemon:sinistchamasterpiece",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:169",
+        "derived:026",
+        "derived:027",
+        "derived:025"
+      ]
+    },
+    {
+      "species": "archaludon",
+      "profile": "pokemon:archaludon",
+      "availability": "team-selection",
+      "coverage": "sourced-builds",
+      "build_ids": [
+        "build:074",
+        "build:007",
+        "build:079",
+        "build:006"
+      ]
+    },
+    {
+      "species": "hydrapple",
+      "profile": "pokemon:hydrapple",
+      "availability": "team-selection",
+      "coverage": "mechanics-baseline",
+      "build_ids": []
+    }
+  ],
+  "form_equivalences": [
+    {
+      "species": "vivillon",
+      "equivalents": [
+        "vivillonicysnow",
+        "vivillonpolar",
+        "vivillontundra",
+        "vivilloncontinental",
+        "vivillongarden",
+        "vivillonelegant",
+        "vivillonmodern",
+        "vivillonmarine",
+        "vivillonarchipelago",
+        "vivillonhighplains",
+        "vivillonsandstorm",
+        "vivillonriver",
+        "vivillonmonsoon",
+        "vivillonsavanna",
+        "vivillonsun",
+        "vivillonocean",
+        "vivillonjungle",
+        "vivillonfancy",
+        "vivillonpokeball"
+      ]
+    },
+    {
+      "species": "vivillonicysnow",
+      "equivalents": [
+        "vivillon",
+        "vivillonpolar",
+        "vivillontundra",
+        "vivilloncontinental",
+        "vivillongarden",
+        "vivillonelegant",
+        "vivillonmodern",
+        "vivillonmarine",
+        "vivillonarchipelago",
+        "vivillonhighplains",
+        "vivillonsandstorm",
+        "vivillonriver",
+        "vivillonmonsoon",
+        "vivillonsavanna",
+        "vivillonsun",
+        "vivillonocean",
+        "vivillonjungle",
+        "vivillonfancy",
+        "vivillonpokeball"
+      ]
+    },
+    {
+      "species": "vivillonpolar",
+      "equivalents": [
+        "vivillon",
+        "vivillonicysnow",
+        "vivillontundra",
+        "vivilloncontinental",
+        "vivillongarden",
+        "vivillonelegant",
+        "vivillonmodern",
+        "vivillonmarine",
+        "vivillonarchipelago",
+        "vivillonhighplains",
+        "vivillonsandstorm",
+        "vivillonriver",
+        "vivillonmonsoon",
+        "vivillonsavanna",
+        "vivillonsun",
+        "vivillonocean",
+        "vivillonjungle",
+        "vivillonfancy",
+        "vivillonpokeball"
+      ]
+    },
+    {
+      "species": "vivillontundra",
+      "equivalents": [
+        "vivillon",
+        "vivillonicysnow",
+        "vivillonpolar",
+        "vivilloncontinental",
+        "vivillongarden",
+        "vivillonelegant",
+        "vivillonmodern",
+        "vivillonmarine",
+        "vivillonarchipelago",
+        "vivillonhighplains",
+        "vivillonsandstorm",
+        "vivillonriver",
+        "vivillonmonsoon",
+        "vivillonsavanna",
+        "vivillonsun",
+        "vivillonocean",
+        "vivillonjungle",
+        "vivillonfancy",
+        "vivillonpokeball"
+      ]
+    },
+    {
+      "species": "vivilloncontinental",
+      "equivalents": [
+        "vivillon",
+        "vivillonicysnow",
+        "vivillonpolar",
+        "vivillontundra",
+        "vivillongarden",
+        "vivillonelegant",
+        "vivillonmodern",
+        "vivillonmarine",
+        "vivillonarchipelago",
+        "vivillonhighplains",
+        "vivillonsandstorm",
+        "vivillonriver",
+        "vivillonmonsoon",
+        "vivillonsavanna",
+        "vivillonsun",
+        "vivillonocean",
+        "vivillonjungle",
+        "vivillonfancy",
+        "vivillonpokeball"
+      ]
+    },
+    {
+      "species": "vivillongarden",
+      "equivalents": [
+        "vivillon",
+        "vivillonicysnow",
+        "vivillonpolar",
+        "vivillontundra",
+        "vivilloncontinental",
+        "vivillonelegant",
+        "vivillonmodern",
+        "vivillonmarine",
+        "vivillonarchipelago",
+        "vivillonhighplains",
+        "vivillonsandstorm",
+        "vivillonriver",
+        "vivillonmonsoon",
+        "vivillonsavanna",
+        "vivillonsun",
+        "vivillonocean",
+        "vivillonjungle",
+        "vivillonfancy",
+        "vivillonpokeball"
+      ]
+    },
+    {
+      "species": "vivillonelegant",
+      "equivalents": [
+        "vivillon",
+        "vivillonicysnow",
+        "vivillonpolar",
+        "vivillontundra",
+        "vivilloncontinental",
+        "vivillongarden",
+        "vivillonmodern",
+        "vivillonmarine",
+        "vivillonarchipelago",
+        "vivillonhighplains",
+        "vivillonsandstorm",
+        "vivillonriver",
+        "vivillonmonsoon",
+        "vivillonsavanna",
+        "vivillonsun",
+        "vivillonocean",
+        "vivillonjungle",
+        "vivillonfancy",
+        "vivillonpokeball"
+      ]
+    },
+    {
+      "species": "vivillonmodern",
+      "equivalents": [
+        "vivillon",
+        "vivillonicysnow",
+        "vivillonpolar",
+        "vivillontundra",
+        "vivilloncontinental",
+        "vivillongarden",
+        "vivillonelegant",
+        "vivillonmarine",
+        "vivillonarchipelago",
+        "vivillonhighplains",
+        "vivillonsandstorm",
+        "vivillonriver",
+        "vivillonmonsoon",
+        "vivillonsavanna",
+        "vivillonsun",
+        "vivillonocean",
+        "vivillonjungle",
+        "vivillonfancy",
+        "vivillonpokeball"
+      ]
+    },
+    {
+      "species": "vivillonmarine",
+      "equivalents": [
+        "vivillon",
+        "vivillonicysnow",
+        "vivillonpolar",
+        "vivillontundra",
+        "vivilloncontinental",
+        "vivillongarden",
+        "vivillonelegant",
+        "vivillonmodern",
+        "vivillonarchipelago",
+        "vivillonhighplains",
+        "vivillonsandstorm",
+        "vivillonriver",
+        "vivillonmonsoon",
+        "vivillonsavanna",
+        "vivillonsun",
+        "vivillonocean",
+        "vivillonjungle",
+        "vivillonfancy",
+        "vivillonpokeball"
+      ]
+    },
+    {
+      "species": "vivillonarchipelago",
+      "equivalents": [
+        "vivillon",
+        "vivillonicysnow",
+        "vivillonpolar",
+        "vivillontundra",
+        "vivilloncontinental",
+        "vivillongarden",
+        "vivillonelegant",
+        "vivillonmodern",
+        "vivillonmarine",
+        "vivillonhighplains",
+        "vivillonsandstorm",
+        "vivillonriver",
+        "vivillonmonsoon",
+        "vivillonsavanna",
+        "vivillonsun",
+        "vivillonocean",
+        "vivillonjungle",
+        "vivillonfancy",
+        "vivillonpokeball"
+      ]
+    },
+    {
+      "species": "vivillonhighplains",
+      "equivalents": [
+        "vivillon",
+        "vivillonicysnow",
+        "vivillonpolar",
+        "vivillontundra",
+        "vivilloncontinental",
+        "vivillongarden",
+        "vivillonelegant",
+        "vivillonmodern",
+        "vivillonmarine",
+        "vivillonarchipelago",
+        "vivillonsandstorm",
+        "vivillonriver",
+        "vivillonmonsoon",
+        "vivillonsavanna",
+        "vivillonsun",
+        "vivillonocean",
+        "vivillonjungle",
+        "vivillonfancy",
+        "vivillonpokeball"
+      ]
+    },
+    {
+      "species": "vivillonsandstorm",
+      "equivalents": [
+        "vivillon",
+        "vivillonicysnow",
+        "vivillonpolar",
+        "vivillontundra",
+        "vivilloncontinental",
+        "vivillongarden",
+        "vivillonelegant",
+        "vivillonmodern",
+        "vivillonmarine",
+        "vivillonarchipelago",
+        "vivillonhighplains",
+        "vivillonriver",
+        "vivillonmonsoon",
+        "vivillonsavanna",
+        "vivillonsun",
+        "vivillonocean",
+        "vivillonjungle",
+        "vivillonfancy",
+        "vivillonpokeball"
+      ]
+    },
+    {
+      "species": "vivillonriver",
+      "equivalents": [
+        "vivillon",
+        "vivillonicysnow",
+        "vivillonpolar",
+        "vivillontundra",
+        "vivilloncontinental",
+        "vivillongarden",
+        "vivillonelegant",
+        "vivillonmodern",
+        "vivillonmarine",
+        "vivillonarchipelago",
+        "vivillonhighplains",
+        "vivillonsandstorm",
+        "vivillonmonsoon",
+        "vivillonsavanna",
+        "vivillonsun",
+        "vivillonocean",
+        "vivillonjungle",
+        "vivillonfancy",
+        "vivillonpokeball"
+      ]
+    },
+    {
+      "species": "vivillonmonsoon",
+      "equivalents": [
+        "vivillon",
+        "vivillonicysnow",
+        "vivillonpolar",
+        "vivillontundra",
+        "vivilloncontinental",
+        "vivillongarden",
+        "vivillonelegant",
+        "vivillonmodern",
+        "vivillonmarine",
+        "vivillonarchipelago",
+        "vivillonhighplains",
+        "vivillonsandstorm",
+        "vivillonriver",
+        "vivillonsavanna",
+        "vivillonsun",
+        "vivillonocean",
+        "vivillonjungle",
+        "vivillonfancy",
+        "vivillonpokeball"
+      ]
+    },
+    {
+      "species": "vivillonsavanna",
+      "equivalents": [
+        "vivillon",
+        "vivillonicysnow",
+        "vivillonpolar",
+        "vivillontundra",
+        "vivilloncontinental",
+        "vivillongarden",
+        "vivillonelegant",
+        "vivillonmodern",
+        "vivillonmarine",
+        "vivillonarchipelago",
+        "vivillonhighplains",
+        "vivillonsandstorm",
+        "vivillonriver",
+        "vivillonmonsoon",
+        "vivillonsun",
+        "vivillonocean",
+        "vivillonjungle",
+        "vivillonfancy",
+        "vivillonpokeball"
+      ]
+    },
+    {
+      "species": "vivillonsun",
+      "equivalents": [
+        "vivillon",
+        "vivillonicysnow",
+        "vivillonpolar",
+        "vivillontundra",
+        "vivilloncontinental",
+        "vivillongarden",
+        "vivillonelegant",
+        "vivillonmodern",
+        "vivillonmarine",
+        "vivillonarchipelago",
+        "vivillonhighplains",
+        "vivillonsandstorm",
+        "vivillonriver",
+        "vivillonmonsoon",
+        "vivillonsavanna",
+        "vivillonocean",
+        "vivillonjungle",
+        "vivillonfancy",
+        "vivillonpokeball"
+      ]
+    },
+    {
+      "species": "vivillonocean",
+      "equivalents": [
+        "vivillon",
+        "vivillonicysnow",
+        "vivillonpolar",
+        "vivillontundra",
+        "vivilloncontinental",
+        "vivillongarden",
+        "vivillonelegant",
+        "vivillonmodern",
+        "vivillonmarine",
+        "vivillonarchipelago",
+        "vivillonhighplains",
+        "vivillonsandstorm",
+        "vivillonriver",
+        "vivillonmonsoon",
+        "vivillonsavanna",
+        "vivillonsun",
+        "vivillonjungle",
+        "vivillonfancy",
+        "vivillonpokeball"
+      ]
+    },
+    {
+      "species": "vivillonjungle",
+      "equivalents": [
+        "vivillon",
+        "vivillonicysnow",
+        "vivillonpolar",
+        "vivillontundra",
+        "vivilloncontinental",
+        "vivillongarden",
+        "vivillonelegant",
+        "vivillonmodern",
+        "vivillonmarine",
+        "vivillonarchipelago",
+        "vivillonhighplains",
+        "vivillonsandstorm",
+        "vivillonriver",
+        "vivillonmonsoon",
+        "vivillonsavanna",
+        "vivillonsun",
+        "vivillonocean",
+        "vivillonfancy",
+        "vivillonpokeball"
+      ]
+    },
+    {
+      "species": "vivillonfancy",
+      "equivalents": [
+        "vivillon",
+        "vivillonicysnow",
+        "vivillonpolar",
+        "vivillontundra",
+        "vivilloncontinental",
+        "vivillongarden",
+        "vivillonelegant",
+        "vivillonmodern",
+        "vivillonmarine",
+        "vivillonarchipelago",
+        "vivillonhighplains",
+        "vivillonsandstorm",
+        "vivillonriver",
+        "vivillonmonsoon",
+        "vivillonsavanna",
+        "vivillonsun",
+        "vivillonocean",
+        "vivillonjungle",
+        "vivillonpokeball"
+      ]
+    },
+    {
+      "species": "vivillonpokeball",
+      "equivalents": [
+        "vivillon",
+        "vivillonicysnow",
+        "vivillonpolar",
+        "vivillontundra",
+        "vivilloncontinental",
+        "vivillongarden",
+        "vivillonelegant",
+        "vivillonmodern",
+        "vivillonmarine",
+        "vivillonarchipelago",
+        "vivillonhighplains",
+        "vivillonsandstorm",
+        "vivillonriver",
+        "vivillonmonsoon",
+        "vivillonsavanna",
+        "vivillonsun",
+        "vivillonocean",
+        "vivillonjungle",
+        "vivillonfancy"
+      ]
+    },
+    {
+      "species": "polteageist",
+      "equivalents": [
+        "polteageistantique"
+      ]
+    },
+    {
+      "species": "polteageistantique",
+      "equivalents": [
+        "polteageist"
+      ]
+    },
+    {
+      "species": "alcremie",
+      "equivalents": [
+        "alcremierubycream",
+        "alcremiematchacream",
+        "alcremiemintcream",
+        "alcremielemoncream",
+        "alcremierubyswirl",
+        "alcremiecaramelswirl",
+        "alcremierainbowswirl"
+      ]
+    },
+    {
+      "species": "alcremierubycream",
+      "equivalents": [
+        "alcremie",
+        "alcremiematchacream",
+        "alcremiemintcream",
+        "alcremielemoncream",
+        "alcremierubyswirl",
+        "alcremiecaramelswirl",
+        "alcremierainbowswirl"
+      ]
+    },
+    {
+      "species": "alcremiematchacream",
+      "equivalents": [
+        "alcremie",
+        "alcremierubycream",
+        "alcremiemintcream",
+        "alcremielemoncream",
+        "alcremierubyswirl",
+        "alcremiecaramelswirl",
+        "alcremierainbowswirl"
+      ]
+    },
+    {
+      "species": "alcremiemintcream",
+      "equivalents": [
+        "alcremie",
+        "alcremierubycream",
+        "alcremiematchacream",
+        "alcremielemoncream",
+        "alcremierubyswirl",
+        "alcremiecaramelswirl",
+        "alcremierainbowswirl"
+      ]
+    },
+    {
+      "species": "alcremielemoncream",
+      "equivalents": [
+        "alcremie",
+        "alcremierubycream",
+        "alcremiematchacream",
+        "alcremiemintcream",
+        "alcremierubyswirl",
+        "alcremiecaramelswirl",
+        "alcremierainbowswirl"
+      ]
+    },
+    {
+      "species": "alcremierubyswirl",
+      "equivalents": [
+        "alcremie",
+        "alcremierubycream",
+        "alcremiematchacream",
+        "alcremiemintcream",
+        "alcremielemoncream",
+        "alcremiecaramelswirl",
+        "alcremierainbowswirl"
+      ]
+    },
+    {
+      "species": "alcremiecaramelswirl",
+      "equivalents": [
+        "alcremie",
+        "alcremierubycream",
+        "alcremiematchacream",
+        "alcremiemintcream",
+        "alcremielemoncream",
+        "alcremierubyswirl",
+        "alcremierainbowswirl"
+      ]
+    },
+    {
+      "species": "alcremierainbowswirl",
+      "equivalents": [
+        "alcremie",
+        "alcremierubycream",
+        "alcremiematchacream",
+        "alcremiemintcream",
+        "alcremielemoncream",
+        "alcremierubyswirl",
+        "alcremiecaramelswirl"
+      ]
+    },
+    {
+      "species": "squawkabilly",
+      "equivalents": [
+        "squawkabillyblue"
+      ]
+    },
+    {
+      "species": "squawkabillyblue",
+      "equivalents": [
+        "squawkabilly"
+      ]
+    },
+    {
+      "species": "squawkabillyyellow",
+      "equivalents": [
+        "squawkabillywhite"
+      ]
+    },
+    {
+      "species": "squawkabillywhite",
+      "equivalents": [
+        "squawkabillyyellow"
+      ]
+    },
+    {
+      "species": "sinistcha",
+      "equivalents": [
+        "sinistchamasterpiece"
+      ]
+    },
+    {
+      "species": "sinistchamasterpiece",
+      "equivalents": [
+        "sinistcha"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+# Bitter Blade
+
+`move:bitterblade` · User recovers 50% of the damage dealt.
+
+## Definition
+
+The user recovers 1/2 the HP lost by the target, rounded half up. If Big Root is held by the user, the HP recovered is 1.3× normal, rounded half down.
+
+| Property | Resolved value |
+| --- | --- |
+| Type | Fire |
+| Category | Physical |
+| Listed base power | 90 |
+| Accuracy | 100% before applicable modifiers |
+| Base priority | 0 |
+| Target | normal — One adjacent Pokémon other than the user; in doubles this can be either opposing slot or the ally, subject to move-specific restrictions. |
+| PP in Champions | 12 |
+| Flags | contact, heal, metronome, mirror, protect, slicing |
+
+## Additional effect fields
+
+```json
+{
+  "drain": [
+    1,
+    2
+  ]
+}
+```
+
+## Related mechanics
+
+[Action order](../articles/action-order.md), [Move execution and failure](../articles/move-execution.md), [Targets and field positions](../articles/targets-and-positions.md), [Move properties](../articles/move-properties.md), [Complete ordinary type matchups](../articles/type-matchups.md), [Other type-based immunities](../articles/type-immunities.md), [Ordinary damage](../articles/ordinary-damage.md), [Damage, contact, and secondary effects](../articles/damage-contact-secondary.md), [Protect, Detect, and related personal protection](../articles/personal-protection.md), [Safeguard, healing, and healing prevention](../articles/healing-and-safeguard.md). Load those relevant to the current state.
+
+[Wiki home](../README.md) · [Directory](../directory.md)

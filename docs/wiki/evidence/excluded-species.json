@@ -1,0 +1,4555 @@
+{
+  "environment": {
+    "game": "Pokemon Champions",
+    "format_id": "gen9championsvgc2026regmc",
+    "showdown_commit": "2ddfa0476f8207e12e204b1c69f7c7683b17633c",
+    "snapshot_date": "2026-09-19"
+  },
+  "note": "Exclusions from this catalogue, not a universal list of impossible transformed states. Team/form access is evaluated at the pinned format.",
+  "entries": [
+    {
+      "id": "bulbasaur",
+      "reason": "Bulbasaur does not exist in Gen 9."
+    },
+    {
+      "id": "ivysaur",
+      "reason": "Ivysaur does not exist in Gen 9."
+    },
+    {
+      "id": "venusaurgmax",
+      "reason": "Venusaur (Venusaur-Gmax) is a placeholder for a Gigantamax sprite, not a real Pokémon. (This message is likely a validator bug.)"
+    },
+    {
+      "id": "charmander",
+      "reason": "Charmander does not exist in Gen 9."
+    },
+    {
+      "id": "charmeleon",
+      "reason": "Charmeleon does not exist in Gen 9."
+    },
+    {
+      "id": "charizardgmax",
+      "reason": "Charizard (Charizard-Gmax) is a placeholder for a Gigantamax sprite, not a real Pokémon. (This message is likely a validator bug.)"
+    },
+    {
+      "id": "squirtle",
+      "reason": "Squirtle does not exist in Gen 9."
+    },
+    {
+      "id": "wartortle",
+      "reason": "Wartortle does not exist in Gen 9."
+    },
+    {
+      "id": "blastoisegmax",
+      "reason": "Blastoise (Blastoise-Gmax) is a placeholder for a Gigantamax sprite, not a real Pokémon. (This message is likely a validator bug.)"
+    },
+    {
+      "id": "caterpie",
+      "reason": "Caterpie does not exist in Gen 9."
+    },
+    {
+      "id": "metapod",
+      "reason": "Metapod does not exist in Gen 9."
+    },
+    {
+      "id": "butterfree",
+      "reason": "Butterfree does not exist in Gen 9."
+    },
+    {
+      "id": "butterfreegmax",
+      "reason": "Butterfree (Butterfree-Gmax) is a placeholder for a Gigantamax sprite, not a real Pokémon. (This message is likely a validator bug.)"
+    },
+    {
+      "id": "weedle",
+      "reason": "Weedle does not exist in Gen 9."
+    },
+    {
+      "id": "kakuna",
+      "reason": "Kakuna does not exist in Gen 9."
+    },
+    {
+      "id": "pidgey",
+      "reason": "Pidgey does not exist in Gen 9."
+    },
+    {
+      "id": "pidgeotto",
+      "reason": "Pidgeotto does not exist in Gen 9."
+    },
+    {
+      "id": "rattata",
+      "reason": "Rattata does not exist in Gen 9."
+    },
+    {
+      "id": "rattataalola",
+      "reason": "Rattata-Alola does not exist in Gen 9."
+    },
+    {
+      "id": "raticate",
+      "reason": "Raticate does not exist in Gen 9."
+    },
+    {
+      "id": "raticatealola",
+      "reason": "Raticate-Alola does not exist in Gen 9."
+    },
+    {
+      "id": "raticatealolatotem",
+      "reason": "Raticate-Alola-Totem does not exist in Gen 9."
+    },
+    {
+      "id": "spearow",
+      "reason": "Spearow does not exist in Gen 9."
+    },
+    {
+      "id": "fearow",
+      "reason": "Fearow does not exist in Gen 9."
+    },
+    {
+      "id": "ekans",
+      "reason": "Ekans does not exist in Gen 9."
+    },
+    {
+      "id": "pikachucosplay",
+      "reason": "Pikachu-Cosplay does not exist in Gen 9."
+    },
+    {
+      "id": "pikachurockstar",
+      "reason": "Pikachu-Cosplay (Pikachu-Rock-Star) does not exist in Gen 9."
+    },
+    {
+      "id": "pikachubelle",
+      "reason": "Pikachu-Cosplay (Pikachu-Belle) does not exist in Gen 9."
+    },
+    {
+      "id": "pikachupopstar",
+      "reason": "Pikachu-Cosplay (Pikachu-Pop-Star) does not exist in Gen 9."
+    },
+    {
+      "id": "pikachuphd",
+      "reason": "Pikachu-Cosplay (Pikachu-PhD) does not exist in Gen 9."
+    },
+    {
+      "id": "pikachulibre",
+      "reason": "Pikachu-Cosplay (Pikachu-Libre) does not exist in Gen 9."
+    },
+    {
+      "id": "pikachuoriginal",
+      "reason": "Pikachu-Original does not exist in Gen 9."
+    },
+    {
+      "id": "pikachuhoenn",
+      "reason": "Pikachu-Hoenn does not exist in Gen 9."
+    },
+    {
+      "id": "pikachusinnoh",
+      "reason": "Pikachu-Sinnoh does not exist in Gen 9."
+    },
+    {
+      "id": "pikachuunova",
+      "reason": "Pikachu-Unova does not exist in Gen 9."
+    },
+    {
+      "id": "pikachukalos",
+      "reason": "Pikachu-Kalos does not exist in Gen 9."
+    },
+    {
+      "id": "pikachualola",
+      "reason": "Pikachu-Alola does not exist in Gen 9."
+    },
+    {
+      "id": "pikachupartner",
+      "reason": "Pikachu-Partner does not exist in Gen 9."
+    },
+    {
+      "id": "pikachustarter",
+      "reason": "Pikachu-Starter does not exist in this game, only in Let's Go Pikachu/Eevee."
+    },
+    {
+      "id": "pikachugmax",
+      "reason": "Pikachu (Pikachu-Gmax) is a placeholder for a Gigantamax sprite, not a real Pokémon. (This message is likely a validator bug.)"
+    },
+    {
+      "id": "pikachuworld",
+      "reason": "Pikachu-World does not exist in Gen 9."
+    },
+    {
+      "id": "sandshrew",
+      "reason": "Sandshrew does not exist in Gen 9."
+    },
+    {
+      "id": "sandshrewalola",
+      "reason": "Sandshrew-Alola does not exist in Gen 9."
+    },
+    {
+      "id": "sandslash",
+      "reason": "Sandslash does not exist in Gen 9."
+    },
+    {
+      "id": "sandslashalola",
+      "reason": "Sandslash-Alola does not exist in Gen 9."
+    },
+    {
+      "id": "nidoranf",
+      "reason": "Nidoran-F does not exist in Gen 9."
+    },
+    {
+      "id": "nidorina",
+      "reason": "Nidorina does not exist in Gen 9."
+    },
+    {
+      "id": "nidoqueen",
+      "reason": "Nidoqueen does not exist in Gen 9."
+    },
+    {
+      "id": "nidoranm",
+      "reason": "Nidoran-M does not exist in Gen 9."
+    },
+    {
+      "id": "nidorino",
+      "reason": "Nidorino does not exist in Gen 9."
+    },
+    {
+      "id": "nidoking",
+      "reason": "Nidoking does not exist in Gen 9."
+    },
+    {
+      "id": "clefairy",
+      "reason": "Clefairy does not exist in Gen 9."
+    },
+    {
+      "id": "vulpix",
+      "reason": "Vulpix does not exist in Gen 9."
+    },
+    {
+      "id": "vulpixalola",
+      "reason": "Vulpix-Alola does not exist in Gen 9."
+    },
+    {
+      "id": "jigglypuff",
+      "reason": "Jigglypuff does not exist in Gen 9."
+    },
+    {
+      "id": "zubat",
+      "reason": "Zubat does not exist in Gen 9."
+    },
+    {
+      "id": "golbat",
+      "reason": "Golbat does not exist in Gen 9."
+    },
+    {
+      "id": "oddish",
+      "reason": "Oddish does not exist in Gen 9."
+    },
+    {
+      "id": "gloom",
+      "reason": "Gloom does not exist in Gen 9."
+    },
+    {
+      "id": "paras",
+      "reason": "Paras does not exist in Gen 9."
+    },
+    {
+      "id": "parasect",
+      "reason": "Parasect does not exist in Gen 9."
+    },
+    {
+      "id": "venonat",
+      "reason": "Venonat does not exist in Gen 9."
+    },
+    {
+      "id": "venomoth",
+      "reason": "Venomoth does not exist in Gen 9."
+    },
+    {
+      "id": "diglett",
+      "reason": "Diglett does not exist in Gen 9."
+    },
+    {
+      "id": "diglettalola",
+      "reason": "Diglett-Alola does not exist in Gen 9."
+    },
+    {
+      "id": "dugtrio",
+      "reason": "Dugtrio does not exist in Gen 9."
+    },
+    {
+      "id": "dugtrioalola",
+      "reason": "Dugtrio-Alola does not exist in Gen 9."
+    },
+    {
+      "id": "meowth",
+      "reason": "Meowth does not exist in Gen 9."
+    },
+    {
+      "id": "meowthalola",
+      "reason": "Meowth-Alola does not exist in Gen 9."
+    },
+    {
+      "id": "meowthgalar",
+      "reason": "Meowth-Galar does not exist in Gen 9."
+    },
+    {
+      "id": "meowthgmax",
+      "reason": "Meowth (Meowth-Gmax) is a placeholder for a Gigantamax sprite, not a real Pokémon. (This message is likely a validator bug.)"
+    },
+    {
+      "id": "psyduck",
+      "reason": "Psyduck does not exist in Gen 9."
+    },
+    {
+      "id": "golduck",
+      "reason": "Golduck does not exist in Gen 9."
+    },
+    {
+      "id": "mankey",
+      "reason": "Mankey does not exist in Gen 9."
+    },
+    {
+      "id": "primeape",
+      "reason": "Primeape does not exist in Gen 9."
+    },
+    {
+      "id": "growlithe",
+      "reason": "Growlithe does not exist in Gen 9."
+    },
+    {
+      "id": "growlithehisui",
+      "reason": "Growlithe-Hisui does not exist in Gen 9."
+    },
+    {
+      "id": "poliwag",
+      "reason": "Poliwag does not exist in Gen 9."
+    },
+    {
+      "id": "poliwhirl",
+      "reason": "Poliwhirl does not exist in Gen 9."
+    },
+    {
+      "id": "poliwrath",
+      "reason": "Poliwrath does not exist in Gen 9."
+    },
+    {
+      "id": "abra",
+      "reason": "Abra does not exist in Gen 9."
+    },
+    {
+      "id": "kadabra",
+      "reason": "Kadabra does not exist in Gen 9."
+    },
+    {
+      "id": "machop",
+      "reason": "Machop does not exist in Gen 9."
+    },
+    {
+      "id": "machoke",
+      "reason": "Machoke does not exist in Gen 9."
+    },
+    {
+      "id": "machampgmax",
+      "reason": "Machamp (Machamp-Gmax) is a placeholder for a Gigantamax sprite, not a real Pokémon. (This message is likely a validator bug.)"
+    },
+    {
+      "id": "bellsprout",
+      "reason": "Bellsprout does not exist in Gen 9."
+    },
+    {
+      "id": "weepinbell",
+      "reason": "Weepinbell does not exist in Gen 9."
+    },
+    {
+      "id": "tentacool",
+      "reason": "Tentacool does not exist in Gen 9."
+    },
+    {
+      "id": "tentacruel",
+      "reason": "Tentacruel does not exist in Gen 9."
+    },
+    {
+      "id": "geodude",
+      "reason": "Geodude does not exist in Gen 9."
+    },
+    {
+      "id": "geodudealola",
+      "reason": "Geodude-Alola does not exist in Gen 9."
+    },
+    {
+      "id": "graveler",
+      "reason": "Graveler does not exist in Gen 9."
+    },
+    {
+      "id": "graveleralola",
+      "reason": "Graveler-Alola does not exist in Gen 9."
+    },
+    {
+      "id": "golem",
+      "reason": "Golem does not exist in Gen 9."
+    },
+    {
+      "id": "golemalola",
+      "reason": "Golem-Alola does not exist in Gen 9."
+    },
+    {
+      "id": "ponyta",
+      "reason": "Ponyta does not exist in Gen 9."
+    },
+    {
+      "id": "ponytagalar",
+      "reason": "Ponyta-Galar does not exist in Gen 9."
+    },
+    {
+      "id": "rapidash",
+      "reason": "Rapidash does not exist in Gen 9."
+    },
+    {
+      "id": "rapidashgalar",
+      "reason": "Rapidash-Galar does not exist in Gen 9."
+    },
+    {
+      "id": "slowpoke",
+      "reason": "Slowpoke does not exist in Gen 9."
+    },
+    {
+      "id": "slowpokegalar",
+      "reason": "Slowpoke-Galar does not exist in Gen 9."
+    },
+    {
+      "id": "magnemite",
+      "reason": "Magnemite does not exist in Gen 9."
+    },
+    {
+      "id": "magneton",
+      "reason": "Magneton does not exist in Gen 9."
+    },
+    {
+      "id": "farfetchdgalar",
+      "reason": "Farfetch’d-Galar does not exist in Gen 9."
+    },
+    {
+      "id": "doduo",
+      "reason": "Doduo does not exist in Gen 9."
+    },
+    {
+      "id": "dodrio",
+      "reason": "Dodrio does not exist in Gen 9."
+    },
+    {
+      "id": "seel",
+      "reason": "Seel does not exist in Gen 9."
+    },
+    {
+      "id": "dewgong",
+      "reason": "Dewgong does not exist in Gen 9."
+    },
+    {
+      "id": "grimer",
+      "reason": "Grimer does not exist in Gen 9."
+    },
+    {
+      "id": "grimeralola",
+      "reason": "Grimer-Alola does not exist in Gen 9."
+    },
+    {
+      "id": "muk",
+      "reason": "Muk does not exist in Gen 9."
+    },
+    {
+      "id": "mukalola",
+      "reason": "Muk-Alola does not exist in Gen 9."
+    },
+    {
+      "id": "shellder",
+      "reason": "Shellder does not exist in Gen 9."
+    },
+    {
+      "id": "cloyster",
+      "reason": "Cloyster does not exist in Gen 9."
+    },
+    {
+      "id": "gastly",
+      "reason": "Gastly does not exist in Gen 9."
+    },
+    {
+      "id": "haunter",
+      "reason": "Haunter does not exist in Gen 9."
+    },
+    {
+      "id": "gengargmax",
+      "reason": "Gengar (Gengar-Gmax) is a placeholder for a Gigantamax sprite, not a real Pokémon. (This message is likely a validator bug.)"
+    },
+    {
+      "id": "onix",
+      "reason": "Onix does not exist in Gen 9."
+    },
+    {
+      "id": "drowzee",
+      "reason": "Drowzee does not exist in Gen 9."
+    },
+    {
+      "id": "hypno",
+      "reason": "Hypno does not exist in Gen 9."
+    },
+    {
+      "id": "krabby",
+      "reason": "Krabby does not exist in Gen 9."
+    },
+    {
+      "id": "kingler",
+      "reason": "Kingler does not exist in Gen 9."
+    },
+    {
+      "id": "kinglergmax",
+      "reason": "Kingler (Kingler-Gmax) is a placeholder for a Gigantamax sprite, not a real Pokémon. (This message is likely a validator bug.)"
+    },
+    {
+      "id": "voltorb",
+      "reason": "Voltorb does not exist in Gen 9."
+    },
+    {
+      "id": "voltorbhisui",
+      "reason": "Voltorb-Hisui does not exist in Gen 9."
+    },
+    {
+      "id": "electrode",
+      "reason": "Electrode does not exist in Gen 9."
+    },
+    {
+      "id": "electrodehisui",
+      "reason": "Electrode-Hisui does not exist in Gen 9."
+    },
+    {
+      "id": "exeggcute",
+      "reason": "Exeggcute does not exist in Gen 9."
+    },
+    {
+      "id": "exeggutor",
+      "reason": "Exeggutor does not exist in Gen 9."
+    },
+    {
+      "id": "exeggutoralola",
+      "reason": "Exeggutor-Alola does not exist in Gen 9."
+    },
+    {
+      "id": "cubone",
+      "reason": "Cubone does not exist in Gen 9."
+    },
+    {
+      "id": "marowak",
+      "reason": "Marowak does not exist in Gen 9."
+    },
+    {
+      "id": "marowakalola",
+      "reason": "Marowak-Alola does not exist in Gen 9."
+    },
+    {
+      "id": "marowakalolatotem",
+      "reason": "Marowak-Alola-Totem does not exist in Gen 9."
+    },
+    {
+      "id": "hitmonlee",
+      "reason": "Hitmonlee does not exist in Gen 9."
+    },
+    {
+      "id": "hitmonchan",
+      "reason": "Hitmonchan does not exist in Gen 9."
+    },
+    {
+      "id": "lickitung",
+      "reason": "Lickitung does not exist in Gen 9."
+    },
+    {
+      "id": "koffing",
+      "reason": "Koffing does not exist in Gen 9."
+    },
+    {
+      "id": "weezing",
+      "reason": "Weezing does not exist in Gen 9."
+    },
+    {
+      "id": "weezinggalar",
+      "reason": "Weezing-Galar does not exist in Gen 9."
+    },
+    {
+      "id": "rhyhorn",
+      "reason": "Rhyhorn does not exist in Gen 9."
+    },
+    {
+      "id": "rhydon",
+      "reason": "Rhydon does not exist in Gen 9."
+    },
+    {
+      "id": "chansey",
+      "reason": "Chansey does not exist in Gen 9."
+    },
+    {
+      "id": "tangela",
+      "reason": "Tangela does not exist in Gen 9."
+    },
+    {
+      "id": "horsea",
+      "reason": "Horsea does not exist in Gen 9."
+    },
+    {
+      "id": "seadra",
+      "reason": "Seadra does not exist in Gen 9."
+    },
+    {
+      "id": "goldeen",
+      "reason": "Goldeen does not exist in Gen 9."
+    },
+    {
+      "id": "seaking",
+      "reason": "Seaking does not exist in Gen 9."
+    },
+    {
+      "id": "staryu",
+      "reason": "Staryu does not exist in Gen 9."
+    },
+    {
+      "id": "mrmimegalar",
+      "reason": "Mr. Mime-Galar does not exist in Gen 9."
+    },
+    {
+      "id": "scyther",
+      "reason": "Scyther does not exist in Gen 9."
+    },
+    {
+      "id": "jynx",
+      "reason": "Jynx does not exist in Gen 9."
+    },
+    {
+      "id": "electabuzz",
+      "reason": "Electabuzz does not exist in Gen 9."
+    },
+    {
+      "id": "magmar",
+      "reason": "Magmar does not exist in Gen 9."
+    },
+    {
+      "id": "magikarp",
+      "reason": "Magikarp does not exist in Gen 9."
+    },
+    {
+      "id": "lapras",
+      "reason": "Lapras does not exist in Gen 9."
+    },
+    {
+      "id": "laprasgmax",
+      "reason": "Lapras (Lapras-Gmax) is a placeholder for a Gigantamax sprite, not a real Pokémon. (This message is likely a validator bug.)"
+    },
+    {
+      "id": "eevee",
+      "reason": "Eevee does not exist in Gen 9."
+    },
+    {
+      "id": "eeveestarter",
+      "reason": "Eevee-Starter does not exist in this game, only in Let's Go Pikachu/Eevee."
+    },
+    {
+      "id": "eeveegmax",
+      "reason": "Eevee (Eevee-Gmax) is a placeholder for a Gigantamax sprite, not a real Pokémon. (This message is likely a validator bug.)"
+    },
+    {
+      "id": "porygon",
+      "reason": "Porygon does not exist in Gen 9."
+    },
+    {
+      "id": "omanyte",
+      "reason": "Omanyte does not exist in Gen 9."
+    },
+    {
+      "id": "omastar",
+      "reason": "Omastar does not exist in Gen 9."
+    },
+    {
+      "id": "kabuto",
+      "reason": "Kabuto does not exist in Gen 9."
+    },
+    {
+      "id": "kabutops",
+      "reason": "Kabutops does not exist in Gen 9."
+    },
+    {
+      "id": "snorlaxgmax",
+      "reason": "Snorlax (Snorlax-Gmax) is a placeholder for a Gigantamax sprite, not a real Pokémon. (This message is likely a validator bug.)"
+    },
+    {
+      "id": "articuno",
+      "reason": "Articuno does not exist in Gen 9."
+    },
+    {
+      "id": "articunogalar",
+      "reason": "Articuno-Galar does not exist in Gen 9."
+    },
+    {
+      "id": "zapdos",
+      "reason": "Zapdos does not exist in Gen 9."
+    },
+    {
+      "id": "zapdosgalar",
+      "reason": "Zapdos-Galar does not exist in Gen 9."
+    },
+    {
+      "id": "moltres",
+      "reason": "Moltres does not exist in Gen 9."
+    },
+    {
+      "id": "moltresgalar",
+      "reason": "Moltres-Galar does not exist in Gen 9."
+    },
+    {
+      "id": "dratini",
+      "reason": "Dratini does not exist in Gen 9."
+    },
+    {
+      "id": "dragonair",
+      "reason": "Dragonair does not exist in Gen 9."
+    },
+    {
+      "id": "mewtwo",
+      "reason": "Mewtwo is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "mewtwomegax",
+      "reason": "Required transformation item is unavailable."
+    },
+    {
+      "id": "mewtwomegay",
+      "reason": "Required transformation item is unavailable."
+    },
+    {
+      "id": "mew",
+      "reason": "Mew is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "chikorita",
+      "reason": "Chikorita does not exist in Gen 9."
+    },
+    {
+      "id": "bayleef",
+      "reason": "Bayleef does not exist in Gen 9."
+    },
+    {
+      "id": "cyndaquil",
+      "reason": "Cyndaquil does not exist in Gen 9."
+    },
+    {
+      "id": "quilava",
+      "reason": "Quilava does not exist in Gen 9."
+    },
+    {
+      "id": "totodile",
+      "reason": "Totodile does not exist in Gen 9."
+    },
+    {
+      "id": "croconaw",
+      "reason": "Croconaw does not exist in Gen 9."
+    },
+    {
+      "id": "sentret",
+      "reason": "Sentret does not exist in Gen 9."
+    },
+    {
+      "id": "furret",
+      "reason": "Furret does not exist in Gen 9."
+    },
+    {
+      "id": "hoothoot",
+      "reason": "Hoothoot does not exist in Gen 9."
+    },
+    {
+      "id": "noctowl",
+      "reason": "Noctowl does not exist in Gen 9."
+    },
+    {
+      "id": "ledyba",
+      "reason": "Ledyba does not exist in Gen 9."
+    },
+    {
+      "id": "ledian",
+      "reason": "Ledian does not exist in Gen 9."
+    },
+    {
+      "id": "spinarak",
+      "reason": "Spinarak does not exist in Gen 9."
+    },
+    {
+      "id": "crobat",
+      "reason": "Crobat does not exist in Gen 9."
+    },
+    {
+      "id": "chinchou",
+      "reason": "Chinchou does not exist in Gen 9."
+    },
+    {
+      "id": "lanturn",
+      "reason": "Lanturn does not exist in Gen 9."
+    },
+    {
+      "id": "pichu",
+      "reason": "Pichu does not exist in Gen 9."
+    },
+    {
+      "id": "pichuspikyeared",
+      "reason": "Pichu-Spiky-eared does not exist in Gen 9."
+    },
+    {
+      "id": "cleffa",
+      "reason": "Cleffa does not exist in Gen 9."
+    },
+    {
+      "id": "igglybuff",
+      "reason": "Igglybuff does not exist in Gen 9."
+    },
+    {
+      "id": "togepi",
+      "reason": "Togepi does not exist in Gen 9."
+    },
+    {
+      "id": "togetic",
+      "reason": "Togetic does not exist in Gen 9."
+    },
+    {
+      "id": "natu",
+      "reason": "Natu does not exist in Gen 9."
+    },
+    {
+      "id": "xatu",
+      "reason": "Xatu does not exist in Gen 9."
+    },
+    {
+      "id": "mareep",
+      "reason": "Mareep does not exist in Gen 9."
+    },
+    {
+      "id": "flaaffy",
+      "reason": "Flaaffy does not exist in Gen 9."
+    },
+    {
+      "id": "bellossom",
+      "reason": "Bellossom does not exist in Gen 9."
+    },
+    {
+      "id": "marill",
+      "reason": "Marill does not exist in Gen 9."
+    },
+    {
+      "id": "sudowoodo",
+      "reason": "Sudowoodo does not exist in Gen 9."
+    },
+    {
+      "id": "hoppip",
+      "reason": "Hoppip does not exist in Gen 9."
+    },
+    {
+      "id": "skiploom",
+      "reason": "Skiploom does not exist in Gen 9."
+    },
+    {
+      "id": "jumpluff",
+      "reason": "Jumpluff does not exist in Gen 9."
+    },
+    {
+      "id": "aipom",
+      "reason": "Aipom does not exist in Gen 9."
+    },
+    {
+      "id": "sunkern",
+      "reason": "Sunkern does not exist in Gen 9."
+    },
+    {
+      "id": "sunflora",
+      "reason": "Sunflora does not exist in Gen 9."
+    },
+    {
+      "id": "yanma",
+      "reason": "Yanma does not exist in Gen 9."
+    },
+    {
+      "id": "wooper",
+      "reason": "Wooper does not exist in Gen 9."
+    },
+    {
+      "id": "wooperpaldea",
+      "reason": "Wooper-Paldea does not exist in Gen 9."
+    },
+    {
+      "id": "quagsire",
+      "reason": "Quagsire does not exist in Gen 9."
+    },
+    {
+      "id": "murkrow",
+      "reason": "Murkrow does not exist in Gen 9."
+    },
+    {
+      "id": "misdreavus",
+      "reason": "Misdreavus does not exist in Gen 9."
+    },
+    {
+      "id": "unown",
+      "reason": "Unown does not exist in Gen 9."
+    },
+    {
+      "id": "wobbuffet",
+      "reason": "Wobbuffet does not exist in Gen 9."
+    },
+    {
+      "id": "girafarig",
+      "reason": "Girafarig does not exist in Gen 9."
+    },
+    {
+      "id": "pineco",
+      "reason": "Pineco does not exist in Gen 9."
+    },
+    {
+      "id": "dunsparce",
+      "reason": "Dunsparce does not exist in Gen 9."
+    },
+    {
+      "id": "gligar",
+      "reason": "Gligar does not exist in Gen 9."
+    },
+    {
+      "id": "snubbull",
+      "reason": "Snubbull does not exist in Gen 9."
+    },
+    {
+      "id": "granbull",
+      "reason": "Granbull does not exist in Gen 9."
+    },
+    {
+      "id": "qwilfishhisui",
+      "reason": "Qwilfish-Hisui does not exist in Gen 9."
+    },
+    {
+      "id": "shuckle",
+      "reason": "Shuckle does not exist in Gen 9."
+    },
+    {
+      "id": "sneasel",
+      "reason": "Sneasel does not exist in Gen 9."
+    },
+    {
+      "id": "sneaselhisui",
+      "reason": "Sneasel-Hisui does not exist in Gen 9."
+    },
+    {
+      "id": "teddiursa",
+      "reason": "Teddiursa does not exist in Gen 9."
+    },
+    {
+      "id": "ursaring",
+      "reason": "Ursaring does not exist in Gen 9."
+    },
+    {
+      "id": "slugma",
+      "reason": "Slugma does not exist in Gen 9."
+    },
+    {
+      "id": "magcargo",
+      "reason": "Magcargo does not exist in Gen 9."
+    },
+    {
+      "id": "swinub",
+      "reason": "Swinub does not exist in Gen 9."
+    },
+    {
+      "id": "piloswine",
+      "reason": "Piloswine does not exist in Gen 9."
+    },
+    {
+      "id": "corsola",
+      "reason": "Corsola does not exist in Gen 9."
+    },
+    {
+      "id": "corsolagalar",
+      "reason": "Corsola-Galar does not exist in Gen 9."
+    },
+    {
+      "id": "remoraid",
+      "reason": "Remoraid does not exist in Gen 9."
+    },
+    {
+      "id": "octillery",
+      "reason": "Octillery does not exist in Gen 9."
+    },
+    {
+      "id": "delibird",
+      "reason": "Delibird does not exist in Gen 9."
+    },
+    {
+      "id": "mantine",
+      "reason": "Mantine does not exist in Gen 9."
+    },
+    {
+      "id": "houndour",
+      "reason": "Houndour does not exist in Gen 9."
+    },
+    {
+      "id": "kingdra",
+      "reason": "Kingdra does not exist in Gen 9."
+    },
+    {
+      "id": "phanpy",
+      "reason": "Phanpy does not exist in Gen 9."
+    },
+    {
+      "id": "donphan",
+      "reason": "Donphan does not exist in Gen 9."
+    },
+    {
+      "id": "porygon2",
+      "reason": "Porygon2 does not exist in Gen 9."
+    },
+    {
+      "id": "stantler",
+      "reason": "Stantler does not exist in Gen 9."
+    },
+    {
+      "id": "smeargle",
+      "reason": "Smeargle does not exist in Gen 9."
+    },
+    {
+      "id": "tyrogue",
+      "reason": "Tyrogue does not exist in Gen 9."
+    },
+    {
+      "id": "hitmontop",
+      "reason": "Hitmontop does not exist in Gen 9."
+    },
+    {
+      "id": "smoochum",
+      "reason": "Smoochum does not exist in Gen 9."
+    },
+    {
+      "id": "elekid",
+      "reason": "Elekid does not exist in Gen 9."
+    },
+    {
+      "id": "magby",
+      "reason": "Magby does not exist in Gen 9."
+    },
+    {
+      "id": "miltank",
+      "reason": "Miltank does not exist in Gen 9."
+    },
+    {
+      "id": "blissey",
+      "reason": "Blissey does not exist in Gen 9."
+    },
+    {
+      "id": "raikou",
+      "reason": "Raikou does not exist in Gen 9."
+    },
+    {
+      "id": "entei",
+      "reason": "Entei does not exist in Gen 9."
+    },
+    {
+      "id": "suicune",
+      "reason": "Suicune does not exist in Gen 9."
+    },
+    {
+      "id": "larvitar",
+      "reason": "Larvitar does not exist in Gen 9."
+    },
+    {
+      "id": "pupitar",
+      "reason": "Pupitar does not exist in Gen 9."
+    },
+    {
+      "id": "lugia",
+      "reason": "Lugia is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "hooh",
+      "reason": "Ho-Oh is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "celebi",
+      "reason": "Celebi is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "treecko",
+      "reason": "Treecko does not exist in Gen 9."
+    },
+    {
+      "id": "grovyle",
+      "reason": "Grovyle does not exist in Gen 9."
+    },
+    {
+      "id": "torchic",
+      "reason": "Torchic does not exist in Gen 9."
+    },
+    {
+      "id": "combusken",
+      "reason": "Combusken does not exist in Gen 9."
+    },
+    {
+      "id": "mudkip",
+      "reason": "Mudkip does not exist in Gen 9."
+    },
+    {
+      "id": "marshtomp",
+      "reason": "Marshtomp does not exist in Gen 9."
+    },
+    {
+      "id": "poochyena",
+      "reason": "Poochyena does not exist in Gen 9."
+    },
+    {
+      "id": "mightyena",
+      "reason": "Mightyena does not exist in Gen 9."
+    },
+    {
+      "id": "zigzagoon",
+      "reason": "Zigzagoon does not exist in Gen 9."
+    },
+    {
+      "id": "zigzagoongalar",
+      "reason": "Zigzagoon-Galar does not exist in Gen 9."
+    },
+    {
+      "id": "linoone",
+      "reason": "Linoone does not exist in Gen 9."
+    },
+    {
+      "id": "linoonegalar",
+      "reason": "Linoone-Galar does not exist in Gen 9."
+    },
+    {
+      "id": "wurmple",
+      "reason": "Wurmple does not exist in Gen 9."
+    },
+    {
+      "id": "silcoon",
+      "reason": "Silcoon does not exist in Gen 9."
+    },
+    {
+      "id": "beautifly",
+      "reason": "Beautifly does not exist in Gen 9."
+    },
+    {
+      "id": "cascoon",
+      "reason": "Cascoon does not exist in Gen 9."
+    },
+    {
+      "id": "dustox",
+      "reason": "Dustox does not exist in Gen 9."
+    },
+    {
+      "id": "lotad",
+      "reason": "Lotad does not exist in Gen 9."
+    },
+    {
+      "id": "lombre",
+      "reason": "Lombre does not exist in Gen 9."
+    },
+    {
+      "id": "ludicolo",
+      "reason": "Ludicolo does not exist in Gen 9."
+    },
+    {
+      "id": "seedot",
+      "reason": "Seedot does not exist in Gen 9."
+    },
+    {
+      "id": "nuzleaf",
+      "reason": "Nuzleaf does not exist in Gen 9."
+    },
+    {
+      "id": "shiftry",
+      "reason": "Shiftry does not exist in Gen 9."
+    },
+    {
+      "id": "taillow",
+      "reason": "Taillow does not exist in Gen 9."
+    },
+    {
+      "id": "swellow",
+      "reason": "Swellow does not exist in Gen 9."
+    },
+    {
+      "id": "wingull",
+      "reason": "Wingull does not exist in Gen 9."
+    },
+    {
+      "id": "ralts",
+      "reason": "Ralts does not exist in Gen 9."
+    },
+    {
+      "id": "kirlia",
+      "reason": "Kirlia does not exist in Gen 9."
+    },
+    {
+      "id": "surskit",
+      "reason": "Surskit does not exist in Gen 9."
+    },
+    {
+      "id": "masquerain",
+      "reason": "Masquerain does not exist in Gen 9."
+    },
+    {
+      "id": "shroomish",
+      "reason": "Shroomish does not exist in Gen 9."
+    },
+    {
+      "id": "breloom",
+      "reason": "Breloom does not exist in Gen 9."
+    },
+    {
+      "id": "slakoth",
+      "reason": "Slakoth does not exist in Gen 9."
+    },
+    {
+      "id": "vigoroth",
+      "reason": "Vigoroth does not exist in Gen 9."
+    },
+    {
+      "id": "slaking",
+      "reason": "Slaking does not exist in Gen 9."
+    },
+    {
+      "id": "nincada",
+      "reason": "Nincada does not exist in Gen 9."
+    },
+    {
+      "id": "ninjask",
+      "reason": "Ninjask does not exist in Gen 9."
+    },
+    {
+      "id": "shedinja",
+      "reason": "Shedinja does not exist in Gen 9."
+    },
+    {
+      "id": "whismur",
+      "reason": "Whismur does not exist in Gen 9."
+    },
+    {
+      "id": "loudred",
+      "reason": "Loudred does not exist in Gen 9."
+    },
+    {
+      "id": "exploud",
+      "reason": "Exploud does not exist in Gen 9."
+    },
+    {
+      "id": "makuhita",
+      "reason": "Makuhita does not exist in Gen 9."
+    },
+    {
+      "id": "hariyama",
+      "reason": "Hariyama does not exist in Gen 9."
+    },
+    {
+      "id": "azurill",
+      "reason": "Azurill does not exist in Gen 9."
+    },
+    {
+      "id": "nosepass",
+      "reason": "Nosepass does not exist in Gen 9."
+    },
+    {
+      "id": "skitty",
+      "reason": "Skitty does not exist in Gen 9."
+    },
+    {
+      "id": "delcatty",
+      "reason": "Delcatty does not exist in Gen 9."
+    },
+    {
+      "id": "aron",
+      "reason": "Aron does not exist in Gen 9."
+    },
+    {
+      "id": "lairon",
+      "reason": "Lairon does not exist in Gen 9."
+    },
+    {
+      "id": "meditite",
+      "reason": "Meditite does not exist in Gen 9."
+    },
+    {
+      "id": "electrike",
+      "reason": "Electrike does not exist in Gen 9."
+    },
+    {
+      "id": "plusle",
+      "reason": "Plusle does not exist in Gen 9."
+    },
+    {
+      "id": "minun",
+      "reason": "Minun does not exist in Gen 9."
+    },
+    {
+      "id": "volbeat",
+      "reason": "Volbeat does not exist in Gen 9."
+    },
+    {
+      "id": "illumise",
+      "reason": "Illumise does not exist in Gen 9."
+    },
+    {
+      "id": "roselia",
+      "reason": "Roselia does not exist in Gen 9."
+    },
+    {
+      "id": "gulpin",
+      "reason": "Gulpin does not exist in Gen 9."
+    },
+    {
+      "id": "carvanha",
+      "reason": "Carvanha does not exist in Gen 9."
+    },
+    {
+      "id": "wailmer",
+      "reason": "Wailmer does not exist in Gen 9."
+    },
+    {
+      "id": "wailord",
+      "reason": "Wailord does not exist in Gen 9."
+    },
+    {
+      "id": "numel",
+      "reason": "Numel does not exist in Gen 9."
+    },
+    {
+      "id": "spoink",
+      "reason": "Spoink does not exist in Gen 9."
+    },
+    {
+      "id": "grumpig",
+      "reason": "Grumpig does not exist in Gen 9."
+    },
+    {
+      "id": "spinda",
+      "reason": "Spinda does not exist in Gen 9."
+    },
+    {
+      "id": "trapinch",
+      "reason": "Trapinch does not exist in Gen 9."
+    },
+    {
+      "id": "vibrava",
+      "reason": "Vibrava does not exist in Gen 9."
+    },
+    {
+      "id": "flygon",
+      "reason": "Flygon does not exist in Gen 9."
+    },
+    {
+      "id": "cacnea",
+      "reason": "Cacnea does not exist in Gen 9."
+    },
+    {
+      "id": "cacturne",
+      "reason": "Cacturne does not exist in Gen 9."
+    },
+    {
+      "id": "swablu",
+      "reason": "Swablu does not exist in Gen 9."
+    },
+    {
+      "id": "zangoose",
+      "reason": "Zangoose does not exist in Gen 9."
+    },
+    {
+      "id": "seviper",
+      "reason": "Seviper does not exist in Gen 9."
+    },
+    {
+      "id": "lunatone",
+      "reason": "Lunatone does not exist in Gen 9."
+    },
+    {
+      "id": "solrock",
+      "reason": "Solrock does not exist in Gen 9."
+    },
+    {
+      "id": "barboach",
+      "reason": "Barboach does not exist in Gen 9."
+    },
+    {
+      "id": "whiscash",
+      "reason": "Whiscash does not exist in Gen 9."
+    },
+    {
+      "id": "corphish",
+      "reason": "Corphish does not exist in Gen 9."
+    },
+    {
+      "id": "crawdaunt",
+      "reason": "Crawdaunt does not exist in Gen 9."
+    },
+    {
+      "id": "baltoy",
+      "reason": "Baltoy does not exist in Gen 9."
+    },
+    {
+      "id": "claydol",
+      "reason": "Claydol does not exist in Gen 9."
+    },
+    {
+      "id": "lileep",
+      "reason": "Lileep does not exist in Gen 9."
+    },
+    {
+      "id": "cradily",
+      "reason": "Cradily does not exist in Gen 9."
+    },
+    {
+      "id": "anorith",
+      "reason": "Anorith does not exist in Gen 9."
+    },
+    {
+      "id": "armaldo",
+      "reason": "Armaldo does not exist in Gen 9."
+    },
+    {
+      "id": "feebas",
+      "reason": "Feebas does not exist in Gen 9."
+    },
+    {
+      "id": "kecleon",
+      "reason": "Kecleon does not exist in Gen 9."
+    },
+    {
+      "id": "shuppet",
+      "reason": "Shuppet does not exist in Gen 9."
+    },
+    {
+      "id": "duskull",
+      "reason": "Duskull does not exist in Gen 9."
+    },
+    {
+      "id": "dusclops",
+      "reason": "Dusclops does not exist in Gen 9."
+    },
+    {
+      "id": "tropius",
+      "reason": "Tropius does not exist in Gen 9."
+    },
+    {
+      "id": "wynaut",
+      "reason": "Wynaut does not exist in Gen 9."
+    },
+    {
+      "id": "snorunt",
+      "reason": "Snorunt does not exist in Gen 9."
+    },
+    {
+      "id": "spheal",
+      "reason": "Spheal does not exist in Gen 9."
+    },
+    {
+      "id": "sealeo",
+      "reason": "Sealeo does not exist in Gen 9."
+    },
+    {
+      "id": "walrein",
+      "reason": "Walrein does not exist in Gen 9."
+    },
+    {
+      "id": "clamperl",
+      "reason": "Clamperl does not exist in Gen 9."
+    },
+    {
+      "id": "huntail",
+      "reason": "Huntail does not exist in Gen 9."
+    },
+    {
+      "id": "gorebyss",
+      "reason": "Gorebyss does not exist in Gen 9."
+    },
+    {
+      "id": "relicanth",
+      "reason": "Relicanth does not exist in Gen 9."
+    },
+    {
+      "id": "luvdisc",
+      "reason": "Luvdisc does not exist in Gen 9."
+    },
+    {
+      "id": "bagon",
+      "reason": "Bagon does not exist in Gen 9."
+    },
+    {
+      "id": "shelgon",
+      "reason": "Shelgon does not exist in Gen 9."
+    },
+    {
+      "id": "beldum",
+      "reason": "Beldum does not exist in Gen 9."
+    },
+    {
+      "id": "metang",
+      "reason": "Metang does not exist in Gen 9."
+    },
+    {
+      "id": "regirock",
+      "reason": "Regirock does not exist in Gen 9."
+    },
+    {
+      "id": "regice",
+      "reason": "Regice does not exist in Gen 9."
+    },
+    {
+      "id": "registeel",
+      "reason": "Registeel does not exist in Gen 9."
+    },
+    {
+      "id": "latias",
+      "reason": "Latias does not exist in Gen 9."
+    },
+    {
+      "id": "latiasmega",
+      "reason": "Required transformation item is unavailable."
+    },
+    {
+      "id": "latios",
+      "reason": "Latios does not exist in Gen 9."
+    },
+    {
+      "id": "latiosmega",
+      "reason": "Required transformation item is unavailable."
+    },
+    {
+      "id": "kyogre",
+      "reason": "Kyogre is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "kyogreprimal",
+      "reason": "Required transformation item is unavailable."
+    },
+    {
+      "id": "groudon",
+      "reason": "Groudon is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "groudonprimal",
+      "reason": "Required transformation item is unavailable."
+    },
+    {
+      "id": "rayquaza",
+      "reason": "Rayquaza is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "rayquazamega",
+      "reason": "Rayquaza (Rayquaza-Mega) is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "jirachi",
+      "reason": "Jirachi is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "deoxys",
+      "reason": "Deoxys is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "deoxysattack",
+      "reason": "Deoxys (Deoxys-Attack) is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "deoxysdefense",
+      "reason": "Deoxys (Deoxys-Defense) is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "deoxysspeed",
+      "reason": "Deoxys (Deoxys-Speed) is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "turtwig",
+      "reason": "Turtwig does not exist in Gen 9."
+    },
+    {
+      "id": "grotle",
+      "reason": "Grotle does not exist in Gen 9."
+    },
+    {
+      "id": "chimchar",
+      "reason": "Chimchar does not exist in Gen 9."
+    },
+    {
+      "id": "monferno",
+      "reason": "Monferno does not exist in Gen 9."
+    },
+    {
+      "id": "piplup",
+      "reason": "Piplup does not exist in Gen 9."
+    },
+    {
+      "id": "prinplup",
+      "reason": "Prinplup does not exist in Gen 9."
+    },
+    {
+      "id": "starly",
+      "reason": "Starly does not exist in Gen 9."
+    },
+    {
+      "id": "staravia",
+      "reason": "Staravia does not exist in Gen 9."
+    },
+    {
+      "id": "bidoof",
+      "reason": "Bidoof does not exist in Gen 9."
+    },
+    {
+      "id": "bibarel",
+      "reason": "Bibarel does not exist in Gen 9."
+    },
+    {
+      "id": "kricketot",
+      "reason": "Kricketot does not exist in Gen 9."
+    },
+    {
+      "id": "kricketune",
+      "reason": "Kricketune does not exist in Gen 9."
+    },
+    {
+      "id": "shinx",
+      "reason": "Shinx does not exist in Gen 9."
+    },
+    {
+      "id": "luxio",
+      "reason": "Luxio does not exist in Gen 9."
+    },
+    {
+      "id": "budew",
+      "reason": "Budew does not exist in Gen 9."
+    },
+    {
+      "id": "cranidos",
+      "reason": "Cranidos does not exist in Gen 9."
+    },
+    {
+      "id": "shieldon",
+      "reason": "Shieldon does not exist in Gen 9."
+    },
+    {
+      "id": "burmy",
+      "reason": "Burmy does not exist in Gen 9."
+    },
+    {
+      "id": "burmysandy",
+      "reason": "Burmy-Sandy does not exist in Gen 9."
+    },
+    {
+      "id": "burmytrash",
+      "reason": "Burmy-Trash does not exist in Gen 9."
+    },
+    {
+      "id": "wormadam",
+      "reason": "Wormadam does not exist in Gen 9."
+    },
+    {
+      "id": "wormadamsandy",
+      "reason": "Wormadam-Sandy does not exist in Gen 9."
+    },
+    {
+      "id": "wormadamtrash",
+      "reason": "Wormadam-Trash does not exist in Gen 9."
+    },
+    {
+      "id": "mothim",
+      "reason": "Mothim does not exist in Gen 9."
+    },
+    {
+      "id": "combee",
+      "reason": "Combee does not exist in Gen 9."
+    },
+    {
+      "id": "vespiquen",
+      "reason": "Vespiquen does not exist in Gen 9."
+    },
+    {
+      "id": "pachirisu",
+      "reason": "Pachirisu does not exist in Gen 9."
+    },
+    {
+      "id": "buizel",
+      "reason": "Buizel does not exist in Gen 9."
+    },
+    {
+      "id": "floatzel",
+      "reason": "Floatzel does not exist in Gen 9."
+    },
+    {
+      "id": "cherubi",
+      "reason": "Cherubi does not exist in Gen 9."
+    },
+    {
+      "id": "cherrim",
+      "reason": "Cherrim does not exist in Gen 9."
+    },
+    {
+      "id": "cherrimsunshine",
+      "reason": "Cherrim (Cherrim-Sunshine) does not exist in Gen 9."
+    },
+    {
+      "id": "shellos",
+      "reason": "Shellos does not exist in Gen 9."
+    },
+    {
+      "id": "shelloseast",
+      "reason": "Shellos-East does not exist in Gen 9."
+    },
+    {
+      "id": "gastrodon",
+      "reason": "Gastrodon does not exist in Gen 9."
+    },
+    {
+      "id": "gastrodoneast",
+      "reason": "Gastrodon-East does not exist in Gen 9."
+    },
+    {
+      "id": "ambipom",
+      "reason": "Ambipom does not exist in Gen 9."
+    },
+    {
+      "id": "drifloon",
+      "reason": "Drifloon does not exist in Gen 9."
+    },
+    {
+      "id": "drifblim",
+      "reason": "Drifblim does not exist in Gen 9."
+    },
+    {
+      "id": "buneary",
+      "reason": "Buneary does not exist in Gen 9."
+    },
+    {
+      "id": "mismagius",
+      "reason": "Mismagius does not exist in Gen 9."
+    },
+    {
+      "id": "honchkrow",
+      "reason": "Honchkrow does not exist in Gen 9."
+    },
+    {
+      "id": "glameow",
+      "reason": "Glameow does not exist in Gen 9."
+    },
+    {
+      "id": "purugly",
+      "reason": "Purugly does not exist in Gen 9."
+    },
+    {
+      "id": "chingling",
+      "reason": "Chingling does not exist in Gen 9."
+    },
+    {
+      "id": "stunky",
+      "reason": "Stunky does not exist in Gen 9."
+    },
+    {
+      "id": "skuntank",
+      "reason": "Skuntank does not exist in Gen 9."
+    },
+    {
+      "id": "bronzor",
+      "reason": "Bronzor does not exist in Gen 9."
+    },
+    {
+      "id": "bronzong",
+      "reason": "Bronzong does not exist in Gen 9."
+    },
+    {
+      "id": "bonsly",
+      "reason": "Bonsly does not exist in Gen 9."
+    },
+    {
+      "id": "mimejr",
+      "reason": "Mime Jr. does not exist in Gen 9."
+    },
+    {
+      "id": "happiny",
+      "reason": "Happiny does not exist in Gen 9."
+    },
+    {
+      "id": "chatot",
+      "reason": "Chatot does not exist in Gen 9."
+    },
+    {
+      "id": "gible",
+      "reason": "Gible does not exist in Gen 9."
+    },
+    {
+      "id": "gabite",
+      "reason": "Gabite does not exist in Gen 9."
+    },
+    {
+      "id": "munchlax",
+      "reason": "Munchlax does not exist in Gen 9."
+    },
+    {
+      "id": "riolu",
+      "reason": "Riolu does not exist in Gen 9."
+    },
+    {
+      "id": "hippopotas",
+      "reason": "Hippopotas does not exist in Gen 9."
+    },
+    {
+      "id": "skorupi",
+      "reason": "Skorupi does not exist in Gen 9."
+    },
+    {
+      "id": "drapion",
+      "reason": "Drapion does not exist in Gen 9."
+    },
+    {
+      "id": "croagunk",
+      "reason": "Croagunk does not exist in Gen 9."
+    },
+    {
+      "id": "carnivine",
+      "reason": "Carnivine does not exist in Gen 9."
+    },
+    {
+      "id": "finneon",
+      "reason": "Finneon does not exist in Gen 9."
+    },
+    {
+      "id": "lumineon",
+      "reason": "Lumineon does not exist in Gen 9."
+    },
+    {
+      "id": "mantyke",
+      "reason": "Mantyke does not exist in Gen 9."
+    },
+    {
+      "id": "snover",
+      "reason": "Snover does not exist in Gen 9."
+    },
+    {
+      "id": "magnezone",
+      "reason": "Magnezone does not exist in Gen 9."
+    },
+    {
+      "id": "lickilicky",
+      "reason": "Lickilicky does not exist in Gen 9."
+    },
+    {
+      "id": "tangrowth",
+      "reason": "Tangrowth does not exist in Gen 9."
+    },
+    {
+      "id": "electivire",
+      "reason": "Electivire does not exist in Gen 9."
+    },
+    {
+      "id": "magmortar",
+      "reason": "Magmortar does not exist in Gen 9."
+    },
+    {
+      "id": "togekiss",
+      "reason": "Togekiss does not exist in Gen 9."
+    },
+    {
+      "id": "yanmega",
+      "reason": "Yanmega does not exist in Gen 9."
+    },
+    {
+      "id": "porygonz",
+      "reason": "Porygon-Z does not exist in Gen 9."
+    },
+    {
+      "id": "probopass",
+      "reason": "Probopass does not exist in Gen 9."
+    },
+    {
+      "id": "dusknoir",
+      "reason": "Dusknoir does not exist in Gen 9."
+    },
+    {
+      "id": "uxie",
+      "reason": "Uxie does not exist in Gen 9."
+    },
+    {
+      "id": "mesprit",
+      "reason": "Mesprit does not exist in Gen 9."
+    },
+    {
+      "id": "azelf",
+      "reason": "Azelf does not exist in Gen 9."
+    },
+    {
+      "id": "dialga",
+      "reason": "Dialga is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "dialgaorigin",
+      "reason": "Dialga (Dialga-Origin) is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "palkia",
+      "reason": "Palkia is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "palkiaorigin",
+      "reason": "Palkia (Palkia-Origin) is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "heatran",
+      "reason": "Heatran does not exist in Gen 9."
+    },
+    {
+      "id": "heatranmega",
+      "reason": "Required transformation item is unavailable."
+    },
+    {
+      "id": "regigigas",
+      "reason": "Regigigas does not exist in Gen 9."
+    },
+    {
+      "id": "giratina",
+      "reason": "Giratina is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "giratinaorigin",
+      "reason": "Giratina (Giratina-Origin) is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "cresselia",
+      "reason": "Cresselia does not exist in Gen 9."
+    },
+    {
+      "id": "phione",
+      "reason": "Phione is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "manaphy",
+      "reason": "Manaphy is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "darkrai",
+      "reason": "Darkrai is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "darkraimega",
+      "reason": "Required transformation item is unavailable."
+    },
+    {
+      "id": "shaymin",
+      "reason": "Shaymin is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "shayminsky",
+      "reason": "Shaymin (Shaymin-Sky) is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "arceus",
+      "reason": "Arceus is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "arceusbug",
+      "reason": "Arceus (Arceus-Bug) is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "arceusdark",
+      "reason": "Arceus (Arceus-Dark) is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "arceusdragon",
+      "reason": "Arceus (Arceus-Dragon) is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "arceuselectric",
+      "reason": "Arceus (Arceus-Electric) is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "arceusfairy",
+      "reason": "Arceus (Arceus-Fairy) is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "arceusfighting",
+      "reason": "Arceus (Arceus-Fighting) is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "arceusfire",
+      "reason": "Arceus (Arceus-Fire) is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "arceusflying",
+      "reason": "Arceus (Arceus-Flying) is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "arceusghost",
+      "reason": "Arceus (Arceus-Ghost) is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "arceusgrass",
+      "reason": "Arceus (Arceus-Grass) is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "arceusground",
+      "reason": "Arceus (Arceus-Ground) is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "arceusice",
+      "reason": "Arceus (Arceus-Ice) is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "arceuspoison",
+      "reason": "Arceus (Arceus-Poison) is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "arceuspsychic",
+      "reason": "Arceus (Arceus-Psychic) is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "arceusrock",
+      "reason": "Arceus (Arceus-Rock) is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "arceussteel",
+      "reason": "Arceus (Arceus-Steel) is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "arceuswater",
+      "reason": "Arceus (Arceus-Water) is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "victini",
+      "reason": "Victini is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "snivy",
+      "reason": "Snivy does not exist in Gen 9."
+    },
+    {
+      "id": "servine",
+      "reason": "Servine does not exist in Gen 9."
+    },
+    {
+      "id": "tepig",
+      "reason": "Tepig does not exist in Gen 9."
+    },
+    {
+      "id": "pignite",
+      "reason": "Pignite does not exist in Gen 9."
+    },
+    {
+      "id": "oshawott",
+      "reason": "Oshawott does not exist in Gen 9."
+    },
+    {
+      "id": "dewott",
+      "reason": "Dewott does not exist in Gen 9."
+    },
+    {
+      "id": "patrat",
+      "reason": "Patrat does not exist in Gen 9."
+    },
+    {
+      "id": "lillipup",
+      "reason": "Lillipup does not exist in Gen 9."
+    },
+    {
+      "id": "herdier",
+      "reason": "Herdier does not exist in Gen 9."
+    },
+    {
+      "id": "stoutland",
+      "reason": "Stoutland does not exist in Gen 9."
+    },
+    {
+      "id": "purrloin",
+      "reason": "Purrloin does not exist in Gen 9."
+    },
+    {
+      "id": "pansage",
+      "reason": "Pansage does not exist in Gen 9."
+    },
+    {
+      "id": "pansear",
+      "reason": "Pansear does not exist in Gen 9."
+    },
+    {
+      "id": "panpour",
+      "reason": "Panpour does not exist in Gen 9."
+    },
+    {
+      "id": "munna",
+      "reason": "Munna does not exist in Gen 9."
+    },
+    {
+      "id": "pidove",
+      "reason": "Pidove does not exist in Gen 9."
+    },
+    {
+      "id": "tranquill",
+      "reason": "Tranquill does not exist in Gen 9."
+    },
+    {
+      "id": "unfezant",
+      "reason": "Unfezant does not exist in Gen 9."
+    },
+    {
+      "id": "blitzle",
+      "reason": "Blitzle does not exist in Gen 9."
+    },
+    {
+      "id": "zebstrika",
+      "reason": "Zebstrika does not exist in Gen 9."
+    },
+    {
+      "id": "roggenrola",
+      "reason": "Roggenrola does not exist in Gen 9."
+    },
+    {
+      "id": "boldore",
+      "reason": "Boldore does not exist in Gen 9."
+    },
+    {
+      "id": "gigalith",
+      "reason": "Gigalith does not exist in Gen 9."
+    },
+    {
+      "id": "woobat",
+      "reason": "Woobat does not exist in Gen 9."
+    },
+    {
+      "id": "swoobat",
+      "reason": "Swoobat does not exist in Gen 9."
+    },
+    {
+      "id": "drilbur",
+      "reason": "Drilbur does not exist in Gen 9."
+    },
+    {
+      "id": "timburr",
+      "reason": "Timburr does not exist in Gen 9."
+    },
+    {
+      "id": "gurdurr",
+      "reason": "Gurdurr does not exist in Gen 9."
+    },
+    {
+      "id": "tympole",
+      "reason": "Tympole does not exist in Gen 9."
+    },
+    {
+      "id": "palpitoad",
+      "reason": "Palpitoad does not exist in Gen 9."
+    },
+    {
+      "id": "seismitoad",
+      "reason": "Seismitoad does not exist in Gen 9."
+    },
+    {
+      "id": "throh",
+      "reason": "Throh does not exist in Gen 9."
+    },
+    {
+      "id": "sawk",
+      "reason": "Sawk does not exist in Gen 9."
+    },
+    {
+      "id": "sewaddle",
+      "reason": "Sewaddle does not exist in Gen 9."
+    },
+    {
+      "id": "swadloon",
+      "reason": "Swadloon does not exist in Gen 9."
+    },
+    {
+      "id": "leavanny",
+      "reason": "Leavanny does not exist in Gen 9."
+    },
+    {
+      "id": "venipede",
+      "reason": "Venipede does not exist in Gen 9."
+    },
+    {
+      "id": "whirlipede",
+      "reason": "Whirlipede does not exist in Gen 9."
+    },
+    {
+      "id": "cottonee",
+      "reason": "Cottonee does not exist in Gen 9."
+    },
+    {
+      "id": "petilil",
+      "reason": "Petilil does not exist in Gen 9."
+    },
+    {
+      "id": "lilligant",
+      "reason": "Lilligant does not exist in Gen 9."
+    },
+    {
+      "id": "lilliganthisui",
+      "reason": "Lilligant-Hisui does not exist in Gen 9."
+    },
+    {
+      "id": "basculin",
+      "reason": "Basculin does not exist in Gen 9."
+    },
+    {
+      "id": "basculinbluestriped",
+      "reason": "Basculin-Blue-Striped does not exist in Gen 9."
+    },
+    {
+      "id": "basculinwhitestriped",
+      "reason": "Basculin-White-Striped does not exist in Gen 9."
+    },
+    {
+      "id": "sandile",
+      "reason": "Sandile does not exist in Gen 9."
+    },
+    {
+      "id": "krokorok",
+      "reason": "Krokorok does not exist in Gen 9."
+    },
+    {
+      "id": "darumaka",
+      "reason": "Darumaka does not exist in Gen 9."
+    },
+    {
+      "id": "darumakagalar",
+      "reason": "Darumaka-Galar does not exist in Gen 9."
+    },
+    {
+      "id": "darmanitan",
+      "reason": "Darmanitan does not exist in Gen 9."
+    },
+    {
+      "id": "darmanitanzen",
+      "reason": "Darmanitan (Darmanitan-Zen) does not exist in Gen 9."
+    },
+    {
+      "id": "darmanitangalar",
+      "reason": "Darmanitan-Galar does not exist in Gen 9."
+    },
+    {
+      "id": "darmanitangalarzen",
+      "reason": "Darmanitan-Galar (Darmanitan-Galar-Zen) does not exist in Gen 9."
+    },
+    {
+      "id": "maractus",
+      "reason": "Maractus does not exist in Gen 9."
+    },
+    {
+      "id": "dwebble",
+      "reason": "Dwebble does not exist in Gen 9."
+    },
+    {
+      "id": "crustle",
+      "reason": "Crustle does not exist in Gen 9."
+    },
+    {
+      "id": "scraggy",
+      "reason": "Scraggy does not exist in Gen 9."
+    },
+    {
+      "id": "sigilyph",
+      "reason": "Sigilyph does not exist in Gen 9."
+    },
+    {
+      "id": "yamask",
+      "reason": "Yamask does not exist in Gen 9."
+    },
+    {
+      "id": "yamaskgalar",
+      "reason": "Yamask-Galar does not exist in Gen 9."
+    },
+    {
+      "id": "tirtouga",
+      "reason": "Tirtouga does not exist in Gen 9."
+    },
+    {
+      "id": "carracosta",
+      "reason": "Carracosta does not exist in Gen 9."
+    },
+    {
+      "id": "archen",
+      "reason": "Archen does not exist in Gen 9."
+    },
+    {
+      "id": "archeops",
+      "reason": "Archeops does not exist in Gen 9."
+    },
+    {
+      "id": "trubbish",
+      "reason": "Trubbish does not exist in Gen 9."
+    },
+    {
+      "id": "garbodorgmax",
+      "reason": "Garbodor (Garbodor-Gmax) is a placeholder for a Gigantamax sprite, not a real Pokémon. (This message is likely a validator bug.)"
+    },
+    {
+      "id": "zorua",
+      "reason": "Zorua does not exist in Gen 9."
+    },
+    {
+      "id": "zoruahisui",
+      "reason": "Zorua-Hisui does not exist in Gen 9."
+    },
+    {
+      "id": "minccino",
+      "reason": "Minccino does not exist in Gen 9."
+    },
+    {
+      "id": "cinccino",
+      "reason": "Cinccino does not exist in Gen 9."
+    },
+    {
+      "id": "gothita",
+      "reason": "Gothita does not exist in Gen 9."
+    },
+    {
+      "id": "gothorita",
+      "reason": "Gothorita does not exist in Gen 9."
+    },
+    {
+      "id": "gothitelle",
+      "reason": "Gothitelle does not exist in Gen 9."
+    },
+    {
+      "id": "solosis",
+      "reason": "Solosis does not exist in Gen 9."
+    },
+    {
+      "id": "duosion",
+      "reason": "Duosion does not exist in Gen 9."
+    },
+    {
+      "id": "ducklett",
+      "reason": "Ducklett does not exist in Gen 9."
+    },
+    {
+      "id": "swanna",
+      "reason": "Swanna does not exist in Gen 9."
+    },
+    {
+      "id": "vanillite",
+      "reason": "Vanillite does not exist in Gen 9."
+    },
+    {
+      "id": "vanillish",
+      "reason": "Vanillish does not exist in Gen 9."
+    },
+    {
+      "id": "deerling",
+      "reason": "Deerling does not exist in Gen 9."
+    },
+    {
+      "id": "deerlingsummer",
+      "reason": "Deerling-Summer does not exist in Gen 9."
+    },
+    {
+      "id": "deerlingautumn",
+      "reason": "Deerling-Autumn does not exist in Gen 9."
+    },
+    {
+      "id": "deerlingwinter",
+      "reason": "Deerling-Winter does not exist in Gen 9."
+    },
+    {
+      "id": "sawsbuck",
+      "reason": "Sawsbuck does not exist in Gen 9."
+    },
+    {
+      "id": "karrablast",
+      "reason": "Karrablast does not exist in Gen 9."
+    },
+    {
+      "id": "escavalier",
+      "reason": "Escavalier does not exist in Gen 9."
+    },
+    {
+      "id": "foongus",
+      "reason": "Foongus does not exist in Gen 9."
+    },
+    {
+      "id": "amoonguss",
+      "reason": "Amoonguss does not exist in Gen 9."
+    },
+    {
+      "id": "frillish",
+      "reason": "Frillish does not exist in Gen 9."
+    },
+    {
+      "id": "jellicent",
+      "reason": "Jellicent does not exist in Gen 9."
+    },
+    {
+      "id": "alomomola",
+      "reason": "Alomomola does not exist in Gen 9."
+    },
+    {
+      "id": "joltik",
+      "reason": "Joltik does not exist in Gen 9."
+    },
+    {
+      "id": "galvantula",
+      "reason": "Galvantula does not exist in Gen 9."
+    },
+    {
+      "id": "ferroseed",
+      "reason": "Ferroseed does not exist in Gen 9."
+    },
+    {
+      "id": "ferrothorn",
+      "reason": "Ferrothorn does not exist in Gen 9."
+    },
+    {
+      "id": "klink",
+      "reason": "Klink does not exist in Gen 9."
+    },
+    {
+      "id": "klang",
+      "reason": "Klang does not exist in Gen 9."
+    },
+    {
+      "id": "klinklang",
+      "reason": "Klinklang does not exist in Gen 9."
+    },
+    {
+      "id": "tynamo",
+      "reason": "Tynamo does not exist in Gen 9."
+    },
+    {
+      "id": "eelektrik",
+      "reason": "Eelektrik does not exist in Gen 9."
+    },
+    {
+      "id": "elgyem",
+      "reason": "Elgyem does not exist in Gen 9."
+    },
+    {
+      "id": "beheeyem",
+      "reason": "Beheeyem does not exist in Gen 9."
+    },
+    {
+      "id": "litwick",
+      "reason": "Litwick does not exist in Gen 9."
+    },
+    {
+      "id": "lampent",
+      "reason": "Lampent does not exist in Gen 9."
+    },
+    {
+      "id": "axew",
+      "reason": "Axew does not exist in Gen 9."
+    },
+    {
+      "id": "fraxure",
+      "reason": "Fraxure does not exist in Gen 9."
+    },
+    {
+      "id": "haxorus",
+      "reason": "Haxorus does not exist in Gen 9."
+    },
+    {
+      "id": "cubchoo",
+      "reason": "Cubchoo does not exist in Gen 9."
+    },
+    {
+      "id": "cryogonal",
+      "reason": "Cryogonal does not exist in Gen 9."
+    },
+    {
+      "id": "shelmet",
+      "reason": "Shelmet does not exist in Gen 9."
+    },
+    {
+      "id": "accelgor",
+      "reason": "Accelgor does not exist in Gen 9."
+    },
+    {
+      "id": "mienfoo",
+      "reason": "Mienfoo does not exist in Gen 9."
+    },
+    {
+      "id": "mienshao",
+      "reason": "Mienshao does not exist in Gen 9."
+    },
+    {
+      "id": "druddigon",
+      "reason": "Druddigon does not exist in Gen 9."
+    },
+    {
+      "id": "golett",
+      "reason": "Golett does not exist in Gen 9."
+    },
+    {
+      "id": "pawniard",
+      "reason": "Pawniard does not exist in Gen 9."
+    },
+    {
+      "id": "bisharp",
+      "reason": "Bisharp does not exist in Gen 9."
+    },
+    {
+      "id": "bouffalant",
+      "reason": "Bouffalant does not exist in Gen 9."
+    },
+    {
+      "id": "rufflet",
+      "reason": "Rufflet does not exist in Gen 9."
+    },
+    {
+      "id": "braviary",
+      "reason": "Braviary does not exist in Gen 9."
+    },
+    {
+      "id": "braviaryhisui",
+      "reason": "Braviary-Hisui does not exist in Gen 9."
+    },
+    {
+      "id": "vullaby",
+      "reason": "Vullaby does not exist in Gen 9."
+    },
+    {
+      "id": "mandibuzz",
+      "reason": "Mandibuzz does not exist in Gen 9."
+    },
+    {
+      "id": "heatmor",
+      "reason": "Heatmor does not exist in Gen 9."
+    },
+    {
+      "id": "durant",
+      "reason": "Durant does not exist in Gen 9."
+    },
+    {
+      "id": "deino",
+      "reason": "Deino does not exist in Gen 9."
+    },
+    {
+      "id": "zweilous",
+      "reason": "Zweilous does not exist in Gen 9."
+    },
+    {
+      "id": "larvesta",
+      "reason": "Larvesta does not exist in Gen 9."
+    },
+    {
+      "id": "cobalion",
+      "reason": "Cobalion does not exist in Gen 9."
+    },
+    {
+      "id": "terrakion",
+      "reason": "Terrakion does not exist in Gen 9."
+    },
+    {
+      "id": "virizion",
+      "reason": "Virizion does not exist in Gen 9."
+    },
+    {
+      "id": "tornadus",
+      "reason": "Tornadus does not exist in Gen 9."
+    },
+    {
+      "id": "tornadustherian",
+      "reason": "Tornadus (Tornadus-Therian) does not exist in Gen 9."
+    },
+    {
+      "id": "thundurus",
+      "reason": "Thundurus does not exist in Gen 9."
+    },
+    {
+      "id": "thundurustherian",
+      "reason": "Thundurus (Thundurus-Therian) does not exist in Gen 9."
+    },
+    {
+      "id": "reshiram",
+      "reason": "Reshiram is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "zekrom",
+      "reason": "Zekrom is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "landorus",
+      "reason": "Landorus does not exist in Gen 9."
+    },
+    {
+      "id": "landorustherian",
+      "reason": "Landorus (Landorus-Therian) does not exist in Gen 9."
+    },
+    {
+      "id": "kyurem",
+      "reason": "Kyurem is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "kyuremblack",
+      "reason": "Kyurem (Kyurem-Black) is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "kyuremwhite",
+      "reason": "Kyurem (Kyurem-White) is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "keldeo",
+      "reason": "Keldeo is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "keldeoresolute",
+      "reason": "Keldeo (Keldeo-Resolute) is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "meloetta",
+      "reason": "Meloetta is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "meloettapirouette",
+      "reason": "Meloetta (Meloetta-Pirouette) is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "genesect",
+      "reason": "Genesect is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "genesectdouse",
+      "reason": "Genesect (Genesect-Douse) is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "genesectshock",
+      "reason": "Genesect (Genesect-Shock) is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "genesectburn",
+      "reason": "Genesect (Genesect-Burn) is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "genesectchill",
+      "reason": "Genesect (Genesect-Chill) is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "chespin",
+      "reason": "Chespin does not exist in Gen 9."
+    },
+    {
+      "id": "quilladin",
+      "reason": "Quilladin does not exist in Gen 9."
+    },
+    {
+      "id": "fennekin",
+      "reason": "Fennekin does not exist in Gen 9."
+    },
+    {
+      "id": "braixen",
+      "reason": "Braixen does not exist in Gen 9."
+    },
+    {
+      "id": "froakie",
+      "reason": "Froakie does not exist in Gen 9."
+    },
+    {
+      "id": "frogadier",
+      "reason": "Frogadier does not exist in Gen 9."
+    },
+    {
+      "id": "greninjabond",
+      "reason": "Greninja-Bond does not exist in Gen 9."
+    },
+    {
+      "id": "greninjaash",
+      "reason": "Greninja-Bond (Greninja-Ash) does not exist in Gen 9."
+    },
+    {
+      "id": "bunnelby",
+      "reason": "Bunnelby does not exist in Gen 9."
+    },
+    {
+      "id": "fletchling",
+      "reason": "Fletchling does not exist in Gen 9."
+    },
+    {
+      "id": "fletchinder",
+      "reason": "Fletchinder does not exist in Gen 9."
+    },
+    {
+      "id": "scatterbug",
+      "reason": "Scatterbug does not exist in Gen 9."
+    },
+    {
+      "id": "spewpa",
+      "reason": "Spewpa does not exist in Gen 9."
+    },
+    {
+      "id": "litleo",
+      "reason": "Litleo does not exist in Gen 9."
+    },
+    {
+      "id": "flabebe",
+      "reason": "Flabébé does not exist in Gen 9."
+    },
+    {
+      "id": "floette",
+      "reason": "Floette does not exist in Gen 9."
+    },
+    {
+      "id": "skiddo",
+      "reason": "Skiddo does not exist in Gen 9."
+    },
+    {
+      "id": "pancham",
+      "reason": "Pancham does not exist in Gen 9."
+    },
+    {
+      "id": "espurr",
+      "reason": "Espurr does not exist in Gen 9."
+    },
+    {
+      "id": "honedge",
+      "reason": "Honedge does not exist in Gen 9."
+    },
+    {
+      "id": "doublade",
+      "reason": "Doublade does not exist in Gen 9."
+    },
+    {
+      "id": "spritzee",
+      "reason": "Spritzee does not exist in Gen 9."
+    },
+    {
+      "id": "swirlix",
+      "reason": "Swirlix does not exist in Gen 9."
+    },
+    {
+      "id": "inkay",
+      "reason": "Inkay does not exist in Gen 9."
+    },
+    {
+      "id": "binacle",
+      "reason": "Binacle does not exist in Gen 9."
+    },
+    {
+      "id": "skrelp",
+      "reason": "Skrelp does not exist in Gen 9."
+    },
+    {
+      "id": "clauncher",
+      "reason": "Clauncher does not exist in Gen 9."
+    },
+    {
+      "id": "helioptile",
+      "reason": "Helioptile does not exist in Gen 9."
+    },
+    {
+      "id": "tyrunt",
+      "reason": "Tyrunt does not exist in Gen 9."
+    },
+    {
+      "id": "amaura",
+      "reason": "Amaura does not exist in Gen 9."
+    },
+    {
+      "id": "carbink",
+      "reason": "Carbink does not exist in Gen 9."
+    },
+    {
+      "id": "goomy",
+      "reason": "Goomy does not exist in Gen 9."
+    },
+    {
+      "id": "sliggoo",
+      "reason": "Sliggoo does not exist in Gen 9."
+    },
+    {
+      "id": "sliggoohisui",
+      "reason": "Sliggoo-Hisui does not exist in Gen 9."
+    },
+    {
+      "id": "phantump",
+      "reason": "Phantump does not exist in Gen 9."
+    },
+    {
+      "id": "pumpkaboo",
+      "reason": "Pumpkaboo does not exist in Gen 9."
+    },
+    {
+      "id": "pumpkaboosmall",
+      "reason": "Pumpkaboo-Small does not exist in Gen 9."
+    },
+    {
+      "id": "pumpkaboolarge",
+      "reason": "Pumpkaboo-Large does not exist in Gen 9."
+    },
+    {
+      "id": "pumpkaboosuper",
+      "reason": "Pumpkaboo-Super does not exist in Gen 9."
+    },
+    {
+      "id": "bergmite",
+      "reason": "Bergmite does not exist in Gen 9."
+    },
+    {
+      "id": "noibat",
+      "reason": "Noibat does not exist in Gen 9."
+    },
+    {
+      "id": "xerneas",
+      "reason": "Xerneas is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "xerneasneutral",
+      "reason": "Xerneas-Neutral is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "yveltal",
+      "reason": "Yveltal is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "zygarde",
+      "reason": "Zygarde is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "zygarde10",
+      "reason": "Zygarde (Zygarde-10%) is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "zygardecomplete",
+      "reason": "Zygarde (Zygarde-Complete) is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "zygardemega",
+      "reason": "Required transformation item is unavailable."
+    },
+    {
+      "id": "diancie",
+      "reason": "Diancie is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "dianciemega",
+      "reason": "Required transformation item is unavailable."
+    },
+    {
+      "id": "hoopa",
+      "reason": "Hoopa is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "hoopaunbound",
+      "reason": "Hoopa (Hoopa-Unbound) is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "volcanion",
+      "reason": "Volcanion is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "rowlet",
+      "reason": "Rowlet does not exist in Gen 9."
+    },
+    {
+      "id": "dartrix",
+      "reason": "Dartrix does not exist in Gen 9."
+    },
+    {
+      "id": "litten",
+      "reason": "Litten does not exist in Gen 9."
+    },
+    {
+      "id": "torracat",
+      "reason": "Torracat does not exist in Gen 9."
+    },
+    {
+      "id": "popplio",
+      "reason": "Popplio does not exist in Gen 9."
+    },
+    {
+      "id": "brionne",
+      "reason": "Brionne does not exist in Gen 9."
+    },
+    {
+      "id": "pikipek",
+      "reason": "Pikipek does not exist in Gen 9."
+    },
+    {
+      "id": "trumbeak",
+      "reason": "Trumbeak does not exist in Gen 9."
+    },
+    {
+      "id": "yungoos",
+      "reason": "Yungoos does not exist in Gen 9."
+    },
+    {
+      "id": "gumshoos",
+      "reason": "Gumshoos does not exist in Gen 9."
+    },
+    {
+      "id": "gumshoostotem",
+      "reason": "Gumshoos-Totem does not exist in Gen 9."
+    },
+    {
+      "id": "grubbin",
+      "reason": "Grubbin does not exist in Gen 9."
+    },
+    {
+      "id": "charjabug",
+      "reason": "Charjabug does not exist in Gen 9."
+    },
+    {
+      "id": "vikavolt",
+      "reason": "Vikavolt does not exist in Gen 9."
+    },
+    {
+      "id": "vikavolttotem",
+      "reason": "Vikavolt-Totem does not exist in Gen 9."
+    },
+    {
+      "id": "crabrawler",
+      "reason": "Crabrawler does not exist in Gen 9."
+    },
+    {
+      "id": "oricorio",
+      "reason": "Oricorio does not exist in Gen 9."
+    },
+    {
+      "id": "oricoriopompom",
+      "reason": "Oricorio (Oricorio-Pom-Pom) does not exist in Gen 9."
+    },
+    {
+      "id": "oricoriopau",
+      "reason": "Oricorio (Oricorio-Pa'u) does not exist in Gen 9."
+    },
+    {
+      "id": "oricoriosensu",
+      "reason": "Oricorio (Oricorio-Sensu) does not exist in Gen 9."
+    },
+    {
+      "id": "cutiefly",
+      "reason": "Cutiefly does not exist in Gen 9."
+    },
+    {
+      "id": "ribombee",
+      "reason": "Ribombee does not exist in Gen 9."
+    },
+    {
+      "id": "ribombeetotem",
+      "reason": "Ribombee-Totem does not exist in Gen 9."
+    },
+    {
+      "id": "rockruff",
+      "reason": "Rockruff does not exist in Gen 9."
+    },
+    {
+      "id": "rockruffdusk",
+      "reason": "Rockruff-Dusk does not exist in Gen 9."
+    },
+    {
+      "id": "wishiwashi",
+      "reason": "Wishiwashi does not exist in Gen 9."
+    },
+    {
+      "id": "wishiwashischool",
+      "reason": "Wishiwashi (Wishiwashi-School) does not exist in Gen 9."
+    },
+    {
+      "id": "mareanie",
+      "reason": "Mareanie does not exist in Gen 9."
+    },
+    {
+      "id": "mudbray",
+      "reason": "Mudbray does not exist in Gen 9."
+    },
+    {
+      "id": "dewpider",
+      "reason": "Dewpider does not exist in Gen 9."
+    },
+    {
+      "id": "araquanidtotem",
+      "reason": "Araquanid-Totem does not exist in Gen 9."
+    },
+    {
+      "id": "fomantis",
+      "reason": "Fomantis does not exist in Gen 9."
+    },
+    {
+      "id": "lurantis",
+      "reason": "Lurantis does not exist in Gen 9."
+    },
+    {
+      "id": "lurantistotem",
+      "reason": "Lurantis-Totem does not exist in Gen 9."
+    },
+    {
+      "id": "morelull",
+      "reason": "Morelull does not exist in Gen 9."
+    },
+    {
+      "id": "shiinotic",
+      "reason": "Shiinotic does not exist in Gen 9."
+    },
+    {
+      "id": "salandit",
+      "reason": "Salandit does not exist in Gen 9."
+    },
+    {
+      "id": "salazzletotem",
+      "reason": "Salazzle-Totem does not exist in Gen 9."
+    },
+    {
+      "id": "stufful",
+      "reason": "Stufful does not exist in Gen 9."
+    },
+    {
+      "id": "bewear",
+      "reason": "Bewear does not exist in Gen 9."
+    },
+    {
+      "id": "bounsweet",
+      "reason": "Bounsweet does not exist in Gen 9."
+    },
+    {
+      "id": "steenee",
+      "reason": "Steenee does not exist in Gen 9."
+    },
+    {
+      "id": "comfey",
+      "reason": "Comfey does not exist in Gen 9."
+    },
+    {
+      "id": "wimpod",
+      "reason": "Wimpod does not exist in Gen 9."
+    },
+    {
+      "id": "sandygast",
+      "reason": "Sandygast does not exist in Gen 9."
+    },
+    {
+      "id": "palossand",
+      "reason": "Palossand does not exist in Gen 9."
+    },
+    {
+      "id": "pyukumuku",
+      "reason": "Pyukumuku does not exist in Gen 9."
+    },
+    {
+      "id": "typenull",
+      "reason": "Type: Null does not exist in Gen 9."
+    },
+    {
+      "id": "silvally",
+      "reason": "Silvally does not exist in Gen 9."
+    },
+    {
+      "id": "silvallybug",
+      "reason": "Silvally (Silvally-Bug) does not exist in Gen 9."
+    },
+    {
+      "id": "silvallydark",
+      "reason": "Silvally (Silvally-Dark) does not exist in Gen 9."
+    },
+    {
+      "id": "silvallydragon",
+      "reason": "Silvally (Silvally-Dragon) does not exist in Gen 9."
+    },
+    {
+      "id": "silvallyelectric",
+      "reason": "Silvally (Silvally-Electric) does not exist in Gen 9."
+    },
+    {
+      "id": "silvallyfairy",
+      "reason": "Silvally (Silvally-Fairy) does not exist in Gen 9."
+    },
+    {
+      "id": "silvallyfighting",
+      "reason": "Silvally (Silvally-Fighting) does not exist in Gen 9."
+    },
+    {
+      "id": "silvallyfire",
+      "reason": "Silvally (Silvally-Fire) does not exist in Gen 9."
+    },
+    {
+      "id": "silvallyflying",
+      "reason": "Silvally (Silvally-Flying) does not exist in Gen 9."
+    },
+    {
+      "id": "silvallyghost",
+      "reason": "Silvally (Silvally-Ghost) does not exist in Gen 9."
+    },
+    {
+      "id": "silvallygrass",
+      "reason": "Silvally (Silvally-Grass) does not exist in Gen 9."
+    },
+    {
+      "id": "silvallyground",
+      "reason": "Silvally (Silvally-Ground) does not exist in Gen 9."
+    },
+    {
+      "id": "silvallyice",
+      "reason": "Silvally (Silvally-Ice) does not exist in Gen 9."
+    },
+    {
+      "id": "silvallypoison",
+      "reason": "Silvally (Silvally-Poison) does not exist in Gen 9."
+    },
+    {
+      "id": "silvallypsychic",
+      "reason": "Silvally (Silvally-Psychic) does not exist in Gen 9."
+    },
+    {
+      "id": "silvallyrock",
+      "reason": "Silvally (Silvally-Rock) does not exist in Gen 9."
+    },
+    {
+      "id": "silvallysteel",
+      "reason": "Silvally (Silvally-Steel) does not exist in Gen 9."
+    },
+    {
+      "id": "silvallywater",
+      "reason": "Silvally (Silvally-Water) does not exist in Gen 9."
+    },
+    {
+      "id": "minior",
+      "reason": "Minior does not exist in Gen 9."
+    },
+    {
+      "id": "miniororange",
+      "reason": "Minior-Orange does not exist in Gen 9."
+    },
+    {
+      "id": "minioryellow",
+      "reason": "Minior-Yellow does not exist in Gen 9."
+    },
+    {
+      "id": "miniorgreen",
+      "reason": "Minior-Green does not exist in Gen 9."
+    },
+    {
+      "id": "miniorblue",
+      "reason": "Minior-Blue does not exist in Gen 9."
+    },
+    {
+      "id": "miniorindigo",
+      "reason": "Minior-Indigo does not exist in Gen 9."
+    },
+    {
+      "id": "miniorviolet",
+      "reason": "Minior-Violet does not exist in Gen 9."
+    },
+    {
+      "id": "komala",
+      "reason": "Komala does not exist in Gen 9."
+    },
+    {
+      "id": "turtonator",
+      "reason": "Turtonator does not exist in Gen 9."
+    },
+    {
+      "id": "togedemaru",
+      "reason": "Togedemaru does not exist in Gen 9."
+    },
+    {
+      "id": "togedemarutotem",
+      "reason": "Togedemaru-Totem does not exist in Gen 9."
+    },
+    {
+      "id": "mimikyutotem",
+      "reason": "Mimikyu-Totem does not exist in Gen 9."
+    },
+    {
+      "id": "mimikyubustedtotem",
+      "reason": "Mimikyu-Totem (Mimikyu-Busted-Totem) does not exist in Gen 9."
+    },
+    {
+      "id": "bruxish",
+      "reason": "Bruxish does not exist in Gen 9."
+    },
+    {
+      "id": "dhelmise",
+      "reason": "Dhelmise does not exist in Gen 9."
+    },
+    {
+      "id": "jangmoo",
+      "reason": "Jangmo-o does not exist in Gen 9."
+    },
+    {
+      "id": "hakamoo",
+      "reason": "Hakamo-o does not exist in Gen 9."
+    },
+    {
+      "id": "kommoototem",
+      "reason": "Kommo-o-Totem does not exist in Gen 9."
+    },
+    {
+      "id": "tapukoko",
+      "reason": "Tapu Koko does not exist in Gen 9."
+    },
+    {
+      "id": "tapulele",
+      "reason": "Tapu Lele does not exist in Gen 9."
+    },
+    {
+      "id": "tapubulu",
+      "reason": "Tapu Bulu does not exist in Gen 9."
+    },
+    {
+      "id": "tapufini",
+      "reason": "Tapu Fini does not exist in Gen 9."
+    },
+    {
+      "id": "cosmog",
+      "reason": "Cosmog is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "cosmoem",
+      "reason": "Cosmoem is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "solgaleo",
+      "reason": "Solgaleo is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "lunala",
+      "reason": "Lunala is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "nihilego",
+      "reason": "Nihilego does not exist in Gen 9."
+    },
+    {
+      "id": "buzzwole",
+      "reason": "Buzzwole does not exist in Gen 9."
+    },
+    {
+      "id": "pheromosa",
+      "reason": "Pheromosa does not exist in Gen 9."
+    },
+    {
+      "id": "xurkitree",
+      "reason": "Xurkitree does not exist in Gen 9."
+    },
+    {
+      "id": "celesteela",
+      "reason": "Celesteela does not exist in Gen 9."
+    },
+    {
+      "id": "kartana",
+      "reason": "Kartana does not exist in Gen 9."
+    },
+    {
+      "id": "guzzlord",
+      "reason": "Guzzlord does not exist in Gen 9."
+    },
+    {
+      "id": "necrozma",
+      "reason": "Necrozma is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "necrozmaduskmane",
+      "reason": "Necrozma (Necrozma-Dusk-Mane) is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "necrozmadawnwings",
+      "reason": "Necrozma (Necrozma-Dawn-Wings) is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "necrozmaultra",
+      "reason": "Required transformation item is unavailable."
+    },
+    {
+      "id": "magearna",
+      "reason": "Magearna is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "magearnaoriginal",
+      "reason": "Magearna-Original is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "magearnamega",
+      "reason": "Required transformation item is unavailable."
+    },
+    {
+      "id": "magearnaoriginalmega",
+      "reason": "Required transformation item is unavailable."
+    },
+    {
+      "id": "marshadow",
+      "reason": "Marshadow is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "poipole",
+      "reason": "Poipole does not exist in Gen 9."
+    },
+    {
+      "id": "naganadel",
+      "reason": "Naganadel does not exist in Gen 9."
+    },
+    {
+      "id": "stakataka",
+      "reason": "Stakataka does not exist in Gen 9."
+    },
+    {
+      "id": "blacephalon",
+      "reason": "Blacephalon does not exist in Gen 9."
+    },
+    {
+      "id": "zeraora",
+      "reason": "Zeraora is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "zeraoramega",
+      "reason": "Required transformation item is unavailable."
+    },
+    {
+      "id": "meltan",
+      "reason": "Meltan is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "melmetal",
+      "reason": "Melmetal is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "melmetalgmax",
+      "reason": "Melmetal (Melmetal-Gmax) is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "grookey",
+      "reason": "Grookey does not exist in Gen 9."
+    },
+    {
+      "id": "thwackey",
+      "reason": "Thwackey does not exist in Gen 9."
+    },
+    {
+      "id": "rillaboomgmax",
+      "reason": "Rillaboom (Rillaboom-Gmax) is a placeholder for a Gigantamax sprite, not a real Pokémon. (This message is likely a validator bug.)"
+    },
+    {
+      "id": "scorbunny",
+      "reason": "Scorbunny does not exist in Gen 9."
+    },
+    {
+      "id": "raboot",
+      "reason": "Raboot does not exist in Gen 9."
+    },
+    {
+      "id": "cinderacegmax",
+      "reason": "Cinderace (Cinderace-Gmax) is a placeholder for a Gigantamax sprite, not a real Pokémon. (This message is likely a validator bug.)"
+    },
+    {
+      "id": "sobble",
+      "reason": "Sobble does not exist in Gen 9."
+    },
+    {
+      "id": "drizzile",
+      "reason": "Drizzile does not exist in Gen 9."
+    },
+    {
+      "id": "inteleongmax",
+      "reason": "Inteleon (Inteleon-Gmax) is a placeholder for a Gigantamax sprite, not a real Pokémon. (This message is likely a validator bug.)"
+    },
+    {
+      "id": "skwovet",
+      "reason": "Skwovet does not exist in Gen 9."
+    },
+    {
+      "id": "greedent",
+      "reason": "Greedent does not exist in Gen 9."
+    },
+    {
+      "id": "rookidee",
+      "reason": "Rookidee does not exist in Gen 9."
+    },
+    {
+      "id": "corvisquire",
+      "reason": "Corvisquire does not exist in Gen 9."
+    },
+    {
+      "id": "corviknightgmax",
+      "reason": "Corviknight (Corviknight-Gmax) is a placeholder for a Gigantamax sprite, not a real Pokémon. (This message is likely a validator bug.)"
+    },
+    {
+      "id": "blipbug",
+      "reason": "Blipbug does not exist in Gen 9."
+    },
+    {
+      "id": "dottler",
+      "reason": "Dottler does not exist in Gen 9."
+    },
+    {
+      "id": "orbeetle",
+      "reason": "Orbeetle does not exist in Gen 9."
+    },
+    {
+      "id": "orbeetlegmax",
+      "reason": "Orbeetle (Orbeetle-Gmax) is a placeholder for a Gigantamax sprite, not a real Pokémon. (This message is likely a validator bug.)"
+    },
+    {
+      "id": "nickit",
+      "reason": "Nickit does not exist in Gen 9."
+    },
+    {
+      "id": "gossifleur",
+      "reason": "Gossifleur does not exist in Gen 9."
+    },
+    {
+      "id": "eldegoss",
+      "reason": "Eldegoss does not exist in Gen 9."
+    },
+    {
+      "id": "wooloo",
+      "reason": "Wooloo does not exist in Gen 9."
+    },
+    {
+      "id": "dubwool",
+      "reason": "Dubwool does not exist in Gen 9."
+    },
+    {
+      "id": "chewtle",
+      "reason": "Chewtle does not exist in Gen 9."
+    },
+    {
+      "id": "drednaw",
+      "reason": "Drednaw does not exist in Gen 9."
+    },
+    {
+      "id": "drednawgmax",
+      "reason": "Drednaw (Drednaw-Gmax) is a placeholder for a Gigantamax sprite, not a real Pokémon. (This message is likely a validator bug.)"
+    },
+    {
+      "id": "yamper",
+      "reason": "Yamper does not exist in Gen 9."
+    },
+    {
+      "id": "boltund",
+      "reason": "Boltund does not exist in Gen 9."
+    },
+    {
+      "id": "rolycoly",
+      "reason": "Rolycoly does not exist in Gen 9."
+    },
+    {
+      "id": "carkol",
+      "reason": "Carkol does not exist in Gen 9."
+    },
+    {
+      "id": "coalossal",
+      "reason": "Coalossal does not exist in Gen 9."
+    },
+    {
+      "id": "coalossalgmax",
+      "reason": "Coalossal (Coalossal-Gmax) is a placeholder for a Gigantamax sprite, not a real Pokémon. (This message is likely a validator bug.)"
+    },
+    {
+      "id": "applin",
+      "reason": "Applin does not exist in Gen 9."
+    },
+    {
+      "id": "flapplegmax",
+      "reason": "Flapple (Flapple-Gmax) is a placeholder for a Gigantamax sprite, not a real Pokémon. (This message is likely a validator bug.)"
+    },
+    {
+      "id": "appletungmax",
+      "reason": "Appletun (Appletun-Gmax) is a placeholder for a Gigantamax sprite, not a real Pokémon. (This message is likely a validator bug.)"
+    },
+    {
+      "id": "silicobra",
+      "reason": "Silicobra does not exist in Gen 9."
+    },
+    {
+      "id": "sandacondagmax",
+      "reason": "Sandaconda (Sandaconda-Gmax) is a placeholder for a Gigantamax sprite, not a real Pokémon. (This message is likely a validator bug.)"
+    },
+    {
+      "id": "cramorant",
+      "reason": "Cramorant does not exist in Gen 9."
+    },
+    {
+      "id": "arrokuda",
+      "reason": "Arrokuda does not exist in Gen 9."
+    },
+    {
+      "id": "barraskewda",
+      "reason": "Barraskewda does not exist in Gen 9."
+    },
+    {
+      "id": "toxel",
+      "reason": "Toxel does not exist in Gen 9."
+    },
+    {
+      "id": "toxtricitygmax",
+      "reason": "Toxtricity (Toxtricity-Gmax) is a placeholder for a Gigantamax sprite, not a real Pokémon. (This message is likely a validator bug.)"
+    },
+    {
+      "id": "toxtricitylowkeygmax",
+      "reason": "Toxtricity-Low-Key (Toxtricity-Low-Key-Gmax) is a placeholder for a Gigantamax sprite, not a real Pokémon. (This message is likely a validator bug.)"
+    },
+    {
+      "id": "sizzlipede",
+      "reason": "Sizzlipede does not exist in Gen 9."
+    },
+    {
+      "id": "centiskorch",
+      "reason": "Centiskorch does not exist in Gen 9."
+    },
+    {
+      "id": "centiskorchgmax",
+      "reason": "Centiskorch (Centiskorch-Gmax) is a placeholder for a Gigantamax sprite, not a real Pokémon. (This message is likely a validator bug.)"
+    },
+    {
+      "id": "clobbopus",
+      "reason": "Clobbopus does not exist in Gen 9."
+    },
+    {
+      "id": "sinistea",
+      "reason": "Sinistea does not exist in Gen 9."
+    },
+    {
+      "id": "sinisteaantique",
+      "reason": "Sinistea-Antique does not exist in Gen 9."
+    },
+    {
+      "id": "hatenna",
+      "reason": "Hatenna does not exist in Gen 9."
+    },
+    {
+      "id": "hattrem",
+      "reason": "Hattrem does not exist in Gen 9."
+    },
+    {
+      "id": "hatterenegmax",
+      "reason": "Hatterene (Hatterene-Gmax) is a placeholder for a Gigantamax sprite, not a real Pokémon. (This message is likely a validator bug.)"
+    },
+    {
+      "id": "impidimp",
+      "reason": "Impidimp does not exist in Gen 9."
+    },
+    {
+      "id": "morgrem",
+      "reason": "Morgrem does not exist in Gen 9."
+    },
+    {
+      "id": "grimmsnarlgmax",
+      "reason": "Grimmsnarl (Grimmsnarl-Gmax) is a placeholder for a Gigantamax sprite, not a real Pokémon. (This message is likely a validator bug.)"
+    },
+    {
+      "id": "obstagoon",
+      "reason": "Obstagoon does not exist in Gen 9."
+    },
+    {
+      "id": "cursola",
+      "reason": "Cursola does not exist in Gen 9."
+    },
+    {
+      "id": "milcery",
+      "reason": "Milcery does not exist in Gen 9."
+    },
+    {
+      "id": "alcremiegmax",
+      "reason": "Alcremie (Alcremie-Gmax) is a placeholder for a Gigantamax sprite, not a real Pokémon. (This message is likely a validator bug.)"
+    },
+    {
+      "id": "snom",
+      "reason": "Snom does not exist in Gen 9."
+    },
+    {
+      "id": "frosmoth",
+      "reason": "Frosmoth does not exist in Gen 9."
+    },
+    {
+      "id": "stonjourner",
+      "reason": "Stonjourner does not exist in Gen 9."
+    },
+    {
+      "id": "eiscue",
+      "reason": "Eiscue does not exist in Gen 9."
+    },
+    {
+      "id": "cufant",
+      "reason": "Cufant does not exist in Gen 9."
+    },
+    {
+      "id": "copperajah",
+      "reason": "Copperajah does not exist in Gen 9."
+    },
+    {
+      "id": "copperajahgmax",
+      "reason": "Copperajah (Copperajah-Gmax) is a placeholder for a Gigantamax sprite, not a real Pokémon. (This message is likely a validator bug.)"
+    },
+    {
+      "id": "dracozolt",
+      "reason": "Dracozolt does not exist in Gen 9."
+    },
+    {
+      "id": "arctozolt",
+      "reason": "Arctozolt does not exist in Gen 9."
+    },
+    {
+      "id": "dracovish",
+      "reason": "Dracovish does not exist in Gen 9."
+    },
+    {
+      "id": "arctovish",
+      "reason": "Arctovish does not exist in Gen 9."
+    },
+    {
+      "id": "duraludon",
+      "reason": "Duraludon does not exist in Gen 9."
+    },
+    {
+      "id": "duraludongmax",
+      "reason": "Duraludon (Duraludon-Gmax) is a placeholder for a Gigantamax sprite, not a real Pokémon. (This message is likely a validator bug.)"
+    },
+    {
+      "id": "dreepy",
+      "reason": "Dreepy does not exist in Gen 9."
+    },
+    {
+      "id": "drakloak",
+      "reason": "Drakloak does not exist in Gen 9."
+    },
+    {
+      "id": "zacian",
+      "reason": "Zacian is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "zaciancrowned",
+      "reason": "Required transformation item is unavailable."
+    },
+    {
+      "id": "zamazenta",
+      "reason": "Zamazenta is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "zamazentacrowned",
+      "reason": "Required transformation item is unavailable."
+    },
+    {
+      "id": "eternatus",
+      "reason": "Eternatus is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "eternatuseternamax",
+      "reason": "Eternatus-Eternamax does not exist in Gen 9."
+    },
+    {
+      "id": "kubfu",
+      "reason": "Kubfu does not exist in Gen 9."
+    },
+    {
+      "id": "urshifu",
+      "reason": "Urshifu does not exist in Gen 9."
+    },
+    {
+      "id": "urshifurapidstrike",
+      "reason": "Urshifu-Rapid-Strike does not exist in Gen 9."
+    },
+    {
+      "id": "urshifugmax",
+      "reason": "Urshifu (Urshifu-Gmax) is a placeholder for a Gigantamax sprite, not a real Pokémon. (This message is likely a validator bug.)"
+    },
+    {
+      "id": "urshifurapidstrikegmax",
+      "reason": "Urshifu-Rapid-Strike (Urshifu-Rapid-Strike-Gmax) is a placeholder for a Gigantamax sprite, not a real Pokémon. (This message is likely a validator bug.)"
+    },
+    {
+      "id": "zarude",
+      "reason": "Zarude is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "zarudedada",
+      "reason": "Zarude-Dada is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "regieleki",
+      "reason": "Regieleki does not exist in Gen 9."
+    },
+    {
+      "id": "regidrago",
+      "reason": "Regidrago does not exist in Gen 9."
+    },
+    {
+      "id": "glastrier",
+      "reason": "Glastrier does not exist in Gen 9."
+    },
+    {
+      "id": "spectrier",
+      "reason": "Spectrier does not exist in Gen 9."
+    },
+    {
+      "id": "calyrex",
+      "reason": "Calyrex is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "calyrexice",
+      "reason": "Calyrex (Calyrex-Ice) is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "calyrexshadow",
+      "reason": "Calyrex (Calyrex-Shadow) is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "ursaluna",
+      "reason": "Ursaluna does not exist in Gen 9."
+    },
+    {
+      "id": "ursalunabloodmoon",
+      "reason": "Ursaluna-Bloodmoon does not exist in Gen 9."
+    },
+    {
+      "id": "enamorus",
+      "reason": "Enamorus does not exist in Gen 9."
+    },
+    {
+      "id": "enamorustherian",
+      "reason": "Enamorus (Enamorus-Therian) does not exist in Gen 9."
+    },
+    {
+      "id": "sprigatito",
+      "reason": "Sprigatito does not exist in Gen 9."
+    },
+    {
+      "id": "floragato",
+      "reason": "Floragato does not exist in Gen 9."
+    },
+    {
+      "id": "fuecoco",
+      "reason": "Fuecoco does not exist in Gen 9."
+    },
+    {
+      "id": "crocalor",
+      "reason": "Crocalor does not exist in Gen 9."
+    },
+    {
+      "id": "quaxly",
+      "reason": "Quaxly does not exist in Gen 9."
+    },
+    {
+      "id": "quaxwell",
+      "reason": "Quaxwell does not exist in Gen 9."
+    },
+    {
+      "id": "lechonk",
+      "reason": "Lechonk does not exist in Gen 9."
+    },
+    {
+      "id": "oinkologne",
+      "reason": "Oinkologne does not exist in Gen 9."
+    },
+    {
+      "id": "oinkolognef",
+      "reason": "Oinkologne-F does not exist in Gen 9."
+    },
+    {
+      "id": "tarountula",
+      "reason": "Tarountula does not exist in Gen 9."
+    },
+    {
+      "id": "spidops",
+      "reason": "Spidops does not exist in Gen 9."
+    },
+    {
+      "id": "nymble",
+      "reason": "Nymble does not exist in Gen 9."
+    },
+    {
+      "id": "lokix",
+      "reason": "Lokix does not exist in Gen 9."
+    },
+    {
+      "id": "pawmi",
+      "reason": "Pawmi does not exist in Gen 9."
+    },
+    {
+      "id": "pawmo",
+      "reason": "Pawmo does not exist in Gen 9."
+    },
+    {
+      "id": "tandemaus",
+      "reason": "Tandemaus does not exist in Gen 9."
+    },
+    {
+      "id": "fidough",
+      "reason": "Fidough does not exist in Gen 9."
+    },
+    {
+      "id": "dachsbun",
+      "reason": "Dachsbun does not exist in Gen 9."
+    },
+    {
+      "id": "smoliv",
+      "reason": "Smoliv does not exist in Gen 9."
+    },
+    {
+      "id": "dolliv",
+      "reason": "Dolliv does not exist in Gen 9."
+    },
+    {
+      "id": "nacli",
+      "reason": "Nacli does not exist in Gen 9."
+    },
+    {
+      "id": "naclstack",
+      "reason": "Naclstack does not exist in Gen 9."
+    },
+    {
+      "id": "charcadet",
+      "reason": "Charcadet does not exist in Gen 9."
+    },
+    {
+      "id": "tadbulb",
+      "reason": "Tadbulb does not exist in Gen 9."
+    },
+    {
+      "id": "wattrel",
+      "reason": "Wattrel does not exist in Gen 9."
+    },
+    {
+      "id": "kilowattrel",
+      "reason": "Kilowattrel does not exist in Gen 9."
+    },
+    {
+      "id": "maschiff",
+      "reason": "Maschiff does not exist in Gen 9."
+    },
+    {
+      "id": "shroodle",
+      "reason": "Shroodle does not exist in Gen 9."
+    },
+    {
+      "id": "grafaiai",
+      "reason": "Grafaiai does not exist in Gen 9."
+    },
+    {
+      "id": "bramblin",
+      "reason": "Bramblin does not exist in Gen 9."
+    },
+    {
+      "id": "brambleghast",
+      "reason": "Brambleghast does not exist in Gen 9."
+    },
+    {
+      "id": "toedscool",
+      "reason": "Toedscool does not exist in Gen 9."
+    },
+    {
+      "id": "toedscruel",
+      "reason": "Toedscruel does not exist in Gen 9."
+    },
+    {
+      "id": "klawf",
+      "reason": "Klawf does not exist in Gen 9."
+    },
+    {
+      "id": "capsakid",
+      "reason": "Capsakid does not exist in Gen 9."
+    },
+    {
+      "id": "rellor",
+      "reason": "Rellor does not exist in Gen 9."
+    },
+    {
+      "id": "rabsca",
+      "reason": "Rabsca does not exist in Gen 9."
+    },
+    {
+      "id": "flittle",
+      "reason": "Flittle does not exist in Gen 9."
+    },
+    {
+      "id": "tinkatink",
+      "reason": "Tinkatink does not exist in Gen 9."
+    },
+    {
+      "id": "tinkatuff",
+      "reason": "Tinkatuff does not exist in Gen 9."
+    },
+    {
+      "id": "wiglett",
+      "reason": "Wiglett does not exist in Gen 9."
+    },
+    {
+      "id": "wugtrio",
+      "reason": "Wugtrio does not exist in Gen 9."
+    },
+    {
+      "id": "bombirdier",
+      "reason": "Bombirdier does not exist in Gen 9."
+    },
+    {
+      "id": "finizen",
+      "reason": "Finizen does not exist in Gen 9."
+    },
+    {
+      "id": "varoom",
+      "reason": "Varoom does not exist in Gen 9."
+    },
+    {
+      "id": "revavroom",
+      "reason": "Revavroom does not exist in Gen 9."
+    },
+    {
+      "id": "cyclizar",
+      "reason": "Cyclizar does not exist in Gen 9."
+    },
+    {
+      "id": "glimmet",
+      "reason": "Glimmet does not exist in Gen 9."
+    },
+    {
+      "id": "greavard",
+      "reason": "Greavard does not exist in Gen 9."
+    },
+    {
+      "id": "flamigo",
+      "reason": "Flamigo does not exist in Gen 9."
+    },
+    {
+      "id": "cetoddle",
+      "reason": "Cetoddle does not exist in Gen 9."
+    },
+    {
+      "id": "cetitan",
+      "reason": "Cetitan does not exist in Gen 9."
+    },
+    {
+      "id": "veluza",
+      "reason": "Veluza does not exist in Gen 9."
+    },
+    {
+      "id": "dondozo",
+      "reason": "Dondozo does not exist in Gen 9."
+    },
+    {
+      "id": "tatsugiri",
+      "reason": "Tatsugiri does not exist in Gen 9."
+    },
+    {
+      "id": "tatsugiridroopy",
+      "reason": "Tatsugiri-Droopy does not exist in Gen 9."
+    },
+    {
+      "id": "tatsugiristretchy",
+      "reason": "Tatsugiri-Stretchy does not exist in Gen 9."
+    },
+    {
+      "id": "tatsugiricurlymega",
+      "reason": "Required transformation item is unavailable."
+    },
+    {
+      "id": "tatsugiridroopymega",
+      "reason": "Required transformation item is unavailable."
+    },
+    {
+      "id": "tatsugiristretchymega",
+      "reason": "Required transformation item is unavailable."
+    },
+    {
+      "id": "clodsire",
+      "reason": "Clodsire does not exist in Gen 9."
+    },
+    {
+      "id": "dudunsparce",
+      "reason": "Dudunsparce does not exist in Gen 9."
+    },
+    {
+      "id": "dudunsparcethreesegment",
+      "reason": "Dudunsparce-Three-Segment does not exist in Gen 9."
+    },
+    {
+      "id": "greattusk",
+      "reason": "Great Tusk does not exist in Gen 9."
+    },
+    {
+      "id": "screamtail",
+      "reason": "Scream Tail does not exist in Gen 9."
+    },
+    {
+      "id": "brutebonnet",
+      "reason": "Brute Bonnet does not exist in Gen 9."
+    },
+    {
+      "id": "fluttermane",
+      "reason": "Flutter Mane does not exist in Gen 9."
+    },
+    {
+      "id": "slitherwing",
+      "reason": "Slither Wing does not exist in Gen 9."
+    },
+    {
+      "id": "sandyshocks",
+      "reason": "Sandy Shocks does not exist in Gen 9."
+    },
+    {
+      "id": "irontreads",
+      "reason": "Iron Treads does not exist in Gen 9."
+    },
+    {
+      "id": "ironbundle",
+      "reason": "Iron Bundle does not exist in Gen 9."
+    },
+    {
+      "id": "ironhands",
+      "reason": "Iron Hands does not exist in Gen 9."
+    },
+    {
+      "id": "ironjugulis",
+      "reason": "Iron Jugulis does not exist in Gen 9."
+    },
+    {
+      "id": "ironmoth",
+      "reason": "Iron Moth does not exist in Gen 9."
+    },
+    {
+      "id": "ironthorns",
+      "reason": "Iron Thorns does not exist in Gen 9."
+    },
+    {
+      "id": "frigibax",
+      "reason": "Frigibax does not exist in Gen 9."
+    },
+    {
+      "id": "arctibax",
+      "reason": "Arctibax does not exist in Gen 9."
+    },
+    {
+      "id": "gimmighoul",
+      "reason": "Gimmighoul does not exist in Gen 9."
+    },
+    {
+      "id": "gimmighoulroaming",
+      "reason": "Gimmighoul-Roaming does not exist in Gen 9."
+    },
+    {
+      "id": "wochien",
+      "reason": "Wo-Chien does not exist in Gen 9."
+    },
+    {
+      "id": "chienpao",
+      "reason": "Chien-Pao does not exist in Gen 9."
+    },
+    {
+      "id": "tinglu",
+      "reason": "Ting-Lu does not exist in Gen 9."
+    },
+    {
+      "id": "chiyu",
+      "reason": "Chi-Yu does not exist in Gen 9."
+    },
+    {
+      "id": "roaringmoon",
+      "reason": "Roaring Moon does not exist in Gen 9."
+    },
+    {
+      "id": "ironvaliant",
+      "reason": "Iron Valiant does not exist in Gen 9."
+    },
+    {
+      "id": "koraidon",
+      "reason": "Koraidon is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "miraidon",
+      "reason": "Miraidon is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "walkingwake",
+      "reason": "Walking Wake does not exist in Gen 9."
+    },
+    {
+      "id": "ironleaves",
+      "reason": "Iron Leaves does not exist in Gen 9."
+    },
+    {
+      "id": "dipplin",
+      "reason": "Dipplin does not exist in Gen 9."
+    },
+    {
+      "id": "poltchageist",
+      "reason": "Poltchageist does not exist in Gen 9."
+    },
+    {
+      "id": "poltchageistartisan",
+      "reason": "Poltchageist-Artisan does not exist in Gen 9."
+    },
+    {
+      "id": "okidogi",
+      "reason": "Okidogi does not exist in Gen 9."
+    },
+    {
+      "id": "munkidori",
+      "reason": "Munkidori does not exist in Gen 9."
+    },
+    {
+      "id": "fezandipiti",
+      "reason": "Fezandipiti does not exist in Gen 9."
+    },
+    {
+      "id": "ogerpon",
+      "reason": "Ogerpon does not exist in Gen 9."
+    },
+    {
+      "id": "ogerponwellspring",
+      "reason": "Ogerpon (Ogerpon-Wellspring) does not exist in Gen 9."
+    },
+    {
+      "id": "ogerponhearthflame",
+      "reason": "Ogerpon (Ogerpon-Hearthflame) does not exist in Gen 9."
+    },
+    {
+      "id": "ogerponcornerstone",
+      "reason": "Ogerpon (Ogerpon-Cornerstone) does not exist in Gen 9."
+    },
+    {
+      "id": "ogerpontealtera",
+      "reason": "Terastallization is not available in this Champions format."
+    },
+    {
+      "id": "ogerponwellspringtera",
+      "reason": "Terastallization is not available in this Champions format."
+    },
+    {
+      "id": "ogerponhearthflametera",
+      "reason": "Terastallization is not available in this Champions format."
+    },
+    {
+      "id": "ogerponcornerstonetera",
+      "reason": "Terastallization is not available in this Champions format."
+    },
+    {
+      "id": "gougingfire",
+      "reason": "Gouging Fire does not exist in Gen 9."
+    },
+    {
+      "id": "ragingbolt",
+      "reason": "Raging Bolt does not exist in Gen 9."
+    },
+    {
+      "id": "ironboulder",
+      "reason": "Iron Boulder does not exist in Gen 9."
+    },
+    {
+      "id": "ironcrown",
+      "reason": "Iron Crown does not exist in Gen 9."
+    },
+    {
+      "id": "terapagos",
+      "reason": "Terapagos is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "terapagosterastal",
+      "reason": "Terapagos (Terapagos-Terastal) is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "terapagosstellar",
+      "reason": "Terapagos (Terapagos-Stellar) is tagged Restricted Legendary, which is banned by Flat Rules."
+    },
+    {
+      "id": "pecharunt",
+      "reason": "Pecharunt is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "missingno",
+      "reason": "MissingNo. does not exist in this game."
+    },
+    {
+      "id": "syclar",
+      "reason": "Syclar is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "syclant",
+      "reason": "Syclant is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "revenankh",
+      "reason": "Revenankh is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "embirch",
+      "reason": "Embirch is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "flarelm",
+      "reason": "Flarelm is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "pyroak",
+      "reason": "Pyroak is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "breezi",
+      "reason": "Breezi is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "fidgit",
+      "reason": "Fidgit is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "rebble",
+      "reason": "Rebble is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "tactite",
+      "reason": "Tactite is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "stratagem",
+      "reason": "Stratagem is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "privatyke",
+      "reason": "Privatyke is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "arghonaut",
+      "reason": "Arghonaut is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "kitsunoh",
+      "reason": "Kitsunoh is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "cyclohm",
+      "reason": "Cyclohm is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "colossoil",
+      "reason": "Colossoil is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "krilowatt",
+      "reason": "Krilowatt is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "voodoll",
+      "reason": "Voodoll is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "voodoom",
+      "reason": "Voodoom is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "scratchet",
+      "reason": "Scratchet is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "tomohawk",
+      "reason": "Tomohawk is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "necturine",
+      "reason": "Necturine is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "necturna",
+      "reason": "Necturna is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "mollux",
+      "reason": "Mollux is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "cupra",
+      "reason": "Cupra is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "argalis",
+      "reason": "Argalis is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "aurumoth",
+      "reason": "Aurumoth is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "brattler",
+      "reason": "Brattler is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "malaconda",
+      "reason": "Malaconda is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "cawdet",
+      "reason": "Cawdet is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "cawmodore",
+      "reason": "Cawmodore is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "volkritter",
+      "reason": "Volkritter is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "volkraken",
+      "reason": "Volkraken is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "snugglow",
+      "reason": "Snugglow is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "plasmanta",
+      "reason": "Plasmanta is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "floatoy",
+      "reason": "Floatoy is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "caimanoe",
+      "reason": "Caimanoe is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "naviathan",
+      "reason": "Naviathan is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "crucibelle",
+      "reason": "Crucibelle is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "crucibellemega",
+      "reason": "Required transformation item is unavailable."
+    },
+    {
+      "id": "pluffle",
+      "reason": "Pluffle is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "kerfluffle",
+      "reason": "Kerfluffle is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "pajantom",
+      "reason": "Pajantom is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "mumbao",
+      "reason": "Mumbao is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "jumbao",
+      "reason": "Jumbao is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "fawnifer",
+      "reason": "Fawnifer is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "electrelk",
+      "reason": "Electrelk is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "caribolt",
+      "reason": "Caribolt is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "smogecko",
+      "reason": "Smogecko is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "smoguana",
+      "reason": "Smoguana is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "smokomodo",
+      "reason": "Smokomodo is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "swirlpool",
+      "reason": "Swirlpool is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "coribalis",
+      "reason": "Coribalis is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "snaelstrom",
+      "reason": "Snaelstrom is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "justyke",
+      "reason": "Justyke is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "equilibra",
+      "reason": "Equilibra is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "solotl",
+      "reason": "Solotl is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "astrolotl",
+      "reason": "Astrolotl is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "miasmite",
+      "reason": "Miasmite is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "miasmaw",
+      "reason": "Miasmaw is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "chromera",
+      "reason": "Chromera is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "nohface",
+      "reason": "Nohface is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "monohm",
+      "reason": "Monohm is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "duohm",
+      "reason": "Duohm is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "dorsoil",
+      "reason": "Dorsoil is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "protowatt",
+      "reason": "Protowatt is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "venomicon",
+      "reason": "Venomicon is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "venomiconepilogue",
+      "reason": "Venomicon (Venomicon-Epilogue) is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "saharascal",
+      "reason": "Saharascal is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "saharaja",
+      "reason": "Saharaja is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "ababo",
+      "reason": "Ababo is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "scattervein",
+      "reason": "Scattervein is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "hemogoblin",
+      "reason": "Hemogoblin is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "cresceidon",
+      "reason": "Cresceidon is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "chuggon",
+      "reason": "Chuggon is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "draggalong",
+      "reason": "Draggalong is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "chuggalong",
+      "reason": "Chuggalong is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "flox",
+      "reason": "Flox is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "shox",
+      "reason": "Shox is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "ramnarok",
+      "reason": "Ramnarok is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "ramnarokradiant",
+      "reason": "Ramnarok (Ramnarok-Radiant) is tagged Mythical, which is banned by Flat Rules."
+    },
+    {
+      "id": "scraptor",
+      "reason": "Scraptor is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "obliteryx",
+      "reason": "Obliteryx is made up for Smogon CAP and does not exist in this game."
+    },
+    {
+      "id": "pokestarsmeargle",
+      "reason": "Pokestar Smeargle does not exist in this game."
+    },
+    {
+      "id": "pokestarufo",
+      "reason": "Pokestar UFO does not exist in this game."
+    },
+    {
+      "id": "pokestarufo2",
+      "reason": "Pokestar UFO-2 does not exist in this game."
+    },
+    {
+      "id": "pokestarbrycenman",
+      "reason": "Pokestar Brycen-Man does not exist in this game."
+    },
+    {
+      "id": "pokestarmt",
+      "reason": "Pokestar MT does not exist in this game."
+    },
+    {
+      "id": "pokestarmt2",
+      "reason": "Pokestar MT2 does not exist in this game."
+    },
+    {
+      "id": "pokestartransport",
+      "reason": "Pokestar Transport does not exist in this game."
+    },
+    {
+      "id": "pokestargiant",
+      "reason": "Pokestar Giant does not exist in this game."
+    },
+    {
+      "id": "pokestarhumanoid",
+      "reason": "Pokestar Humanoid does not exist in this game."
+    },
+    {
+      "id": "pokestarmonster",
+      "reason": "Pokestar Monster does not exist in this game."
+    },
+    {
+      "id": "pokestarf00",
+      "reason": "Pokestar F-00 does not exist in this game."
+    },
+    {
+      "id": "pokestarf002",
+      "reason": "Pokestar F-002 does not exist in this game."
+    },
+    {
+      "id": "pokestarspirit",
+      "reason": "Pokestar Spirit does not exist in this game."
+    },
+    {
+      "id": "pokestarblackdoor",
+      "reason": "Pokestar Black Door does not exist in this game."
+    },
+    {
+      "id": "pokestarwhitedoor",
+      "reason": "Pokestar White Door does not exist in this game."
+    },
+    {
+      "id": "pokestarblackbelt",
+      "reason": "Pokestar Black Belt does not exist in this game."
+    },
+    {
+      "id": "pokestarufopropu2",
+      "reason": "Pokestar UFO-PropU2 does not exist in this game."
+    },
+    {
+      "id": "miniormeteor",
+      "reason": "No format-legal starting form can reach this battle-only form."
+    },
+    {
+      "id": "cramorantgulping",
+      "reason": "No format-legal starting form can reach this battle-only form."
+    },
+    {
+      "id": "cramorantgorging",
+      "reason": "No format-legal starting form can reach this battle-only form."
+    },
+    {
+      "id": "eiscuenoice",
+      "reason": "No format-legal starting form can reach this battle-only form."
+    }
+  ]
+}

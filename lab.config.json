@@ -1,0 +1,16 @@
+{
+  "wikiPath": "./docs/wiki",
+  "scenarioPath": "./scenarios/first-turn.json",
+  "outputPath": "./runs",
+  "model": "jev-1.13.0",
+  "coreCardIds": [
+    "C01",
+    "C02",
+    "C21"
+  ],
+  "retrievalThreshold": 0.35,
+  "maxChoices": 255,
+  "maxStateAndQuestionBytes": 110000,
+  "maxRequestBytes": 160000,
+  "timeoutMs": 30000
+}

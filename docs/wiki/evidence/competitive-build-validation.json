@@ -1,0 +1,108 @@
+{
+  "prepared_at_utc": "2026-09-19T19:57:40.159493+00:00",
+  "status": "passed",
+  "checks": [
+    {
+      "check": "All 47 competitive cards omit history, dates, source narration, URLs, and percentages",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All competitive retrieval summaries omit provenance commentary",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "IDs match catalogue, index, cards, and graph",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Every profile text equals its human page before the source footer",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "43 profiles have valid build selections",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Mega profiles only select compatible transformation builds",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "102 full sets passed pinned validator and identity checks",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All seven unique published player teams passed team validation",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Source records retain provenance without article prose",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Every move and starting ability belongs to its species",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All new stat allocations meet Champions limits",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent arithmetic matches all 204 starting/battle stat vectors",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "Incineroar primary Smogon pairing matches explanatory prose",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Liberty Note tactical builds are represented",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Model examples match exact exported card text",
+      "passed": true,
+      "detail": null
+    }
+  ],
+  "counts": {
+    "profiles": 47,
+    "profiles_with_complete_builds": 43,
+    "complete_build_records": 102,
+    "providers": {
+      "Smogon": 57,
+      "VGCPastes / player Pokepaste": 42,
+      "Liberty Note": 3
+    },
+    "profile_chars_before": 136835,
+    "profile_chars_after": 46356,
+    "pages": 1410,
+    "edges": 31081,
+    "smogon_species_pages": 31
+  },
+  "character_reduction_percent": 66.12,
+  "character_reduction_is_not_token_measurement": true,
+  "not_executed": [
+    "Jev calls",
+    "Battle outcomes",
+    "Retrieval recall evaluation",
+    "Estimation of current build probabilities"
+  ],
+  "scope_note": "Historical validation snapshot. Original checks and counts describe the edition validated at that time; see unified-profile-validation.json for current IDs and profile structure.",
+  "superseded_for_profile_coverage_by": "profile-coverage-validation.json",
+  "superseded_for_current_structure_by": "unified-profile-validation.json",
+  "superseded_for_current_context_text_by": "context-cleanup-validation.json"
+}

@@ -1,0 +1,10 @@
+title = "Jev Arena secret scanning"
+
+[extend]
+useDefault = true
+
+[[rules]]
+id = "typesafe-api-key-assignment"
+description = "Nonempty TypeSafe credential assignment"
+regex = '''(?i)TYPESAFE_API_KEY[ \t]*["']?[ \t]*[:=][ \t]*["']?([a-z0-9_./+\-=]{16,})'''
+secretGroup = 1

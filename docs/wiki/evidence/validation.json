@@ -1,0 +1,169 @@
+{
+  "prepared_at_utc": "2026-09-19T20:12:49.322291+00:00",
+  "environment": {
+    "game": "Pokemon Champions",
+    "format_id": "gen9championsvgc2026regmc",
+    "showdown_commit": "2ddfa0476f8207e12e204b1c69f7c7683b17633c",
+    "snapshot_date": "2026-09-19"
+  },
+  "status": "passed",
+  "counts": {
+    "project-guide": 2,
+    "mechanic": 49,
+    "move": 511,
+    "ability": 216,
+    "item": 166,
+    "type": 18,
+    "pokemon": 382,
+    "competitive-profile": 382,
+    "interaction": 20
+  },
+  "pages": 1746,
+  "graph_edges": 34259,
+  "checks": [
+    {
+      "check": "Unique page IDs and paths",
+      "passed": true,
+      "detail": 1746
+    },
+    {
+      "check": "Every catalogue path exists",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Every graph endpoint exists",
+      "passed": true,
+      "detail": 34259
+    },
+    {
+      "check": "Semantic edges retain conditions and evidence",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Original 51 articles unchanged",
+      "passed": true,
+      "detail": 51
+    },
+    {
+      "check": "All Pokemon entity references resolve",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Selectable forms have validator witnesses",
+      "passed": true,
+      "detail": 293
+    },
+    {
+      "check": "No Tera/Stellar or orphan form admitted",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "15 complete source teams and 90 admitted sets",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Admitted teams/sets passed validator and exact starting ability checks",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All source set references resolve to admitted entities",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Stat allocations remain unknown",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Profile counts match underlying source records",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Recorded Mega mappings agree with current item schema",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Protect PP",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Freeze-Dry has no secondary",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Make It Rain accuracy and SpA cost",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "First Impression power",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Moonblast secondary chance",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Iron Head flinch chance",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Corrected Run Away prose",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Corrected Trick Room prose",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Unavailable items excluded",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local Markdown links resolve",
+      "passed": true,
+      "detail": {
+        "links": 38735,
+        "broken": []
+      }
+    },
+    {
+      "check": "UTF-8 text has no replacement characters",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "Every declared layer has content",
+      "passed": true,
+      "detail": null
+    }
+  ],
+  "not_executed": [
+    "Battle execution tests",
+    "Retail game conformance tests",
+    "Exhaustive callback-to-prose review",
+    "Retrieval recall/latency evaluation",
+    "Jev action-quality or calibration evaluation"
+  ],
+  "source_method": "Entity/move legality and primary team validations were executed by the pinned Showdown validator during export. These checks independently audit exported artifacts.",
+  "superseded_for_current_structure_by": "unified-profile-validation.json",
+  "scope_note": "Historical validation snapshot. Original checks and counts describe the edition validated at that time; see unified-profile-validation.json for current IDs and profile structure.",
+  "superseded_for_current_context_text_by": "context-cleanup-validation.json"
+}

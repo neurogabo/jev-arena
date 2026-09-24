@@ -1,0 +1,233 @@
+{
+  "prepared_at_utc": "2026-09-19T20:29:57.446689+00:00",
+  "wiki_version": "0.6",
+  "environment": {
+    "game": "Pokemon Champions",
+    "format_id": "gen9championsvgc2026regmc",
+    "showdown_commit": "2ddfa0476f8207e12e204b1c69f7c7683b17633c",
+    "snapshot_date": "2026-09-19"
+  },
+  "status": "passed",
+  "counts": {
+    "profiles": 382,
+    "selectable": 293,
+    "battle_forms": 89,
+    "with_sourced_builds": 184,
+    "mechanics_baselines": 198,
+    "source_build_records": 399,
+    "derived_form_records": 27,
+    "source_player_teams": 51,
+    "wiki_pages": 1364,
+    "graph_edges": 33495
+  },
+  "checks": [
+    {
+      "check": "Exactly one canonical profile for every admitted Pokemon/form",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "No duplicate page identity or path",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All indexed pages exist",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Catalog, index, and model cards have identical IDs and kinds",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Model schema remains compatible with existing consumer",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All model datasets refer to same format",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All graph endpoints and interaction IDs resolve",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All conditional edges retain conditions and evidence",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Migration preserves every nonobsolete relationship and its evidence",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "No obsolete profile IDs or edges in active retrieval data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "382 legacy aliases resolve without duplicate cards",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Separate generated competitive pages removed",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Competitive build records and selections unchanged",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Complete-build and baseline coverage unchanged",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "293 selectable forms and 89 battle forms preserved",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All selected builds match their exact form",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All 426 sets, alternatives, and 293 selectable witnesses pass pinned validation",
+      "passed": true,
+      "detail": {
+        "builds": 426,
+        "independent_stat_vectors": 852,
+        "selectable_witnesses": 293,
+        "failures": []
+      }
+    },
+    {
+      "check": "852 stat vectors independently recomputed with no mismatch",
+      "passed": true,
+      "detail": {
+        "stat_values": 5112
+      }
+    },
+    {
+      "check": "399 source records and 27 derived records preserved",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "51 complete player teams retain their validation",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Every profile has identity/builds/tactics sections",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Section bundle reconstructs exact model payload",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "No source/review/history content in unified Pokemon payloads",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Full legal learnsets kept out of all Pokemon model cards",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Base stats explicitly precede points and nature",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Complete builds explicitly include SP and nature and exclude modifiers",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Every selected allocation and starting/transformed stat vector survives rendering",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Unknown builds retain independent bounds and no invented full build",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Required transformation items are never described as unknown",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Human profiles have no source footer and retain complete legal move references",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "All Pokemon model cross-references resolve",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "All model examples equal their canonical Pokemon card",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Shared mechanics/entities/interaction pages unchanged",
+      "passed": true,
+      "detail": 0
+    },
+    {
+      "check": "Original 51 mechanics/project articles unchanged",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Mechanical uncertainty in Aura Guard preserved",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Every local Markdown link resolves",
+      "passed": true,
+      "detail": {
+        "links": 39449,
+        "broken": []
+      }
+    },
+    {
+      "check": "UTF-8 Markdown has no replacement characters",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "Counts match actual current artifacts",
+      "passed": true,
+      "detail": null
+    }
+  ],
+  "not_executed": [
+    "Jev calls",
+    "Retrieval recall or latency evaluations",
+    "Battle outcome evaluations",
+    "Current usage probability estimation",
+    "Retail game conformance tests"
+  ],
+  "superseded_for_current_context_text_by": "context-cleanup-validation.json"
+}

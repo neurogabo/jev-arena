@@ -1,0 +1,15 @@
+# Liquid Voice
+
+`ability:liquidvoice` · This Pokemon's sound-based moves become Water type.
+
+## Definition
+
+This Pokemon's sound-based moves become Water-type moves. This effect comes after other effects that change a move's type, but before Ion Deluge and Electrify's effects.
+
+Apply this to the holder’s **current** ability. Its starting ability, Mega ability, copied ability, and suppression state can differ.
+
+## Related mechanics
+
+[Abilities and held items](../articles/ability-and-item-state.md), [Ability interactions](../articles/ability-interactions.md).
+
+[Wiki home](../README.md) · [Directory](../directory.md)

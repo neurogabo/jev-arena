@@ -1,0 +1,1391 @@
+# Wiki directory
+
+Snapshot: Champions M-C, 19 September 2026. 1364 indexed pages. Use summaries to select relevant pages; do not load the entire directory into a turn prompt.
+
+## Project guides (2)
+
+- [Decision and information boundaries](articles/decision-boundaries.md) — Winning objective, legal joint choices, disclosed information, and the distinction between observations and hypotheses.
+- [Using the conditional library](articles/conditional-context.md) — When to load shared definitions, include dependencies, deduplicate rules, and preserve individual Pokémon state.
+
+## Mechanics (49)
+
+- [Requests and simultaneous commands](articles/requests-and-commands.md) — Simultaneous commands, move requests, team selection, and replacement decisions within a turn.
+- [Action order](articles/action-order.md) — Priority brackets, effective Speed, ties, dynamic ordering, switches, and Mega Evolution timing.
+- [Move execution and failure](articles/move-execution.md) — Execution checks, interrupted actions, PP expenditure, and events that change a move before it resolves.
+- [Targets and field positions](articles/targets-and-positions.md) — Target categories, positions, ally targeting, replacements, retargeting, and redirection.
+- [Spread moves and ally damage](articles/spread-and-ally-damage.md) — Multiple targets, spread damage reduction, separate hit outcomes, protection, and ally exposure.
+- [Move properties](articles/move-properties.md) — Move type, category, power, accuracy, target, contact, tags, secondary effects, and self effects.
+- [Complete ordinary type matchups](articles/type-matchups.md) — The complete ordinary matchup table for the eighteen types, dual-type multiplication, and explicit exceptions.
+- [Other type-based immunities](articles/type-immunities.md) — Type-based status, powder, trapping, Prankster, and weather immunities beyond ordinary damage effectiveness.
+- [Statistics and stat stages](articles/statistics-and-stages.md) — Unboosted versus effective statistics, stat-stage multipliers, stage limits, and Champions stat-point conventions.
+- [Accuracy and evasion](articles/accuracy-and-evasion.md) — Ordinary hit checks, accuracy and evasion stages, accuracy bypass, and special per-hit exceptions.
+- [Ordinary damage](articles/ordinary-damage.md) — The inputs to ordinary damage, ordered modifiers, STAB, random variation, and special-stat exceptions.
+- [Critical hits](articles/critical-hits.md) — Critical-hit chances, damage multiplier, ignored stages, screens, and effects critical hits do not bypass.
+- [Damage, contact, and secondary effects](articles/damage-contact-secondary.md) — Distinct hit, damage, contact, stat-change, secondary-effect, and multi-hit triggers.
+- [Statuses, volatile effects, and counters](articles/statuses-and-counters.md) — Major status, volatile conditions, side and field effects, persistence, and differing counter meanings.
+- [Grounding and semi-invulnerability](articles/grounding-and-hidden-states.md) — Grounding, levitation, airborne effects, semi-invulnerability, and attacker versus recipient terrain checks.
+- [Switching, pivots, and replacements](articles/switches-and-replacements.md) — Voluntary switches, pivots, forced replacements, entry effects, resets, and eligible reserves.
+- [Mega Evolution and current form](articles/mega-evolution.md) — Mega eligibility, team resource, transformation timing, current form statistics and ability, and persistence.
+- [Abilities and held items](articles/ability-and-item-state.md) — Ability suppression versus bypass, item presence versus consumption, and trigger-specific timing.
+- [End-of-turn effects and fainting](articles/residual-effects-and-fainting.md) — Sequential residual events, effect expiry, fainting, replacement timing, and battle completion.
+- [Burn](articles/burn.md) — Burn damage, physical-attack penalty, immunity, and relevant damage or ability exceptions.
+- [Poison and bad poison](articles/poison-and-toxic.md) — Poison and escalating bad poison, switch persistence and reset, immunity, healing, and damage prevention.
+- [Paralysis — Champions](articles/paralysis.md) — Champions paralysis Speed reduction and action-failure probability, including Quick Feet interaction.
+- [Sleep — Champions](articles/sleep.md) — Champions sleep counters, waking checks, Early Bird, Rest, bench time, and sleep prevention.
+- [Freeze — Champions](articles/freeze.md) — Champions freeze checks, guaranteed expiry, thawing moves, typing, and effective sun.
+- [Confusion and flinching](articles/confusion-and-flinching.md) — Confusion counters and self-hits; flinch timing, prevention, and the distinction from attack damage.
+- [Yawn, attraction, and Perish Song](articles/yawn-attraction-perish.md) — Delayed sleep, source-linked attraction, Perish Song counters, switching, and relevant prevention.
+- [Leech Seed, binding, Salt Cure, and Curse](articles/persistent-damage.md) — Leech Seed, binding, Champions Salt Cure, and Curse: damage, source links, removal, and switching.
+- [Protect, Detect, and related personal protection](articles/personal-protection.md) — Protect-family scope, Champions PP, diminishing success, contact retaliation, and protection bypass versus removal.
+- [Wide Guard and Quick Guard](articles/wide-and-quick-guard.md) — Side protection against eligible spread or positive-priority moves, ally interactions, and shared protection counters.
+- [Reflect, Light Screen, and Aurora Veil](articles/screens.md) — Reflect, Light Screen, and Aurora Veil: doubles reduction, duration, setup conditions, bypass, and removal.
+- [Substitute](articles/substitute.md) — Substitute HP cost, interception, status protection, bypass, multi-hit behavior, and switching or transfer.
+- [Redirection](articles/redirection.md) — Follow Me, Rage Powder, and ability-based redirection: valid targets, timing, powder immunity, and exceptions.
+- [Helping Hand and ally interaction](articles/ally-interactions.md) — Helping Hand, beneficial or harmful ally attacks, Telepathy, Friend Guard, and Ally Switch.
+- [Weather](articles/weather.md) — Rain, sun, sandstorm, and snow: duration, damage and defensive modifiers, move effects, and suppression.
+- [Terrain framework](articles/terrain-framework.md) — Terrain replacement, duration, grounding, side-independent effects, and identifying whose grounding matters.
+- [Electric Terrain](articles/electric-terrain.md) — Grounded Electric attack boost, sleep prevention, Yawn interaction, and existing sleep.
+- [Grassy Terrain](articles/grassy-terrain.md) — Grounded Grass power, residual healing, selected Ground-move reduction, and Grassy Glide priority.
+- [Misty Terrain](articles/misty-terrain.md) — Grounded status and confusion prevention, Dragon power reduction, and delayed Yawn sleep.
+- [Psychic Terrain](articles/psychic-terrain.md) — Grounded Psychic power, opposing priority protection, ally exceptions, and Expanding Force changes.
+- [Gravity, Trick Room, Tailwind, and other rooms](articles/rooms-gravity-tailwind.md) — Gravity, Trick Room, Tailwind, Wonder Room, and Magic Room: duration, ordering, grounding, and suppression.
+- [Taunt, Encore, Disable, Torment, and Imprison](articles/move-restrictions.md) — Taunt, Encore, Disable, Torment, and Imprison, including selected-action changes and Champions exceptions.
+- [Choice lock, charging, recharge, and first-turn moves](articles/locks-charge-recharge.md) — Choice lock, charging, recharge, first-action moves, entry history, and forced Struggle.
+- [Safeguard, healing, and healing prevention](articles/healing-and-safeguard.md) — Safeguard, Wish, Roost, weather-dependent healing, Pain Split, and healing prevention.
+- [Entry hazards and hazard removal](articles/hazards.md) — Entry hazards, layers, grounding, typing, prevention, absorption, and distinct removal methods.
+- [Ability interactions](articles/ability-interactions.md) — Ability-effect families, triggers, prevention, suppression, bypass, and changed abilities; exact entity exceptions still needed.
+- [Held-item interactions](articles/item-interactions.md) — Common held-item effects, consumption, thresholds, suppression, compatible Mega Stones, and triggered switches.
+- [Special damage and multi-hit attacks](articles/special-damage-multihit.md) — Fixed and reactive damage, OHKO rules, variable hit counts, between-hit triggers, and self-damage families.
+- [Champions-specific move details](articles/champions-move-differences.md) — Selected Champions move overrides, PP handling, tags, chances, and limitations of generic descriptions.
+- [Selected end-of-turn ordering](articles/residual-order.md) — Selected end-of-turn event order, recovery before or after damage, expiry, suborders, and fainting limits.
+
+## Pokemon profiles (382)
+
+- [Abomasnow](pokemon/abomasnow.md) — Grass/Ice. Stat profile favors mixed offense; base Speed 60. Includes complete build candidates.
+- [Abomasnow-Mega](pokemon/abomasnowmega.md) — Grass/Ice. Stat profile favors mixed offense; base Speed 30. Includes complete build candidates.
+- [Absol](pokemon/absol.md) — Dark. Stat profile favors physical offense; base Speed 75. Includes complete build candidates.
+- [Absol-Mega](pokemon/absolmega.md) — Dark. Stat profile favors physical offense; base Speed 115. Build unspecified; calculated stat bounds available.
+- [Absol-Mega-Z](pokemon/absolmegaz.md) — Dark/Ghost. Stat profile favors physical offense; base Speed 151. Includes complete build candidates.
+- [Aegislash](pokemon/aegislash.md) — Steel/Ghost. Stat profile favors mixed offense; base Speed 60. Candidate plans include spread protection. Includes complete build candidates.
+- [Aegislash-Blade](pokemon/aegislashblade.md) — Steel/Ghost. Stat profile favors mixed offense; base Speed 60. Candidate plans include spread protection. Includes complete build candidates.
+- [Aerodactyl](pokemon/aerodactyl.md) — Rock/Flying. Fast Tailwind support and physical Rock/Flying pressure. Includes complete build candidates.
+- [Aerodactyl-Mega](pokemon/aerodactylmega.md) — Rock/Flying. Fast Tailwind support and physical Rock/Flying pressure. Includes complete build candidates.
+- [Aggron](pokemon/aggron.md) — Steel/Rock. Stat profile favors physical offense; base Speed 50. Includes complete build candidates.
+- [Aggron-Mega](pokemon/aggronmega.md) — Steel. Stat profile favors physical offense; base Speed 50. Build unspecified; calculated stat bounds available.
+- [Alakazam](pokemon/alakazam.md) — Psychic. Stat profile favors special offense; base Speed 120. Includes complete build candidates.
+- [Alakazam-Mega](pokemon/alakazammega.md) — Psychic. Stat profile favors special offense; base Speed 150. Includes complete build candidates.
+- [Alcremie](pokemon/alcremie.md) — Fairy. Stat profile favors special offense; base Speed 64. Build unspecified; calculated stat bounds available.
+- [Alcremie-Caramel-Swirl](pokemon/alcremiecaramelswirl.md) — Fairy. Stat profile favors special offense; base Speed 64. Build unspecified; calculated stat bounds available.
+- [Alcremie-Lemon-Cream](pokemon/alcremielemoncream.md) — Fairy. Stat profile favors special offense; base Speed 64. Build unspecified; calculated stat bounds available.
+- [Alcremie-Matcha-Cream](pokemon/alcremiematchacream.md) — Fairy. Stat profile favors special offense; base Speed 64. Build unspecified; calculated stat bounds available.
+- [Alcremie-Mint-Cream](pokemon/alcremiemintcream.md) — Fairy. Stat profile favors special offense; base Speed 64. Build unspecified; calculated stat bounds available.
+- [Alcremie-Rainbow-Swirl](pokemon/alcremierainbowswirl.md) — Fairy. Stat profile favors special offense; base Speed 64. Build unspecified; calculated stat bounds available.
+- [Alcremie-Ruby-Cream](pokemon/alcremierubycream.md) — Fairy. Stat profile favors special offense; base Speed 64. Build unspecified; calculated stat bounds available.
+- [Alcremie-Ruby-Swirl](pokemon/alcremierubyswirl.md) — Fairy. Stat profile favors special offense; base Speed 64. Build unspecified; calculated stat bounds available.
+- [Altaria](pokemon/altaria.md) — Dragon/Flying. Stat profile favors mixed offense; base Speed 80. Build unspecified; calculated stat bounds available.
+- [Altaria-Mega](pokemon/altariamega.md) — Dragon/Fairy. Stat profile favors mixed offense; base Speed 80. Build unspecified; calculated stat bounds available.
+- [Ampharos](pokemon/ampharos.md) — Electric. Stat profile favors special offense; base Speed 55. Build unspecified; calculated stat bounds available.
+- [Ampharos-Mega](pokemon/ampharosmega.md) — Electric/Dragon. Stat profile favors special offense; base Speed 45. Build unspecified; calculated stat bounds available.
+- [Annihilape](pokemon/annihilape.md) — Fighting/Ghost. Physical attacker; Defiant can punish opposing stat reductions. Includes complete build candidates.
+- [Appletun](pokemon/appletun.md) — Grass/Dragon. Stat profile favors mixed offense; base Speed 30. Build unspecified; calculated stat bounds available.
+- [Araquanid](pokemon/araquanid.md) — Water/Bug. Stat profile favors physical offense; base Speed 42. Build unspecified; calculated stat bounds available.
+- [Arbok](pokemon/arbok.md) — Poison. Stat profile favors physical offense; base Speed 80. Build unspecified; calculated stat bounds available.
+- [Arboliva](pokemon/arboliva.md) — Grass/Normal. Stat profile favors special offense; base Speed 39. Build unspecified; calculated stat bounds available.
+- [Arcanine](pokemon/arcanine.md) — Fire. Stat profile favors mixed offense; base Speed 95. Includes complete build candidates.
+- [Arcanine-Hisui](pokemon/arcaninehisui.md) — Fire/Rock. Physical Fire/Rock attacker with Extreme Speed finishing pressure. Includes complete build candidates.
+- [Archaludon](pokemon/archaludon.md) — Steel/Dragon. Bulky special attacker; rain enables immediate Electro Shot and Stamina supports Body Press. Includes complete build candidates.
+- [Ariados](pokemon/ariados.md) — Bug/Poison. Stat profile favors physical offense; base Speed 40. Build unspecified; calculated stat bounds available.
+- [Armarouge](pokemon/armarouge.md) — Fire/Psychic. Psychic/Fire attacker with Trick Room and spread-pressure options. Includes complete build candidates.
+- [Aromatisse](pokemon/aromatisse.md) — Fairy. Stat profile favors special offense; base Speed 29. Build unspecified; calculated stat bounds available.
+- [Audino](pokemon/audino.md) — Normal. Stat profile favors mixed offense; base Speed 50. Build unspecified; calculated stat bounds available.
+- [Audino-Mega](pokemon/audinomega.md) — Normal/Fairy. Stat profile favors special offense; base Speed 50. Build unspecified; calculated stat bounds available.
+- [Aurorus](pokemon/aurorus.md) — Rock/Ice. Stat profile favors special offense; base Speed 58. Build unspecified; calculated stat bounds available.
+- [Avalugg](pokemon/avalugg.md) — Ice. Stat profile favors physical offense; base Speed 28. Build unspecified; calculated stat bounds available.
+- [Avalugg-Hisui](pokemon/avalugghisui.md) — Ice/Rock. Stat profile favors physical offense; base Speed 38. Build unspecified; calculated stat bounds available.
+- [Azumarill](pokemon/azumarill.md) — Water/Fairy. Stat profile favors mixed offense; base Speed 50. Build unspecified; calculated stat bounds available.
+- [Banette](pokemon/banette.md) — Ghost. Stat profile favors physical offense; base Speed 65. Build unspecified; calculated stat bounds available.
+- [Banette-Mega](pokemon/banettemega.md) — Ghost. Stat profile favors physical offense; base Speed 75. Build unspecified; calculated stat bounds available.
+- [Barbaracle](pokemon/barbaracle.md) — Rock/Water. Stat profile favors physical offense; base Speed 68. Build unspecified; calculated stat bounds available.
+- [Barbaracle-Mega](pokemon/barbaraclemega.md) — Rock/Fighting. Stat profile favors physical offense; base Speed 88. Build unspecified; calculated stat bounds available.
+- [Basculegion](pokemon/basculegion.md) — Water/Ghost. Physical Water/Ghost attacker whose Last Respects strengthens as allies faint. Includes complete build candidates.
+- [Basculegion-F](pokemon/basculegionf.md) — Water/Ghost. Stat profile favors mixed offense; base Speed 78. Includes complete build candidates.
+- [Bastiodon](pokemon/bastiodon.md) — Rock/Steel. Stat profile favors mixed offense; base Speed 30. Build unspecified; calculated stat bounds available.
+- [Baxcalibur](pokemon/baxcalibur.md) — Dragon/Ice. Physical Dragon/Ice attacker with Dragon Dance setup. Includes complete build candidates.
+- [Baxcalibur-Mega](pokemon/baxcaliburmega.md) — Dragon/Ice. Physical Dragon/Ice attacker with Dragon Dance setup. Includes complete build candidates.
+- [Beartic](pokemon/beartic.md) — Ice. Stat profile favors physical offense; base Speed 50. Build unspecified; calculated stat bounds available.
+- [Beedrill](pokemon/beedrill.md) — Bug/Poison. Stat profile favors physical offense; base Speed 75. Build unspecified; calculated stat bounds available.
+- [Beedrill-Mega](pokemon/beedrillmega.md) — Bug/Poison. Stat profile favors physical offense; base Speed 145. Build unspecified; calculated stat bounds available.
+- [Bellibolt](pokemon/bellibolt.md) — Electric. Stat profile favors special offense; base Speed 45. Includes complete build candidates.
+- [Blastoise](pokemon/blastoise.md) — Water. Special Water attacker with Shell Smash setup and HP-sensitive Water Spout. Includes complete build candidates.
+- [Blastoise-Mega](pokemon/blastoisemega.md) — Water. Special Water attacker with Shell Smash setup and HP-sensitive Water Spout. Includes complete build candidates.
+- [Blaziken](pokemon/blaziken.md) — Fire/Fighting. Stat profile favors mixed offense; base Speed 80. Includes complete build candidates.
+- [Blaziken-Mega](pokemon/blazikenmega.md) — Fire/Fighting. Stat profile favors physical offense; base Speed 100. Includes complete build candidates.
+- [Camerupt](pokemon/camerupt.md) — Fire/Ground. Stat profile favors mixed offense; base Speed 40. Includes complete build candidates.
+- [Camerupt-Mega](pokemon/cameruptmega.md) — Fire/Ground. Stat profile favors special offense; base Speed 20. Includes complete build candidates.
+- [Castform](pokemon/castform.md) — Normal. Stat profile favors mixed offense; base Speed 70. Build unspecified; calculated stat bounds available.
+- [Castform-Rainy](pokemon/castformrainy.md) — Water. Stat profile favors mixed offense; base Speed 70. Build unspecified; calculated stat bounds available.
+- [Castform-Snowy](pokemon/castformsnowy.md) — Ice. Stat profile favors mixed offense; base Speed 70. Build unspecified; calculated stat bounds available.
+- [Castform-Sunny](pokemon/castformsunny.md) — Fire. Stat profile favors mixed offense; base Speed 70. Build unspecified; calculated stat bounds available.
+- [Ceruledge](pokemon/ceruledge.md) — Fire/Ghost. Stat profile favors physical offense; base Speed 85. Includes complete build candidates.
+- [Chandelure](pokemon/chandelure.md) — Ghost/Fire. Stat profile favors special offense; base Speed 80. Candidate plans include Trick Room control. Includes complete build candidates.
+- [Chandelure-Mega](pokemon/chandeluremega.md) — Ghost/Fire. Stat profile favors special offense; base Speed 90. Build unspecified; calculated stat bounds available.
+- [Charizard](pokemon/charizard.md) — Fire/Flying. Builds include physical setup with Mega Charizard X and special sun offense with Mega Charizard Y; condition on the Mega Stone. Includes complete build candidates.
+- [Charizard-Mega-X](pokemon/charizardmegax.md) — Fire/Dragon. Physical Fire/Dragon attacker with Tough Claws; the selected build uses Belly Drum and Flame Charge for setup. Includes complete build candidates.
+- [Charizard-Mega-Y](pokemon/charizardmegay.md) — Fire/Flying. Special sun attacker; Mega Charizard Y supplies Drought. Includes complete build candidates.
+- [Chesnaught](pokemon/chesnaught.md) — Grass/Fighting. Stat profile favors physical offense; base Speed 64. Build unspecified; calculated stat bounds available.
+- [Chesnaught-Mega](pokemon/chesnaughtmega.md) — Grass/Fighting. Stat profile favors physical offense; base Speed 44. Build unspecified; calculated stat bounds available.
+- [Chimecho](pokemon/chimecho.md) — Psychic. Stat profile favors special offense; base Speed 65. Candidate plans include Trick Room control. Includes complete build candidates.
+- [Chimecho-Mega](pokemon/chimechomega.md) — Psychic/Steel. Stat profile favors special offense; base Speed 65. Candidate plans include Trick Room control. Includes complete build candidates.
+- [Cinderace](pokemon/cinderace.md) — Fire. Stat profile favors physical offense; base Speed 119. Includes complete build candidates.
+- [Clawitzer](pokemon/clawitzer.md) — Water. Stat profile favors special offense; base Speed 59. Includes complete build candidates.
+- [Clefable](pokemon/clefable.md) — Fairy. Stat profile favors special offense; base Speed 60. Candidate plans include redirection. Includes complete build candidates.
+- [Clefable-Mega](pokemon/clefablemega.md) — Fairy/Flying. Stat profile favors special offense; base Speed 70. Build unspecified; calculated stat bounds available.
+- [Cofagrigus](pokemon/cofagrigus.md) — Ghost. Stat profile favors special offense; base Speed 30. Build unspecified; calculated stat bounds available.
+- [Conkeldurr](pokemon/conkeldurr.md) — Fighting. Stat profile favors physical offense; base Speed 45. Build unspecified; calculated stat bounds available.
+- [Corviknight](pokemon/corviknight.md) — Flying/Steel. Stat profile favors physical offense; base Speed 67. Candidate plans include Tailwind support. Includes complete build candidates.
+- [Crabominable](pokemon/crabominable.md) — Fighting/Ice. Stat profile favors physical offense; base Speed 43. Includes complete build candidates.
+- [Crabominable-Mega](pokemon/crabominablemega.md) — Fighting/Ice. Stat profile favors physical offense; base Speed 33. Includes complete build candidates.
+- [Decidueye](pokemon/decidueye.md) — Grass/Ghost. Stat profile favors mixed offense; base Speed 70. Build unspecified; calculated stat bounds available.
+- [Decidueye-Hisui](pokemon/decidueyehisui.md) — Grass/Fighting. Stat profile favors physical offense; base Speed 60. Build unspecified; calculated stat bounds available.
+- [Dedenne](pokemon/dedenne.md) — Electric/Fairy. Stat profile favors special offense; base Speed 101. Build unspecified; calculated stat bounds available.
+- [Delphox](pokemon/delphox.md) — Fire/Psychic. Fast special Fire/Psychic pressure. Includes complete build candidates.
+- [Delphox-Mega](pokemon/delphoxmega.md) — Fire/Psychic. Fast special Fire/Psychic pressure. Includes complete build candidates.
+- [Diggersby](pokemon/diggersby.md) — Normal/Ground. Stat profile favors mixed offense; base Speed 78. Build unspecified; calculated stat bounds available.
+- [Ditto](pokemon/ditto.md) — Normal. Transformation-based copying; its own stats do not describe the combat profile after Transform. Build unspecified; calculated stat bounds available.
+- [Dragalge](pokemon/dragalge.md) — Poison/Dragon. Stat profile favors special offense; base Speed 44. Includes complete build candidates.
+- [Dragalge-Mega](pokemon/dragalgemega.md) — Poison/Dragon. Stat profile favors special offense; base Speed 44. Includes complete build candidates.
+- [Dragapult](pokemon/dragapult.md) — Dragon/Ghost. Stat profile favors physical offense; base Speed 142. Includes complete build candidates.
+- [Dragonite](pokemon/dragonite.md) — Dragon/Flying. Different physical and special builds; condition on its item and transformation. Includes complete build candidates.
+- [Dragonite-Mega](pokemon/dragonitemega.md) — Dragon/Flying. Different physical and special builds; condition on its item and transformation. Includes complete build candidates.
+- [Drampa](pokemon/drampa.md) — Normal/Dragon. Stat profile favors special offense; base Speed 36. Build unspecified; calculated stat bounds available.
+- [Drampa-Mega](pokemon/drampamega.md) — Normal/Dragon. Stat profile favors special offense; base Speed 36. Build unspecified; calculated stat bounds available.
+- [Eelektross](pokemon/eelektross.md) — Electric. Stat profile favors mixed offense; base Speed 50. Build unspecified; calculated stat bounds available.
+- [Eelektross-Mega](pokemon/eelektrossmega.md) — Electric. Stat profile favors mixed offense; base Speed 80. Build unspecified; calculated stat bounds available.
+- [Emboar](pokemon/emboar.md) — Fire/Fighting. Stat profile favors physical offense; base Speed 65. Build unspecified; calculated stat bounds available.
+- [Emboar-Mega](pokemon/emboarmega.md) — Fire/Fighting. Stat profile favors physical offense; base Speed 75. Build unspecified; calculated stat bounds available.
+- [Emolga](pokemon/emolga.md) — Electric/Flying. Stat profile favors mixed offense; base Speed 103. Build unspecified; calculated stat bounds available.
+- [Empoleon](pokemon/empoleon.md) — Water/Steel. Stat profile favors special offense; base Speed 60. Includes complete build candidates.
+- [Espathra](pokemon/espathra.md) — Psychic. Stat profile favors special offense; base Speed 105. Build unspecified; calculated stat bounds available.
+- [Espeon](pokemon/espeon.md) — Psychic. Stat profile favors special offense; base Speed 110. Build unspecified; calculated stat bounds available.
+- [Excadrill](pokemon/excadrill.md) — Ground/Steel. Stat profile favors physical offense; base Speed 88. Includes complete build candidates.
+- [Excadrill-Mega](pokemon/excadrillmega.md) — Ground/Steel. Stat profile favors physical offense; base Speed 103. Build unspecified; calculated stat bounds available.
+- [Falinks](pokemon/falinks.md) — Fighting. Stat profile favors physical offense; base Speed 75. Build unspecified; calculated stat bounds available.
+- [Falinks-Mega](pokemon/falinksmega.md) — Fighting. Stat profile favors physical offense; base Speed 100. Build unspecified; calculated stat bounds available.
+- [Farfetch’d](pokemon/farfetchd.md) — Normal/Flying. Stat profile favors physical offense; base Speed 60. Build unspecified; calculated stat bounds available.
+- [Farigiraf](pokemon/farigiraf.md) — Normal/Psychic. Trick Room support; Armor Tail protects its side against opposing priority attacks. Includes complete build candidates.
+- [Feraligatr](pokemon/feraligatr.md) — Water. Stat profile favors physical offense; base Speed 78. Build unspecified; calculated stat bounds available.
+- [Feraligatr-Mega](pokemon/feraligatrmega.md) — Water/Dragon. Stat profile favors physical offense; base Speed 78. Build unspecified; calculated stat bounds available.
+- [Flapple](pokemon/flapple.md) — Grass/Dragon. Stat profile favors mixed offense; base Speed 70. Build unspecified; calculated stat bounds available.
+- [Flareon](pokemon/flareon.md) — Fire. Stat profile favors physical offense; base Speed 65. Build unspecified; calculated stat bounds available.
+- [Floette-Eternal](pokemon/floetteeternal.md) — Fairy. Special Fairy pressure with offensive and Calm Mind builds. Includes complete build candidates.
+- [Floette-Mega](pokemon/floettemega.md) — Fairy. Special Fairy pressure with offensive and Calm Mind builds. Includes complete build candidates.
+- [Florges](pokemon/florges.md) — Fairy. Stat profile favors special offense; base Speed 75. Build unspecified; calculated stat bounds available.
+- [Forretress](pokemon/forretress.md) — Bug/Steel. Stat profile favors physical offense; base Speed 40. Build unspecified; calculated stat bounds available.
+- [Froslass](pokemon/froslass.md) — Ice/Ghost. Snow-based special pressure with a Mega Evolution option. Includes complete build candidates.
+- [Froslass-Mega](pokemon/froslassmega.md) — Ice/Ghost. Snow-based special pressure with a Mega Evolution option. Includes complete build candidates.
+- [Furfrou](pokemon/furfrou.md) — Normal. Stat profile favors mixed offense; base Speed 102. Build unspecified; calculated stat bounds available.
+- [Gallade](pokemon/gallade.md) — Psychic/Fighting. Stat profile favors physical offense; base Speed 80. Candidate plans include Trick Room control, spread protection. Includes complete build candidates.
+- [Gallade-Mega](pokemon/gallademega.md) — Psychic/Fighting. Stat profile favors physical offense; base Speed 110. Build unspecified; calculated stat bounds available.
+- [Garbodor](pokemon/garbodor.md) — Poison. Stat profile favors physical offense; base Speed 75. Build unspecified; calculated stat bounds available.
+- [Garchomp](pokemon/garchomp.md) — Dragon/Ground. Builds include physical Dragon/Ground offense and fast special offense after evolving into Mega Garchomp Z; condition on the item and transformation. Includes complete build candidates.
+- [Garchomp-Mega](pokemon/garchompmega.md) — Dragon/Ground. Stat profile favors physical offense; base Speed 92. Build unspecified; calculated stat bounds available.
+- [Garchomp-Mega-Z](pokemon/garchompmegaz.md) — Dragon. Fast special Dragon attacker with Levitate; selected builds use Draco Meteor with Fire and Rock coverage. Includes complete build candidates.
+- [Gardevoir](pokemon/gardevoir.md) — Psychic/Fairy. Special Fairy/Psychic attacker; Mega Gardevoir uses Pixilate Hyper Voice. Includes complete build candidates.
+- [Gardevoir-Mega](pokemon/gardevoirmega.md) — Psychic/Fairy. Special Fairy/Psychic attacker; Mega Gardevoir uses Pixilate Hyper Voice. Includes complete build candidates.
+- [Garganacl](pokemon/garganacl.md) — Rock. Stat profile favors physical offense; base Speed 35. Build unspecified; calculated stat bounds available.
+- [Gengar](pokemon/gengar.md) — Ghost/Poison. Mega Shadow Tag pressure with offensive and Perish Song plans. Includes complete build candidates.
+- [Gengar-Mega](pokemon/gengarmega.md) — Ghost/Poison. Mega Shadow Tag pressure with offensive and Perish Song plans. Includes complete build candidates.
+- [Gholdengo](pokemon/gholdengo.md) — Steel/Ghost. Special spread attacker with Make It Rain and setup options. Includes complete build candidates.
+- [Glaceon](pokemon/glaceon.md) — Ice. Stat profile favors special offense; base Speed 65. Build unspecified; calculated stat bounds available.
+- [Glalie](pokemon/glalie.md) — Ice. Stat profile favors mixed offense; base Speed 80. Includes complete build candidates.
+- [Glalie-Mega](pokemon/glaliemega.md) — Ice. Stat profile favors mixed offense; base Speed 100. Includes complete build candidates.
+- [Glimmora](pokemon/glimmora.md) — Rock/Poison. Rock/Poison special attacker; Toxic Debris responds to physical damage. Includes complete build candidates.
+- [Glimmora-Mega](pokemon/glimmoramega.md) — Rock/Poison. Special Rock/Poison attacker with Adaptability; Toxic Debris belongs to its starting form. Includes complete build candidates.
+- [Gliscor](pokemon/gliscor.md) — Ground/Flying. Stat profile favors physical offense; base Speed 95. Build unspecified; calculated stat bounds available.
+- [Gogoat](pokemon/gogoat.md) — Grass. Stat profile favors mixed offense; base Speed 68. Includes complete build candidates.
+- [Golisopod](pokemon/golisopod.md) — Bug/Water. Physical Water/Bug attacker with a Mega Evolution option. Includes complete build candidates.
+- [Golisopod-Mega](pokemon/golisopodmega.md) — Bug/Steel. Bulky physical Bug/Steel attacker with Tough Claws; selected builds use setup or priority attacks. Includes complete build candidates.
+- [Golurk](pokemon/golurk.md) — Ground/Ghost. Stat profile favors physical offense; base Speed 55. Build unspecified; calculated stat bounds available.
+- [Golurk-Mega](pokemon/golurkmega.md) — Ground/Ghost. Stat profile favors physical offense; base Speed 55. Build unspecified; calculated stat bounds available.
+- [Goodra](pokemon/goodra.md) — Dragon. Stat profile favors mixed offense; base Speed 80. Build unspecified; calculated stat bounds available.
+- [Goodra-Hisui](pokemon/goodrahisui.md) — Steel/Dragon. Stat profile favors mixed offense; base Speed 60. Build unspecified; calculated stat bounds available.
+- [Gourgeist](pokemon/gourgeist.md) — Ghost/Grass. Stat profile favors physical offense; base Speed 84. Build unspecified; calculated stat bounds available.
+- [Gourgeist-Large](pokemon/gourgeistlarge.md) — Ghost/Grass. Stat profile favors physical offense; base Speed 69. Build unspecified; calculated stat bounds available.
+- [Gourgeist-Small](pokemon/gourgeistsmall.md) — Ghost/Grass. Stat profile favors physical offense; base Speed 99. Build unspecified; calculated stat bounds available.
+- [Gourgeist-Super](pokemon/gourgeistsuper.md) — Ghost/Grass. Stat profile favors physical offense; base Speed 54. Build unspecified; calculated stat bounds available.
+- [Grapploct](pokemon/grapploct.md) — Fighting. Stat profile favors physical offense; base Speed 42. Includes complete build candidates.
+- [Greninja](pokemon/greninja.md) — Water/Dark. Stat profile favors mixed offense; base Speed 122. Build unspecified; calculated stat bounds available.
+- [Greninja-Mega](pokemon/greninjamega.md) — Water/Dark. Stat profile favors mixed offense; base Speed 142. Build unspecified; calculated stat bounds available.
+- [Grimmsnarl](pokemon/grimmsnarl.md) — Dark/Fairy. Stat profile favors physical offense; base Speed 60. Candidate plans include Fake Out disruption, pivoting, screens. Includes complete build candidates.
+- [Gyarados](pokemon/gyarados.md) — Water/Flying. Stat profile favors physical offense; base Speed 81. Includes complete build candidates.
+- [Gyarados-Mega](pokemon/gyaradosmega.md) — Water/Dark. Stat profile favors physical offense; base Speed 81. Build unspecified; calculated stat bounds available.
+- [Hatterene](pokemon/hatterene.md) — Psychic/Fairy. Stat profile favors special offense; base Speed 29. Candidate plans include Trick Room control. Includes complete build candidates.
+- [Hawlucha](pokemon/hawlucha.md) — Fighting/Flying. Stat profile favors physical offense; base Speed 118. Includes complete build candidates.
+- [Hawlucha-Mega](pokemon/hawluchamega.md) — Fighting/Flying. Stat profile favors physical offense; base Speed 118. Includes complete build candidates.
+- [Heliolisk](pokemon/heliolisk.md) — Electric/Normal. Stat profile favors special offense; base Speed 109. Build unspecified; calculated stat bounds available.
+- [Heracross](pokemon/heracross.md) — Bug/Fighting. Stat profile favors physical offense; base Speed 85. Build unspecified; calculated stat bounds available.
+- [Heracross-Mega](pokemon/heracrossmega.md) — Bug/Fighting. Stat profile favors physical offense; base Speed 75. Build unspecified; calculated stat bounds available.
+- [Hippowdon](pokemon/hippowdon.md) — Ground. Stat profile favors physical offense; base Speed 47. Includes complete build candidates.
+- [Houndoom](pokemon/houndoom.md) — Dark/Fire. Stat profile favors special offense; base Speed 95. Build unspecified; calculated stat bounds available.
+- [Houndoom-Mega](pokemon/houndoommega.md) — Dark/Fire. Stat profile favors special offense; base Speed 115. Build unspecified; calculated stat bounds available.
+- [Houndstone](pokemon/houndstone.md) — Ghost. Stat profile favors physical offense; base Speed 68. Includes complete build candidates.
+- [Hydrapple](pokemon/hydrapple.md) — Grass/Dragon. Stat profile favors special offense; base Speed 44. Build unspecified; calculated stat bounds available.
+- [Hydreigon](pokemon/hydreigon.md) — Dark/Dragon. Stat profile favors special offense; base Speed 98. Includes complete build candidates.
+- [Incineroar](pokemon/incineroar.md) — Fire/Dark. Intimidate pivot with Fake Out disruption and Parting Shot repositioning. Includes complete build candidates.
+- [Indeedee](pokemon/indeedee.md) — Psychic/Normal. Psychic Terrain setter and special Psychic attacker. Includes complete build candidates.
+- [Indeedee-F](pokemon/indeedeef.md) — Psychic/Normal. Psychic Terrain and Follow Me support, with Trick Room control. Includes complete build candidates.
+- [Infernape](pokemon/infernape.md) — Fire/Fighting. Stat profile favors mixed offense; base Speed 108. Build unspecified; calculated stat bounds available.
+- [Inteleon](pokemon/inteleon.md) — Water. Stat profile favors special offense; base Speed 120. Build unspecified; calculated stat bounds available.
+- [Jolteon](pokemon/jolteon.md) — Electric. Stat profile favors special offense; base Speed 130. Build unspecified; calculated stat bounds available.
+- [Kangaskhan](pokemon/kangaskhan.md) — Normal. Stat profile favors physical offense; base Speed 90. Build unspecified; calculated stat bounds available.
+- [Kangaskhan-Mega](pokemon/kangaskhanmega.md) — Normal. Stat profile favors physical offense; base Speed 100. Build unspecified; calculated stat bounds available.
+- [Kingambit](pokemon/kingambit.md) — Dark/Steel. Slow physical Dark/Steel attacker; Sucker Punch gives conditional priority. Includes complete build candidates.
+- [Kleavor](pokemon/kleavor.md) — Bug/Rock. Stat profile favors physical offense; base Speed 85. Build unspecified; calculated stat bounds available.
+- [Klefki](pokemon/klefki.md) — Steel/Fairy. Stat profile favors mixed offense; base Speed 75. Candidate plans include Trick Room control, screens. Includes complete build candidates.
+- [Kommo-o](pokemon/kommoo.md) — Dragon/Fighting. Stat profile favors mixed offense; base Speed 85. Includes complete build candidates.
+- [Krookodile](pokemon/krookodile.md) — Ground/Dark. Stat profile favors physical offense; base Speed 92. Build unspecified; calculated stat bounds available.
+- [Leafeon](pokemon/leafeon.md) — Grass. Stat profile favors physical offense; base Speed 95. Build unspecified; calculated stat bounds available.
+- [Liepard](pokemon/liepard.md) — Dark. Stat profile favors mixed offense; base Speed 106. Build unspecified; calculated stat bounds available.
+- [Lopunny](pokemon/lopunny.md) — Normal. Stat profile favors physical offense; base Speed 105. Build unspecified; calculated stat bounds available.
+- [Lopunny-Mega](pokemon/lopunnymega.md) — Normal/Fighting. Stat profile favors physical offense; base Speed 135. Build unspecified; calculated stat bounds available.
+- [Lucario](pokemon/lucario.md) — Fighting/Steel. Stat profile favors mixed offense; base Speed 90. Includes complete build candidates.
+- [Lucario-Mega](pokemon/lucariomega.md) — Fighting/Steel. Stat profile favors mixed offense; base Speed 112. Build unspecified; calculated stat bounds available.
+- [Lucario-Mega-Z](pokemon/lucariomegaz.md) — Fighting/Steel. Stat profile favors special offense; base Speed 151. Includes complete build candidates.
+- [Luxray](pokemon/luxray.md) — Electric. Stat profile favors physical offense; base Speed 70. Build unspecified; calculated stat bounds available.
+- [Lycanroc](pokemon/lycanroc.md) — Rock. Stat profile favors physical offense; base Speed 112. Build unspecified; calculated stat bounds available.
+- [Lycanroc-Dusk](pokemon/lycanrocdusk.md) — Rock. Stat profile favors physical offense; base Speed 110. Includes complete build candidates.
+- [Lycanroc-Midnight](pokemon/lycanrocmidnight.md) — Rock. Stat profile favors physical offense; base Speed 82. Build unspecified; calculated stat bounds available.
+- [Mabosstiff](pokemon/mabosstiff.md) — Dark. Stat profile favors physical offense; base Speed 85. Build unspecified; calculated stat bounds available.
+- [Machamp](pokemon/machamp.md) — Fighting. Stat profile favors physical offense; base Speed 55. Build unspecified; calculated stat bounds available.
+- [Malamar](pokemon/malamar.md) — Dark/Psychic. Stat profile favors physical offense; base Speed 73. Candidate plans include Trick Room control. Includes complete build candidates.
+- [Malamar-Mega](pokemon/malamarmega.md) — Dark/Psychic. Stat profile favors mixed offense; base Speed 88. Build unspecified; calculated stat bounds available.
+- [Mamoswine](pokemon/mamoswine.md) — Ice/Ground. Stat profile favors physical offense; base Speed 80. Includes complete build candidates.
+- [Manectric](pokemon/manectric.md) — Electric. Stat profile favors special offense; base Speed 105. Includes complete build candidates.
+- [Manectric-Mega](pokemon/manectricmega.md) — Electric. Stat profile favors special offense; base Speed 135. Includes complete build candidates.
+- [Maushold](pokemon/maushold.md) — Normal. Stat profile favors mixed offense; base Speed 111. Candidate plans include redirection. Includes complete build candidates.
+- [Maushold-Four](pokemon/mausholdfour.md) — Normal. Stat profile favors mixed offense; base Speed 111. Candidate plans include redirection. Includes complete build candidates.
+- [Mawile](pokemon/mawile.md) — Steel/Fairy. Stat profile favors physical offense; base Speed 50. Includes complete build candidates.
+- [Mawile-Mega](pokemon/mawilemega.md) — Steel/Fairy. Stat profile favors physical offense; base Speed 50. Includes complete build candidates.
+- [Medicham](pokemon/medicham.md) — Fighting/Psychic. Stat profile favors mixed offense; base Speed 80. Candidate plans include Fake Out disruption. Includes complete build candidates.
+- [Medicham-Mega](pokemon/medichammega.md) — Fighting/Psychic. Stat profile favors physical offense; base Speed 100. Build unspecified; calculated stat bounds available.
+- [Meganium](pokemon/meganium.md) — Grass. Stat profile favors mixed offense; base Speed 80. Build unspecified; calculated stat bounds available.
+- [Meganium-Mega](pokemon/meganiummega.md) — Grass/Fairy. Stat profile favors special offense; base Speed 80. Build unspecified; calculated stat bounds available.
+- [Meowscarada](pokemon/meowscarada.md) — Grass/Dark. Stat profile favors physical offense; base Speed 123. Build unspecified; calculated stat bounds available.
+- [Meowstic](pokemon/meowstic.md) — Psychic. Stat profile favors special offense; base Speed 104. Build unspecified; calculated stat bounds available.
+- [Meowstic-F](pokemon/meowsticf.md) — Psychic. Stat profile favors special offense; base Speed 104. Candidate plans include Fake Out disruption. Includes complete build candidates.
+- [Meowstic-F-Mega](pokemon/meowsticfmega.md) — Psychic. Stat profile favors special offense; base Speed 124. Candidate plans include Fake Out disruption. Includes complete build candidates.
+- [Meowstic-M-Mega](pokemon/meowsticmmega.md) — Psychic. Stat profile favors special offense; base Speed 124. Build unspecified; calculated stat bounds available.
+- [Metagross](pokemon/metagross.md) — Steel/Psychic. Physical Steel/Psychic attacker with a Mega Evolution option. Includes complete build candidates.
+- [Metagross-Mega](pokemon/metagrossmega.md) — Steel/Psychic. Physical Steel/Psychic attacker with a Mega Evolution option. Includes complete build candidates.
+- [Milotic](pokemon/milotic.md) — Water. Bulky Water attacker with recovery, Coil, and disruption options. Includes complete build candidates.
+- [Mimikyu](pokemon/mimikyu.md) — Ghost/Fairy. Stat profile favors physical offense; base Speed 96. Candidate plans include Trick Room control. Includes complete build candidates.
+- [Mimikyu-Busted](pokemon/mimikyubusted.md) — Ghost/Fairy. Stat profile favors physical offense; base Speed 96. Candidate plans include Trick Room control. Includes complete build candidates.
+- [Morpeko](pokemon/morpeko.md) — Electric/Dark. Stat profile favors physical offense; base Speed 97. Build unspecified; calculated stat bounds available.
+- [Morpeko-Hangry](pokemon/morpekohangry.md) — Electric/Dark. Stat profile favors physical offense; base Speed 97. Build unspecified; calculated stat bounds available.
+- [Mr. Mime](pokemon/mrmime.md) — Psychic/Fairy. Stat profile favors special offense; base Speed 90. Build unspecified; calculated stat bounds available.
+- [Mr. Rime](pokemon/mrrime.md) — Ice/Psychic. Stat profile favors special offense; base Speed 70. Build unspecified; calculated stat bounds available.
+- [Mudsdale](pokemon/mudsdale.md) — Ground. Stat profile favors physical offense; base Speed 35. Includes complete build candidates.
+- [Musharna](pokemon/musharna.md) — Psychic. Stat profile favors special offense; base Speed 29. Build unspecified; calculated stat bounds available.
+- [Ninetales](pokemon/ninetales.md) — Fire. Stat profile favors mixed offense; base Speed 100. Build unspecified; calculated stat bounds available.
+- [Ninetales-Alola](pokemon/ninetalesalola.md) — Ice/Fairy. Snow support with Blizzard, disruption, and Aurora Veil options. Includes complete build candidates.
+- [Noivern](pokemon/noivern.md) — Flying/Dragon. Stat profile favors special offense; base Speed 123. Candidate plans include Tailwind support. Includes complete build candidates.
+- [Oranguru](pokemon/oranguru.md) — Normal/Psychic. Stat profile favors special offense; base Speed 60. Build unspecified; calculated stat bounds available.
+- [Orthworm](pokemon/orthworm.md) — Steel. Stat profile favors physical offense; base Speed 65. Build unspecified; calculated stat bounds available.
+- [Overqwil](pokemon/overqwil.md) — Dark/Poison. Stat profile favors physical offense; base Speed 85. Includes complete build candidates.
+- [Palafin](pokemon/palafin.md) — Water. Stat profile favors physical offense; base Speed 100. Build unspecified; calculated stat bounds available.
+- [Palafin-Hero](pokemon/palafinhero.md) — Water. Stat profile favors physical offense; base Speed 100. Build unspecified; calculated stat bounds available.
+- [Pangoro](pokemon/pangoro.md) — Fighting/Dark. Stat profile favors physical offense; base Speed 58. Build unspecified; calculated stat bounds available.
+- [Passimian](pokemon/passimian.md) — Fighting. Stat profile favors physical offense; base Speed 80. Build unspecified; calculated stat bounds available.
+- [Pawmot](pokemon/pawmot.md) — Electric/Fighting. Stat profile favors physical offense; base Speed 105. Includes complete build candidates.
+- [Pelipper](pokemon/pelipper.md) — Water/Flying. Rain setter with special Water/Flying attacks and Wide Guard support. Includes complete build candidates.
+- [Perrserker](pokemon/perrserker.md) — Steel. Stat profile favors physical offense; base Speed 50. Candidate plans include Fake Out disruption. Includes complete build candidates.
+- [Persian](pokemon/persian.md) — Normal. Stat profile favors mixed offense; base Speed 115. Build unspecified; calculated stat bounds available.
+- [Persian-Alola](pokemon/persianalola.md) — Dark. Stat profile favors mixed offense; base Speed 115. Candidate plans include Fake Out disruption, pivoting. Includes complete build candidates.
+- [Pidgeot](pokemon/pidgeot.md) — Normal/Flying. Stat profile favors mixed offense; base Speed 101. Build unspecified; calculated stat bounds available.
+- [Pidgeot-Mega](pokemon/pidgeotmega.md) — Normal/Flying. Stat profile favors special offense; base Speed 121. Build unspecified; calculated stat bounds available.
+- [Pikachu](pokemon/pikachu.md) — Electric. Stat profile favors mixed offense; base Speed 90. Build unspecified; calculated stat bounds available.
+- [Pincurchin](pokemon/pincurchin.md) — Electric. Stat profile favors mixed offense; base Speed 15. Includes complete build candidates.
+- [Pinsir](pokemon/pinsir.md) — Bug. Stat profile favors physical offense; base Speed 85. Build unspecified; calculated stat bounds available.
+- [Pinsir-Mega](pokemon/pinsirmega.md) — Bug/Flying. Stat profile favors physical offense; base Speed 105. Build unspecified; calculated stat bounds available.
+- [Politoed](pokemon/politoed.md) — Water. Stat profile favors mixed offense; base Speed 70. Includes complete build candidates.
+- [Polteageist](pokemon/polteageist.md) — Ghost. Stat profile favors special offense; base Speed 70. Build unspecified; calculated stat bounds available.
+- [Polteageist-Antique](pokemon/polteageistantique.md) — Ghost. Stat profile favors special offense; base Speed 70. Build unspecified; calculated stat bounds available.
+- [Primarina](pokemon/primarina.md) — Water/Fairy. Stat profile favors special offense; base Speed 60. Includes complete build candidates.
+- [Pyroar](pokemon/pyroar.md) — Fire/Normal. Stat profile favors special offense; base Speed 106. Includes complete build candidates.
+- [Pyroar-Mega](pokemon/pyroarmega.md) — Fire/Normal. Stat profile favors special offense; base Speed 126. Includes complete build candidates.
+- [Quaquaval](pokemon/quaquaval.md) — Water/Fighting. Stat profile favors physical offense; base Speed 85. Build unspecified; calculated stat bounds available.
+- [Qwilfish](pokemon/qwilfish.md) — Water/Poison. Stat profile favors physical offense; base Speed 85. Build unspecified; calculated stat bounds available.
+- [Raichu](pokemon/raichu.md) — Electric. Electric attacker/support; condition on its ability and Mega Evolution plan. Includes complete build candidates.
+- [Raichu-Alola](pokemon/raichualola.md) — Electric/Psychic. Stat profile favors mixed offense; base Speed 110. Includes complete build candidates.
+- [Raichu-Mega-X](pokemon/raichumegax.md) — Electric. Stat profile favors physical offense; base Speed 110. Build unspecified; calculated stat bounds available.
+- [Raichu-Mega-Y](pokemon/raichumegay.md) — Electric. Electric attacker/support; condition on its ability and Mega Evolution plan. Includes complete build candidates.
+- [Rampardos](pokemon/rampardos.md) — Rock. Stat profile favors physical offense; base Speed 58. Build unspecified; calculated stat bounds available.
+- [Reuniclus](pokemon/reuniclus.md) — Psychic. Stat profile favors special offense; base Speed 30. Build unspecified; calculated stat bounds available.
+- [Rhyperior](pokemon/rhyperior.md) — Ground/Rock. Stat profile favors physical offense; base Speed 40. Build unspecified; calculated stat bounds available.
+- [Rillaboom](pokemon/rillaboom.md) — Grass. Grassy Terrain setter with Fake Out, priority Grassy Glide, and physical pressure. Includes complete build candidates.
+- [Roserade](pokemon/roserade.md) — Grass/Poison. Stat profile favors special offense; base Speed 90. Build unspecified; calculated stat bounds available.
+- [Rotom](pokemon/rotom.md) — Electric/Ghost. Stat profile favors special offense; base Speed 91. Build unspecified; calculated stat bounds available.
+- [Rotom-Fan](pokemon/rotomfan.md) — Electric/Flying. Stat profile favors special offense; base Speed 86. Build unspecified; calculated stat bounds available.
+- [Rotom-Frost](pokemon/rotomfrost.md) — Electric/Ice. Stat profile favors special offense; base Speed 86. Build unspecified; calculated stat bounds available.
+- [Rotom-Heat](pokemon/rotomheat.md) — Electric/Fire. Stat profile favors special offense; base Speed 86. Includes complete build candidates.
+- [Rotom-Mow](pokemon/rotommow.md) — Electric/Grass. Stat profile favors special offense; base Speed 86. Includes complete build candidates.
+- [Rotom-Wash](pokemon/rotomwash.md) — Electric/Water. Stat profile favors special offense; base Speed 86. Includes complete build candidates.
+- [Runerigus](pokemon/runerigus.md) — Ground/Ghost. Stat profile favors physical offense; base Speed 30. Build unspecified; calculated stat bounds available.
+- [Sableye](pokemon/sableye.md) — Dark/Ghost. Stat profile favors mixed offense; base Speed 50. Candidate plans include screens. Includes complete build candidates.
+- [Sableye-Mega](pokemon/sableyemega.md) — Dark/Ghost. Stat profile favors mixed offense; base Speed 20. Build unspecified; calculated stat bounds available.
+- [Salamence](pokemon/salamence.md) — Dragon/Flying. Intimidate before Mega Evolution; Mega special offense often uses Aerilate Hyper Voice. Includes complete build candidates.
+- [Salamence-Mega](pokemon/salamencemega.md) — Dragon/Flying. Intimidate before Mega Evolution; Mega special offense often uses Aerilate Hyper Voice. Includes complete build candidates.
+- [Salazzle](pokemon/salazzle.md) — Poison/Fire. Stat profile favors special offense; base Speed 117. Candidate plans include Fake Out disruption. Includes complete build candidates.
+- [Samurott](pokemon/samurott.md) — Water. Stat profile favors mixed offense; base Speed 70. Build unspecified; calculated stat bounds available.
+- [Samurott-Hisui](pokemon/samurotthisui.md) — Water/Dark. Stat profile favors mixed offense; base Speed 85. Build unspecified; calculated stat bounds available.
+- [Sandaconda](pokemon/sandaconda.md) — Ground. Stat profile favors physical offense; base Speed 71. Build unspecified; calculated stat bounds available.
+- [Sceptile](pokemon/sceptile.md) — Grass. Stat profile favors special offense; base Speed 120. Build unspecified; calculated stat bounds available.
+- [Sceptile-Mega](pokemon/sceptilemega.md) — Grass/Dragon. Stat profile favors special offense; base Speed 145. Build unspecified; calculated stat bounds available.
+- [Scizor](pokemon/scizor.md) — Bug/Steel. Stat profile favors physical offense; base Speed 65. Includes complete build candidates.
+- [Scizor-Mega](pokemon/scizormega.md) — Bug/Steel. Stat profile favors physical offense; base Speed 75. Includes complete build candidates.
+- [Scolipede](pokemon/scolipede.md) — Bug/Poison. Stat profile favors physical offense; base Speed 112. Build unspecified; calculated stat bounds available.
+- [Scolipede-Mega](pokemon/scolipedemega.md) — Bug/Poison. Stat profile favors physical offense; base Speed 62. Build unspecified; calculated stat bounds available.
+- [Scovillain](pokemon/scovillain.md) — Grass/Fire. Stat profile favors mixed offense; base Speed 75. Candidate plans include redirection. Includes complete build candidates.
+- [Scovillain-Mega](pokemon/scovillainmega.md) — Grass/Fire. Stat profile favors mixed offense; base Speed 75. Candidate plans include redirection. Includes complete build candidates.
+- [Scrafty](pokemon/scrafty.md) — Dark/Fighting. Bulky physical attacker and disruption support. Includes complete build candidates.
+- [Scrafty-Mega](pokemon/scraftymega.md) — Dark/Fighting. Bulky physical attacker and disruption support. Includes complete build candidates.
+- [Serperior](pokemon/serperior.md) — Grass. Stat profile favors mixed offense; base Speed 113. Build unspecified; calculated stat bounds available.
+- [Sharpedo](pokemon/sharpedo.md) — Water/Dark. Stat profile favors physical offense; base Speed 95. Build unspecified; calculated stat bounds available.
+- [Sharpedo-Mega](pokemon/sharpedomega.md) — Water/Dark. Stat profile favors physical offense; base Speed 105. Build unspecified; calculated stat bounds available.
+- [Simipour](pokemon/simipour.md) — Water. Stat profile favors mixed offense; base Speed 101. Build unspecified; calculated stat bounds available.
+- [Simisage](pokemon/simisage.md) — Grass. Stat profile favors mixed offense; base Speed 101. Build unspecified; calculated stat bounds available.
+- [Simisear](pokemon/simisear.md) — Fire. Stat profile favors mixed offense; base Speed 101. Build unspecified; calculated stat bounds available.
+- [Sinistcha](pokemon/sinistcha.md) — Grass/Ghost. Stat profile favors special offense; base Speed 70. Candidate plans include Trick Room control, redirection. Includes complete build candidates.
+- [Sinistcha-Masterpiece](pokemon/sinistchamasterpiece.md) — Grass/Ghost. Stat profile favors special offense; base Speed 70. Candidate plans include Trick Room control, redirection. Includes complete build candidates.
+- [Sirfetch’d](pokemon/sirfetchd.md) — Fighting. Stat profile favors physical offense; base Speed 65. Includes complete build candidates.
+- [Skarmory](pokemon/skarmory.md) — Steel/Flying. Stat profile favors physical offense; base Speed 70. Build unspecified; calculated stat bounds available.
+- [Skarmory-Mega](pokemon/skarmorymega.md) — Steel/Flying. Stat profile favors physical offense; base Speed 110. Build unspecified; calculated stat bounds available.
+- [Skeledirge](pokemon/skeledirge.md) — Fire/Ghost. Stat profile favors special offense; base Speed 66. Includes complete build candidates.
+- [Slowbro](pokemon/slowbro.md) — Water/Psychic. Stat profile favors special offense; base Speed 30. Build unspecified; calculated stat bounds available.
+- [Slowbro-Galar](pokemon/slowbrogalar.md) — Poison/Psychic. Stat profile favors mixed offense; base Speed 30. Build unspecified; calculated stat bounds available.
+- [Slowbro-Mega](pokemon/slowbromega.md) — Water/Psychic. Stat profile favors special offense; base Speed 30. Build unspecified; calculated stat bounds available.
+- [Slowking](pokemon/slowking.md) — Water/Psychic. Stat profile favors special offense; base Speed 30. Build unspecified; calculated stat bounds available.
+- [Slowking-Galar](pokemon/slowkinggalar.md) — Poison/Psychic. Stat profile favors special offense; base Speed 30. Build unspecified; calculated stat bounds available.
+- [Slurpuff](pokemon/slurpuff.md) — Fairy. Stat profile favors mixed offense; base Speed 72. Build unspecified; calculated stat bounds available.
+- [Sneasler](pokemon/sneasler.md) — Fighting/Poison. Fast Fighting/Poison attacker with Fake Out or Unburden plans. Includes complete build candidates.
+- [Snorlax](pokemon/snorlax.md) — Normal. Slow bulky Normal-type support and physical pressure. Includes complete build candidates.
+- [Spiritomb](pokemon/spiritomb.md) — Ghost/Dark. Stat profile favors mixed offense; base Speed 35. Build unspecified; calculated stat bounds available.
+- [Squawkabilly](pokemon/squawkabilly.md) — Normal/Flying. Stat profile favors physical offense; base Speed 92. Build unspecified; calculated stat bounds available.
+- [Squawkabilly-Blue](pokemon/squawkabillyblue.md) — Normal/Flying. Stat profile favors physical offense; base Speed 92. Build unspecified; calculated stat bounds available.
+- [Squawkabilly-White](pokemon/squawkabillywhite.md) — Normal/Flying. Stat profile favors physical offense; base Speed 92. Build unspecified; calculated stat bounds available.
+- [Squawkabilly-Yellow](pokemon/squawkabillyyellow.md) — Normal/Flying. Stat profile favors physical offense; base Speed 92. Build unspecified; calculated stat bounds available.
+- [Staraptor](pokemon/staraptor.md) — Normal/Flying. Stat profile favors physical offense; base Speed 100. Includes complete build candidates.
+- [Staraptor-Mega](pokemon/staraptormega.md) — Fighting/Flying. Stat profile favors physical offense; base Speed 110. Includes complete build candidates.
+- [Starmie](pokemon/starmie.md) — Water/Psychic. Stat profile favors special offense; base Speed 115. Build unspecified; calculated stat bounds available.
+- [Starmie-Mega](pokemon/starmiemega.md) — Water/Psychic. Water/Psychic attacker with Huge Power, which doubles its Attack; base Speed 120. No complete build is specified. Build unspecified; calculated stat bounds available.
+- [Steelix](pokemon/steelix.md) — Steel/Ground. Stat profile favors physical offense; base Speed 30. Build unspecified; calculated stat bounds available.
+- [Steelix-Mega](pokemon/steelixmega.md) — Steel/Ground. Stat profile favors physical offense; base Speed 30. Build unspecified; calculated stat bounds available.
+- [Stunfisk](pokemon/stunfisk.md) — Ground/Electric. Stat profile favors mixed offense; base Speed 32. Build unspecified; calculated stat bounds available.
+- [Stunfisk-Galar](pokemon/stunfiskgalar.md) — Ground/Steel. Stat profile favors mixed offense; base Speed 32. Build unspecified; calculated stat bounds available.
+- [Swalot](pokemon/swalot.md) — Poison. Stat profile favors mixed offense; base Speed 55. Build unspecified; calculated stat bounds available.
+- [Swampert](pokemon/swampert.md) — Water/Ground. Stat profile favors physical offense; base Speed 60. Includes complete build candidates.
+- [Swampert-Mega](pokemon/swampertmega.md) — Water/Ground. Stat profile favors physical offense; base Speed 70. Includes complete build candidates.
+- [Sylveon](pokemon/sylveon.md) — Fairy. Special Fairy spread pressure through Pixilate Hyper Voice. Includes complete build candidates.
+- [Talonflame](pokemon/talonflame.md) — Fire/Flying. Stat profile favors mixed offense; base Speed 126. Candidate plans include Tailwind support. Includes complete build candidates.
+- [Tauros](pokemon/tauros.md) — Normal. Stat profile favors physical offense; base Speed 110. Build unspecified; calculated stat bounds available.
+- [Tauros-Paldea-Aqua](pokemon/taurospaldeaaqua.md) — Fighting/Water. Stat profile favors physical offense; base Speed 100. Build unspecified; calculated stat bounds available.
+- [Tauros-Paldea-Blaze](pokemon/taurospaldeablaze.md) — Fighting/Fire. Stat profile favors physical offense; base Speed 100. Build unspecified; calculated stat bounds available.
+- [Tauros-Paldea-Combat](pokemon/taurospaldeacombat.md) — Fighting. Stat profile favors physical offense; base Speed 100. Build unspecified; calculated stat bounds available.
+- [Thievul](pokemon/thievul.md) — Dark. Stat profile favors special offense; base Speed 90. Includes complete build candidates.
+- [Tinkaton](pokemon/tinkaton.md) — Fairy/Steel. Stat profile favors mixed offense; base Speed 94. Candidate plans include Fake Out disruption. Includes complete build candidates.
+- [Torkoal](pokemon/torkoal.md) — Fire. Slow sun attacker suited to Trick Room; Eruption depends on remaining HP. Includes complete build candidates.
+- [Torterra](pokemon/torterra.md) — Grass/Ground. Stat profile favors physical offense; base Speed 56. Candidate plans include spread protection. Includes complete build candidates.
+- [Toucannon](pokemon/toucannon.md) — Normal/Flying. Stat profile favors physical offense; base Speed 60. Build unspecified; calculated stat bounds available.
+- [Toxapex](pokemon/toxapex.md) — Poison/Water. Defensive support using chip damage, Wide Guard, and Regenerator cycling. Includes complete build candidates.
+- [Toxicroak](pokemon/toxicroak.md) — Poison/Fighting. Stat profile favors physical offense; base Speed 85. Build unspecified; calculated stat bounds available.
+- [Toxtricity](pokemon/toxtricity.md) — Electric/Poison. Stat profile favors special offense; base Speed 75. Includes complete build candidates.
+- [Toxtricity-Low-Key](pokemon/toxtricitylowkey.md) — Electric/Poison. Stat profile favors special offense; base Speed 75. Build unspecified; calculated stat bounds available.
+- [Trevenant](pokemon/trevenant.md) — Ghost/Grass. Stat profile favors physical offense; base Speed 56. Build unspecified; calculated stat bounds available.
+- [Tsareena](pokemon/tsareena.md) — Grass. Stat profile favors physical offense; base Speed 72. Includes complete build candidates.
+- [Typhlosion](pokemon/typhlosion.md) — Fire. Stat profile favors special offense; base Speed 100. Includes complete build candidates.
+- [Typhlosion-Hisui](pokemon/typhlosionhisui.md) — Fire/Ghost. Stat profile favors special offense; base Speed 95. Includes complete build candidates.
+- [Tyranitar](pokemon/tyranitar.md) — Rock/Dark. Stat profile favors physical offense; base Speed 61. Includes complete build candidates.
+- [Tyranitar-Mega](pokemon/tyranitarmega.md) — Rock/Dark. Stat profile favors physical offense; base Speed 71. Includes complete build candidates.
+- [Tyrantrum](pokemon/tyrantrum.md) — Rock/Dragon. Stat profile favors physical offense; base Speed 71. Build unspecified; calculated stat bounds available.
+- [Umbreon](pokemon/umbreon.md) — Dark. Stat profile favors mixed offense; base Speed 65. Build unspecified; calculated stat bounds available.
+- [Vanilluxe](pokemon/vanilluxe.md) — Ice. Stat profile favors mixed offense; base Speed 79. Includes complete build candidates.
+- [Vaporeon](pokemon/vaporeon.md) — Water. Stat profile favors special offense; base Speed 65. Build unspecified; calculated stat bounds available.
+- [Venusaur](pokemon/venusaur.md) — Grass/Poison. Stat profile favors special offense; base Speed 80. Includes complete build candidates.
+- [Venusaur-Mega](pokemon/venusaurmega.md) — Grass/Poison. Stat profile favors special offense; base Speed 80. Includes complete build candidates.
+- [Victreebel](pokemon/victreebel.md) — Grass/Poison. Stat profile favors mixed offense; base Speed 70. Build unspecified; calculated stat bounds available.
+- [Victreebel-Mega](pokemon/victreebelmega.md) — Grass/Poison. Stat profile favors mixed offense; base Speed 70. Build unspecified; calculated stat bounds available.
+- [Vileplume](pokemon/vileplume.md) — Grass/Poison. Stat profile favors special offense; base Speed 50. Build unspecified; calculated stat bounds available.
+- [Vivillon](pokemon/vivillon.md) — Bug/Flying. Stat profile favors special offense; base Speed 89. Candidate plans include redirection. Includes complete build candidates.
+- [Vivillon-Archipelago](pokemon/vivillonarchipelago.md) — Bug/Flying. Stat profile favors special offense; base Speed 89. Candidate plans include redirection. Includes complete build candidates.
+- [Vivillon-Continental](pokemon/vivilloncontinental.md) — Bug/Flying. Stat profile favors special offense; base Speed 89. Candidate plans include redirection. Includes complete build candidates.
+- [Vivillon-Elegant](pokemon/vivillonelegant.md) — Bug/Flying. Stat profile favors special offense; base Speed 89. Candidate plans include redirection. Includes complete build candidates.
+- [Vivillon-Fancy](pokemon/vivillonfancy.md) — Bug/Flying. Stat profile favors special offense; base Speed 89. Candidate plans include redirection. Includes complete build candidates.
+- [Vivillon-Garden](pokemon/vivillongarden.md) — Bug/Flying. Stat profile favors special offense; base Speed 89. Candidate plans include redirection. Includes complete build candidates.
+- [Vivillon-High Plains](pokemon/vivillonhighplains.md) — Bug/Flying. Stat profile favors special offense; base Speed 89. Candidate plans include redirection. Includes complete build candidates.
+- [Vivillon-Icy Snow](pokemon/vivillonicysnow.md) — Bug/Flying. Stat profile favors special offense; base Speed 89. Candidate plans include redirection. Includes complete build candidates.
+- [Vivillon-Jungle](pokemon/vivillonjungle.md) — Bug/Flying. Stat profile favors special offense; base Speed 89. Candidate plans include redirection. Includes complete build candidates.
+- [Vivillon-Marine](pokemon/vivillonmarine.md) — Bug/Flying. Stat profile favors special offense; base Speed 89. Candidate plans include redirection. Includes complete build candidates.
+- [Vivillon-Modern](pokemon/vivillonmodern.md) — Bug/Flying. Stat profile favors special offense; base Speed 89. Candidate plans include redirection. Includes complete build candidates.
+- [Vivillon-Monsoon](pokemon/vivillonmonsoon.md) — Bug/Flying. Stat profile favors special offense; base Speed 89. Candidate plans include redirection. Includes complete build candidates.
+- [Vivillon-Ocean](pokemon/vivillonocean.md) — Bug/Flying. Stat profile favors special offense; base Speed 89. Candidate plans include redirection. Includes complete build candidates.
+- [Vivillon-Pokeball](pokemon/vivillonpokeball.md) — Bug/Flying. Stat profile favors special offense; base Speed 89. Candidate plans include redirection. Includes complete build candidates.
+- [Vivillon-Polar](pokemon/vivillonpolar.md) — Bug/Flying. Stat profile favors special offense; base Speed 89. Candidate plans include redirection. Includes complete build candidates.
+- [Vivillon-River](pokemon/vivillonriver.md) — Bug/Flying. Stat profile favors special offense; base Speed 89. Candidate plans include redirection. Includes complete build candidates.
+- [Vivillon-Sandstorm](pokemon/vivillonsandstorm.md) — Bug/Flying. Stat profile favors special offense; base Speed 89. Candidate plans include redirection. Includes complete build candidates.
+- [Vivillon-Savanna](pokemon/vivillonsavanna.md) — Bug/Flying. Stat profile favors special offense; base Speed 89. Candidate plans include redirection. Includes complete build candidates.
+- [Vivillon-Sun](pokemon/vivillonsun.md) — Bug/Flying. Stat profile favors special offense; base Speed 89. Candidate plans include redirection. Includes complete build candidates.
+- [Vivillon-Tundra](pokemon/vivillontundra.md) — Bug/Flying. Stat profile favors special offense; base Speed 89. Candidate plans include redirection. Includes complete build candidates.
+- [Volcarona](pokemon/volcarona.md) — Bug/Fire. Fire/Bug special attacker or Rage Powder support; its moves distinguish the role. Includes complete build candidates.
+- [Watchog](pokemon/watchog.md) — Normal. Stat profile favors physical offense; base Speed 77. Build unspecified; calculated stat bounds available.
+- [Weavile](pokemon/weavile.md) — Dark/Ice. Stat profile favors physical offense; base Speed 125. Candidate plans include Fake Out disruption. Includes complete build candidates.
+- [Whimsicott](pokemon/whimsicott.md) — Grass/Fairy. Stat profile favors mixed offense; base Speed 116. Candidate plans include Tailwind support, screens. Includes complete build candidates.
+- [Wigglytuff](pokemon/wigglytuff.md) — Normal/Fairy. Stat profile favors mixed offense; base Speed 45. Build unspecified; calculated stat bounds available.
+- [Wyrdeer](pokemon/wyrdeer.md) — Normal/Psychic. Stat profile favors mixed offense; base Speed 65. Build unspecified; calculated stat bounds available.
+- [Zoroark](pokemon/zoroark.md) — Dark. Stat profile favors mixed offense; base Speed 105. Includes complete build candidates.
+- [Zoroark-Hisui](pokemon/zoroarkhisui.md) — Normal/Ghost. Stat profile favors special offense; base Speed 110. Includes complete build candidates.
+
+## Moves (511)
+
+- [Accelerock](moves/accelerock.md) — Usually goes first.
+- [Acid Armor](moves/acidarmor.md) — Raises the user's Defense by 2.
+- [Acid Spray](moves/acidspray.md) — 100% chance to lower the target's Sp. Def by 2.
+- [Acrobatics](moves/acrobatics.md) — Power doubles if the user has no held item.
+- [Acupressure](moves/acupressure.md) — Raises a random stat of the user or an ally by 2.
+- [Aerial Ace](moves/aerialace.md) — This move does not check accuracy.
+- [After You](moves/afteryou.md) — The target makes its move right after the user.
+- [Agility](moves/agility.md) — Raises the user's Speed by 2.
+- [Air Cutter](moves/aircutter.md) — High critical hit ratio. Hits adjacent foes.
+- [Air Slash](moves/airslash.md) — 30% chance to make the target flinch.
+- [Alluring Voice](moves/alluringvoice.md) — 100% confuse target that had a stat rise this turn.
+- [Ally Switch](moves/allyswitch.md) — User and ally swap positions; using again can fail.
+- [Amnesia](moves/amnesia.md) — Raises the user's Sp. Def by 2.
+- [Ancient Power](moves/ancientpower.md) — 10% chance to raise all stats by 1 (not acc/eva).
+- [Apple Acid](moves/appleacid.md) — 100% chance to lower the target's Sp. Def by 1.
+- [Aqua Cutter](moves/aquacutter.md) — High critical hit ratio.
+- [Aqua Jet](moves/aquajet.md) — Usually goes first.
+- [Aqua Ring](moves/aquaring.md) — User recovers 1/16 max HP per turn.
+- [Aqua Step](moves/aquastep.md) — 100% chance to raise the user's Speed by 1.
+- [Aqua Tail](moves/aquatail.md) — No additional effect.
+- [Armor Cannon](moves/armorcannon.md) — Lowers the user's Defense and Sp. Def by 1.
+- [Aromatic Mist](moves/aromaticmist.md) — Raises an ally's Sp. Def by 1.
+- [Assurance](moves/assurance.md) — Power doubles if target was damaged this turn.
+- [Attract](moves/attract.md) — A target of the opposite gender gets infatuated.
+- [Aura Sphere](moves/aurasphere.md) — This move does not check accuracy.
+- [Aura Wheel](moves/aurawheel.md) — Morpeko: Electric; Hangry: Dark; 100% +1 Spe.
+- [Aurora Veil](moves/auroraveil.md) — For 5 turns, damage to allies halved. Snow only.
+- [Avalanche](moves/avalanche.md) — Power doubles if user is damaged by the target.
+- [Axe Kick](moves/axekick.md) — 30% confusion. User loses 50% max HP if miss.
+- [Baby-Doll Eyes](moves/babydolleyes.md) — Lowers the target's Attack by 1.
+- [Baneful Bunker](moves/banefulbunker.md) — Protects from moves. Contact: poison.
+- [Barb Barrage](moves/barbbarrage.md) — 50% psn. 2× power if target already poisoned.
+- [Baton Pass](moves/batonpass.md) — User switches, passing stat changes and more.
+- [Beak Blast](moves/beakblast.md) — Burns on contact with the user before it moves.
+- [Beat Up](moves/beatup.md) — All healthy allies aid in damaging the target.
+- [Belch](moves/belch.md) — Fails unless the user has eaten a Berry.
+- [Belly Drum](moves/bellydrum.md) — User loses 50% max HP. Maximizes Attack.
+- [Bind](moves/bind.md) — Traps and damages the target for 4-5 turns.
+- [Bite](moves/bite.md) — 30% chance to make the target flinch.
+- [Bitter Blade](moves/bitterblade.md) — User recovers 50% of the damage dealt.
+- [Bitter Malice](moves/bittermalice.md) — 100% chance to lower the target's Attack by 1.
+- [Blast Burn](moves/blastburn.md) — User cannot move next turn.
+- [Blaze Kick](moves/blazekick.md) — High critical hit ratio. 10% chance to burn.
+- [Blizzard](moves/blizzard.md) — 10% chance to freeze foe(s). Can't miss in Snow.
+- [Block](moves/block.md) — Prevents the target from switching out.
+- [Body Press](moves/bodypress.md) — Uses user's Def stat as Atk in damage calculation.
+- [Body Slam](moves/bodyslam.md) — 30% chance to paralyze the target.
+- [Bone Rush](moves/bonerush.md) — Hits 2-5 times in one turn.
+- [Boomburst](moves/boomburst.md) — No additional effect. Hits adjacent Pokemon.
+- [Bounce](moves/bounce.md) — Bounces turn 1. Hits turn 2. 30% paralyze.
+- [Brave Bird](moves/bravebird.md) — Has 33% recoil.
+- [Breaking Swipe](moves/breakingswipe.md) — 100% chance to lower the foe(s) Attack by 1.
+- [Brick Break](moves/brickbreak.md) — Destroys screens, unless the target is immune.
+- [Brutal Swing](moves/brutalswing.md) — No additional effect. Hits adjacent Pokemon.
+- [Bug Bite](moves/bugbite.md) — User steals and eats the target's Berry.
+- [Bug Buzz](moves/bugbuzz.md) — 10% chance to lower the target's Sp. Def by 1.
+- [Bulk Up](moves/bulkup.md) — Raises the user's Attack and Defense by 1.
+- [Bulldoze](moves/bulldoze.md) — 100% chance lower adjacent Pkmn Speed by 1.
+- [Bullet Punch](moves/bulletpunch.md) — Usually goes first.
+- [Bullet Seed](moves/bulletseed.md) — Hits 2-5 times in one turn.
+- [Burn Up](moves/burnup.md) — User's Fire type becomes typeless; must be Fire.
+- [Burning Jealousy](moves/burningjealousy.md) — 100% burns a target that had a stat rise this turn.
+- [Calm Mind](moves/calmmind.md) — Raises the user's Sp. Atk and Sp. Def by 1.
+- [Ceaseless Edge](moves/ceaselessedge.md) — Sets a layer of Spikes on the opposing side.
+- [Charge](moves/charge.md) — +1 SpD, user's next Electric move 2× power.
+- [Charge Beam](moves/chargebeam.md) — 70% chance to raise the user's Sp. Atk by 1.
+- [Charm](moves/charm.md) — Lowers the target's Attack by 2.
+- [Chilling Water](moves/chillingwater.md) — 100% chance to lower the target's Attack by 1.
+- [Chilly Reception](moves/chillyreception.md) — Starts Snow. User switches out.
+- [Circle Throw](moves/circlethrow.md) — Forces the target to switch to a random ally.
+- [Clanging Scales](moves/clangingscales.md) — Lowers the user's Defense by 1.
+- [Clangorous Soul](moves/clangoroussoul.md) — User loses 33% of its max HP. +1 to all stats.
+- [Clear Smog](moves/clearsmog.md) — Resets all of the target's stat stages to 0.
+- [Close Combat](moves/closecombat.md) — Lowers the user's Defense and Sp. Def by 1.
+- [Coaching](moves/coaching.md) — Raises an ally's Attack and Defense by 1.
+- [Coil](moves/coil.md) — Raises user's Attack, Defense, accuracy by 1.
+- [Comeuppance](moves/comeuppance.md) — If hit by an attack, returns 1.5× damage.
+- [Confuse Ray](moves/confuseray.md) — Confuses the target.
+- [Copycat](moves/copycat.md) — Uses the last move used in the battle.
+- [Corrosive Gas](moves/corrosivegas.md) — Removes adjacent Pokemon's held items.
+- [Cosmic Power](moves/cosmicpower.md) — Raises the user's Defense and Sp. Def by 1.
+- [Cotton Guard](moves/cottonguard.md) — Raises the user's Defense by 3.
+- [Cotton Spore](moves/cottonspore.md) — Lowers the target's Speed by 2.
+- [Counter](moves/counter.md) — If hit by physical attack, returns double damage.
+- [Court Change](moves/courtchange.md) — Swaps user's field effects with the opposing side.
+- [Covet](moves/covet.md) — If the user has no item, it steals the target's.
+- [Crabhammer](moves/crabhammer.md) — High critical hit ratio.
+- [Cross Chop](moves/crosschop.md) — High critical hit ratio.
+- [Cross Poison](moves/crosspoison.md) — High critical hit ratio. 10% chance to poison.
+- [Crunch](moves/crunch.md) — 20% chance to lower the target's Defense by 1.
+- [Crush Claw](moves/crushclaw.md) — 50% chance to lower the target's Defense by 1.
+- [Curse](moves/curse.md) — Curses if Ghost, else -1 Spe, +1 Atk, +1 Def.
+- [Dark Pulse](moves/darkpulse.md) — 20% chance to make the target flinch.
+- [Darkest Lariat](moves/darkestlariat.md) — Ignores the target's stat stage changes.
+- [Dazzling Gleam](moves/dazzlinggleam.md) — No additional effect. Hits adjacent foes.
+- [Decorate](moves/decorate.md) — Raises the target's Attack and Sp. Atk by 2.
+- [Defog](moves/defog.md) — -1 evasion; ends user and target hazards/terrain.
+- [Destiny Bond](moves/destinybond.md) — If an opponent knocks out the user, it also faints.
+- [Detect](moves/detect.md) — Prevents moves from affecting the user this turn.
+- [Dig](moves/dig.md) — Digs underground turn 1, strikes turn 2.
+- [Dire Claw](moves/direclaw.md) — 30% chance to sleep, poison, or paralyze target.
+- [Disable](moves/disable.md) — For 4 turns, disables the target's last move used.
+- [Discharge](moves/discharge.md) — 30% chance to paralyze adjacent Pokemon.
+- [Dive](moves/dive.md) — Dives underwater turn 1, strikes turn 2.
+- [Double Hit](moves/doublehit.md) — Hits 2 times in one turn.
+- [Double Shock](moves/doubleshock.md) — User's Electric type: typeless; must be Electric.
+- [Double Team](moves/doubleteam.md) — Raises the user's evasiveness by 1.
+- [Double-Edge](moves/doubleedge.md) — Has 33% recoil.
+- [Draco Meteor](moves/dracometeor.md) — Lowers the user's Sp. Atk by 2.
+- [Dragon Cheer](moves/dragoncheer.md) — Ally: Crit ratio +1, or +2 if ally is Dragon type.
+- [Dragon Claw](moves/dragonclaw.md) — No additional effect.
+- [Dragon Dance](moves/dragondance.md) — Raises the user's Attack and Speed by 1.
+- [Dragon Darts](moves/dragondarts.md) — Hits twice. Doubles: Tries to hit each foe once.
+- [Dragon Pulse](moves/dragonpulse.md) — No additional effect.
+- [Dragon Rush](moves/dragonrush.md) — 20% chance to make the target flinch.
+- [Dragon Tail](moves/dragontail.md) — Forces the target to switch to a random ally.
+- [Drain Punch](moves/drainpunch.md) — User recovers 50% of the damage dealt.
+- [Draining Kiss](moves/drainingkiss.md) — User recovers 75% of the damage dealt.
+- [Drill Peck](moves/drillpeck.md) — No additional effect.
+- [Drill Run](moves/drillrun.md) — High critical hit ratio.
+- [Drum Beating](moves/drumbeating.md) — 100% chance to lower the target's Speed by 1.
+- [Dual Wingbeat](moves/dualwingbeat.md) — Hits 2 times in one turn.
+- [Dynamic Punch](moves/dynamicpunch.md) — 100% chance to confuse the target.
+- [Earth Power](moves/earthpower.md) — 10% chance to lower the target's Sp. Def by 1.
+- [Earthquake](moves/earthquake.md) — Hits adjacent Pokemon. Double damage on Dig.
+- [Eerie Impulse](moves/eerieimpulse.md) — Lowers the target's Sp. Atk by 2.
+- [Eerie Spell](moves/eeriespell.md) — Removes 3 PP from the target's last move.
+- [Electric Terrain](moves/electricterrain.md) — 5 turns. Grounded: +Electric power, can't sleep.
+- [Electrify](moves/electrify.md) — Changes the target's move to Electric this turn.
+- [Electro Ball](moves/electroball.md) — More power the faster the user is than the target.
+- [Electro Shot](moves/electroshot.md) — Raises Sp. Atk by 1, hits turn 2. Rain: no charge.
+- [Electroweb](moves/electroweb.md) — 100% chance to lower the foe(s) Speed by 1.
+- [Encore](moves/encore.md) — Target repeats its last move for its next 3 turns.
+- [Endeavor](moves/endeavor.md) — Lowers the target's HP to the user's HP.
+- [Endure](moves/endure.md) — User survives attacks this turn with at least 1 HP.
+- [Energy Ball](moves/energyball.md) — 10% chance to lower the target's Sp. Def by 1.
+- [Entrainment](moves/entrainment.md) — The target's Ability changes to match the user's.
+- [Eruption](moves/eruption.md) — Less power as user's HP decreases. Hits foe(s).
+- [Expanding Force](moves/expandingforce.md) — User on Psychic Terrain: 1.5× power, hits foes.
+- [Explosion](moves/explosion.md) — Hits adjacent Pokemon. The user faints.
+- [Extrasensory](moves/extrasensory.md) — 10% chance to make the target flinch.
+- [Extreme Speed](moves/extremespeed.md) — Nearly always goes first.
+- [Facade](moves/facade.md) — Power doubles if user is burn/poison/paralyzed.
+- [Fairy Lock](moves/fairylock.md) — Prevents all Pokemon from switching next turn.
+- [Fake Out](moves/fakeout.md) — Hits first. First turn out only. 100% flinch chance.
+- [Fake Tears](moves/faketears.md) — Lowers the target's Sp. Def by 2.
+- [Feather Dance](moves/featherdance.md) — Lowers the target's Attack by 2.
+- [Feint](moves/feint.md) — Nullifies Detect, Protect, and Quick/Wide Guard.
+- [Fell Stinger](moves/fellstinger.md) — Raises user's Attack by 3 if this KOes the target.
+- [Fickle Beam](moves/ficklebeam.md) — Has a 30% chance this move's power is doubled.
+- [Fiery Dance](moves/fierydance.md) — 50% chance to raise the user's Sp. Atk by 1.
+- [Final Gambit](moves/finalgambit.md) — Does damage equal to the user's HP. User faints.
+- [Fire Blast](moves/fireblast.md) — 10% chance to burn the target.
+- [Fire Fang](moves/firefang.md) — 10% chance to burn. 10% chance to flinch.
+- [Fire Lash](moves/firelash.md) — 100% chance to lower the target's Defense by 1.
+- [Fire Punch](moves/firepunch.md) — 10% chance to burn the target.
+- [Fire Spin](moves/firespin.md) — Traps and damages the target for 4-5 turns.
+- [First Impression](moves/firstimpression.md) — Nearly always goes first. First turn out only.
+- [Fissure](moves/fissure.md) — OHKOs the target. Fails if user is a lower level.
+- [Flail](moves/flail.md) — More power the less HP the user has left.
+- [Flame Charge](moves/flamecharge.md) — 100% chance to raise the user's Speed by 1.
+- [Flamethrower](moves/flamethrower.md) — 10% chance to burn the target.
+- [Flare Blitz](moves/flareblitz.md) — Has 33% recoil. 10% chance to burn. Thaws user.
+- [Flash Cannon](moves/flashcannon.md) — 10% chance to lower the target's Sp. Def by 1.
+- [Flatter](moves/flatter.md) — Raises the target's Sp. Atk by 1 and confuses it.
+- [Fling](moves/fling.md) — Flings the user's item at the target. Power varies.
+- [Flip Turn](moves/flipturn.md) — User switches out after damaging the target.
+- [Flower Trick](moves/flowertrick.md) — Always results in a critical hit; no accuracy check.
+- [Fly](moves/fly.md) — Flies up on first turn, then strikes the next turn.
+- [Flying Press](moves/flyingpress.md) — Combines Flying in its type effectiveness.
+- [Focus Blast](moves/focusblast.md) — 10% chance to lower the target's Sp. Def by 1.
+- [Focus Energy](moves/focusenergy.md) — Raises the user's critical hit ratio by 2.
+- [Focus Punch](moves/focuspunch.md) — Fails if the user takes damage before it hits.
+- [Follow Me](moves/followme.md) — The foes' moves target the user on the turn used.
+- [Forest's Curse](moves/forestscurse.md) — Adds Grass to the target's type(s).
+- [Foul Play](moves/foulplay.md) — Uses target's Attack stat in damage calculation.
+- [Freeze-Dry](moves/freezedry.md) — Super effective on Water.
+- [Frenzy Plant](moves/frenzyplant.md) — User cannot move next turn.
+- [Frost Breath](moves/frostbreath.md) — Always results in a critical hit.
+- [Future Sight](moves/futuresight.md) — Hits two turns after being used.
+- [Gastro Acid](moves/gastroacid.md) — Nullifies the target's Ability.
+- [Giga Drain](moves/gigadrain.md) — User recovers 50% of the damage dealt.
+- [Giga Impact](moves/gigaimpact.md) — User cannot move next turn.
+- [Gigaton Hammer](moves/gigatonhammer.md) — Cannot be selected the turn after it's used.
+- [Glaive Rush](moves/glaiverush.md) — User takes sure-hit 2× damage until its next turn.
+- [Glare](moves/glare.md) — Paralyzes the target.
+- [Grass Knot](moves/grassknot.md) — More power the heavier the target.
+- [Grassy Glide](moves/grassyglide.md) — User on Grassy Terrain: +1 priority.
+- [Grassy Terrain](moves/grassyterrain.md) — 5 turns. Grounded: +Grass power, +1/16 max HP.
+- [Grav Apple](moves/gravapple.md) — Target: 100% -1 Def. During Gravity: 1.5× power.
+- [Gravity](moves/gravity.md) — 5 turns: no Ground immunities, 1.67× accuracy.
+- [Growth](moves/growth.md) — Raises user's Attack and Sp. Atk by 1; 2 in Sun.
+- [Guard Split](moves/guardsplit.md) — Averages Defense and Sp. Def stats with target.
+- [Guard Swap](moves/guardswap.md) — Swaps Defense and Sp. Def changes with target.
+- [Guillotine](moves/guillotine.md) — OHKOs the target. Fails if user is a lower level.
+- [Gunk Shot](moves/gunkshot.md) — 30% chance to poison the target.
+- [Gyro Ball](moves/gyroball.md) — More power the slower the user than the target.
+- [Hammer Arm](moves/hammerarm.md) — Lowers the user's Speed by 1.
+- [Hard Press](moves/hardpress.md) — More power the more HP the target has left.
+- [Haze](moves/haze.md) — Eliminates all stat changes.
+- [Head Smash](moves/headsmash.md) — Has 1/2 recoil.
+- [Headlong Rush](moves/headlongrush.md) — Lowers the user's Defense and Sp. Def by 1.
+- [Heal Bell](moves/healbell.md) — Cures the user's party of all status conditions.
+- [Heal Pulse](moves/healpulse.md) — Heals the target by 50% of its max HP.
+- [Healing Wish](moves/healingwish.md) — User faints. Next hurt Pokemon is fully healed.
+- [Heat Crash](moves/heatcrash.md) — More power the heavier the user than the target.
+- [Heat Wave](moves/heatwave.md) — 10% chance to burn the foe(s).
+- [Heavy Slam](moves/heavyslam.md) — More power the heavier the user than the target.
+- [Helping Hand](moves/helpinghand.md) — One adjacent ally's move power is 1.5× this turn.
+- [Hex](moves/hex.md) — Power doubles if the target has a status ailment.
+- [High Horsepower](moves/highhorsepower.md) — No additional effect.
+- [High Jump Kick](moves/highjumpkick.md) — User is hurt by 50% of its max HP if it misses.
+- [Horn Drill](moves/horndrill.md) — OHKOs the target. Fails if user is a lower level.
+- [Horn Leech](moves/hornleech.md) — User recovers 50% of the damage dealt.
+- [Howl](moves/howl.md) — Raises the user's and ally's Attack by 1.
+- [Hurricane](moves/hurricane.md) — 30% chance to confuse target. Can't miss in rain.
+- [Hydro Cannon](moves/hydrocannon.md) — User cannot move next turn.
+- [Hydro Pump](moves/hydropump.md) — No additional effect.
+- [Hyper Beam](moves/hyperbeam.md) — User cannot move next turn.
+- [Hyper Voice](moves/hypervoice.md) — No additional effect. Hits adjacent foes.
+- [Hypnosis](moves/hypnosis.md) — Causes the target to fall asleep.
+- [Ice Beam](moves/icebeam.md) — 10% chance to freeze the target.
+- [Ice Fang](moves/icefang.md) — 10% chance to freeze. 10% chance to flinch.
+- [Ice Hammer](moves/icehammer.md) — Lowers the user's Speed by 1.
+- [Ice Punch](moves/icepunch.md) — 10% chance to freeze the target.
+- [Ice Shard](moves/iceshard.md) — Usually goes first.
+- [Ice Spinner](moves/icespinner.md) — Ends the effects of terrain.
+- [Icicle Crash](moves/iciclecrash.md) — 30% chance to make the target flinch.
+- [Icicle Spear](moves/iciclespear.md) — Hits 2-5 times in one turn.
+- [Icy Wind](moves/icywind.md) — 100% chance to lower the foe(s) Speed by 1.
+- [Imprison](moves/imprison.md) — No foe can use any move known by the user.
+- [Infernal Parade](moves/infernalparade.md) — 30% burn. 2× power if target is already statused.
+- [Inferno](moves/inferno.md) — 100% chance to burn the target.
+- [Infestation](moves/infestation.md) — Traps and damages the target for 4-5 turns.
+- [Ingrain](moves/ingrain.md) — Traps/grounds user; heals 1/16 max HP per turn.
+- [Instruct](moves/instruct.md) — The target immediately uses its last used move.
+- [Iron Defense](moves/irondefense.md) — Raises the user's Defense by 2.
+- [Iron Head](moves/ironhead.md) — 20% chance to make the target flinch.
+- [Iron Tail](moves/irontail.md) — 30% chance to lower the target's Defense by 1.
+- [Jaw Lock](moves/jawlock.md) — Prevents both user and target from switching out.
+- [Jet Punch](moves/jetpunch.md) — Usually goes first.
+- [King's Shield](moves/kingsshield.md) — Protects from damaging attacks. Contact: -1 Atk.
+- [Knock Off](moves/knockoff.md) — 1.5× damage if foe holds an item. Removes item.
+- [Kowtow Cleave](moves/kowtowcleave.md) — This move does not check accuracy.
+- [Lash Out](moves/lashout.md) — 2× power if the user had a stat lowered this turn.
+- [Last Resort](moves/lastresort.md) — Fails unless each known move has been used.
+- [Last Respects](moves/lastrespects.md) — +50 power for each time a party member fainted.
+- [Lava Plume](moves/lavaplume.md) — 30% chance to burn adjacent Pokemon.
+- [Leaf Blade](moves/leafblade.md) — High critical hit ratio.
+- [Leaf Storm](moves/leafstorm.md) — Lowers the user's Sp. Atk by 2.
+- [Leech Life](moves/leechlife.md) — User recovers 50% of the damage dealt.
+- [Leech Seed](moves/leechseed.md) — 1/8 of target's HP is restored to user every turn.
+- [Life Dew](moves/lifedew.md) — Heals the user and its allies by 1/4 their max HP.
+- [Light Screen](moves/lightscreen.md) — For 5 turns, special damage to allies is halved.
+- [Light of Ruin](moves/lightofruin.md) — Has 1/2 recoil.
+- [Liquidation](moves/liquidation.md) — 20% chance to lower the target's Defense by 1.
+- [Lock-On](moves/lockon.md) — User's next move will not miss the target.
+- [Low Kick](moves/lowkick.md) — More power the heavier the target.
+- [Low Sweep](moves/lowsweep.md) — 100% chance to lower the target's Speed by 1.
+- [Lumina Crash](moves/luminacrash.md) — 100% chance to lower the target's Sp. Def by 2.
+- [Lunge](moves/lunge.md) — 100% chance to lower the target's Attack by 1.
+- [Mach Punch](moves/machpunch.md) — Usually goes first.
+- [Magic Powder](moves/magicpowder.md) — Changes the target's type to Psychic.
+- [Magic Room](moves/magicroom.md) — For 5 turns, all held items have no effect.
+- [Magnet Rise](moves/magnetrise.md) — For 5 turns, the user has immunity to Ground.
+- [Magnetic Flux](moves/magneticflux.md) — Raises Def, Sp. Def of allies with Plus/Minus by 1.
+- [Make It Rain](moves/makeitrain.md) — Lowers the user's Sp. Atk by 2. Hits foe(s).
+- [Matcha Gotcha](moves/matchagotcha.md) — 20% burn. Recovers 50% dmg dealt. Thaws foe(s).
+- [Mean Look](moves/meanlook.md) — Prevents the target from switching out.
+- [Mega Kick](moves/megakick.md) — No additional effect.
+- [Megahorn](moves/megahorn.md) — No additional effect.
+- [Memento](moves/memento.md) — Lowers target's Attack, Sp. Atk by 2. User faints.
+- [Metal Burst](moves/metalburst.md) — If hit by an attack, returns 1.5× damage.
+- [Metal Sound](moves/metalsound.md) — Lowers the target's Sp. Def by 2.
+- [Meteor Assault](moves/meteorassault.md) — User cannot move next turn.
+- [Meteor Beam](moves/meteorbeam.md) — Raises user's Sp. Atk by 1 on turn 1. Hits turn 2.
+- [Meteor Mash](moves/meteormash.md) — 20% chance to raise the user's Attack by 1.
+- [Milk Drink](moves/milkdrink.md) — Heals the user by 50% of its max HP.
+- [Minimize](moves/minimize.md) — Raises the user's evasiveness by 2.
+- [Mirror Coat](moves/mirrorcoat.md) — If hit by special attack, returns double damage.
+- [Misty Explosion](moves/mistyexplosion.md) — User faints. User on Misty Terrain: 1.5× power.
+- [Misty Terrain](moves/mistyterrain.md) — 5 turns. Can't status,-Dragon power vs grounded.
+- [Moonblast](moves/moonblast.md) — 10% chance to lower the target's Sp. Atk by 1.
+- [Moonlight](moves/moonlight.md) — Heals the user by a weather-dependent amount.
+- [Morning Sun](moves/morningsun.md) — Heals the user by a weather-dependent amount.
+- [Mortal Spin](moves/mortalspin.md) — Poisons foes, frees user from hazards/bind/leech.
+- [Mountain Gale](moves/mountaingale.md) — 30% chance to make the target flinch.
+- [Mud Shot](moves/mudshot.md) — 100% chance to lower the target's Speed by 1.
+- [Mud-Slap](moves/mudslap.md) — 100% chance to lower the target's accuracy by 1.
+- [Muddy Water](moves/muddywater.md) — 30% chance to lower the foe(s) accuracy by 1.
+- [Mystical Fire](moves/mysticalfire.md) — 100% chance to lower the target's Sp. Atk by 1.
+- [Nasty Plot](moves/nastyplot.md) — Raises the user's Sp. Atk by 2.
+- [Night Daze](moves/nightdaze.md) — 40% chance to lower the target's accuracy by 1.
+- [Night Shade](moves/nightshade.md) — Does damage equal to the user's level.
+- [Night Slash](moves/nightslash.md) — High critical hit ratio.
+- [No Retreat](moves/noretreat.md) — Raises all stats by 1 (not acc/eva). Traps user.
+- [Noble Roar](moves/nobleroar.md) — Lowers the target's Attack and Sp. Atk by 1.
+- [Nuzzle](moves/nuzzle.md) — 100% chance to paralyze the target.
+- [Octolock](moves/octolock.md) — Traps target, lowers Def and SpD by 1 each turn.
+- [Outrage](moves/outrage.md) — Lasts 2-3 turns. Confuses the user afterwards.
+- [Overdrive](moves/overdrive.md) — No additional effect. Hits foe(s).
+- [Overheat](moves/overheat.md) — Lowers the user's Sp. Atk by 2.
+- [Pain Split](moves/painsplit.md) — Shares HP of user and target equally.
+- [Parabolic Charge](moves/paraboliccharge.md) — User recovers 50% of the damage dealt.
+- [Parting Shot](moves/partingshot.md) — Lowers target's Atk, Sp. Atk by 1. User switches.
+- [Payback](moves/payback.md) — Power doubles if the user moves after the target.
+- [Perish Song](moves/perishsong.md) — All active Pokemon will faint in 3 turns.
+- [Petal Blizzard](moves/petalblizzard.md) — No additional effect. Hits adjacent Pokemon.
+- [Petal Dance](moves/petaldance.md) — Lasts 2-3 turns. Confuses the user afterwards.
+- [Phantom Force](moves/phantomforce.md) — Disappears turn 1. Hits turn 2. Breaks protection.
+- [Pin Missile](moves/pinmissile.md) — Hits 2-5 times in one turn.
+- [Play Rough](moves/playrough.md) — 10% chance to lower the target's Attack by 1.
+- [Pluck](moves/pluck.md) — User steals and eats the target's Berry.
+- [Poison Fang](moves/poisonfang.md) — 50% chance to badly poison the target.
+- [Poison Jab](moves/poisonjab.md) — 30% chance to poison the target.
+- [Poison Powder](moves/poisonpowder.md) — Poisons the target.
+- [Pollen Puff](moves/pollenpuff.md) — If the target is an ally, heals 50% of its max HP.
+- [Poltergeist](moves/poltergeist.md) — Fails if the target has no held item.
+- [Population Bomb](moves/populationbomb.md) — Hits 10 times. Each hit can miss.
+- [Pounce](moves/pounce.md) — 100% chance to lower the target's Speed by 1.
+- [Power Gem](moves/powergem.md) — No additional effect.
+- [Power Split](moves/powersplit.md) — Averages Attack and Sp. Atk stats with target.
+- [Power Swap](moves/powerswap.md) — Swaps Attack and Sp. Atk stat stages with target.
+- [Power Trick](moves/powertrick.md) — Switches user's Attack and Defense stats.
+- [Power Trip](moves/powertrip.md) —  + 20 power for each of the user's stat boosts.
+- [Power Whip](moves/powerwhip.md) — No additional effect.
+- [Protect](moves/protect.md) — Prevents moves from affecting the user this turn.
+- [Psych Up](moves/psychup.md) — Copies the target's current stat stages.
+- [Psychic](moves/psychic.md) — 10% chance to lower the target's Sp. Def by 1.
+- [Psychic Fangs](moves/psychicfangs.md) — Destroys screens, unless the target is immune.
+- [Psychic Noise](moves/psychicnoise.md) — For 2 turns, the target is prevented from healing.
+- [Psychic Terrain](moves/psychicterrain.md) — 5 turns. Grounded: +Psychic power, priority-safe.
+- [Psycho Cut](moves/psychocut.md) — High critical hit ratio.
+- [Psyshield Bash](moves/psyshieldbash.md) — 100% chance to raise the user's Defense by 1.
+- [Psyshock](moves/psyshock.md) — Damages target based on Defense, not Sp. Def.
+- [Pyro Ball](moves/pyroball.md) — 10% chance to burn the target. Thaws user.
+- [Quash](moves/quash.md) — Forces the target to move last this turn.
+- [Quick Attack](moves/quickattack.md) — Usually goes first.
+- [Quick Guard](moves/quickguard.md) — Protects allies from priority attacks this turn.
+- [Quiver Dance](moves/quiverdance.md) — Raises the user's Sp. Atk, Sp. Def, Speed by 1.
+- [Rage Fist](moves/ragefist.md) — +50 BP/hit on user. Max 6 hits. Resets on switch-out.
+- [Rage Powder](moves/ragepowder.md) — The foes' moves target the user on the turn used.
+- [Raging Bull](moves/ragingbull.md) — Destroys screens. Type depends on user's form.
+- [Raging Fury](moves/ragingfury.md) — Lasts 2-3 turns. Confuses the user afterwards.
+- [Rain Dance](moves/raindance.md) — For 5 turns, heavy rain powers Water moves.
+- [Rapid Spin](moves/rapidspin.md) — Free user from hazards/bind/Leech Seed; +1 Spe.
+- [Razor Shell](moves/razorshell.md) — 50% chance to lower the target's Defense by 1.
+- [Recover](moves/recover.md) — Heals the user by 50% of its max HP.
+- [Recycle](moves/recycle.md) — Restores the item the user last used.
+- [Reflect](moves/reflect.md) — For 5 turns, physical damage to allies is halved.
+- [Reflect Type](moves/reflecttype.md) — User becomes the same type as the target.
+- [Rest](moves/rest.md) — User sleeps 2 turns and restores HP and status.
+- [Reversal](moves/reversal.md) — More power the less HP the user has left.
+- [Revival Blessing](moves/revivalblessing.md) — Revives a fainted Pokemon to 50% HP.
+- [Rising Voltage](moves/risingvoltage.md) — 2× power if target is grounded in Electric Terrain.
+- [Roar](moves/roar.md) — Forces the target to switch to a random ally.
+- [Rock Blast](moves/rockblast.md) — Hits 2-5 times in one turn.
+- [Rock Polish](moves/rockpolish.md) — Raises the user's Speed by 2.
+- [Rock Slide](moves/rockslide.md) — 30% chance to make the foe(s) flinch.
+- [Rock Tomb](moves/rocktomb.md) — 100% chance to lower the target's Speed by 1.
+- [Rock Wrecker](moves/rockwrecker.md) — User cannot move next turn.
+- [Role Play](moves/roleplay.md) — User replaces its Ability with the target's.
+- [Roost](moves/roost.md) — Heals 50% HP. Flying-type removed 'til turn ends.
+- [Round](moves/round.md) — Power doubles if others used Round this turn.
+- [Sacred Sword](moves/sacredsword.md) — Ignores the target's stat stage changes.
+- [Safeguard](moves/safeguard.md) — For 5 turns, protects user's party from status.
+- [Salt Cure](moves/saltcure.md) — Deals 1/16 max HP each turn; 1/8 on Steel, Water.
+- [Sand Tomb](moves/sandtomb.md) — Traps and damages the target for 4-5 turns.
+- [Sandstorm](moves/sandstorm.md) — For 5 turns, a sandstorm rages. Rock: 1.5× SpD.
+- [Scald](moves/scald.md) — 30% chance to burn the target. Thaws target.
+- [Scale Shot](moves/scaleshot.md) — Hits 2-5 times. User: -1 Def, +1 Spe after last hit.
+- [Scary Face](moves/scaryface.md) — Lowers the target's Speed by 2.
+- [Scorching Sands](moves/scorchingsands.md) — 30% chance to burn the target. Thaws target.
+- [Screech](moves/screech.md) — Lowers the target's Defense by 2.
+- [Seed Bomb](moves/seedbomb.md) — No additional effect.
+- [Seismic Toss](moves/seismictoss.md) — Does damage equal to the user's level.
+- [Self-Destruct](moves/selfdestruct.md) — Hits adjacent Pokemon. The user faints.
+- [Shadow Ball](moves/shadowball.md) — 20% chance to lower the target's Sp. Def by 1.
+- [Shadow Claw](moves/shadowclaw.md) — High critical hit ratio.
+- [Shadow Punch](moves/shadowpunch.md) — This move does not check accuracy.
+- [Shadow Sneak](moves/shadowsneak.md) — Usually goes first.
+- [Shed Tail](moves/shedtail.md) — User takes 1/2 its max HP to pass a substitute.
+- [Sheer Cold](moves/sheercold.md) — OHKOs non-Ice targets. Fails if user's lower level.
+- [Shell Side Arm](moves/shellsidearm.md) — 20% psn. Physical+contact if it would be stronger.
+- [Shell Smash](moves/shellsmash.md) — Lowers Def, SpD by 1; raises Atk, SpA, Spe by 2.
+- [Shelter](moves/shelter.md) — Raises the user's Defense by 2.
+- [Shift Gear](moves/shiftgear.md) — Raises the user's Speed by 2 and Attack by 1.
+- [Simple Beam](moves/simplebeam.md) — The target's Ability becomes Simple.
+- [Sing](moves/sing.md) — Causes the target to fall asleep.
+- [Skill Swap](moves/skillswap.md) — The user and the target trade Abilities.
+- [Skitter Smack](moves/skittersmack.md) — 100% chance to lower target's Sp. Atk by 1.
+- [Sky Attack](moves/skyattack.md) — Charges, then hits turn 2. 30% flinch. High crit.
+- [Slack Off](moves/slackoff.md) — Heals the user by 50% of its max HP.
+- [Slash](moves/slash.md) — High critical hit ratio.
+- [Sleep Powder](moves/sleeppowder.md) — Causes the target to fall asleep.
+- [Sleep Talk](moves/sleeptalk.md) — User must be asleep. Uses another known move.
+- [Sludge Bomb](moves/sludgebomb.md) — 30% chance to poison the target.
+- [Sludge Wave](moves/sludgewave.md) — 10% chance to poison adjacent Pokemon.
+- [Smack Down](moves/smackdown.md) — Removes the target's Ground immunity.
+- [Smart Strike](moves/smartstrike.md) — This move does not check accuracy.
+- [Snap Trap](moves/snaptrap.md) — Traps and damages the target for 4-5 turns.
+- [Snarl](moves/snarl.md) — 100% chance to lower the foe(s) Sp. Atk by 1.
+- [Snipe Shot](moves/snipeshot.md) — High critical hit ratio. Cannot be redirected.
+- [Snore](moves/snore.md) — User must be asleep. 30% chance to flinch target.
+- [Snowscape](moves/snowscape.md) — For 5 turns, snow falls. Ice: 1.5× Def.
+- [Soak](moves/soak.md) — Changes the target's type to Water.
+- [Solar Beam](moves/solarbeam.md) — Charges turn 1. Hits turn 2. No charge in sunlight.
+- [Solar Blade](moves/solarblade.md) — Charges turn 1. Hits turn 2. No charge in sunlight.
+- [Sparkling Aria](moves/sparklingaria.md) — The target is cured of its burn.
+- [Speed Swap](moves/speedswap.md) — Swaps Speed stat with target.
+- [Spicy Extract](moves/spicyextract.md) — Raises target's Atk by 2 and lowers its Def by 2.
+- [Spikes](moves/spikes.md) — Hurts grounded foes on switch-in. Max 3 layers.
+- [Spiky Shield](moves/spikyshield.md) — Protects from moves. Contact: loses 1/8 max HP.
+- [Spirit Break](moves/spiritbreak.md) — 100% chance to lower the target's Sp. Atk by 1.
+- [Spirit Shackle](moves/spiritshackle.md) — Prevents the target from switching out.
+- [Spit Up](moves/spitup.md) — More power with more uses of Stockpile.
+- [Spite](moves/spite.md) — Lowers the PP of the target's last move by 4.
+- [Stealth Rock](moves/stealthrock.md) — Hurts foes on switch-in. Factors Rock weakness.
+- [Steel Beam](moves/steelbeam.md) — User loses 50% max HP.
+- [Steel Roller](moves/steelroller.md) — Fails if there is no terrain active. Ends the terrain.
+- [Steel Wing](moves/steelwing.md) — 10% chance to raise the user's Defense by 1.
+- [Sticky Web](moves/stickyweb.md) — Lowers Speed of grounded foes by 1 on switch-in.
+- [Stockpile](moves/stockpile.md) — Raises user's Defense, Sp. Def by 1. Max 3 uses.
+- [Stomping Tantrum](moves/stompingtantrum.md) — Power doubles if the user's last move failed.
+- [Stone Axe](moves/stoneaxe.md) — Sets Stealth Rock on the target's side.
+- [Stone Edge](moves/stoneedge.md) — High critical hit ratio.
+- [Stored Power](moves/storedpower.md) —  + 20 power for each of the user's stat boosts.
+- [Storm Throw](moves/stormthrow.md) — Always results in a critical hit.
+- [Strength Sap](moves/strengthsap.md) — User heals HP=target's Atk stat. Lowers Atk by 1.
+- [String Shot](moves/stringshot.md) — Lowers the foe(s) Speed by 2.
+- [Struggle](moves/struggle.md) — User loses 1/4 of its max HP.
+- [Struggle Bug](moves/strugglebug.md) — 100% chance to lower the foe(s) Sp. Atk by 1.
+- [Stuff Cheeks](moves/stuffcheeks.md) — Fails unless a Berry is held. User eats Berry, Def +2.
+- [Stun Spore](moves/stunspore.md) — Paralyzes the target.
+- [Substitute](moves/substitute.md) — User takes 1/4 its max HP to put in a substitute.
+- [Sucker Punch](moves/suckerpunch.md) — Usually goes first. Fails if target is not attacking.
+- [Sunny Day](moves/sunnyday.md) — For 5 turns, intense sunlight powers Fire moves.
+- [Super Fang](moves/superfang.md) — Does damage equal to 1/2 target's current HP.
+- [Supercell Slam](moves/supercellslam.md) — User is hurt by 50% of its max HP if it misses.
+- [Superpower](moves/superpower.md) — Lowers the user's Attack and Defense by 1.
+- [Surf](moves/surf.md) — Hits adjacent Pokemon. Double damage on Dive.
+- [Swagger](moves/swagger.md) — Raises the target's Attack by 2 and confuses it.
+- [Swallow](moves/swallow.md) — Heals the user based on uses of Stockpile.
+- [Sweet Kiss](moves/sweetkiss.md) — Causes the target to become confused.
+- [Sweet Scent](moves/sweetscent.md) — Lowers the foe(s) evasiveness by 2.
+- [Switcheroo](moves/switcheroo.md) — User switches its held item with the target's.
+- [Swords Dance](moves/swordsdance.md) — Raises the user's Attack by 2.
+- [Synthesis](moves/synthesis.md) — Heals the user by a weather-dependent amount.
+- [Syrup Bomb](moves/syrupbomb.md) — Target's Speed is lowered by 1 stage for 3 turns.
+- [Tail Slap](moves/tailslap.md) — Hits 2-5 times in one turn.
+- [Tailwind](moves/tailwind.md) — For 4 turns, allies' Speed is doubled.
+- [Taunt](moves/taunt.md) — Target can't use status moves its next 3 turns.
+- [Tearful Look](moves/tearfullook.md) — Lowers the target's Attack and Sp. Atk by 1.
+- [Teatime](moves/teatime.md) — All active Pokemon consume held Berries.
+- [Teeter Dance](moves/teeterdance.md) — Confuses adjacent Pokemon.
+- [Temper Flare](moves/temperflare.md) — Power doubles if the user's last move failed.
+- [Terrain Pulse](moves/terrainpulse.md) — User on terrain: power doubles, type varies.
+- [Thief](moves/thief.md) — If the user has no item, it steals the target's.
+- [Thrash](moves/thrash.md) — Lasts 2-3 turns. Confuses the user afterwards.
+- [Throat Chop](moves/throatchop.md) — For 2 turns, the target cannot use sound moves.
+- [Thunder](moves/thunder.md) — 30% chance to paralyze. Can't miss in rain.
+- [Thunder Fang](moves/thunderfang.md) — 10% chance to paralyze. 10% chance to flinch.
+- [Thunder Punch](moves/thunderpunch.md) — 10% chance to paralyze the target.
+- [Thunder Wave](moves/thunderwave.md) — Paralyzes the target.
+- [Thunderbolt](moves/thunderbolt.md) — 10% chance to paralyze the target.
+- [Tickle](moves/tickle.md) — Lowers the target's Attack and Defense by 1.
+- [Tidy Up](moves/tidyup.md) — User +1 Atk, Spe. Clears all substitutes/hazards.
+- [Topsy-Turvy](moves/topsyturvy.md) — Inverts the target's stat stages.
+- [Torch Song](moves/torchsong.md) — 100% chance to raise the user's Sp. Atk by 1.
+- [Torment](moves/torment.md) — Target can't select the same move twice in a row.
+- [Toxic](moves/toxic.md) — Badly poisons the target. Poison types can't miss.
+- [Toxic Spikes](moves/toxicspikes.md) — Poisons grounded foes on switch-in. Max 2 layers.
+- [Toxic Thread](moves/toxicthread.md) — Lowers the target's Speed by 2 and poisons it.
+- [Trailblaze](moves/trailblaze.md) — 100% chance to raise the user's Speed by 1.
+- [Transform](moves/transform.md) — Copies target's stats, moves, types, and Ability.
+- [Tri Attack](moves/triattack.md) — 20% chance to paralyze or burn or freeze target.
+- [Trick](moves/trick.md) — User switches its held item with the target's.
+- [Trick Room](moves/trickroom.md) — Reverses Speed order within each priority bracket for five turns.
+- [Trick-or-Treat](moves/trickortreat.md) — Adds Ghost to the target's type(s).
+- [Triple Arrows](moves/triplearrows.md) — High crit. Target: 50% -1 Defense, 30% flinch.
+- [Triple Axel](moves/tripleaxel.md) — Hits 3 times. Each hit can miss, but power rises.
+- [Trop Kick](moves/tropkick.md) — 100% chance to lower the target's Attack by 1.
+- [Twin Beam](moves/twinbeam.md) — Hits 2 times in one turn.
+- [U-turn](moves/uturn.md) — User switches out after damaging the target.
+- [Upper Hand](moves/upperhand.md) — 100% flinch. Fails unless target using priority attack.
+- [Uproar](moves/uproar.md) — Lasts 3 turns. Active Pokemon cannot fall asleep.
+- [Vacuum Wave](moves/vacuumwave.md) — Usually goes first.
+- [Venoshock](moves/venoshock.md) — Power doubles if the target is poisoned.
+- [Volt Switch](moves/voltswitch.md) — User switches out after damaging the target.
+- [Volt Tackle](moves/volttackle.md) — Has 33% recoil. 10% chance to paralyze target.
+- [Water Pulse](moves/waterpulse.md) — 20% chance to confuse the target.
+- [Water Shuriken](moves/watershuriken.md) — Usually goes first. Hits 2-5 times in one turn.
+- [Water Spout](moves/waterspout.md) — Less power as user's HP decreases. Hits foe(s).
+- [Waterfall](moves/waterfall.md) — 20% chance to make the target flinch.
+- [Wave Crash](moves/wavecrash.md) — Has 33% recoil.
+- [Weather Ball](moves/weatherball.md) — Power doubles and type varies in each weather.
+- [Whirlpool](moves/whirlpool.md) — Traps and damages the target for 4-5 turns.
+- [Whirlwind](moves/whirlwind.md) — Forces the target to switch to a random ally.
+- [Wide Guard](moves/wideguard.md) — Protects allies from multi-target moves this turn.
+- [Wild Charge](moves/wildcharge.md) — Has 1/4 recoil.
+- [Will-O-Wisp](moves/willowisp.md) — Burns the target.
+- [Wish](moves/wish.md) — Next turn, 50% of the user's max HP is restored.
+- [Wonder Room](moves/wonderroom.md) — For 5 turns, all Defense and Sp. Def stats switch.
+- [Wood Hammer](moves/woodhammer.md) — Has 33% recoil.
+- [Worry Seed](moves/worryseed.md) — The target's Ability becomes Insomnia.
+- [Wrap](moves/wrap.md) — Traps and damages the target for 4-5 turns.
+- [X-Scissor](moves/xscissor.md) — No additional effect.
+- [Yawn](moves/yawn.md) — Puts the target to sleep after 1 turn.
+- [Zap Cannon](moves/zapcannon.md) — 100% chance to paralyze the target.
+- [Zen Headbutt](moves/zenheadbutt.md) — 20% chance to make the target flinch.
+- [Zing Zap](moves/zingzap.md) — 30% chance to make the target flinch.
+
+## Abilities (216)
+
+- [Adaptability](abilities/adaptability.md) — This Pokemon's same-type attack bonus (STAB) is 2 instead of 1.5.
+- [Aerilate](abilities/aerilate.md) — This Pokemon's Normal-type moves become Flying type and have 1.2× power.
+- [Aftermath](abilities/aftermath.md) — If this Pokemon is KOed with a contact move, that move's user loses 1/4 its max HP.
+- [Analytic](abilities/analytic.md) — This Pokemon's attacks have 1.3× power if it is the last to move in a turn.
+- [Anger Point](abilities/angerpoint.md) — If this Pokemon (not its substitute) takes a critical hit, its Attack is raised 12 stages.
+- [Anticipation](abilities/anticipation.md) — On switch-in, this Pokemon shudders if any foe has a supereffective or OHKO move.
+- [Armor Tail](abilities/armortail.md) — This Pokemon and its allies are protected from opposing priority moves.
+- [Aroma Veil](abilities/aromaveil.md) — Protects user/allies from Attract, Disable, Encore, Heal Block, Taunt, and Torment.
+- [Battle Armor](abilities/battlearmor.md) — This Pokemon cannot be struck by a critical hit.
+- [Battle Bond](abilities/battlebond.md) — After KOing a Pokemon: raises Attack, Sp. Atk, Speed by 1 stage. Once per battle.
+- [Berserk](abilities/berserk.md) — This Pokemon's Sp. Atk is raised by 1 when it reaches 1/2 or less of its max HP.
+- [Big Pecks](abilities/bigpecks.md) — Prevents other Pokemon from lowering this Pokemon's Defense stat stage.
+- [Blaze](abilities/blaze.md) — At 1/3 or less of its max HP, this Pokemon's offensive stat is 1.5× with Fire attacks.
+- [Bulletproof](abilities/bulletproof.md) — This Pokemon is immune to bullet moves.
+- [Cheek Pouch](abilities/cheekpouch.md) — If this Pokemon eats a Berry, it restores 1/3 of its max HP after the Berry's effect.
+- [Chlorophyll](abilities/chlorophyll.md) — If Sun is active, this Pokemon's Speed is doubled.
+- [Clear Body](abilities/clearbody.md) — Prevents other Pokemon from lowering this Pokemon's stat stages.
+- [Cloud Nine](abilities/cloudnine.md) — While this Pokemon is active, the effects of weather conditions are disabled.
+- [Competitive](abilities/competitive.md) — This Pokemon's Sp. Atk is raised by 2 for each of its stats that is lowered by a foe.
+- [Compound Eyes](abilities/compoundeyes.md) — This Pokemon's moves have their accuracy multiplied by 1.3.
+- [Contrary](abilities/contrary.md) — If this Pokemon has a stat stage raised it is lowered instead, and vice versa.
+- [Corrosion](abilities/corrosion.md) — This Pokemon can poison or badly poison a Pokemon regardless of its typing.
+- [Cud Chew](abilities/cudchew.md) — If this Pokemon eats a Berry, it will eat that Berry again at the end of the next turn.
+- [Curious Medicine](abilities/curiousmedicine.md) — On switch-in, this Pokemon's allies have their stat stages reset to 0.
+- [Cursed Body](abilities/cursedbody.md) — If this Pokemon is hit by an attack, there is a 30% chance that move gets disabled.
+- [Cute Charm](abilities/cutecharm.md) — 30% chance of infatuating Pokemon of the opposite gender if they make contact.
+- [Damp](abilities/damp.md) — Prevents Explosion/Mind Blown/Misty Explosion/Self-Destruct/Aftermath while active.
+- [Defiant](abilities/defiant.md) — This Pokemon's Attack is raised by 2 for each of its stats that is lowered by a foe.
+- [Disguise](abilities/disguise.md) — (Mimikyu only) The first hit it takes is blocked, and it takes 1/8 HP damage instead.
+- [Dragonize](abilities/dragonize.md) — This Pokemon's Normal-type moves become Dragon type and have 1.2× power.
+- [Drizzle](abilities/drizzle.md) — On switch-in, this Pokemon summons Rain.
+- [Drought](abilities/drought.md) — On switch-in, this Pokemon summons Sun.
+- [Dry Skin](abilities/dryskin.md) — This Pokemon is healed 1/4 by Water, 1/8 by Rain; is hurt 1.25× by Fire, 1/8 by Sun.
+- [Early Bird](abilities/earlybird.md) — This Pokemon's sleep counter drops by 2 instead of 1.
+- [Earth Eater](abilities/eartheater.md) — This Pokemon heals 1/4 of its max HP when hit by Ground moves; Ground immunity.
+- [Eelevate](abilities/eelevate.md) — This Pokemon is immune to Ground; +1 to highest stat if it KOes another Pokemon.
+- [Effect Spore](abilities/effectspore.md) — 30% chance of poison/paralysis/sleep on others making contact with this Pokemon.
+- [Electric Surge](abilities/electricsurge.md) — On switch-in, this Pokemon summons Electric Terrain.
+- [Electromorphosis](abilities/electromorphosis.md) — This Pokemon gains the Charge effect when it takes a hit from an attack.
+- [Emergency Exit](abilities/emergencyexit.md) — This Pokemon switches out when it reaches 1/2 or less of its maximum HP.
+- [Fairy Aura](abilities/fairyaura.md) — While this Pokemon is active, a Fairy move used by any Pokemon has 1.33× power.
+- [Filter](abilities/filter.md) — This Pokemon receives 3/4 damage from supereffective attacks.
+- [Fire Mane](abilities/firemane.md) — This Pokemon's offensive stat is multiplied by 1.5 while using a Fire-type attack.
+- [Flame Body](abilities/flamebody.md) — 30% chance a Pokemon making contact with this Pokemon will be burned.
+- [Flash Fire](abilities/flashfire.md) — This Pokemon's Fire attacks do 1.5× damage if hit by one Fire move; Fire immunity.
+- [Flower Veil](abilities/flowerveil.md) — This side's Grass types can't have stats lowered or status inflicted by other Pokemon.
+- [Fluffy](abilities/fluffy.md) — This Pokemon takes 1/2 damage from contact moves, 2× damage from Fire moves.
+- [Forecast](abilities/forecast.md) — Castform's type changes to the current weather condition's type, except Sandstorm.
+- [Forewarn](abilities/forewarn.md) — On switch-in, this Pokemon is alerted to the foes' move with the highest power.
+- [Friend Guard](abilities/friendguard.md) — This Pokemon's allies receive 3/4 damage from other Pokemon's attacks.
+- [Frisk](abilities/frisk.md) — On switch-in, this Pokemon identifies the held items of all opposing Pokemon.
+- [Fur Coat](abilities/furcoat.md) — This Pokemon's Defense is doubled.
+- [Gale Wings](abilities/galewings.md) — If this Pokemon is at full HP, its Flying-type moves have their priority increased by 1.
+- [Gluttony](abilities/gluttony.md) — This Pokemon eats Berries at 1/2 max HP or less instead of their usual 1/4 max HP.
+- [Good as Gold](abilities/goodasgold.md) — This Pokemon is immune to Status moves.
+- [Gooey](abilities/gooey.md) — Pokemon making contact with this Pokemon have their Speed lowered by 1 stage.
+- [Grass Pelt](abilities/grasspelt.md) — If Grassy Terrain is active, this Pokemon's Defense is multiplied by 1.5.
+- [Grassy Surge](abilities/grassysurge.md) — On switch-in, this Pokemon summons Grassy Terrain.
+- [Guard Dog](abilities/guarddog.md) — Immune to Intimidate. Intimidated: +1 Attack. Cannot be forced to switch out.
+- [Guts](abilities/guts.md) — If this Pokemon is statused, its Attack is 1.5×; ignores burn halving physical damage.
+- [Harvest](abilities/harvest.md) — If last item used is a Berry, 50% chance to restore it each end of turn. 100% in Sun.
+- [Healer](abilities/healer.md) — 50% chance this Pokemon's ally has its status cured at the end of each turn.
+- [Heatproof](abilities/heatproof.md) — Fire damage against this Pokemon is dealt with 1/2 offensive stat; 1/2 burn damage.
+- [Heavy Metal](abilities/heavymetal.md) — This Pokemon's weight is doubled.
+- [Hospitality](abilities/hospitality.md) — On switch-in, this Pokemon restores 1/4 of its ally's maximum HP, rounded down.
+- [Huge Power](abilities/hugepower.md) — This Pokemon's Attack is doubled.
+- [Hunger Switch](abilities/hungerswitch.md) — If Morpeko, it changes between Full Belly and Hangry Mode at the end of each turn.
+- [Hustle](abilities/hustle.md) — This Pokemon's Attack is 1.5× and accuracy of its physical attacks is 0.8×.
+- [Hydration](abilities/hydration.md) — This Pokemon has its status cured at the end of each turn if Rain is active.
+- [Hyper Cutter](abilities/hypercutter.md) — Prevents other Pokemon from lowering this Pokemon's Attack stat stage.
+- [Ice Body](abilities/icebody.md) — If Snow is active, this Pokemon heals 1/16 of its max HP each turn.
+- [Illuminate](abilities/illuminate.md) — This Pokemon's accuracy can't be lowered by others; ignores their evasiveness stat.
+- [Illusion](abilities/illusion.md) — This Pokemon appears as the last Pokemon in the party until it takes direct damage.
+- [Immunity](abilities/immunity.md) — This Pokemon cannot be poisoned. Gaining this Ability while poisoned cures it.
+- [Imposter](abilities/imposter.md) — On switch-in, this Pokemon Transforms into the opposing Pokemon that is facing it.
+- [Infiltrator](abilities/infiltrator.md) — Moves ignore substitutes and foe's Reflect/Light Screen/Safeguard/Mist/Aurora Veil.
+- [Innards Out](abilities/innardsout.md) — If this Pokemon is KOed with a move, that move's user loses an equal amount of HP.
+- [Inner Focus](abilities/innerfocus.md) — This Pokemon cannot be made to flinch. Immune to Intimidate.
+- [Insomnia](abilities/insomnia.md) — This Pokemon cannot fall asleep. Gaining this Ability while asleep cures it.
+- [Intimidate](abilities/intimidate.md) — On switch-in, this Pokemon lowers the Attack of opponents by 1 stage.
+- [Iron Fist](abilities/ironfist.md) — This Pokemon's punch-based attacks have 1.2× power. Sucker Punch is not boosted.
+- [Justified](abilities/justified.md) — This Pokemon's Attack is raised by 1 stage after it is damaged by a Dark-type move.
+- [Keen Eye](abilities/keeneye.md) — This Pokemon's accuracy can't be lowered by others; ignores their evasiveness stat.
+- [Klutz](abilities/klutz.md) — This Pokemon's held item has no effect, except Macho Brace. Fling cannot be used.
+- [Leaf Guard](abilities/leafguard.md) — If Sun is active, this Pokemon cannot be statused and Rest will fail for it.
+- [Levitate](abilities/levitate.md) — This Pokemon is immune to Ground; Gravity/Ingrain/Smack Down/Iron Ball nullify it.
+- [Libero](abilities/libero.md) — This Pokemon's type changes to the type of the move it is using. Once per switch-in.
+- [Light Metal](abilities/lightmetal.md) — This Pokemon's weight is halved.
+- [Lightning Rod](abilities/lightningrod.md) — This Pokemon draws Electric moves to itself to raise Sp. Atk by 1; Electric immunity.
+- [Limber](abilities/limber.md) — This Pokemon cannot be paralyzed. Gaining this Ability while paralyzed cures it.
+- [Liquid Ooze](abilities/liquidooze.md) — This Pokemon damages those draining HP from it for as much as they would heal.
+- [Liquid Voice](abilities/liquidvoice.md) — This Pokemon's sound-based moves become Water type.
+- [Long Reach](abilities/longreach.md) — This Pokemon's attacks do not make contact with the target.
+- [Magic Bounce](abilities/magicbounce.md) — This Pokemon blocks certain Status moves and bounces them back to the user.
+- [Magic Guard](abilities/magicguard.md) — This Pokemon can only be damaged by direct attacks.
+- [Magician](abilities/magician.md) — If this Pokemon has no item, it steals the item off a Pokemon it hits with an attack.
+- [Magma Armor](abilities/magmaarmor.md) — This Pokemon cannot be frozen. Gaining this Ability while frozen cures it.
+- [Marvel Scale](abilities/marvelscale.md) — If this Pokemon has a non-volatile status condition, its Defense is multiplied by 1.5.
+- [Mega Launcher](abilities/megalauncher.md) — This Pokemon's pulse moves have 1.5× power. Heal Pulse heals 3/4 target's max HP.
+- [Mega Sol](abilities/megasol.md) — This Pokemon's moves are used as if the effects of Sun were active.
+- [Merciless](abilities/merciless.md) — This Pokemon's attacks are critical hits if the target is poisoned.
+- [Mimicry](abilities/mimicry.md) — This Pokemon's types change to match the Terrain. Type reverts when Terrain ends.
+- [Minus](abilities/minus.md) — If an active ally has this Ability or the Plus Ability, this Pokemon's Sp. Atk is 1.5×.
+- [Mirror Armor](abilities/mirrorarmor.md) — If this Pokemon's stat stages would be lowered, the attacker's are lowered instead.
+- [Mold Breaker](abilities/moldbreaker.md) — This Pokemon's moves and their effects ignore the Abilities of other Pokemon.
+- [Moody](abilities/moody.md) — Boosts a random stat (except accuracy/evasion) +2 and another stat -1 every turn.
+- [Motor Drive](abilities/motordrive.md) — This Pokemon's Speed is raised 1 stage if hit by an Electric move; Electric immunity.
+- [Moxie](abilities/moxie.md) — This Pokemon's Attack is raised by 1 stage if it attacks and KOes another Pokemon.
+- [Multiscale](abilities/multiscale.md) — If this Pokemon is at full HP, damage taken from attacks is halved.
+- [Mummy](abilities/mummy.md) — Pokemon making contact with this Pokemon have their Ability changed to Mummy.
+- [Natural Cure](abilities/naturalcure.md) — This Pokemon has its non-volatile status condition cured when it switches out.
+- [No Guard](abilities/noguard.md) — Every move used by or against this Pokemon will always hit.
+- [Oblivious](abilities/oblivious.md) — This Pokemon cannot be infatuated or taunted. Immune to Intimidate.
+- [Opportunist](abilities/opportunist.md) — When an opposing Pokemon has a stat stage raised, this Pokemon copies the effect.
+- [Overcoat](abilities/overcoat.md) — This Pokemon is immune to powder moves, Sandstorm damage, and Effect Spore.
+- [Overgrow](abilities/overgrow.md) — At 1/3 or less of its max HP, this Pokemon's offensive stat is 1.5× with Grass attacks.
+- [Own Tempo](abilities/owntempo.md) — This Pokemon cannot be confused. Immune to Intimidate.
+- [Parental Bond](abilities/parentalbond.md) — This Pokemon's damaging moves hit twice. The second hit has its damage quartered.
+- [Pickpocket](abilities/pickpocket.md) — If this Pokemon has no item and is hit by a contact move, it steals the attacker's item.
+- [Pickup](abilities/pickup.md) — If this Pokemon has no item, it finds one used by an adjacent Pokemon this turn.
+- [Piercing Drill](abilities/piercingdrill.md) — This Pokemon's contact moves ignore a target's protection and deal 1/4 the usual damage.
+- [Pixilate](abilities/pixilate.md) — This Pokemon's Normal-type moves become Fairy type and have 1.2× power.
+- [Plus](abilities/plus.md) — If an active ally has this Ability or the Minus Ability, this Pokemon's Sp. Atk is 1.5×.
+- [Poison Heal](abilities/poisonheal.md) — This Pokemon is healed by 1/8 of its max HP each turn when poisoned; no HP loss.
+- [Poison Point](abilities/poisonpoint.md) — 30% chance a Pokemon making contact with this Pokemon will be poisoned.
+- [Poison Touch](abilities/poisontouch.md) — This Pokemon's contact moves have a 30% chance of poisoning.
+- [Prankster](abilities/prankster.md) — This Pokemon's Status moves have priority raised by 1, but Dark types are immune.
+- [Pressure](abilities/pressure.md) — If this Pokemon is the target of a foe's move, that move loses one additional PP.
+- [Protean](abilities/protean.md) — This Pokemon's type changes to the type of the move it is using. Once per switch-in.
+- [Psychic Surge](abilities/psychicsurge.md) — On switch-in, this Pokemon summons Psychic Terrain.
+- [Punk Rock](abilities/punkrock.md) — This Pokemon receives 1/2 damage from sound moves. Its own have 1.3× power.
+- [Pure Power](abilities/purepower.md) — This Pokemon's Attack is doubled.
+- [Purifying Salt](abilities/purifyingsalt.md) — Ghost damage to this Pokemon dealt with a halved offensive stat; can't be statused.
+- [Queenly Majesty](abilities/queenlymajesty.md) — This Pokemon and its allies are protected from opposing priority moves.
+- [Quick Draw](abilities/quickdraw.md) — This Pokemon has a 30% chance to move first in its priority bracket with attacking moves.
+- [Quick Feet](abilities/quickfeet.md) — If this Pokemon is statused, its Speed is 1.5×; ignores Speed drop from paralysis.
+- [Rain Dish](abilities/raindish.md) — If Rain is active, this Pokemon heals 1/16 of its max HP each turn.
+- [Rattled](abilities/rattled.md) — Speed is raised 1 stage if hit by a Bug-, Dark-, or Ghost-type attack, or Intimidated.
+- [Receiver](abilities/receiver.md) — This Pokemon copies the Ability of an ally that faints.
+- [Reckless](abilities/reckless.md) — This Pokemon's attacks with recoil or crash damage have 1.2× power; not Struggle.
+- [Refrigerate](abilities/refrigerate.md) — This Pokemon's Normal-type moves become Ice type and have 1.2× power.
+- [Regenerator](abilities/regenerator.md) — This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out.
+- [Ripen](abilities/ripen.md) — When this Pokemon eats certain Berries, the effects are doubled.
+- [Rivalry](abilities/rivalry.md) — This Pokemon's attacks do 1.25× on same gender targets; 0.75× on opposite gender.
+- [Rock Head](abilities/rockhead.md) — This Pokemon does not take recoil damage besides Struggle/Life Orb/crash damage.
+- [Rough Skin](abilities/roughskin.md) — Pokemon making contact with this Pokemon lose 1/8 of their max HP.
+- [Run Away](abilities/runaway.md) — Clears ordinary trapping restrictions in Champions.
+- [Sand Force](abilities/sandforce.md) — This Pokemon's Ground/Rock/Steel attacks do 1.3× in Sandstorm; immunity to it.
+- [Sand Rush](abilities/sandrush.md) — If Sandstorm is active, this Pokemon's Speed is doubled; immunity to Sandstorm.
+- [Sand Spit](abilities/sandspit.md) — When this Pokemon is hit by an attack, the effect of Sandstorm begins.
+- [Sand Stream](abilities/sandstream.md) — On switch-in, this Pokemon summons Sandstorm.
+- [Sand Veil](abilities/sandveil.md) — If Sandstorm is active, this Pokemon's evasiveness is 1.25×; immunity to Sandstorm.
+- [Sap Sipper](abilities/sapsipper.md) — This Pokemon's Attack is raised 1 stage if hit by a Grass move; Grass immunity.
+- [Scrappy](abilities/scrappy.md) — Fighting, Normal moves hit Ghost. Immune to Intimidate.
+- [Screen Cleaner](abilities/screencleaner.md) — On switch-in, the effects of Aurora Veil, Light Screen, and Reflect end for both sides.
+- [Seed Sower](abilities/seedsower.md) — When this Pokemon is hit by an attack, the effect of Grassy Terrain begins.
+- [Shadow Tag](abilities/shadowtag.md) — Prevents foes from choosing to switch unless they also have this Ability.
+- [Sharpness](abilities/sharpness.md) — This Pokemon's slicing moves have their power multiplied by 1.5.
+- [Shed Skin](abilities/shedskin.md) — This Pokemon has a 33% chance to have its status cured at the end of each turn.
+- [Sheer Force](abilities/sheerforce.md) — This Pokemon's attacks with secondary effects have 1.3× power; nullifies the effects.
+- [Shell Armor](abilities/shellarmor.md) — This Pokemon cannot be struck by a critical hit.
+- [Shield Dust](abilities/shielddust.md) — This Pokemon is not affected by the secondary effect of another Pokemon's attack.
+- [Skill Link](abilities/skilllink.md) — This Pokemon's multi-hit attacks always hit the maximum number of times.
+- [Slush Rush](abilities/slushrush.md) — If Snow is active, this Pokemon's Speed is doubled.
+- [Sniper](abilities/sniper.md) — If this Pokemon strikes with a critical hit, the damage is multiplied by 1.5.
+- [Snow Cloak](abilities/snowcloak.md) — If Snow is active, this Pokemon's evasiveness is 1.25×.
+- [Snow Warning](abilities/snowwarning.md) — On switch-in, this Pokemon summons Snow.
+- [Solar Power](abilities/solarpower.md) — If Sun is active, this Pokemon's Sp. Atk is 1.5×; loses 1/8 max HP per turn.
+- [Solid Rock](abilities/solidrock.md) — This Pokemon receives 3/4 damage from supereffective attacks.
+- [Soundproof](abilities/soundproof.md) — This Pokemon is immune to sound-based moves, unless it used the move.
+- [Speed Boost](abilities/speedboost.md) — This Pokemon's Speed is raised 1 stage at the end of each full turn on the field.
+- [Spicy Spray](abilities/spicyspray.md) — If this Pokemon is hit by an attack, the attacker becomes burned.
+- [Stakeout](abilities/stakeout.md) — This Pokemon's offensive stat is doubled against a target that switched in this turn.
+- [Stall](abilities/stall.md) — This Pokemon moves last among Pokemon using the same or greater priority moves.
+- [Stalwart](abilities/stalwart.md) — This Pokemon's moves cannot be redirected to a different target by any effect.
+- [Stamina](abilities/stamina.md) — This Pokemon's Defense is raised by 1 stage after it is damaged by a move.
+- [Stance Change](abilities/stancechange.md) — If Aegislash, changes Forme to Blade before attacks and Shield before King's Shield.
+- [Static](abilities/static.md) — 30% chance a Pokemon making contact with this Pokemon will be paralyzed.
+- [Steadfast](abilities/steadfast.md) — If this Pokemon flinches, its Speed is raised by 1 stage.
+- [Steely Spirit](abilities/steelyspirit.md) — This Pokemon and its allies' Steel-type moves have their power multiplied by 1.5.
+- [Stench](abilities/stench.md) — This Pokemon's attacks without a chance to flinch gain a 10% chance to flinch.
+- [Sticky Hold](abilities/stickyhold.md) — This Pokemon cannot lose its held item due to another Pokemon's Ability or attack.
+- [Strong Jaw](abilities/strongjaw.md) — This Pokemon's bite-based attacks have 1.5× power. Bug Bite is not boosted.
+- [Sturdy](abilities/sturdy.md) — If this Pokemon is at full HP, it survives one hit with at least 1 HP. Immune to OHKO.
+- [Suction Cups](abilities/suctioncups.md) — This Pokemon cannot be forced to switch out by another Pokemon's attack or item.
+- [Super Luck](abilities/superluck.md) — This Pokemon's critical hit ratio is raised by 1 stage.
+- [Supersweet Syrup](abilities/supersweetsyrup.md) — On switch-in, this Pokemon lowers the evasiveness of opponents 1 stage. Once per battle.
+- [Supreme Overlord](abilities/supremeoverlord.md) — This Pokemon's moves have 10% more power for each fainted ally, up to 5 allies.
+- [Surge Surfer](abilities/surgesurfer.md) — If Electric Terrain is active, this Pokemon's Speed is doubled.
+- [Swarm](abilities/swarm.md) — At 1/3 or less of its max HP, this Pokemon's offensive stat is 1.5× with Bug attacks.
+- [Sweet Veil](abilities/sweetveil.md) — This Pokemon and its allies cannot fall asleep; those already asleep do not wake up.
+- [Swift Swim](abilities/swiftswim.md) — If Rain is active, this Pokemon's Speed is doubled.
+- [Symbiosis](abilities/symbiosis.md) — If an ally uses its item, this Pokemon gives its item to that ally immediately.
+- [Synchronize](abilities/synchronize.md) — If another Pokemon burns/poisons/paralyzes this Pokemon, it also gets that status.
+- [Tangled Feet](abilities/tangledfeet.md) — This Pokemon's evasiveness is doubled as long as it is confused.
+- [Technician](abilities/technician.md) — This Pokemon's moves of 60 power or less have 1.5× power, including Struggle.
+- [Telepathy](abilities/telepathy.md) — This Pokemon does not take damage from attacks made by its allies.
+- [Thermal Exchange](abilities/thermalexchange.md) — This Pokemon's Attack is raised by 1 when damaged by Fire moves; can't be burned.
+- [Thick Fat](abilities/thickfat.md) — Fire-/Ice-type moves against this Pokemon deal damage with a halved offensive stat.
+- [Torrent](abilities/torrent.md) — At 1/3 or less of its max HP, this Pokemon's offensive stat is 1.5× with Water attacks.
+- [Tough Claws](abilities/toughclaws.md) — This Pokemon's contact moves have their power multiplied by 1.3.
+- [Toxic Debris](abilities/toxicdebris.md) — If this Pokemon is hit by a physical attack, Toxic Spikes are set on the opposing side.
+- [Trace](abilities/trace.md) — On switch-in, or when it can, this Pokemon copies a random adjacent foe's Ability.
+- [Unaware](abilities/unaware.md) — This Pokemon ignores other Pokemon's stat stages when taking or doing damage.
+- [Unburden](abilities/unburden.md) — Speed is doubled on held item loss; boost is lost if it switches, gets new item/Ability.
+- [Unnerve](abilities/unnerve.md) — While this Pokemon is active, it prevents opposing Pokemon from using their Berries.
+- [Unseen Fist](abilities/unseenfist.md) — This Pokemon's contact moves ignore a target's protection and deal 1/4 the usual damage.
+- [Vital Spirit](abilities/vitalspirit.md) — This Pokemon cannot fall asleep. Gaining this Ability while asleep cures it.
+- [Volt Absorb](abilities/voltabsorb.md) — This Pokemon heals 1/4 of its max HP when hit by Electric moves; Electric immunity.
+- [Wandering Spirit](abilities/wanderingspirit.md) — Pokemon making contact with this Pokemon have their Ability swapped with this one.
+- [Water Absorb](abilities/waterabsorb.md) — This Pokemon heals 1/4 of its max HP when hit by Water moves; Water immunity.
+- [Water Bubble](abilities/waterbubble.md) — This Pokemon's Water power is 2×; it can't be burned; Fire power against it is halved.
+- [Weak Armor](abilities/weakarmor.md) — If a physical attack hits this Pokemon, Defense is lowered by 1, Speed is raised by 2.
+- [White Smoke](abilities/whitesmoke.md) — Prevents other Pokemon from lowering this Pokemon's stat stages.
+- [Zero to Hero](abilities/zerotohero.md) — If this Pokemon is a Palafin in Zero Form, switching out has it change to Hero Form.
+- [Aura Guard](abilities/auraguard.md) — Halves damage received from contact moves.
+
+## Items (166)
+
+- [Abomasite](items/abomasite.md) — If held by an Abomasnow, this item allows it to Mega Evolve in battle.
+- [Absolite](items/absolite.md) — If held by an Absol, this item allows it to Mega Evolve into Mega Absol in battle.
+- [Absolite Z](items/absolitez.md) — If held by an Absol, this item allows it to Mega Evolve into Mega Absol Z in battle.
+- [Aerodactylite](items/aerodactylite.md) — If held by an Aerodactyl, this item allows it to Mega Evolve in battle.
+- [Aggronite](items/aggronite.md) — If held by an Aggron, this item allows it to Mega Evolve in battle.
+- [Air Balloon](items/airballoon.md) — Holder is immune to Ground-type attacks. Pops when holder is hit.
+- [Alakazite](items/alakazite.md) — If held by an Alakazam, this item allows it to Mega Evolve in battle.
+- [Altarianite](items/altarianite.md) — If held by an Altaria, this item allows it to Mega Evolve in battle.
+- [Ampharosite](items/ampharosite.md) — If held by an Ampharos, this item allows it to Mega Evolve in battle.
+- [Aspear Berry](items/aspearberry.md) — Holder is cured if it is frozen. Single use.
+- [Audinite](items/audinite.md) — If held by an Audino, this item allows it to Mega Evolve in battle.
+- [Babiri Berry](items/babiriberry.md) — Halves damage taken from a supereffective Steel-type attack. Single use.
+- [Banettite](items/banettite.md) — If held by a Banette, this item allows it to Mega Evolve in battle.
+- [Barbaracite](items/barbaracite.md) — If held by a Barbaracle, this item allows it to Mega Evolve in battle.
+- [Baxcalibrite](items/baxcalibrite.md) — If held by a Baxcalibur, this item allows it to Mega Evolve in battle.
+- [Beedrillite](items/beedrillite.md) — If held by a Beedrill, this item allows it to Mega Evolve in battle.
+- [Big Root](items/bigroot.md) — Holder gains 1.3× HP from draining/Aqua Ring/Ingrain/Leech Seed/Strength Sap.
+- [Binding Band](items/bindingband.md) — Holder's partial-trapping moves deal 1/6 max HP per turn instead of 1/8.
+- [Black Belt](items/blackbelt.md) — Holder's Fighting-type attacks have 1.2× power.
+- [Black Glasses](items/blackglasses.md) — Holder's Dark-type attacks have 1.2× power.
+- [Blastoisinite](items/blastoisinite.md) — If held by a Blastoise, this item allows it to Mega Evolve in battle.
+- [Blazikenite](items/blazikenite.md) — If held by a Blaziken, this item allows it to Mega Evolve in battle.
+- [Bright Powder](items/brightpowder.md) — The accuracy of attacks against the holder is 0.9×.
+- [Cameruptite](items/cameruptite.md) — If held by a Camerupt, this item allows it to Mega Evolve in battle.
+- [Chandelurite](items/chandelurite.md) — If held by a Chandelure, this item allows it to Mega Evolve in battle.
+- [Charcoal](items/charcoal.md) — Holder's Fire-type attacks have 1.2× power.
+- [Charizardite X](items/charizarditex.md) — If held by a Charizard, this item allows it to Mega Evolve into Mega Charizard X.
+- [Charizardite Y](items/charizarditey.md) — If held by a Charizard, this item allows it to Mega Evolve into Mega Charizard Y.
+- [Charti Berry](items/chartiberry.md) — Halves damage taken from a supereffective Rock-type attack. Single use.
+- [Cheri Berry](items/cheriberry.md) — Holder cures itself if it is paralyzed. Single use.
+- [Chesnaughtite](items/chesnaughtite.md) — If held by a Chesnaught, this item allows it to Mega Evolve in battle.
+- [Chesto Berry](items/chestoberry.md) — Holder wakes up if it is asleep. Single use.
+- [Chilan Berry](items/chilanberry.md) — Halves damage taken from a Normal-type attack. Single use.
+- [Chimechite](items/chimechite.md) — If held by a Chimecho, this item allows it to Mega Evolve in battle.
+- [Choice Scarf](items/choicescarf.md) — Holder's Speed is 1.5×, but it can only select the first move it executes.
+- [Chople Berry](items/chopleberry.md) — Halves damage taken from a supereffective Fighting-type attack. Single use.
+- [Clefablite](items/clefablite.md) — If held by a Clefable, this item allows it to Mega Evolve in battle.
+- [Coba Berry](items/cobaberry.md) — Halves damage taken from a supereffective Flying-type attack. Single use.
+- [Colbur Berry](items/colburberry.md) — Halves damage taken from a supereffective Dark-type attack. Single use.
+- [Crabominite](items/crabominite.md) — If held by a Crabominable, this item allows it to Mega Evolve in battle.
+- [Damp Rock](items/damprock.md) — Holder's use of Rain Dance lasts 8 turns instead of 5.
+- [Delphoxite](items/delphoxite.md) — If held by a Delphox, this item allows it to Mega Evolve in battle.
+- [Dragalgite](items/dragalgite.md) — If held by a Dragalge, this item allows it to Mega Evolve in battle.
+- [Dragon Fang](items/dragonfang.md) — Holder's Dragon-type attacks have 1.2× power.
+- [Dragoninite](items/dragoninite.md) — If held by a Dragonite, this item allows it to Mega Evolve in battle.
+- [Drampanite](items/drampanite.md) — If held by a Drampa, this item allows it to Mega Evolve in battle.
+- [Eelektrossite](items/eelektrossite.md) — If held by an Eelektross, this item allows it to Mega Evolve in battle.
+- [Eject Button](items/ejectbutton.md) — If holder survives a hit, it immediately switches out to a chosen ally. Single use.
+- [Electric Seed](items/electricseed.md) — If the terrain is Electric Terrain, raises holder's Defense by 1 stage. Single use.
+- [Emboarite](items/emboarite.md) — If held by an Emboar, this item allows it to Mega Evolve in battle.
+- [Excadrite](items/excadrite.md) — If held by an Excadrill, this item allows it to Mega Evolve in battle.
+- [Expert Belt](items/expertbelt.md) — Holder's attacks that are super effective against the target do 1.2× damage.
+- [Fairy Feather](items/fairyfeather.md) — Holder's Fairy-type attacks have 1.2× power.
+- [Falinksite](items/falinksite.md) — If held by a Falinks, this item allows it to Mega Evolve in battle.
+- [Feraligite](items/feraligite.md) — If held by a Feraligatr, this item allows it to Mega Evolve in battle.
+- [Floettite](items/floettite.md) — If held by an Eternal Flower Floette, this item allows it to Mega Evolve in battle.
+- [Focus Band](items/focusband.md) — Holder has a 10% chance to survive an attack that would KO it with 1 HP.
+- [Focus Sash](items/focussash.md) — If holder's HP is full, will survive an attack that would KO it with 1 HP. Single use.
+- [Froslassite](items/froslassite.md) — If held by a Froslass, this item allows it to Mega Evolve in battle.
+- [Galladite](items/galladite.md) — If held by a Gallade, this item allows it to Mega Evolve in battle.
+- [Garchompite](items/garchompite.md) — If held by a Garchomp, this item allows it to Mega Evolve into Mega Garchomp.
+- [Garchompite Z](items/garchompitez.md) — If held by a Garchomp, this item allows it to Mega Evolve into Mega Garchomp Z.
+- [Gardevoirite](items/gardevoirite.md) — If held by a Gardevoir, this item allows it to Mega Evolve in battle.
+- [Gengarite](items/gengarite.md) — If held by a Gengar, this item allows it to Mega Evolve in battle.
+- [Glalitite](items/glalitite.md) — If held by a Glalie, this item allows it to Mega Evolve in battle.
+- [Glimmoranite](items/glimmoranite.md) — If held by a Glimmora, this item allows it to Mega Evolve in battle.
+- [Golisopite](items/golisopite.md) — If held by a Golisopod, this item allows it to Mega Evolve in battle.
+- [Golurkite](items/golurkite.md) — If held by a Golurk, this item allows it to Mega Evolve in battle.
+- [Grassy Seed](items/grassyseed.md) — If the terrain is Grassy Terrain, raises holder's Defense by 1 stage. Single use.
+- [Greninjite](items/greninjite.md) — If held by a Greninja, this item allows it to Mega Evolve in battle.
+- [Gyaradosite](items/gyaradosite.md) — If held by a Gyarados, this item allows it to Mega Evolve in battle.
+- [Haban Berry](items/habanberry.md) — Halves damage taken from a supereffective Dragon-type attack. Single use.
+- [Hard Stone](items/hardstone.md) — Holder's Rock-type attacks have 1.2× power.
+- [Hawluchanite](items/hawluchanite.md) — If held by a Hawlucha, this item allows it to Mega Evolve in battle.
+- [Heat Rock](items/heatrock.md) — Holder's use of Sunny Day lasts 8 turns instead of 5.
+- [Heracronite](items/heracronite.md) — If held by a Heracross, this item allows it to Mega Evolve in battle.
+- [Houndoominite](items/houndoominite.md) — If held by a Houndoom, this item allows it to Mega Evolve in battle.
+- [Icy Rock](items/icyrock.md) — Holder's use of Snowscape lasts 8 turns instead of 5.
+- [Iron Ball](items/ironball.md) — Holder is grounded, Speed halved. If Flying type, takes neutral Ground damage.
+- [Kangaskhanite](items/kangaskhanite.md) — If held by a Kangaskhan, this item allows it to Mega Evolve in battle.
+- [Kasib Berry](items/kasibberry.md) — Halves damage taken from a supereffective Ghost-type attack. Single use.
+- [Kebia Berry](items/kebiaberry.md) — Halves damage taken from a supereffective Poison-type attack. Single use.
+- [King's Rock](items/kingsrock.md) — Holder's attacks without a chance to flinch gain a 10% chance to flinch.
+- [Leek](items/leek.md) — If held by a Farfetch’d or Sirfetch’d, its critical hit ratio is raised by 2 stages.
+- [Leftovers](items/leftovers.md) — At the end of every turn, holder restores 1/16 of its max HP.
+- [Leppa Berry](items/leppaberry.md) — Restores 10 PP to the first of the holder's moves to reach 0 PP. Single use.
+- [Life Orb](items/lifeorb.md) — Holder's attacks do 1.3× damage, and it loses 1/10 its max HP after the attack.
+- [Light Ball](items/lightball.md) — If held by a Pikachu, its Attack and Sp. Atk are doubled.
+- [Light Clay](items/lightclay.md) — Holder's use of Aurora Veil, Light Screen, or Reflect lasts 8 turns instead of 5.
+- [Lopunnite](items/lopunnite.md) — If held by a Lopunny, this item allows it to Mega Evolve in battle.
+- [Lucarionite](items/lucarionite.md) — If held by a Lucario, this item allows it to Mega Evolve into Mega Lucario in battle.
+- [Lucarionite Z](items/lucarionitez.md) — If held by a Lucario, this item allows it to Mega Evolve into Mega Lucario Z in battle.
+- [Lum Berry](items/lumberry.md) — Holder cures itself if it has a non-volatile status or is confused. Single use.
+- [Magnet](items/magnet.md) — Holder's Electric-type attacks have 1.2× power.
+- [Malamarite](items/malamarite.md) — If held by a Malamar, this item allows it to Mega Evolve in battle.
+- [Manectite](items/manectite.md) — If held by a Manectric, this item allows it to Mega Evolve in battle.
+- [Mawilite](items/mawilite.md) — If held by a Mawile, this item allows it to Mega Evolve in battle.
+- [Medichamite](items/medichamite.md) — If held by a Medicham, this item allows it to Mega Evolve in battle.
+- [Meganiumite](items/meganiumite.md) — If held by a Meganium, this item allows it to Mega Evolve in battle.
+- [Mental Herb](items/mentalherb.md) — Cures holder of Attract, Disable, Encore, Heal Block, Taunt, Torment. Single use.
+- [Meowsticite](items/meowsticite.md) — If held by a Meowstic, this item allows it to Mega Evolve in battle.
+- [Metagrossite](items/metagrossite.md) — If held by a Metagross, this item allows it to Mega Evolve in battle.
+- [Metal Coat](items/metalcoat.md) — Holder's Steel-type attacks have 1.2× power.
+- [Metronome](items/metronome.md) — Damage of moves used on consecutive turns is increased. Max 2× after 5 turns.
+- [Miracle Seed](items/miracleseed.md) — Holder's Grass-type attacks have 1.2× power.
+- [Misty Seed](items/mistyseed.md) — If the terrain is Misty Terrain, raises holder's Sp. Def by 1 stage. Single use.
+- [Muscle Band](items/muscleband.md) — Holder's physical attacks have 1.1× power.
+- [Mystic Water](items/mysticwater.md) — Holder's Water-type attacks have 1.2× power.
+- [Never-Melt Ice](items/nevermeltice.md) — Holder's Ice-type attacks have 1.2× power.
+- [Normal Gem](items/normalgem.md) — Holder's first successful Normal-type attack will have 1.3× power. Single use.
+- [Occa Berry](items/occaberry.md) — Halves damage taken from a supereffective Fire-type attack. Single use.
+- [Oran Berry](items/oranberry.md) — Restores 10 HP when at 1/2 max HP or less. Single use.
+- [Passho Berry](items/passhoberry.md) — Halves damage taken from a supereffective Water-type attack. Single use.
+- [Payapa Berry](items/payapaberry.md) — Halves damage taken from a supereffective Psychic-type attack. Single use.
+- [Pecha Berry](items/pechaberry.md) — Holder is cured if it is poisoned. Single use.
+- [Persim Berry](items/persimberry.md) — Holder is cured if it is confused. Single use.
+- [Pidgeotite](items/pidgeotite.md) — If held by a Pidgeot, this item allows it to Mega Evolve in battle.
+- [Pinsirite](items/pinsirite.md) — If held by a Pinsir, this item allows it to Mega Evolve in battle.
+- [Poison Barb](items/poisonbarb.md) — Holder's Poison-type attacks have 1.2× power.
+- [Psychic Seed](items/psychicseed.md) — If the terrain is Psychic Terrain, raises holder's Sp. Def by 1 stage. Single use.
+- [Pyroarite](items/pyroarite.md) — If held by a Pyroar, this item allows it to Mega Evolve in battle.
+- [Quick Claw](items/quickclaw.md) — Each turn, holder has a 20% chance to move first in its priority bracket.
+- [Raichunite X](items/raichunitex.md) — If held by a Raichu, this item allows it to Mega Evolve into Mega Raichu X in battle.
+- [Raichunite Y](items/raichunitey.md) — If held by a Raichu, this item allows it to Mega Evolve into Mega Raichu Y in battle.
+- [Rawst Berry](items/rawstberry.md) — Holder is cured if it is burned. Single use.
+- [Red Card](items/redcard.md) — If holder survives a hit, attacker is forced to switch to a random ally. Single use.
+- [Rindo Berry](items/rindoberry.md) — Halves damage taken from a supereffective Grass-type attack. Single use.
+- [Rocky Helmet](items/rockyhelmet.md) — If holder is hit by a contact move, the attacker loses 1/6 of its max HP.
+- [Roseli Berry](items/roseliberry.md) — Halves damage taken from a supereffective Fairy-type attack. Single use.
+- [Sablenite](items/sablenite.md) — If held by a Sableye, this item allows it to Mega Evolve in battle.
+- [Salamencite](items/salamencite.md) — If held by a Salamence, this item allows it to Mega Evolve in battle.
+- [Sceptilite](items/sceptilite.md) — If held by a Sceptile, this item allows it to Mega Evolve in battle.
+- [Scizorite](items/scizorite.md) — If held by a Scizor, this item allows it to Mega Evolve in battle.
+- [Scolipite](items/scolipite.md) — If held by a Scolipede, this item allows it to Mega Evolve in battle.
+- [Scope Lens](items/scopelens.md) — Holder's critical hit ratio is raised by 1 stage.
+- [Scovillainite](items/scovillainite.md) — If held by a Scovillain, this item allows it to Mega Evolve in battle.
+- [Scraftinite](items/scraftinite.md) — If held by a Scrafty, this item allows it to Mega Evolve in battle.
+- [Sharp Beak](items/sharpbeak.md) — Holder's Flying-type attacks have 1.2× power.
+- [Sharpedonite](items/sharpedonite.md) — If held by a Sharpedo, this item allows it to Mega Evolve in battle.
+- [Shed Shell](items/shedshell.md) — Holder cannot be prevented from choosing to switch out by any effect.
+- [Shell Bell](items/shellbell.md) — After an attack, holder gains 1/8 of the damage in HP dealt to other Pokemon.
+- [Shuca Berry](items/shucaberry.md) — Halves damage taken from a supereffective Ground-type attack. Single use.
+- [Silk Scarf](items/silkscarf.md) — Holder's Normal-type attacks have 1.2× power.
+- [Silver Powder](items/silverpowder.md) — Holder's Bug-type attacks have 1.2× power.
+- [Sitrus Berry](items/sitrusberry.md) — Restores 1/4 max HP when at 1/2 max HP or less. Single use.
+- [Skarmorite](items/skarmorite.md) — If held by a Skarmory, this item allows it to Mega Evolve in battle.
+- [Slowbronite](items/slowbronite.md) — If held by a Slowbro (not Galarian Slowbro), this item allows it to Mega Evolve.
+- [Smooth Rock](items/smoothrock.md) — Holder's use of Sandstorm lasts 8 turns instead of 5.
+- [Soft Sand](items/softsand.md) — Holder's Ground-type attacks have 1.2× power.
+- [Spell Tag](items/spelltag.md) — Holder's Ghost-type attacks have 1.2× power.
+- [Staraptite](items/staraptite.md) — If held by a Staraptor, this item allows it to Mega Evolve in battle.
+- [Starminite](items/starminite.md) — If held by a Starmie, this item allows it to Mega Evolve in battle.
+- [Steelixite](items/steelixite.md) — If held by a Steelix, this item allows it to Mega Evolve in battle.
+- [Swampertite](items/swampertite.md) — If held by a Swampert, this item allows it to Mega Evolve in battle.
+- [Tanga Berry](items/tangaberry.md) — Halves damage taken from a supereffective Bug-type attack. Single use.
+- [Terrain Extender](items/terrainextender.md) — Holder's use of Electric/Grassy/Misty/Psychic Terrain lasts 8 turns instead of 5.
+- [Twisted Spoon](items/twistedspoon.md) — Holder's Psychic-type attacks have 1.2× power.
+- [Tyranitarite](items/tyranitarite.md) — If held by a Tyranitar, this item allows it to Mega Evolve in battle.
+- [Venusaurite](items/venusaurite.md) — If held by a Venusaur, this item allows it to Mega Evolve in battle.
+- [Victreebelite](items/victreebelite.md) — If held by a Victreebel, this item allows it to Mega Evolve in battle.
+- [Wacan Berry](items/wacanberry.md) — Halves damage taken from a supereffective Electric-type attack. Single use.
+- [White Herb](items/whiteherb.md) — Restores all lowered stat stages to 0 when one is less than 0. Single use.
+- [Wide Lens](items/widelens.md) — The accuracy of attacks by the holder is 1.1×.
+- [Wise Glasses](items/wiseglasses.md) — Holder's special attacks have 1.1× power.
+- [Yache Berry](items/yacheberry.md) — Halves damage taken from a supereffective Ice-type attack. Single use.
+- [Zoom Lens](items/zoomlens.md) — The accuracy of attacks by the holder is 1.2× if it moves after its target.
+
+## Types (18)
+
+- [Bug type](types/bug.md) — Single-type offensive and defensive matchups; combine with current types and conditional immunities.
+- [Dark type](types/dark.md) — Single-type offensive and defensive matchups; combine with current types and conditional immunities.
+- [Dragon type](types/dragon.md) — Single-type offensive and defensive matchups; combine with current types and conditional immunities.
+- [Electric type](types/electric.md) — Single-type offensive and defensive matchups; combine with current types and conditional immunities.
+- [Fairy type](types/fairy.md) — Single-type offensive and defensive matchups; combine with current types and conditional immunities.
+- [Fighting type](types/fighting.md) — Single-type offensive and defensive matchups; combine with current types and conditional immunities.
+- [Fire type](types/fire.md) — Single-type offensive and defensive matchups; combine with current types and conditional immunities.
+- [Flying type](types/flying.md) — Single-type offensive and defensive matchups; combine with current types and conditional immunities.
+- [Ghost type](types/ghost.md) — Single-type offensive and defensive matchups; combine with current types and conditional immunities.
+- [Grass type](types/grass.md) — Single-type offensive and defensive matchups; combine with current types and conditional immunities.
+- [Ground type](types/ground.md) — Single-type offensive and defensive matchups; combine with current types and conditional immunities.
+- [Ice type](types/ice.md) — Single-type offensive and defensive matchups; combine with current types and conditional immunities.
+- [Normal type](types/normal.md) — Single-type offensive and defensive matchups; combine with current types and conditional immunities.
+- [Poison type](types/poison.md) — Single-type offensive and defensive matchups; combine with current types and conditional immunities.
+- [Psychic type](types/psychic.md) — Single-type offensive and defensive matchups; combine with current types and conditional immunities.
+- [Rock type](types/rock.md) — Single-type offensive and defensive matchups; combine with current types and conditional immunities.
+- [Steel type](types/steel.md) — Single-type offensive and defensive matchups; combine with current types and conditional immunities.
+- [Water type](types/water.md) — Single-type offensive and defensive matchups; combine with current types and conditional immunities.
+
+## Interactions (20)
+
+- [Psychic Terrain and opposing priority](interactions/psychic-terrain-priority.md) — Grounded targets, positive priority, and side identity determine this protection.
+- [Dark typing and Prankster](interactions/dark-prankster.md) — A Dark target can reject a Prankster-boosted opposing move.
+- [Armor Tail and Queenly Majesty](interactions/ability-priority-protection.md) — Active ability holders can protect their side from opposing priority.
+- [Wide Guard, Quick Guard, and target shape](interactions/guards-and-target-shape.md) — Side protection depends on spread targeting or positive priority.
+- [Champions contact damage through protection](interactions/contact-through-protection.md) — Unseen Fist and Piercing Drill can permit quarter damage through protection.
+- [Intimidate and stat-drop responses](interactions/intimidate-and-stat-responses.md) — A switch-in Attack drop can fail or trigger a retaliatory boost.
+- [Rage Powder, Follow Me, and powder immunity](interactions/powder-redirection.md) — Redirection eligibility depends on move shape, actor immunity, and active effects.
+- [Sound moves and Substitute](interactions/sound-and-substitute.md) — A bypass flag and sound immunity are different checks.
+- [Terrain Seeds and Unburden](interactions/seed-and-unburden.md) — Item consumption and terrain activation can change both bulk and Speed.
+- [White Herb, stat drops, and Unburden](interactions/white-herb-and-unburden.md) — A consumed White Herb can remove negative stages and activate Unburden.
+- [Weather abilities and Speed order](interactions/weather-speed.md) — Weather-dependent Speed changes interact with Trick Room and suppression.
+- [Grounding and Ground-type immunity](interactions/grounding-and-ground-immunity.md) — Flying, Levitate, and forced grounding require separate checks.
+- [Freeze-Dry and Water typing](interactions/freeze-dry-water.md) — A move-specific effectiveness override is not ordinary Ice coverage.
+- [Grassy Glide and terrain-dependent priority](interactions/grassy-glide-priority.md) — A move can gain priority only under its actual terrain conditions.
+- [Upper Hand and pending priority attacks](interactions/upper-hand-eligibility.md) — Upper Hand depends on the target’s still-pending action.
+- [Focus Sash and multiple hits](interactions/sash-and-multiple-hits.md) — Full-HP survival is evaluated for the hit that would cause fainting.
+- [Contact and Rocky Helmet](interactions/contact-and-helmet.md) — Damage category does not determine whether a move makes contact.
+- [Champions Encore and queued priority](interactions/encore-queued-priority.md) — Encore can replace a pending move and change its priority.
+- [Mega Evolution and current form state](interactions/mega-form-state.md) — Starting ability, transformation eligibility, and current Mega ability are distinct.
+- [Terrain and status prevention](interactions/terrain-status-prevention.md) — Groundedness and the timing of status application determine prevention.

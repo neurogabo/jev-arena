@@ -1,0 +1,515 @@
+# Moves
+
+[Wiki home](../README.md). 511 pages, pinned Champions M-C snapshot.
+
+- [Accelerock](accelerock.md) — Usually goes first.
+- [Acid Armor](acidarmor.md) — Raises the user's Defense by 2.
+- [Acid Spray](acidspray.md) — 100% chance to lower the target's Sp. Def by 2.
+- [Acrobatics](acrobatics.md) — Power doubles if the user has no held item.
+- [Acupressure](acupressure.md) — Raises a random stat of the user or an ally by 2.
+- [Aerial Ace](aerialace.md) — This move does not check accuracy.
+- [After You](afteryou.md) — The target makes its move right after the user.
+- [Agility](agility.md) — Raises the user's Speed by 2.
+- [Air Cutter](aircutter.md) — High critical hit ratio. Hits adjacent foes.
+- [Air Slash](airslash.md) — 30% chance to make the target flinch.
+- [Alluring Voice](alluringvoice.md) — 100% confuse target that had a stat rise this turn.
+- [Ally Switch](allyswitch.md) — User and ally swap positions; using again can fail.
+- [Amnesia](amnesia.md) — Raises the user's Sp. Def by 2.
+- [Ancient Power](ancientpower.md) — 10% chance to raise all stats by 1 (not acc/eva).
+- [Apple Acid](appleacid.md) — 100% chance to lower the target's Sp. Def by 1.
+- [Aqua Cutter](aquacutter.md) — High critical hit ratio.
+- [Aqua Jet](aquajet.md) — Usually goes first.
+- [Aqua Ring](aquaring.md) — User recovers 1/16 max HP per turn.
+- [Aqua Step](aquastep.md) — 100% chance to raise the user's Speed by 1.
+- [Aqua Tail](aquatail.md) — No additional effect.
+- [Armor Cannon](armorcannon.md) — Lowers the user's Defense and Sp. Def by 1.
+- [Aromatic Mist](aromaticmist.md) — Raises an ally's Sp. Def by 1.
+- [Assurance](assurance.md) — Power doubles if target was damaged this turn.
+- [Attract](attract.md) — A target of the opposite gender gets infatuated.
+- [Aura Sphere](aurasphere.md) — This move does not check accuracy.
+- [Aura Wheel](aurawheel.md) — Morpeko: Electric; Hangry: Dark; 100% +1 Spe.
+- [Aurora Veil](auroraveil.md) — For 5 turns, damage to allies halved. Snow only.
+- [Avalanche](avalanche.md) — Power doubles if user is damaged by the target.
+- [Axe Kick](axekick.md) — 30% confusion. User loses 50% max HP if miss.
+- [Baby-Doll Eyes](babydolleyes.md) — Lowers the target's Attack by 1.
+- [Baneful Bunker](banefulbunker.md) — Protects from moves. Contact: poison.
+- [Barb Barrage](barbbarrage.md) — 50% psn. 2× power if target already poisoned.
+- [Baton Pass](batonpass.md) — User switches, passing stat changes and more.
+- [Beak Blast](beakblast.md) — Burns on contact with the user before it moves.
+- [Beat Up](beatup.md) — All healthy allies aid in damaging the target.
+- [Belch](belch.md) — Fails unless the user has eaten a Berry.
+- [Belly Drum](bellydrum.md) — User loses 50% max HP. Maximizes Attack.
+- [Bind](bind.md) — Traps and damages the target for 4-5 turns.
+- [Bite](bite.md) — 30% chance to make the target flinch.
+- [Bitter Blade](bitterblade.md) — User recovers 50% of the damage dealt.
+- [Bitter Malice](bittermalice.md) — 100% chance to lower the target's Attack by 1.
+- [Blast Burn](blastburn.md) — User cannot move next turn.
+- [Blaze Kick](blazekick.md) — High critical hit ratio. 10% chance to burn.
+- [Blizzard](blizzard.md) — 10% chance to freeze foe(s). Can't miss in Snow.
+- [Block](block.md) — Prevents the target from switching out.
+- [Body Press](bodypress.md) — Uses user's Def stat as Atk in damage calculation.
+- [Body Slam](bodyslam.md) — 30% chance to paralyze the target.
+- [Bone Rush](bonerush.md) — Hits 2-5 times in one turn.
+- [Boomburst](boomburst.md) — No additional effect. Hits adjacent Pokemon.
+- [Bounce](bounce.md) — Bounces turn 1. Hits turn 2. 30% paralyze.
+- [Brave Bird](bravebird.md) — Has 33% recoil.
+- [Breaking Swipe](breakingswipe.md) — 100% chance to lower the foe(s) Attack by 1.
+- [Brick Break](brickbreak.md) — Destroys screens, unless the target is immune.
+- [Brutal Swing](brutalswing.md) — No additional effect. Hits adjacent Pokemon.
+- [Bug Bite](bugbite.md) — User steals and eats the target's Berry.
+- [Bug Buzz](bugbuzz.md) — 10% chance to lower the target's Sp. Def by 1.
+- [Bulk Up](bulkup.md) — Raises the user's Attack and Defense by 1.
+- [Bulldoze](bulldoze.md) — 100% chance lower adjacent Pkmn Speed by 1.
+- [Bullet Punch](bulletpunch.md) — Usually goes first.
+- [Bullet Seed](bulletseed.md) — Hits 2-5 times in one turn.
+- [Burn Up](burnup.md) — User's Fire type becomes typeless; must be Fire.
+- [Burning Jealousy](burningjealousy.md) — 100% burns a target that had a stat rise this turn.
+- [Calm Mind](calmmind.md) — Raises the user's Sp. Atk and Sp. Def by 1.
+- [Ceaseless Edge](ceaselessedge.md) — Sets a layer of Spikes on the opposing side.
+- [Charge](charge.md) — +1 SpD, user's next Electric move 2× power.
+- [Charge Beam](chargebeam.md) — 70% chance to raise the user's Sp. Atk by 1.
+- [Charm](charm.md) — Lowers the target's Attack by 2.
+- [Chilling Water](chillingwater.md) — 100% chance to lower the target's Attack by 1.
+- [Chilly Reception](chillyreception.md) — Starts Snow. User switches out.
+- [Circle Throw](circlethrow.md) — Forces the target to switch to a random ally.
+- [Clanging Scales](clangingscales.md) — Lowers the user's Defense by 1.
+- [Clangorous Soul](clangoroussoul.md) — User loses 33% of its max HP. +1 to all stats.
+- [Clear Smog](clearsmog.md) — Resets all of the target's stat stages to 0.
+- [Close Combat](closecombat.md) — Lowers the user's Defense and Sp. Def by 1.
+- [Coaching](coaching.md) — Raises an ally's Attack and Defense by 1.
+- [Coil](coil.md) — Raises user's Attack, Defense, accuracy by 1.
+- [Comeuppance](comeuppance.md) — If hit by an attack, returns 1.5× damage.
+- [Confuse Ray](confuseray.md) — Confuses the target.
+- [Copycat](copycat.md) — Uses the last move used in the battle.
+- [Corrosive Gas](corrosivegas.md) — Removes adjacent Pokemon's held items.
+- [Cosmic Power](cosmicpower.md) — Raises the user's Defense and Sp. Def by 1.
+- [Cotton Guard](cottonguard.md) — Raises the user's Defense by 3.
+- [Cotton Spore](cottonspore.md) — Lowers the target's Speed by 2.
+- [Counter](counter.md) — If hit by physical attack, returns double damage.
+- [Court Change](courtchange.md) — Swaps user's field effects with the opposing side.
+- [Covet](covet.md) — If the user has no item, it steals the target's.
+- [Crabhammer](crabhammer.md) — High critical hit ratio.
+- [Cross Chop](crosschop.md) — High critical hit ratio.
+- [Cross Poison](crosspoison.md) — High critical hit ratio. 10% chance to poison.
+- [Crunch](crunch.md) — 20% chance to lower the target's Defense by 1.
+- [Crush Claw](crushclaw.md) — 50% chance to lower the target's Defense by 1.
+- [Curse](curse.md) — Curses if Ghost, else -1 Spe, +1 Atk, +1 Def.
+- [Dark Pulse](darkpulse.md) — 20% chance to make the target flinch.
+- [Darkest Lariat](darkestlariat.md) — Ignores the target's stat stage changes.
+- [Dazzling Gleam](dazzlinggleam.md) — No additional effect. Hits adjacent foes.
+- [Decorate](decorate.md) — Raises the target's Attack and Sp. Atk by 2.
+- [Defog](defog.md) — -1 evasion; ends user and target hazards/terrain.
+- [Destiny Bond](destinybond.md) — If an opponent knocks out the user, it also faints.
+- [Detect](detect.md) — Prevents moves from affecting the user this turn.
+- [Dig](dig.md) — Digs underground turn 1, strikes turn 2.
+- [Dire Claw](direclaw.md) — 30% chance to sleep, poison, or paralyze target.
+- [Disable](disable.md) — For 4 turns, disables the target's last move used.
+- [Discharge](discharge.md) — 30% chance to paralyze adjacent Pokemon.
+- [Dive](dive.md) — Dives underwater turn 1, strikes turn 2.
+- [Double Hit](doublehit.md) — Hits 2 times in one turn.
+- [Double Shock](doubleshock.md) — User's Electric type: typeless; must be Electric.
+- [Double Team](doubleteam.md) — Raises the user's evasiveness by 1.
+- [Double-Edge](doubleedge.md) — Has 33% recoil.
+- [Draco Meteor](dracometeor.md) — Lowers the user's Sp. Atk by 2.
+- [Dragon Cheer](dragoncheer.md) — Ally: Crit ratio +1, or +2 if ally is Dragon type.
+- [Dragon Claw](dragonclaw.md) — No additional effect.
+- [Dragon Dance](dragondance.md) — Raises the user's Attack and Speed by 1.
+- [Dragon Darts](dragondarts.md) — Hits twice. Doubles: Tries to hit each foe once.
+- [Dragon Pulse](dragonpulse.md) — No additional effect.
+- [Dragon Rush](dragonrush.md) — 20% chance to make the target flinch.
+- [Dragon Tail](dragontail.md) — Forces the target to switch to a random ally.
+- [Drain Punch](drainpunch.md) — User recovers 50% of the damage dealt.
+- [Draining Kiss](drainingkiss.md) — User recovers 75% of the damage dealt.
+- [Drill Peck](drillpeck.md) — No additional effect.
+- [Drill Run](drillrun.md) — High critical hit ratio.
+- [Drum Beating](drumbeating.md) — 100% chance to lower the target's Speed by 1.
+- [Dual Wingbeat](dualwingbeat.md) — Hits 2 times in one turn.
+- [Dynamic Punch](dynamicpunch.md) — 100% chance to confuse the target.
+- [Earth Power](earthpower.md) — 10% chance to lower the target's Sp. Def by 1.
+- [Earthquake](earthquake.md) — Hits adjacent Pokemon. Double damage on Dig.
+- [Eerie Impulse](eerieimpulse.md) — Lowers the target's Sp. Atk by 2.
+- [Eerie Spell](eeriespell.md) — Removes 3 PP from the target's last move.
+- [Electric Terrain](electricterrain.md) — 5 turns. Grounded: +Electric power, can't sleep.
+- [Electrify](electrify.md) — Changes the target's move to Electric this turn.
+- [Electro Ball](electroball.md) — More power the faster the user is than the target.
+- [Electro Shot](electroshot.md) — Raises Sp. Atk by 1, hits turn 2. Rain: no charge.
+- [Electroweb](electroweb.md) — 100% chance to lower the foe(s) Speed by 1.
+- [Encore](encore.md) — Target repeats its last move for its next 3 turns.
+- [Endeavor](endeavor.md) — Lowers the target's HP to the user's HP.
+- [Endure](endure.md) — User survives attacks this turn with at least 1 HP.
+- [Energy Ball](energyball.md) — 10% chance to lower the target's Sp. Def by 1.
+- [Entrainment](entrainment.md) — The target's Ability changes to match the user's.
+- [Eruption](eruption.md) — Less power as user's HP decreases. Hits foe(s).
+- [Expanding Force](expandingforce.md) — User on Psychic Terrain: 1.5× power, hits foes.
+- [Explosion](explosion.md) — Hits adjacent Pokemon. The user faints.
+- [Extrasensory](extrasensory.md) — 10% chance to make the target flinch.
+- [Extreme Speed](extremespeed.md) — Nearly always goes first.
+- [Facade](facade.md) — Power doubles if user is burn/poison/paralyzed.
+- [Fairy Lock](fairylock.md) — Prevents all Pokemon from switching next turn.
+- [Fake Out](fakeout.md) — Hits first. First turn out only. 100% flinch chance.
+- [Fake Tears](faketears.md) — Lowers the target's Sp. Def by 2.
+- [Feather Dance](featherdance.md) — Lowers the target's Attack by 2.
+- [Feint](feint.md) — Nullifies Detect, Protect, and Quick/Wide Guard.
+- [Fell Stinger](fellstinger.md) — Raises user's Attack by 3 if this KOes the target.
+- [Fickle Beam](ficklebeam.md) — Has a 30% chance this move's power is doubled.
+- [Fiery Dance](fierydance.md) — 50% chance to raise the user's Sp. Atk by 1.
+- [Final Gambit](finalgambit.md) — Does damage equal to the user's HP. User faints.
+- [Fire Blast](fireblast.md) — 10% chance to burn the target.
+- [Fire Fang](firefang.md) — 10% chance to burn. 10% chance to flinch.
+- [Fire Lash](firelash.md) — 100% chance to lower the target's Defense by 1.
+- [Fire Punch](firepunch.md) — 10% chance to burn the target.
+- [Fire Spin](firespin.md) — Traps and damages the target for 4-5 turns.
+- [First Impression](firstimpression.md) — Nearly always goes first. First turn out only.
+- [Fissure](fissure.md) — OHKOs the target. Fails if user is a lower level.
+- [Flail](flail.md) — More power the less HP the user has left.
+- [Flame Charge](flamecharge.md) — 100% chance to raise the user's Speed by 1.
+- [Flamethrower](flamethrower.md) — 10% chance to burn the target.
+- [Flare Blitz](flareblitz.md) — Has 33% recoil. 10% chance to burn. Thaws user.
+- [Flash Cannon](flashcannon.md) — 10% chance to lower the target's Sp. Def by 1.
+- [Flatter](flatter.md) — Raises the target's Sp. Atk by 1 and confuses it.
+- [Fling](fling.md) — Flings the user's item at the target. Power varies.
+- [Flip Turn](flipturn.md) — User switches out after damaging the target.
+- [Flower Trick](flowertrick.md) — Always results in a critical hit; no accuracy check.
+- [Fly](fly.md) — Flies up on first turn, then strikes the next turn.
+- [Flying Press](flyingpress.md) — Combines Flying in its type effectiveness.
+- [Focus Blast](focusblast.md) — 10% chance to lower the target's Sp. Def by 1.
+- [Focus Energy](focusenergy.md) — Raises the user's critical hit ratio by 2.
+- [Focus Punch](focuspunch.md) — Fails if the user takes damage before it hits.
+- [Follow Me](followme.md) — The foes' moves target the user on the turn used.
+- [Forest's Curse](forestscurse.md) — Adds Grass to the target's type(s).
+- [Foul Play](foulplay.md) — Uses target's Attack stat in damage calculation.
+- [Freeze-Dry](freezedry.md) — Super effective on Water.
+- [Frenzy Plant](frenzyplant.md) — User cannot move next turn.
+- [Frost Breath](frostbreath.md) — Always results in a critical hit.
+- [Future Sight](futuresight.md) — Hits two turns after being used.
+- [Gastro Acid](gastroacid.md) — Nullifies the target's Ability.
+- [Giga Drain](gigadrain.md) — User recovers 50% of the damage dealt.
+- [Giga Impact](gigaimpact.md) — User cannot move next turn.
+- [Gigaton Hammer](gigatonhammer.md) — Cannot be selected the turn after it's used.
+- [Glaive Rush](glaiverush.md) — User takes sure-hit 2× damage until its next turn.
+- [Glare](glare.md) — Paralyzes the target.
+- [Grass Knot](grassknot.md) — More power the heavier the target.
+- [Grassy Glide](grassyglide.md) — User on Grassy Terrain: +1 priority.
+- [Grassy Terrain](grassyterrain.md) — 5 turns. Grounded: +Grass power, +1/16 max HP.
+- [Grav Apple](gravapple.md) — Target: 100% -1 Def. During Gravity: 1.5× power.
+- [Gravity](gravity.md) — 5 turns: no Ground immunities, 1.67× accuracy.
+- [Growth](growth.md) — Raises user's Attack and Sp. Atk by 1; 2 in Sun.
+- [Guard Split](guardsplit.md) — Averages Defense and Sp. Def stats with target.
+- [Guard Swap](guardswap.md) — Swaps Defense and Sp. Def changes with target.
+- [Guillotine](guillotine.md) — OHKOs the target. Fails if user is a lower level.
+- [Gunk Shot](gunkshot.md) — 30% chance to poison the target.
+- [Gyro Ball](gyroball.md) — More power the slower the user than the target.
+- [Hammer Arm](hammerarm.md) — Lowers the user's Speed by 1.
+- [Hard Press](hardpress.md) — More power the more HP the target has left.
+- [Haze](haze.md) — Eliminates all stat changes.
+- [Head Smash](headsmash.md) — Has 1/2 recoil.
+- [Headlong Rush](headlongrush.md) — Lowers the user's Defense and Sp. Def by 1.
+- [Heal Bell](healbell.md) — Cures the user's party of all status conditions.
+- [Heal Pulse](healpulse.md) — Heals the target by 50% of its max HP.
+- [Healing Wish](healingwish.md) — User faints. Next hurt Pokemon is fully healed.
+- [Heat Crash](heatcrash.md) — More power the heavier the user than the target.
+- [Heat Wave](heatwave.md) — 10% chance to burn the foe(s).
+- [Heavy Slam](heavyslam.md) — More power the heavier the user than the target.
+- [Helping Hand](helpinghand.md) — One adjacent ally's move power is 1.5× this turn.
+- [Hex](hex.md) — Power doubles if the target has a status ailment.
+- [High Horsepower](highhorsepower.md) — No additional effect.
+- [High Jump Kick](highjumpkick.md) — User is hurt by 50% of its max HP if it misses.
+- [Horn Drill](horndrill.md) — OHKOs the target. Fails if user is a lower level.
+- [Horn Leech](hornleech.md) — User recovers 50% of the damage dealt.
+- [Howl](howl.md) — Raises the user's and ally's Attack by 1.
+- [Hurricane](hurricane.md) — 30% chance to confuse target. Can't miss in rain.
+- [Hydro Cannon](hydrocannon.md) — User cannot move next turn.
+- [Hydro Pump](hydropump.md) — No additional effect.
+- [Hyper Beam](hyperbeam.md) — User cannot move next turn.
+- [Hyper Voice](hypervoice.md) — No additional effect. Hits adjacent foes.
+- [Hypnosis](hypnosis.md) — Causes the target to fall asleep.
+- [Ice Beam](icebeam.md) — 10% chance to freeze the target.
+- [Ice Fang](icefang.md) — 10% chance to freeze. 10% chance to flinch.
+- [Ice Hammer](icehammer.md) — Lowers the user's Speed by 1.
+- [Ice Punch](icepunch.md) — 10% chance to freeze the target.
+- [Ice Shard](iceshard.md) — Usually goes first.
+- [Ice Spinner](icespinner.md) — Ends the effects of terrain.
+- [Icicle Crash](iciclecrash.md) — 30% chance to make the target flinch.
+- [Icicle Spear](iciclespear.md) — Hits 2-5 times in one turn.
+- [Icy Wind](icywind.md) — 100% chance to lower the foe(s) Speed by 1.
+- [Imprison](imprison.md) — No foe can use any move known by the user.
+- [Infernal Parade](infernalparade.md) — 30% burn. 2× power if target is already statused.
+- [Inferno](inferno.md) — 100% chance to burn the target.
+- [Infestation](infestation.md) — Traps and damages the target for 4-5 turns.
+- [Ingrain](ingrain.md) — Traps/grounds user; heals 1/16 max HP per turn.
+- [Instruct](instruct.md) — The target immediately uses its last used move.
+- [Iron Defense](irondefense.md) — Raises the user's Defense by 2.
+- [Iron Head](ironhead.md) — 20% chance to make the target flinch.
+- [Iron Tail](irontail.md) — 30% chance to lower the target's Defense by 1.
+- [Jaw Lock](jawlock.md) — Prevents both user and target from switching out.
+- [Jet Punch](jetpunch.md) — Usually goes first.
+- [King's Shield](kingsshield.md) — Protects from damaging attacks. Contact: -1 Atk.
+- [Knock Off](knockoff.md) — 1.5× damage if foe holds an item. Removes item.
+- [Kowtow Cleave](kowtowcleave.md) — This move does not check accuracy.
+- [Lash Out](lashout.md) — 2× power if the user had a stat lowered this turn.
+- [Last Resort](lastresort.md) — Fails unless each known move has been used.
+- [Last Respects](lastrespects.md) — +50 power for each time a party member fainted.
+- [Lava Plume](lavaplume.md) — 30% chance to burn adjacent Pokemon.
+- [Leaf Blade](leafblade.md) — High critical hit ratio.
+- [Leaf Storm](leafstorm.md) — Lowers the user's Sp. Atk by 2.
+- [Leech Life](leechlife.md) — User recovers 50% of the damage dealt.
+- [Leech Seed](leechseed.md) — 1/8 of target's HP is restored to user every turn.
+- [Life Dew](lifedew.md) — Heals the user and its allies by 1/4 their max HP.
+- [Light Screen](lightscreen.md) — For 5 turns, special damage to allies is halved.
+- [Light of Ruin](lightofruin.md) — Has 1/2 recoil.
+- [Liquidation](liquidation.md) — 20% chance to lower the target's Defense by 1.
+- [Lock-On](lockon.md) — User's next move will not miss the target.
+- [Low Kick](lowkick.md) — More power the heavier the target.
+- [Low Sweep](lowsweep.md) — 100% chance to lower the target's Speed by 1.
+- [Lumina Crash](luminacrash.md) — 100% chance to lower the target's Sp. Def by 2.
+- [Lunge](lunge.md) — 100% chance to lower the target's Attack by 1.
+- [Mach Punch](machpunch.md) — Usually goes first.
+- [Magic Powder](magicpowder.md) — Changes the target's type to Psychic.
+- [Magic Room](magicroom.md) — For 5 turns, all held items have no effect.
+- [Magnet Rise](magnetrise.md) — For 5 turns, the user has immunity to Ground.
+- [Magnetic Flux](magneticflux.md) — Raises Def, Sp. Def of allies with Plus/Minus by 1.
+- [Make It Rain](makeitrain.md) — Lowers the user's Sp. Atk by 2. Hits foe(s).
+- [Matcha Gotcha](matchagotcha.md) — 20% burn. Recovers 50% dmg dealt. Thaws foe(s).
+- [Mean Look](meanlook.md) — Prevents the target from switching out.
+- [Mega Kick](megakick.md) — No additional effect.
+- [Megahorn](megahorn.md) — No additional effect.
+- [Memento](memento.md) — Lowers target's Attack, Sp. Atk by 2. User faints.
+- [Metal Burst](metalburst.md) — If hit by an attack, returns 1.5× damage.
+- [Metal Sound](metalsound.md) — Lowers the target's Sp. Def by 2.
+- [Meteor Assault](meteorassault.md) — User cannot move next turn.
+- [Meteor Beam](meteorbeam.md) — Raises user's Sp. Atk by 1 on turn 1. Hits turn 2.
+- [Meteor Mash](meteormash.md) — 20% chance to raise the user's Attack by 1.
+- [Milk Drink](milkdrink.md) — Heals the user by 50% of its max HP.
+- [Minimize](minimize.md) — Raises the user's evasiveness by 2.
+- [Mirror Coat](mirrorcoat.md) — If hit by special attack, returns double damage.
+- [Misty Explosion](mistyexplosion.md) — User faints. User on Misty Terrain: 1.5× power.
+- [Misty Terrain](mistyterrain.md) — 5 turns. Can't status,-Dragon power vs grounded.
+- [Moonblast](moonblast.md) — 10% chance to lower the target's Sp. Atk by 1.
+- [Moonlight](moonlight.md) — Heals the user by a weather-dependent amount.
+- [Morning Sun](morningsun.md) — Heals the user by a weather-dependent amount.
+- [Mortal Spin](mortalspin.md) — Poisons foes, frees user from hazards/bind/leech.
+- [Mountain Gale](mountaingale.md) — 30% chance to make the target flinch.
+- [Mud Shot](mudshot.md) — 100% chance to lower the target's Speed by 1.
+- [Mud-Slap](mudslap.md) — 100% chance to lower the target's accuracy by 1.
+- [Muddy Water](muddywater.md) — 30% chance to lower the foe(s) accuracy by 1.
+- [Mystical Fire](mysticalfire.md) — 100% chance to lower the target's Sp. Atk by 1.
+- [Nasty Plot](nastyplot.md) — Raises the user's Sp. Atk by 2.
+- [Night Daze](nightdaze.md) — 40% chance to lower the target's accuracy by 1.
+- [Night Shade](nightshade.md) — Does damage equal to the user's level.
+- [Night Slash](nightslash.md) — High critical hit ratio.
+- [No Retreat](noretreat.md) — Raises all stats by 1 (not acc/eva). Traps user.
+- [Noble Roar](nobleroar.md) — Lowers the target's Attack and Sp. Atk by 1.
+- [Nuzzle](nuzzle.md) — 100% chance to paralyze the target.
+- [Octolock](octolock.md) — Traps target, lowers Def and SpD by 1 each turn.
+- [Outrage](outrage.md) — Lasts 2-3 turns. Confuses the user afterwards.
+- [Overdrive](overdrive.md) — No additional effect. Hits foe(s).
+- [Overheat](overheat.md) — Lowers the user's Sp. Atk by 2.
+- [Pain Split](painsplit.md) — Shares HP of user and target equally.
+- [Parabolic Charge](paraboliccharge.md) — User recovers 50% of the damage dealt.
+- [Parting Shot](partingshot.md) — Lowers target's Atk, Sp. Atk by 1. User switches.
+- [Payback](payback.md) — Power doubles if the user moves after the target.
+- [Perish Song](perishsong.md) — All active Pokemon will faint in 3 turns.
+- [Petal Blizzard](petalblizzard.md) — No additional effect. Hits adjacent Pokemon.
+- [Petal Dance](petaldance.md) — Lasts 2-3 turns. Confuses the user afterwards.
+- [Phantom Force](phantomforce.md) — Disappears turn 1. Hits turn 2. Breaks protection.
+- [Pin Missile](pinmissile.md) — Hits 2-5 times in one turn.
+- [Play Rough](playrough.md) — 10% chance to lower the target's Attack by 1.
+- [Pluck](pluck.md) — User steals and eats the target's Berry.
+- [Poison Fang](poisonfang.md) — 50% chance to badly poison the target.
+- [Poison Jab](poisonjab.md) — 30% chance to poison the target.
+- [Poison Powder](poisonpowder.md) — Poisons the target.
+- [Pollen Puff](pollenpuff.md) — If the target is an ally, heals 50% of its max HP.
+- [Poltergeist](poltergeist.md) — Fails if the target has no held item.
+- [Population Bomb](populationbomb.md) — Hits 10 times. Each hit can miss.
+- [Pounce](pounce.md) — 100% chance to lower the target's Speed by 1.
+- [Power Gem](powergem.md) — No additional effect.
+- [Power Split](powersplit.md) — Averages Attack and Sp. Atk stats with target.
+- [Power Swap](powerswap.md) — Swaps Attack and Sp. Atk stat stages with target.
+- [Power Trick](powertrick.md) — Switches user's Attack and Defense stats.
+- [Power Trip](powertrip.md) —  + 20 power for each of the user's stat boosts.
+- [Power Whip](powerwhip.md) — No additional effect.
+- [Protect](protect.md) — Prevents moves from affecting the user this turn.
+- [Psych Up](psychup.md) — Copies the target's current stat stages.
+- [Psychic](psychic.md) — 10% chance to lower the target's Sp. Def by 1.
+- [Psychic Fangs](psychicfangs.md) — Destroys screens, unless the target is immune.
+- [Psychic Noise](psychicnoise.md) — For 2 turns, the target is prevented from healing.
+- [Psychic Terrain](psychicterrain.md) — 5 turns. Grounded: +Psychic power, priority-safe.
+- [Psycho Cut](psychocut.md) — High critical hit ratio.
+- [Psyshield Bash](psyshieldbash.md) — 100% chance to raise the user's Defense by 1.
+- [Psyshock](psyshock.md) — Damages target based on Defense, not Sp. Def.
+- [Pyro Ball](pyroball.md) — 10% chance to burn the target. Thaws user.
+- [Quash](quash.md) — Forces the target to move last this turn.
+- [Quick Attack](quickattack.md) — Usually goes first.
+- [Quick Guard](quickguard.md) — Protects allies from priority attacks this turn.
+- [Quiver Dance](quiverdance.md) — Raises the user's Sp. Atk, Sp. Def, Speed by 1.
+- [Rage Fist](ragefist.md) — +50 BP/hit on user. Max 6 hits. Resets on switch-out.
+- [Rage Powder](ragepowder.md) — The foes' moves target the user on the turn used.
+- [Raging Bull](ragingbull.md) — Destroys screens. Type depends on user's form.
+- [Raging Fury](ragingfury.md) — Lasts 2-3 turns. Confuses the user afterwards.
+- [Rain Dance](raindance.md) — For 5 turns, heavy rain powers Water moves.
+- [Rapid Spin](rapidspin.md) — Free user from hazards/bind/Leech Seed; +1 Spe.
+- [Razor Shell](razorshell.md) — 50% chance to lower the target's Defense by 1.
+- [Recover](recover.md) — Heals the user by 50% of its max HP.
+- [Recycle](recycle.md) — Restores the item the user last used.
+- [Reflect](reflect.md) — For 5 turns, physical damage to allies is halved.
+- [Reflect Type](reflecttype.md) — User becomes the same type as the target.
+- [Rest](rest.md) — User sleeps 2 turns and restores HP and status.
+- [Reversal](reversal.md) — More power the less HP the user has left.
+- [Revival Blessing](revivalblessing.md) — Revives a fainted Pokemon to 50% HP.
+- [Rising Voltage](risingvoltage.md) — 2× power if target is grounded in Electric Terrain.
+- [Roar](roar.md) — Forces the target to switch to a random ally.
+- [Rock Blast](rockblast.md) — Hits 2-5 times in one turn.
+- [Rock Polish](rockpolish.md) — Raises the user's Speed by 2.
+- [Rock Slide](rockslide.md) — 30% chance to make the foe(s) flinch.
+- [Rock Tomb](rocktomb.md) — 100% chance to lower the target's Speed by 1.
+- [Rock Wrecker](rockwrecker.md) — User cannot move next turn.
+- [Role Play](roleplay.md) — User replaces its Ability with the target's.
+- [Roost](roost.md) — Heals 50% HP. Flying-type removed 'til turn ends.
+- [Round](round.md) — Power doubles if others used Round this turn.
+- [Sacred Sword](sacredsword.md) — Ignores the target's stat stage changes.
+- [Safeguard](safeguard.md) — For 5 turns, protects user's party from status.
+- [Salt Cure](saltcure.md) — Deals 1/16 max HP each turn; 1/8 on Steel, Water.
+- [Sand Tomb](sandtomb.md) — Traps and damages the target for 4-5 turns.
+- [Sandstorm](sandstorm.md) — For 5 turns, a sandstorm rages. Rock: 1.5× SpD.
+- [Scald](scald.md) — 30% chance to burn the target. Thaws target.
+- [Scale Shot](scaleshot.md) — Hits 2-5 times. User: -1 Def, +1 Spe after last hit.
+- [Scary Face](scaryface.md) — Lowers the target's Speed by 2.
+- [Scorching Sands](scorchingsands.md) — 30% chance to burn the target. Thaws target.
+- [Screech](screech.md) — Lowers the target's Defense by 2.
+- [Seed Bomb](seedbomb.md) — No additional effect.
+- [Seismic Toss](seismictoss.md) — Does damage equal to the user's level.
+- [Self-Destruct](selfdestruct.md) — Hits adjacent Pokemon. The user faints.
+- [Shadow Ball](shadowball.md) — 20% chance to lower the target's Sp. Def by 1.
+- [Shadow Claw](shadowclaw.md) — High critical hit ratio.
+- [Shadow Punch](shadowpunch.md) — This move does not check accuracy.
+- [Shadow Sneak](shadowsneak.md) — Usually goes first.
+- [Shed Tail](shedtail.md) — User takes 1/2 its max HP to pass a substitute.
+- [Sheer Cold](sheercold.md) — OHKOs non-Ice targets. Fails if user's lower level.
+- [Shell Side Arm](shellsidearm.md) — 20% psn. Physical+contact if it would be stronger.
+- [Shell Smash](shellsmash.md) — Lowers Def, SpD by 1; raises Atk, SpA, Spe by 2.
+- [Shelter](shelter.md) — Raises the user's Defense by 2.
+- [Shift Gear](shiftgear.md) — Raises the user's Speed by 2 and Attack by 1.
+- [Simple Beam](simplebeam.md) — The target's Ability becomes Simple.
+- [Sing](sing.md) — Causes the target to fall asleep.
+- [Skill Swap](skillswap.md) — The user and the target trade Abilities.
+- [Skitter Smack](skittersmack.md) — 100% chance to lower target's Sp. Atk by 1.
+- [Sky Attack](skyattack.md) — Charges, then hits turn 2. 30% flinch. High crit.
+- [Slack Off](slackoff.md) — Heals the user by 50% of its max HP.
+- [Slash](slash.md) — High critical hit ratio.
+- [Sleep Powder](sleeppowder.md) — Causes the target to fall asleep.
+- [Sleep Talk](sleeptalk.md) — User must be asleep. Uses another known move.
+- [Sludge Bomb](sludgebomb.md) — 30% chance to poison the target.
+- [Sludge Wave](sludgewave.md) — 10% chance to poison adjacent Pokemon.
+- [Smack Down](smackdown.md) — Removes the target's Ground immunity.
+- [Smart Strike](smartstrike.md) — This move does not check accuracy.
+- [Snap Trap](snaptrap.md) — Traps and damages the target for 4-5 turns.
+- [Snarl](snarl.md) — 100% chance to lower the foe(s) Sp. Atk by 1.
+- [Snipe Shot](snipeshot.md) — High critical hit ratio. Cannot be redirected.
+- [Snore](snore.md) — User must be asleep. 30% chance to flinch target.
+- [Snowscape](snowscape.md) — For 5 turns, snow falls. Ice: 1.5× Def.
+- [Soak](soak.md) — Changes the target's type to Water.
+- [Solar Beam](solarbeam.md) — Charges turn 1. Hits turn 2. No charge in sunlight.
+- [Solar Blade](solarblade.md) — Charges turn 1. Hits turn 2. No charge in sunlight.
+- [Sparkling Aria](sparklingaria.md) — The target is cured of its burn.
+- [Speed Swap](speedswap.md) — Swaps Speed stat with target.
+- [Spicy Extract](spicyextract.md) — Raises target's Atk by 2 and lowers its Def by 2.
+- [Spikes](spikes.md) — Hurts grounded foes on switch-in. Max 3 layers.
+- [Spiky Shield](spikyshield.md) — Protects from moves. Contact: loses 1/8 max HP.
+- [Spirit Break](spiritbreak.md) — 100% chance to lower the target's Sp. Atk by 1.
+- [Spirit Shackle](spiritshackle.md) — Prevents the target from switching out.
+- [Spit Up](spitup.md) — More power with more uses of Stockpile.
+- [Spite](spite.md) — Lowers the PP of the target's last move by 4.
+- [Stealth Rock](stealthrock.md) — Hurts foes on switch-in. Factors Rock weakness.
+- [Steel Beam](steelbeam.md) — User loses 50% max HP.
+- [Steel Roller](steelroller.md) — Fails if there is no terrain active. Ends the terrain.
+- [Steel Wing](steelwing.md) — 10% chance to raise the user's Defense by 1.
+- [Sticky Web](stickyweb.md) — Lowers Speed of grounded foes by 1 on switch-in.
+- [Stockpile](stockpile.md) — Raises user's Defense, Sp. Def by 1. Max 3 uses.
+- [Stomping Tantrum](stompingtantrum.md) — Power doubles if the user's last move failed.
+- [Stone Axe](stoneaxe.md) — Sets Stealth Rock on the target's side.
+- [Stone Edge](stoneedge.md) — High critical hit ratio.
+- [Stored Power](storedpower.md) —  + 20 power for each of the user's stat boosts.
+- [Storm Throw](stormthrow.md) — Always results in a critical hit.
+- [Strength Sap](strengthsap.md) — User heals HP=target's Atk stat. Lowers Atk by 1.
+- [String Shot](stringshot.md) — Lowers the foe(s) Speed by 2.
+- [Struggle](struggle.md) — User loses 1/4 of its max HP.
+- [Struggle Bug](strugglebug.md) — 100% chance to lower the foe(s) Sp. Atk by 1.
+- [Stuff Cheeks](stuffcheeks.md) — Fails unless a Berry is held. User eats Berry, Def +2.
+- [Stun Spore](stunspore.md) — Paralyzes the target.
+- [Substitute](substitute.md) — User takes 1/4 its max HP to put in a substitute.
+- [Sucker Punch](suckerpunch.md) — Usually goes first. Fails if target is not attacking.
+- [Sunny Day](sunnyday.md) — For 5 turns, intense sunlight powers Fire moves.
+- [Super Fang](superfang.md) — Does damage equal to 1/2 target's current HP.
+- [Supercell Slam](supercellslam.md) — User is hurt by 50% of its max HP if it misses.
+- [Superpower](superpower.md) — Lowers the user's Attack and Defense by 1.
+- [Surf](surf.md) — Hits adjacent Pokemon. Double damage on Dive.
+- [Swagger](swagger.md) — Raises the target's Attack by 2 and confuses it.
+- [Swallow](swallow.md) — Heals the user based on uses of Stockpile.
+- [Sweet Kiss](sweetkiss.md) — Causes the target to become confused.
+- [Sweet Scent](sweetscent.md) — Lowers the foe(s) evasiveness by 2.
+- [Switcheroo](switcheroo.md) — User switches its held item with the target's.
+- [Swords Dance](swordsdance.md) — Raises the user's Attack by 2.
+- [Synthesis](synthesis.md) — Heals the user by a weather-dependent amount.
+- [Syrup Bomb](syrupbomb.md) — Target's Speed is lowered by 1 stage for 3 turns.
+- [Tail Slap](tailslap.md) — Hits 2-5 times in one turn.
+- [Tailwind](tailwind.md) — For 4 turns, allies' Speed is doubled.
+- [Taunt](taunt.md) — Target can't use status moves its next 3 turns.
+- [Tearful Look](tearfullook.md) — Lowers the target's Attack and Sp. Atk by 1.
+- [Teatime](teatime.md) — All active Pokemon consume held Berries.
+- [Teeter Dance](teeterdance.md) — Confuses adjacent Pokemon.
+- [Temper Flare](temperflare.md) — Power doubles if the user's last move failed.
+- [Terrain Pulse](terrainpulse.md) — User on terrain: power doubles, type varies.
+- [Thief](thief.md) — If the user has no item, it steals the target's.
+- [Thrash](thrash.md) — Lasts 2-3 turns. Confuses the user afterwards.
+- [Throat Chop](throatchop.md) — For 2 turns, the target cannot use sound moves.
+- [Thunder](thunder.md) — 30% chance to paralyze. Can't miss in rain.
+- [Thunder Fang](thunderfang.md) — 10% chance to paralyze. 10% chance to flinch.
+- [Thunder Punch](thunderpunch.md) — 10% chance to paralyze the target.
+- [Thunder Wave](thunderwave.md) — Paralyzes the target.
+- [Thunderbolt](thunderbolt.md) — 10% chance to paralyze the target.
+- [Tickle](tickle.md) — Lowers the target's Attack and Defense by 1.
+- [Tidy Up](tidyup.md) — User +1 Atk, Spe. Clears all substitutes/hazards.
+- [Topsy-Turvy](topsyturvy.md) — Inverts the target's stat stages.
+- [Torch Song](torchsong.md) — 100% chance to raise the user's Sp. Atk by 1.
+- [Torment](torment.md) — Target can't select the same move twice in a row.
+- [Toxic](toxic.md) — Badly poisons the target. Poison types can't miss.
+- [Toxic Spikes](toxicspikes.md) — Poisons grounded foes on switch-in. Max 2 layers.
+- [Toxic Thread](toxicthread.md) — Lowers the target's Speed by 2 and poisons it.
+- [Trailblaze](trailblaze.md) — 100% chance to raise the user's Speed by 1.
+- [Transform](transform.md) — Copies target's stats, moves, types, and Ability.
+- [Tri Attack](triattack.md) — 20% chance to paralyze or burn or freeze target.
+- [Trick](trick.md) — User switches its held item with the target's.
+- [Trick Room](trickroom.md) — Reverses Speed order within each priority bracket for five turns.
+- [Trick-or-Treat](trickortreat.md) — Adds Ghost to the target's type(s).
+- [Triple Arrows](triplearrows.md) — High crit. Target: 50% -1 Defense, 30% flinch.
+- [Triple Axel](tripleaxel.md) — Hits 3 times. Each hit can miss, but power rises.
+- [Trop Kick](tropkick.md) — 100% chance to lower the target's Attack by 1.
+- [Twin Beam](twinbeam.md) — Hits 2 times in one turn.
+- [U-turn](uturn.md) — User switches out after damaging the target.
+- [Upper Hand](upperhand.md) — 100% flinch. Fails unless target using priority attack.
+- [Uproar](uproar.md) — Lasts 3 turns. Active Pokemon cannot fall asleep.
+- [Vacuum Wave](vacuumwave.md) — Usually goes first.
+- [Venoshock](venoshock.md) — Power doubles if the target is poisoned.
+- [Volt Switch](voltswitch.md) — User switches out after damaging the target.
+- [Volt Tackle](volttackle.md) — Has 33% recoil. 10% chance to paralyze target.
+- [Water Pulse](waterpulse.md) — 20% chance to confuse the target.
+- [Water Shuriken](watershuriken.md) — Usually goes first. Hits 2-5 times in one turn.
+- [Water Spout](waterspout.md) — Less power as user's HP decreases. Hits foe(s).
+- [Waterfall](waterfall.md) — 20% chance to make the target flinch.
+- [Wave Crash](wavecrash.md) — Has 33% recoil.
+- [Weather Ball](weatherball.md) — Power doubles and type varies in each weather.
+- [Whirlpool](whirlpool.md) — Traps and damages the target for 4-5 turns.
+- [Whirlwind](whirlwind.md) — Forces the target to switch to a random ally.
+- [Wide Guard](wideguard.md) — Protects allies from multi-target moves this turn.
+- [Wild Charge](wildcharge.md) — Has 1/4 recoil.
+- [Will-O-Wisp](willowisp.md) — Burns the target.
+- [Wish](wish.md) — Next turn, 50% of the user's max HP is restored.
+- [Wonder Room](wonderroom.md) — For 5 turns, all Defense and Sp. Def stats switch.
+- [Wood Hammer](woodhammer.md) — Has 33% recoil.
+- [Worry Seed](worryseed.md) — The target's Ability becomes Insomnia.
+- [Wrap](wrap.md) — Traps and damages the target for 4-5 turns.
+- [X-Scissor](xscissor.md) — No additional effect.
+- [Yawn](yawn.md) — Puts the target to sleep after 1 turn.
+- [Zap Cannon](zapcannon.md) — 100% chance to paralyze the target.
+- [Zen Headbutt](zenheadbutt.md) — 20% chance to make the target flinch.
+- [Zing Zap](zingzap.md) — 30% chance to make the target flinch.

@@ -1,0 +1,174 @@
+{
+  "prepared_at_utc": "2026-09-19T20:41:05.253481+00:00",
+  "wiki_version": "0.7",
+  "status": "passed",
+  "environment": {
+    "game": "Pokemon Champions",
+    "format_id": "gen9championsvgc2026regmc",
+    "showdown_commit": "2ddfa0476f8207e12e204b1c69f7c7683b17633c",
+    "snapshot_date": "2026-09-19"
+  },
+  "summary": {
+    "wiki_version": "0.7",
+    "changes": {
+      "human_pages": 982,
+      "model_cards": 527
+    },
+    "non_pokemon_human_characters": {
+      "before": 1944336,
+      "after": 1104238,
+      "removed": 840098
+    },
+    "non_pokemon_model_characters": {
+      "before": 745055,
+      "after": 673223,
+      "removed": 71832
+    },
+    "notes": [
+      "Character counts are not Jev tokenizer counts.",
+      "Main source/review footers were already absent from model cards before this cleanup.",
+      "Pokemon profiles, build records, graph, and retrieval identities are unchanged."
+    ]
+  },
+  "checks": [
+    {
+      "check": "Catalog/card/index identities and kinds remain aligned",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Schema and format remain compatible",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Graph remains byte-identical and all endpoints resolve",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All 382 Pokemon profiles and model payloads unchanged",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Entity/build/coverage/section/index data unchanged",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All source/review metadata stays in catalog",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "982 offline maintenance records retain removed source sections",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "No source/review boilerplate in any indexed article",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "No source/review boilerplate in model cards",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All model cards retain nonempty content",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "No external source links in model cards",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All 511 move definitions unchanged",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Every nondefault move effect field preserved",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "Champions PP, type, category, power, accuracy, priority, target and flags preserved",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "Simulator PP and acquisition rows removed while Struggle fallback rule remains",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All type-chart tables unchanged",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Non-Pokemon human rule definitions match their model versions",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Specific battle uncertainties retained in human and model text",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Berserk does not assert a known multi-hit timing while marking it uncertain",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Priority terrain protection retains target grounding and ally exceptions",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Per-holder ability, item and type conditions preserved",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Shared decision and retrieval guides retained",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All model cross-reference IDs resolve",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "All local Markdown links resolve",
+      "passed": true,
+      "detail": {
+        "links": 39360,
+        "broken": []
+      }
+    },
+    {
+      "check": "Exported non-Pokemon context is smaller",
+      "passed": true,
+      "detail": {
+        "before": 745055,
+        "after": 673223,
+        "removed": 71832
+      }
+    }
+  ],
+  "not_executed": [
+    "Jev API calls",
+    "Jev tokenizer measurement",
+    "Battle outcome evaluations",
+    "Retrieval recall or latency evaluation",
+    "Retail game conformance tests"
+  ]
+}

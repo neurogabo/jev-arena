@@ -1,0 +1,170 @@
+# Items
+
+[Wiki home](../README.md). 166 pages, pinned Champions M-C snapshot.
+
+- [Abomasite](abomasite.md) — If held by an Abomasnow, this item allows it to Mega Evolve in battle.
+- [Absolite](absolite.md) — If held by an Absol, this item allows it to Mega Evolve into Mega Absol in battle.
+- [Absolite Z](absolitez.md) — If held by an Absol, this item allows it to Mega Evolve into Mega Absol Z in battle.
+- [Aerodactylite](aerodactylite.md) — If held by an Aerodactyl, this item allows it to Mega Evolve in battle.
+- [Aggronite](aggronite.md) — If held by an Aggron, this item allows it to Mega Evolve in battle.
+- [Air Balloon](airballoon.md) — Holder is immune to Ground-type attacks. Pops when holder is hit.
+- [Alakazite](alakazite.md) — If held by an Alakazam, this item allows it to Mega Evolve in battle.
+- [Altarianite](altarianite.md) — If held by an Altaria, this item allows it to Mega Evolve in battle.
+- [Ampharosite](ampharosite.md) — If held by an Ampharos, this item allows it to Mega Evolve in battle.
+- [Aspear Berry](aspearberry.md) — Holder is cured if it is frozen. Single use.
+- [Audinite](audinite.md) — If held by an Audino, this item allows it to Mega Evolve in battle.
+- [Babiri Berry](babiriberry.md) — Halves damage taken from a supereffective Steel-type attack. Single use.
+- [Banettite](banettite.md) — If held by a Banette, this item allows it to Mega Evolve in battle.
+- [Barbaracite](barbaracite.md) — If held by a Barbaracle, this item allows it to Mega Evolve in battle.
+- [Baxcalibrite](baxcalibrite.md) — If held by a Baxcalibur, this item allows it to Mega Evolve in battle.
+- [Beedrillite](beedrillite.md) — If held by a Beedrill, this item allows it to Mega Evolve in battle.
+- [Big Root](bigroot.md) — Holder gains 1.3× HP from draining/Aqua Ring/Ingrain/Leech Seed/Strength Sap.
+- [Binding Band](bindingband.md) — Holder's partial-trapping moves deal 1/6 max HP per turn instead of 1/8.
+- [Black Belt](blackbelt.md) — Holder's Fighting-type attacks have 1.2× power.
+- [Black Glasses](blackglasses.md) — Holder's Dark-type attacks have 1.2× power.
+- [Blastoisinite](blastoisinite.md) — If held by a Blastoise, this item allows it to Mega Evolve in battle.
+- [Blazikenite](blazikenite.md) — If held by a Blaziken, this item allows it to Mega Evolve in battle.
+- [Bright Powder](brightpowder.md) — The accuracy of attacks against the holder is 0.9×.
+- [Cameruptite](cameruptite.md) — If held by a Camerupt, this item allows it to Mega Evolve in battle.
+- [Chandelurite](chandelurite.md) — If held by a Chandelure, this item allows it to Mega Evolve in battle.
+- [Charcoal](charcoal.md) — Holder's Fire-type attacks have 1.2× power.
+- [Charizardite X](charizarditex.md) — If held by a Charizard, this item allows it to Mega Evolve into Mega Charizard X.
+- [Charizardite Y](charizarditey.md) — If held by a Charizard, this item allows it to Mega Evolve into Mega Charizard Y.
+- [Charti Berry](chartiberry.md) — Halves damage taken from a supereffective Rock-type attack. Single use.
+- [Cheri Berry](cheriberry.md) — Holder cures itself if it is paralyzed. Single use.
+- [Chesnaughtite](chesnaughtite.md) — If held by a Chesnaught, this item allows it to Mega Evolve in battle.
+- [Chesto Berry](chestoberry.md) — Holder wakes up if it is asleep. Single use.
+- [Chilan Berry](chilanberry.md) — Halves damage taken from a Normal-type attack. Single use.
+- [Chimechite](chimechite.md) — If held by a Chimecho, this item allows it to Mega Evolve in battle.
+- [Choice Scarf](choicescarf.md) — Holder's Speed is 1.5×, but it can only select the first move it executes.
+- [Chople Berry](chopleberry.md) — Halves damage taken from a supereffective Fighting-type attack. Single use.
+- [Clefablite](clefablite.md) — If held by a Clefable, this item allows it to Mega Evolve in battle.
+- [Coba Berry](cobaberry.md) — Halves damage taken from a supereffective Flying-type attack. Single use.
+- [Colbur Berry](colburberry.md) — Halves damage taken from a supereffective Dark-type attack. Single use.
+- [Crabominite](crabominite.md) — If held by a Crabominable, this item allows it to Mega Evolve in battle.
+- [Damp Rock](damprock.md) — Holder's use of Rain Dance lasts 8 turns instead of 5.
+- [Delphoxite](delphoxite.md) — If held by a Delphox, this item allows it to Mega Evolve in battle.
+- [Dragalgite](dragalgite.md) — If held by a Dragalge, this item allows it to Mega Evolve in battle.
+- [Dragon Fang](dragonfang.md) — Holder's Dragon-type attacks have 1.2× power.
+- [Dragoninite](dragoninite.md) — If held by a Dragonite, this item allows it to Mega Evolve in battle.
+- [Drampanite](drampanite.md) — If held by a Drampa, this item allows it to Mega Evolve in battle.
+- [Eelektrossite](eelektrossite.md) — If held by an Eelektross, this item allows it to Mega Evolve in battle.
+- [Eject Button](ejectbutton.md) — If holder survives a hit, it immediately switches out to a chosen ally. Single use.
+- [Electric Seed](electricseed.md) — If the terrain is Electric Terrain, raises holder's Defense by 1 stage. Single use.
+- [Emboarite](emboarite.md) — If held by an Emboar, this item allows it to Mega Evolve in battle.
+- [Excadrite](excadrite.md) — If held by an Excadrill, this item allows it to Mega Evolve in battle.
+- [Expert Belt](expertbelt.md) — Holder's attacks that are super effective against the target do 1.2× damage.
+- [Fairy Feather](fairyfeather.md) — Holder's Fairy-type attacks have 1.2× power.
+- [Falinksite](falinksite.md) — If held by a Falinks, this item allows it to Mega Evolve in battle.
+- [Feraligite](feraligite.md) — If held by a Feraligatr, this item allows it to Mega Evolve in battle.
+- [Floettite](floettite.md) — If held by an Eternal Flower Floette, this item allows it to Mega Evolve in battle.
+- [Focus Band](focusband.md) — Holder has a 10% chance to survive an attack that would KO it with 1 HP.
+- [Focus Sash](focussash.md) — If holder's HP is full, will survive an attack that would KO it with 1 HP. Single use.
+- [Froslassite](froslassite.md) — If held by a Froslass, this item allows it to Mega Evolve in battle.
+- [Galladite](galladite.md) — If held by a Gallade, this item allows it to Mega Evolve in battle.
+- [Garchompite](garchompite.md) — If held by a Garchomp, this item allows it to Mega Evolve into Mega Garchomp.
+- [Garchompite Z](garchompitez.md) — If held by a Garchomp, this item allows it to Mega Evolve into Mega Garchomp Z.
+- [Gardevoirite](gardevoirite.md) — If held by a Gardevoir, this item allows it to Mega Evolve in battle.
+- [Gengarite](gengarite.md) — If held by a Gengar, this item allows it to Mega Evolve in battle.
+- [Glalitite](glalitite.md) — If held by a Glalie, this item allows it to Mega Evolve in battle.
+- [Glimmoranite](glimmoranite.md) — If held by a Glimmora, this item allows it to Mega Evolve in battle.
+- [Golisopite](golisopite.md) — If held by a Golisopod, this item allows it to Mega Evolve in battle.
+- [Golurkite](golurkite.md) — If held by a Golurk, this item allows it to Mega Evolve in battle.
+- [Grassy Seed](grassyseed.md) — If the terrain is Grassy Terrain, raises holder's Defense by 1 stage. Single use.
+- [Greninjite](greninjite.md) — If held by a Greninja, this item allows it to Mega Evolve in battle.
+- [Gyaradosite](gyaradosite.md) — If held by a Gyarados, this item allows it to Mega Evolve in battle.
+- [Haban Berry](habanberry.md) — Halves damage taken from a supereffective Dragon-type attack. Single use.
+- [Hard Stone](hardstone.md) — Holder's Rock-type attacks have 1.2× power.
+- [Hawluchanite](hawluchanite.md) — If held by a Hawlucha, this item allows it to Mega Evolve in battle.
+- [Heat Rock](heatrock.md) — Holder's use of Sunny Day lasts 8 turns instead of 5.
+- [Heracronite](heracronite.md) — If held by a Heracross, this item allows it to Mega Evolve in battle.
+- [Houndoominite](houndoominite.md) — If held by a Houndoom, this item allows it to Mega Evolve in battle.
+- [Icy Rock](icyrock.md) — Holder's use of Snowscape lasts 8 turns instead of 5.
+- [Iron Ball](ironball.md) — Holder is grounded, Speed halved. If Flying type, takes neutral Ground damage.
+- [Kangaskhanite](kangaskhanite.md) — If held by a Kangaskhan, this item allows it to Mega Evolve in battle.
+- [Kasib Berry](kasibberry.md) — Halves damage taken from a supereffective Ghost-type attack. Single use.
+- [Kebia Berry](kebiaberry.md) — Halves damage taken from a supereffective Poison-type attack. Single use.
+- [King's Rock](kingsrock.md) — Holder's attacks without a chance to flinch gain a 10% chance to flinch.
+- [Leek](leek.md) — If held by a Farfetch’d or Sirfetch’d, its critical hit ratio is raised by 2 stages.
+- [Leftovers](leftovers.md) — At the end of every turn, holder restores 1/16 of its max HP.
+- [Leppa Berry](leppaberry.md) — Restores 10 PP to the first of the holder's moves to reach 0 PP. Single use.
+- [Life Orb](lifeorb.md) — Holder's attacks do 1.3× damage, and it loses 1/10 its max HP after the attack.
+- [Light Ball](lightball.md) — If held by a Pikachu, its Attack and Sp. Atk are doubled.
+- [Light Clay](lightclay.md) — Holder's use of Aurora Veil, Light Screen, or Reflect lasts 8 turns instead of 5.
+- [Lopunnite](lopunnite.md) — If held by a Lopunny, this item allows it to Mega Evolve in battle.
+- [Lucarionite](lucarionite.md) — If held by a Lucario, this item allows it to Mega Evolve into Mega Lucario in battle.
+- [Lucarionite Z](lucarionitez.md) — If held by a Lucario, this item allows it to Mega Evolve into Mega Lucario Z in battle.
+- [Lum Berry](lumberry.md) — Holder cures itself if it has a non-volatile status or is confused. Single use.
+- [Magnet](magnet.md) — Holder's Electric-type attacks have 1.2× power.
+- [Malamarite](malamarite.md) — If held by a Malamar, this item allows it to Mega Evolve in battle.
+- [Manectite](manectite.md) — If held by a Manectric, this item allows it to Mega Evolve in battle.
+- [Mawilite](mawilite.md) — If held by a Mawile, this item allows it to Mega Evolve in battle.
+- [Medichamite](medichamite.md) — If held by a Medicham, this item allows it to Mega Evolve in battle.
+- [Meganiumite](meganiumite.md) — If held by a Meganium, this item allows it to Mega Evolve in battle.
+- [Mental Herb](mentalherb.md) — Cures holder of Attract, Disable, Encore, Heal Block, Taunt, Torment. Single use.
+- [Meowsticite](meowsticite.md) — If held by a Meowstic, this item allows it to Mega Evolve in battle.
+- [Metagrossite](metagrossite.md) — If held by a Metagross, this item allows it to Mega Evolve in battle.
+- [Metal Coat](metalcoat.md) — Holder's Steel-type attacks have 1.2× power.
+- [Metronome](metronome.md) — Damage of moves used on consecutive turns is increased. Max 2× after 5 turns.
+- [Miracle Seed](miracleseed.md) — Holder's Grass-type attacks have 1.2× power.
+- [Misty Seed](mistyseed.md) — If the terrain is Misty Terrain, raises holder's Sp. Def by 1 stage. Single use.
+- [Muscle Band](muscleband.md) — Holder's physical attacks have 1.1× power.
+- [Mystic Water](mysticwater.md) — Holder's Water-type attacks have 1.2× power.
+- [Never-Melt Ice](nevermeltice.md) — Holder's Ice-type attacks have 1.2× power.
+- [Normal Gem](normalgem.md) — Holder's first successful Normal-type attack will have 1.3× power. Single use.
+- [Occa Berry](occaberry.md) — Halves damage taken from a supereffective Fire-type attack. Single use.
+- [Oran Berry](oranberry.md) — Restores 10 HP when at 1/2 max HP or less. Single use.
+- [Passho Berry](passhoberry.md) — Halves damage taken from a supereffective Water-type attack. Single use.
+- [Payapa Berry](payapaberry.md) — Halves damage taken from a supereffective Psychic-type attack. Single use.
+- [Pecha Berry](pechaberry.md) — Holder is cured if it is poisoned. Single use.
+- [Persim Berry](persimberry.md) — Holder is cured if it is confused. Single use.
+- [Pidgeotite](pidgeotite.md) — If held by a Pidgeot, this item allows it to Mega Evolve in battle.
+- [Pinsirite](pinsirite.md) — If held by a Pinsir, this item allows it to Mega Evolve in battle.
+- [Poison Barb](poisonbarb.md) — Holder's Poison-type attacks have 1.2× power.
+- [Psychic Seed](psychicseed.md) — If the terrain is Psychic Terrain, raises holder's Sp. Def by 1 stage. Single use.
+- [Pyroarite](pyroarite.md) — If held by a Pyroar, this item allows it to Mega Evolve in battle.
+- [Quick Claw](quickclaw.md) — Each turn, holder has a 20% chance to move first in its priority bracket.
+- [Raichunite X](raichunitex.md) — If held by a Raichu, this item allows it to Mega Evolve into Mega Raichu X in battle.
+- [Raichunite Y](raichunitey.md) — If held by a Raichu, this item allows it to Mega Evolve into Mega Raichu Y in battle.
+- [Rawst Berry](rawstberry.md) — Holder is cured if it is burned. Single use.
+- [Red Card](redcard.md) — If holder survives a hit, attacker is forced to switch to a random ally. Single use.
+- [Rindo Berry](rindoberry.md) — Halves damage taken from a supereffective Grass-type attack. Single use.
+- [Rocky Helmet](rockyhelmet.md) — If holder is hit by a contact move, the attacker loses 1/6 of its max HP.
+- [Roseli Berry](roseliberry.md) — Halves damage taken from a supereffective Fairy-type attack. Single use.
+- [Sablenite](sablenite.md) — If held by a Sableye, this item allows it to Mega Evolve in battle.
+- [Salamencite](salamencite.md) — If held by a Salamence, this item allows it to Mega Evolve in battle.
+- [Sceptilite](sceptilite.md) — If held by a Sceptile, this item allows it to Mega Evolve in battle.
+- [Scizorite](scizorite.md) — If held by a Scizor, this item allows it to Mega Evolve in battle.
+- [Scolipite](scolipite.md) — If held by a Scolipede, this item allows it to Mega Evolve in battle.
+- [Scope Lens](scopelens.md) — Holder's critical hit ratio is raised by 1 stage.
+- [Scovillainite](scovillainite.md) — If held by a Scovillain, this item allows it to Mega Evolve in battle.
+- [Scraftinite](scraftinite.md) — If held by a Scrafty, this item allows it to Mega Evolve in battle.
+- [Sharp Beak](sharpbeak.md) — Holder's Flying-type attacks have 1.2× power.
+- [Sharpedonite](sharpedonite.md) — If held by a Sharpedo, this item allows it to Mega Evolve in battle.
+- [Shed Shell](shedshell.md) — Holder cannot be prevented from choosing to switch out by any effect.
+- [Shell Bell](shellbell.md) — After an attack, holder gains 1/8 of the damage in HP dealt to other Pokemon.
+- [Shuca Berry](shucaberry.md) — Halves damage taken from a supereffective Ground-type attack. Single use.
+- [Silk Scarf](silkscarf.md) — Holder's Normal-type attacks have 1.2× power.
+- [Silver Powder](silverpowder.md) — Holder's Bug-type attacks have 1.2× power.
+- [Sitrus Berry](sitrusberry.md) — Restores 1/4 max HP when at 1/2 max HP or less. Single use.
+- [Skarmorite](skarmorite.md) — If held by a Skarmory, this item allows it to Mega Evolve in battle.
+- [Slowbronite](slowbronite.md) — If held by a Slowbro (not Galarian Slowbro), this item allows it to Mega Evolve.
+- [Smooth Rock](smoothrock.md) — Holder's use of Sandstorm lasts 8 turns instead of 5.
+- [Soft Sand](softsand.md) — Holder's Ground-type attacks have 1.2× power.
+- [Spell Tag](spelltag.md) — Holder's Ghost-type attacks have 1.2× power.
+- [Staraptite](staraptite.md) — If held by a Staraptor, this item allows it to Mega Evolve in battle.
+- [Starminite](starminite.md) — If held by a Starmie, this item allows it to Mega Evolve in battle.
+- [Steelixite](steelixite.md) — If held by a Steelix, this item allows it to Mega Evolve in battle.
+- [Swampertite](swampertite.md) — If held by a Swampert, this item allows it to Mega Evolve in battle.
+- [Tanga Berry](tangaberry.md) — Halves damage taken from a supereffective Bug-type attack. Single use.
+- [Terrain Extender](terrainextender.md) — Holder's use of Electric/Grassy/Misty/Psychic Terrain lasts 8 turns instead of 5.
+- [Twisted Spoon](twistedspoon.md) — Holder's Psychic-type attacks have 1.2× power.
+- [Tyranitarite](tyranitarite.md) — If held by a Tyranitar, this item allows it to Mega Evolve in battle.
+- [Venusaurite](venusaurite.md) — If held by a Venusaur, this item allows it to Mega Evolve in battle.
+- [Victreebelite](victreebelite.md) — If held by a Victreebel, this item allows it to Mega Evolve in battle.
+- [Wacan Berry](wacanberry.md) — Halves damage taken from a supereffective Electric-type attack. Single use.
+- [White Herb](whiteherb.md) — Restores all lowered stat stages to 0 when one is less than 0. Single use.
+- [Wide Lens](widelens.md) — The accuracy of attacks by the holder is 1.1×.
+- [Wise Glasses](wiseglasses.md) — Holder's special attacks have 1.1× power.
+- [Yache Berry](yacheberry.md) — Halves damage taken from a supereffective Ice-type attack. Single use.
+- [Zoom Lens](zoomlens.md) — The accuracy of attacks by the holder is 1.2× if it moves after its target.
