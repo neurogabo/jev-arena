@@ -2,7 +2,17 @@
 
 A Pokémon Champions battle arena where you play against Jev, TypeSafe's decision model. The app runs locally with a pinned Pokémon Showdown engine, team selection, random teams, battle animations, and private decision reviews.
 
+**[Play the live demo](https://play.neurogabo.com/)** · **[Read the Medium story: Teaching Jev to Play Pokémon](https://medium.com/@neurogabo/teaching-jev-to-play-pok%C3%A9mon-08bf2d33e138)**
+
 This repository contains the current arena application and the knowledge it needs. Research experiments, historical versions, benchmark archives, test suites, deployment credentials, and player data are excluded.
+
+## How it works
+
+Each turn, Pokémon Showdown handles the battle rules and lists the legal moves and switches. The app gives Jev the information visible to its side, a short memory of the battle, and relevant rules from a reference library.
+
+Jev picks a small shortlist of promising actions. The simulator tries possible opponent replies and summarizes what could happen. Jev uses those summaries to choose its action, and Showdown plays it out. Unrevealed opponent details remain guesses, so the agent has to make decisions under uncertainty.
+
+After a battle, you can inspect the information and choices behind Jev's decisions in the **Inside Jev** review panel.
 
 ## Run locally
 
