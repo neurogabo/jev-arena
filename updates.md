@@ -2,7 +2,7 @@
 
 Repositorio: [neurogabo/jev-arena](https://github.com/neurogabo/jev-arena). Público. Rama predeterminada: `main`.
 
-**Revisión del 2026-10-09 06:02:35, America/Mexico_City: no hubo actualizaciones**. Cobertura **completa** del intervalo desde 2026-10-08 06:01:46 America/Mexico_City. Se conserva el último resumen sustantivo y sus pendientes. La publicación anterior, que solo modificó updates.md, se excluye como novedad.
+**Revisión del 2026-10-10 06:05:16, America/Mexico_City: no hubo actualizaciones**. Cobertura **completa** del intervalo desde 2026-10-09 06:02:35 America/Mexico_City. Se conserva el último resumen sustantivo y sus pendientes. La publicación anterior, que solo modificó updates.md, se excluye como novedad.
 
 ## Estado actual y punto para retomar
 
@@ -25,6 +25,8 @@ Solo se encontró una rama remota en el repositorio.
 - No se encontró backlog explícito en las fuentes revisadas. No hay PR ni issue abierto. La documentación de instalación requiere credenciales propias; su presencia no verifica una cuenta de proveedor.
 
 ## PR, issues y comprobaciones
+
+Desde el corte anterior no se detectaron cambios en PR, issues o releases, ni novedades en las comprobaciones consultadas. Los resultados fechados que siguen se conservan como antecedentes.
 
 Se enumeraron con paginación 0 PR (0 abiertos, 0 integrados y 0 cerrados sin integración) y 0 issues (0 abiertos).
 
@@ -51,7 +53,7 @@ Las afirmaciones de validación, despliegue o actividad externa conservan el alc
 
 | Rama | Commit auditado |
 | --- | --- |
-| `main` (predeterminada) | [a360053e6d](https://github.com/neurogabo/jev-arena/tree/a360053e6d0ba3dac8ea0684721fff5e0b6cdebc) |
+| `main` (predeterminada) | [3b4179047d](https://github.com/neurogabo/jev-arena/tree/3b4179047d320d088c1df0d1951ba0ab2103aaee) |
 
 El commit anterior del informe se incluye como referencia observada, pero no cambia la fecha del último cambio sustantivo. Los resúmenes de ramas conservan su distinción entre trabajo integrado y pendiente.
 
@@ -62,19 +64,19 @@ El commit anterior del informe se incluye como referencia observada, pero no cam
   "schema": "neurogabo-updates/v1",
   "owner": "neurogabo",
   "repo": "jev-arena",
-  "reviewed_at": "2026-10-09T12:02:35.169Z",
+  "reviewed_at": "2026-10-10T12:05:16.186Z",
   "timezone": "America/Mexico_City",
   "coverage": "completa",
   "initial": false,
-  "last_complete_review_at": "2026-10-09T12:02:35.169Z",
+  "last_complete_review_at": "2026-10-10T12:05:16.186Z",
   "last_complete_refs": {
-    "main": "a360053e6d0ba3dac8ea0684721fff5e0b6cdebc"
+    "main": "3b4179047d320d088c1df0d1951ba0ab2103aaee"
   },
   "observed_refs": {
-    "main": "a360053e6d0ba3dac8ea0684721fff5e0b6cdebc"
+    "main": "3b4179047d320d088c1df0d1951ba0ab2103aaee"
   },
   "default_branch": "main",
-  "audited_default_sha": "a360053e6d0ba3dac8ea0684721fff5e0b6cdebc",
+  "audited_default_sha": "3b4179047d320d088c1df0d1951ba0ab2103aaee",
   "last_substantive_commit": "1809eb35566993a33c0b6aedbb0f203b25a7ce18",
   "last_substantive_commit_at": "2026-09-24T02:32:03Z",
   "events": {
@@ -99,9 +101,9 @@ El commit anterior del informe se incluye como referencia observada, pero no cam
     ]
   },
   "ignore_report_only_commits": true,
-  "interval_from": "2026-10-08T12:01:46.084Z",
+  "interval_from": "2026-10-09T12:02:35.169Z",
   "report_only_commits_excluded": [
-    "a360053e6d0ba3dac8ea0684721fff5e0b6cdebc"
+    "3b4179047d320d088c1df0d1951ba0ab2103aaee"
   ]
 }
 -->
