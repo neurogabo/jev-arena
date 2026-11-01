@@ -2,7 +2,7 @@
 
 Repositorio: [neurogabo/jev-arena](https://github.com/neurogabo/jev-arena). Público. Rama predeterminada: `main`.
 
-**Revisión del 2026-10-30 06:01:04, America/Mexico_City: no hubo actualizaciones**. Cobertura **completa** del intervalo desde 2026-10-29 06:05:31 America/Mexico_City. Se conserva el último resumen sustantivo y sus pendientes. La publicación anterior, que solo modificó updates.md, se excluye como novedad.
+**Revisión del 2026-11-01 06:05:32, America/Mexico_City: no hubo actualizaciones**. Cobertura **completa** del intervalo desde 2026-10-30 06:01:04 America/Mexico_City. Se conserva el último resumen sustantivo y sus pendientes. La publicación anterior, que solo modificó updates.md, se excluye como novedad.
 
 ## Estado actual y punto para retomar
 
@@ -53,7 +53,7 @@ Las afirmaciones de validación, despliegue o actividad externa conservan el alc
 
 | Rama | Commit auditado |
 | --- | --- |
-| `main` (predeterminada) | [f5e12a0ab4](https://github.com/neurogabo/jev-arena/tree/f5e12a0ab4ba47633cb0673b980acdc84768e5eb) |
+| `main` (predeterminada) | [04398990ed](https://github.com/neurogabo/jev-arena/tree/04398990ed5c32fcc1760f845688ae562f6a83a5) |
 
 El commit anterior del informe se incluye como referencia observada, pero no cambia la fecha del último cambio sustantivo. Los resúmenes de ramas conservan su distinción entre trabajo integrado y pendiente.
 
@@ -64,19 +64,19 @@ El commit anterior del informe se incluye como referencia observada, pero no cam
   "schema": "neurogabo-updates/v1",
   "owner": "neurogabo",
   "repo": "jev-arena",
-  "reviewed_at": "2026-10-30T12:01:04.836Z",
+  "reviewed_at": "2026-11-01T12:05:32.300Z",
   "timezone": "America/Mexico_City",
   "coverage": "completa",
   "initial": false,
-  "last_complete_review_at": "2026-10-30T12:01:04.836Z",
+  "last_complete_review_at": "2026-11-01T12:05:32.300Z",
   "last_complete_refs": {
-    "main": "f5e12a0ab4ba47633cb0673b980acdc84768e5eb"
+    "main": "04398990ed5c32fcc1760f845688ae562f6a83a5"
   },
   "observed_refs": {
-    "main": "f5e12a0ab4ba47633cb0673b980acdc84768e5eb"
+    "main": "04398990ed5c32fcc1760f845688ae562f6a83a5"
   },
   "default_branch": "main",
-  "audited_default_sha": "f5e12a0ab4ba47633cb0673b980acdc84768e5eb",
+  "audited_default_sha": "04398990ed5c32fcc1760f845688ae562f6a83a5",
   "last_substantive_commit": "1809eb35566993a33c0b6aedbb0f203b25a7ce18",
   "last_substantive_commit_at": "2026-09-24T02:32:03Z",
   "events": {
@@ -101,9 +101,9 @@ El commit anterior del informe se incluye como referencia observada, pero no cam
     ]
   },
   "ignore_report_only_commits": true,
-  "interval_from": "2026-10-29T12:05:31.096Z",
+  "interval_from": "2026-10-30T12:01:04.836Z",
   "report_only_commits_excluded": [
-    "f5e12a0ab4ba47633cb0673b980acdc84768e5eb"
+    "04398990ed5c32fcc1760f845688ae562f6a83a5"
   ]
 }
 -->
